@@ -1,0 +1,610 @@
+République du Bénin
+Projet de descriptif de programme de pays
+2014-2018
+
+Le projet de descriptif de programme de pays relatif au
+Bénin (E/ICEF/2013/P/L.4) a été présenté au Conseil
+d’administration pour examen et commentaires lors de sa session
+annuelle de 2013 (18-21 juin 2013).
+Le présent document a été révisé par la suite et cette version
+finale a été approuvée lors de la deuxième session ordinaire de
+2013 du Conseil d’administration, le 6 septembre 2013.
+
+Données de base †
+(2011, sauf indication contraire)
+.............................................................. .
+Nombre d’enfants (en millions, de moins de 18 ans, garçon/fille) . . . . . . . . . . . . . . .
+
+2,3/2,3
+
+Taux de mortalité des moins de 5 ans (pour 1 000 naissances vivantes) . . . . . . . . . . .
+
+106
+
+Insuffisance pondérale (%, modérée et sévère, 2011-2012)
+(%, garçon/fille, urbain/rural, plus pauvre/plus riche) . . . . . . . . . . . . . . . . . . . . . . . .
+
+21
+23/19,
+19/23, ../..
+
+Taux de mortalité maternelle (pour 100 000 naissances vivantes, ajusté, 2010) . . . . .
+
+350 a
+
+Utilisation de ressources en eau améliorées (%, 2010) . . . . . . . . . . . . . . . . . . . . . . .
+
+75
+
+Utilisation de services d’assainissement améliorés (%, 2010) . . . . . . . . . . . . . . . . . .
+
+13
+
+Enfants de 1 an ayant reçu les trois doses du vaccin combiné DTC3 (%) . . . . . . . . . .
+
+85 b
+
+Enfants de 1 an vaccinés contre la rougeole (%) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+72 b
+
+Fréquentation scolaire dans le primaire/assiduité (%, net garçon/fille) . . . . . . . . . . . .
+
+94/88
+
+Taux de survie jusqu’à la dernière année de scolarité dans le primaire
+(%, garçon/fille) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+73/62
+
+Taux de prévalence du VIH chez les adultes (%, 15-49 ans, homme/femme) . . . . . . . .
+
+1,2
+
+Taux de prévalence du VIH chez les femmes enceintes (%, 2009) . . . . . . . . . . . . . . .
+
+1,1
+
+Travail des enfants (%, 5-14 ans, garçon/fille, 2006) . . . . . . . . . . . . . . . . . . . . . . . .
+
+47/45
+
+Enregistrement des naissances (%, de moins de 5 ans, 2006)
+(% garçon/fille, urbain/rural, plus pauvre/plus riche) . . . . . . . . . . . . . . . . . . . . . . . .
+
+60
+61/60,
+68/56,
+46/75
+
+RNB par habitant (dollars des États-Unis) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+780
+
+† Des données supplémentaires sur les enfants et les femmes ainsi que des notes
+méthodologiques sur les estimations sont disponibles sur le site www.childinfo.org/.
+a
+Le chiffre indiqué dans le tableau ci-dessus représente le taux ajusté de la mortalité
+maternelle calculée par le Groupe interinstitutions des Nations Unies pour l’estimation de la
+mortalité maternelle. L’estimation rapportée au niveau du pays est de 397 décès pour
+100 000 naissances vivantes selon l’Enquête Démographique et de Santé (EDS), 2006.
+b
+Les chiffres indiqués dans le tableau ci-dessus sur la vaccination représentent l’estimation
+interinstitutions préparée par OMS/UNICEF. Les données sont désagrégées par sexe comme
+suit : DTC3, garçon 66 % et fille 68 %; rougeole, garçon 60 % et fille 62 % selon L’EDS,
+2006.
+
+Résumé de la situation des enfants et des femmes
+1.
+Le Bénin est un pays ouest-africain qui s’étend sur une superficie d’environ
+114 763 km 2 , avec un climat chaud et humide qui occasionne des inondations
+saisonnières. Il jouit d’une stabilité politique et démocratique depuis 1990. La
+population est jeune, avec 52 % d’enfants de moins de 18 ans et 17 % de moins de
+5 ans, sur un total de 9,4 millions d’habitants en 2012, dont 51 % de femmes.
+2.
+Le Bénin affiche un taux de croissance du produit intérieur bru t réel estimé à
+3,5 % en 2012, ce qui est largement insuffisant pour réduire durablement la pauvreté
+en raison d’une forte croissance démographique (3,2 %). C’est un pays à faible
+niveau de développement humain, avec un indice de développement humain estim é
+
+2
+
+à 0,427 en 2011, qui le place au 167 e rang mondial sur 177. Les défis socioéconomiques restent la persistance de fortes inégalités et de la pauvreté, avec
+36,2 % de la population vivant en dessous du seuil de pauvreté (0,7 dollar). De plus,
+14 % d’enfants souffrent à la fois de pauvreté monétaire et non monétaire (privation
+en santé, éducation, protection), avec de fortes disparités géographiques, socio économiques et parfois entre les sexes.
+3.
+Dans le domaine de la santé, le profil du pays est caractérisé par une morbidité
+et une mortalité élevées, malgré les nombreux programmes et les réformes mis en
+œuvre au cours des dernières années. Les maladies transmissibles constituent les
+principales causes de morbidité et de mortalité des enfants, avec une mo rtalité
+estimée en 2011 à 106 ‰ pour les moins de 5 ans, en baisse par rapport aux 125 ‰
+de 2006. La prévalence de la malnutrition chronique est critique (plus de 40 %), de
+même que la mortalité maternelle et néonatale liée aux complications de
+l’accouchement.
+4.
+En matière d’enseignement primaire, le taux brut de scolarisation est passé de
+98,5 % en 2007 à 110,6 % en 2010 (106,9 % pour les filles) et l’écart entre garçons
+et filles s’est réduit de 8 à 6 points. Cependant, de fortes disparités liées au mili eu et
+au mode de vie, aux revenus des familles et au handicap subsistent. Le faible taux
+d’achèvement du primaire (71 %) et la qualité de l’éducation restent préoccupants.
+34 % des enfants âgés de 5 à 17 ans travaillent et 10 % d’entre eux auraient été
+victimes de traite. Malgré des défis persistants en matière de protection de
+l’enfance, le pays a connu une relative amélioration de l’enregistrement des
+naissances des enfants de moins de 5 ans, qui est passé de 60 % en 2006 à 80 % en
+2011.
+5.
+Cette situation des enfants et des femmes au Bénin s’explique globalement par
+un problème de gouvernance qui se traduit par la faible mise en œuvre des
+politiques publiques du fait de choix budgétaires parfois irréalistes et par
+l’insuffisante transparence dans la gestion des ressources. Elle est aussi tributaire
+d’un contexte national marqué par l’affaiblissement des systèmes et des capacités de
+production économique et la quasi-inaction pour endiguer les pratiques culturelles et
+les croyances qui constituent des barrières à l’utilisation des services sociaux de
+base. Néanmoins, des efforts continuent d’être faits pour améliorer la situation et
+mettre en œuvre les recommandations du Comité des droits de l’enfant, notamment
+en ce qui concerne le renforcement du cadre légal et institutionnel de protection de
+l’enfant.
+
+Principaux résultats et enseignements tirés
+de la coopération antérieure, 2009-2013
+a)
+
+Principaux résultats obtenus
+6.
+La revue à mi-parcours en 2011, les revues annuelles et le suivi des progrès
+ont montré que la plupart des résultats escomptés ont été atteints.
+7.
+Dans le domaine de la santé, le programme a permis le renforcement du cadre
+politique et institutionnel à travers l’élaboration et la mise en œuvre des politiques,
+stratégies et plans nationaux relatifs à la performance du système de santé. Il a
+contribué au renforcement du système sanitaire et de gestion des informations, à
+l’amélioration de l’offre de services de santé, de prévention de la transmission du
+
+3
+
+VIH de la mère à l’enfant, de nutrition, d’eau, d’hygiène et d’assainissement,
+notamment au niveau périphérique, et a promu l’adoption des pratiques et des
+comportements favorables à la survie de l’enfant. Ces résultats ont contribué à une
+réduction du taux de mortalité infanto-juvénile qui est passé de 125 ‰ en 2006 à
+106 ‰ en 2011, ainsi qu’à celle de la mortalité maternelle qui, sur la même période,
+a baissé de 400 à 350 pour 100 000 naissances.
+8.
+En matière d’éducation, grâce à une forte mobilisation sociale en faveur de
+l’éducation des filles, le programme a contribué à l’évolution positive vers une
+parité des sexes. Il a aussi permis l’augmentation du taux net de scolarisation à
+travers la fourniture de kits scolaires aux élèves issus des ménages les plus pauvres
+et l’appui aux écoles primaires opérant dans les communes les moins performantes
+en matière d’éducation. Enfin, une évaluation a montré que la qualité de l’offre
+éducative s’était améliorée grâce à la formation qualifiante de 10 000 enseignants
+communautaires.
+9.
+Dans le domaine de la protection, le cadre législatif, politique et institutionnel
+a été renforcé à travers l’adoption d’un document de politique et de stratégies de
+protection de l’enfance, l’élaboration d’un plan national de lutte contre la traite des
+enfants, la constitution de comités communaux des droits de l’enfant, le
+renforcement des capacités opérationnelles du secteur de la justice et l’élaboration
+d’une loi spécifique sur les violences faites aux femmes et aux filles. Grâce au
+programme, des milliers d’enfants vulnérables, surtout ceux victimes de violences et
+d’exploitation, ont bénéficié des services sociaux de protection. Enfin, le taux
+d’enregistrement des naissances est passé de 60 % en 2006 à 80,2 % en 2011.
+10. Outre les interventions sectorielles, le Programme de Coopération a contribué
+à l’élaboration et à la mise en œuvre de politiques et de stratégies nationales de
+développement favorables à l’amélioration des conditions de vie des enfants, à
+travers l’intégration des droits de l’enfant dans la Stratégie de Croissance pour la
+Réduction de la Pauvreté (SCRP), l’élaboration de la politique holistique de
+protection sociale, la génération de connaissances sur la budgétisation sociale, le
+renforcement des capacités des acteurs locaux en matière de conce ption, mise en
+œuvre et suivi/évaluation des programmes sociaux. En outre, l’analyse de la
+situation (SitAn) conduite en 2011 a mis en évidence de nombreuses disparités et a
+guidé l’élaboration du nouveau programme. Enfin, les capacités des instituts et
+structures de communication – notamment les radios communautaires – ont été
+renforcées, ce qui a permis d’animer au niveau local le débat sur les thématiques
+relatives aux droits des enfants.
+b)
+
+Leçons à retenir
+11. Le programme 2009-2013 a essentiellement mis l’accent sur l’offre de services
+dans les différentes interventions, ce qui n’a pas toujours abouti à l’utilisation
+optimale des services, surtout par les plus vulnérables. Le prochain cycle de
+coopération devra davantage se pencher sur les déterminants qui affectent la
+demande.
+12. Les interventions ont été trop dispersées, ne permettant pas une bonne
+traçabilité des résultats. Pour plus d’efficacité, il est nécessaire de renforcer la
+concentration sur un nombre limité de départements et de communes, avec un
+maximum de convergence géographique des programmes et une couverture
+complète tenant compte des diverses formes de disparités. Dans le cycle actuel, le
+
+4
+
+travail avec les communes, sous-tendu par une intégration des interventions dans les
+plans de développement communal, a été relativement faible. Il devra être accentué
+car il promeut, dans un contexte de décentralisation, une approche holistique de
+l’offre et de la demande des services et stimule un développement équitable et
+durable à la base. A cet égard, les expériences porteuses de partenariat avec
+certaines mairies s’engageant, à terme, à pérenniser les interventions dans les
+domaines de la survie et de l’éducation devront se multiplier dans le prochain
+programme.
+13. Les normes sociales et les pratiques socioculturelles néfastes constituent des
+goulots d’étranglement qui ont été sous-estimés. L’amélioration des performances
+du programme exige une meilleure connaissance de ces goulots. A cet égard, la
+communication pour le développement a reposé sur une approche trop verticale et
+sectorielle, ce qui n’a pas permis d’atteindre les résultats escomptés en matière
+d’adoption de bonnes pratiques. Il est important de réorienter les actions vers une
+approche plus holistique, qui favorisera un dialogue entre les détenteurs de droits et
+les porteurs d’obligations et permettra de promouvoir un environnement plus
+favorable à l’enfant.
+14. De plus, même si la prise en compte de l’équité dans la programmation s’est
+améliorée, l’approche n’a pas encore été systématique du fait des insuffisances du
+système d’information qui ne permet pas de prendre en compte certaines
+populations marginalisées comme les enfants handicapés. Il sera important de
+renforcer la génération de connaissances autour de certains groupes vu lnérables et
+d’accentuer la désagrégation des données. Ceci permettra d’améliorer les stratégies
+de ciblage des plus pauvres et sera utile à l’identification des mesures correctives
+nécessaires pour obtenir des progrès équitables en faveur des enfants.
+
+Le programme de pays, 2014-2018
+a)
+
+Tableau budgétaire récapitulatif
+(En milliers de dollars desÉtats-Unis)
+
+Ressources
+ordinaires
+
+Autres
+ressources
+
+Total
+
+Survie et développement de l’enfant
+
+6 133
+
+25 967
+
+32 100
+
+Éducation de base
+
+4 000
+
+10 780
+
+14 780
+
+Protection de l’enfant
+
+3 750
+
+6 250
+
+10 000
+
+Politiques sociales, planification, suivi et évaluation
+
+4 620
+
+1 000
+
+5 620
+
+Intersectorielle
+
+7 500
+
+–
+
+7 500
+
+26 003
+
+43 997
+
+70 000
+
+Composantes du programme
+
+Total
+
+Note : En réponse aux inondations cycliques, l’UNICEF envisage la mobilisation de ressources
+ORE estimées à 2,5 millions de dollars.
+
+b)
+
+Processus de préparation
+15. Se basant sur la SCRP III (2011-2015) adoptée en mars 2011, le Système des
+Nations Unies (SNU) a élaboré avec le Gouvernement un bilan commun de pays
+
+5
+
+validé en juillet 2012 et un Plan-cadre des Nations Unies pour l’aide au
+développement (PNUAD) en décembre 2012. Le programme de l’UNICEF y puise
+ses orientations et contribuera à atteindre les résultats nationaux, particulièrement
+dans les domaines de la protection sociale, de la santé (y compris le VIH/Sida, la
+nutrition, l’assainissement de base), de l’éducation de base, de la protection contre
+la vulnérabilité sociale et les abus, de la participation, et de la gestion des crises et
+catastrophes.
+16. Les axes majeurs d’interventions de l’UNICEF se sont basés sur la SitAn
+réalisée en 2011, en tenant compte des questions d’équité et des entraves à la
+réalisation des droits des enfants, sur les recommandations du Comité des droits de
+l’enfant et sur les rapports issus de l’examen périodique universel (EPU). Ces
+recommandations ont notamment mis l’accent sur la santé de la mère et de l’enfant,
+les pratiques culturelles préjudiciables et la nécessité de réduire les écarts entre les
+sexes dans le secteur de l’éducation.
+c)
+
+Composantes du programme, résultats et stratégies
+17. Le but du programme est de permettre à chaque enfant du Bénin de naître et de
+grandir dans un environnement favorable à la réalisation de ses droits. Une approche
+intégrée, intersectorielle et convergente sera mise en œuvre dans l’optique de
+réduire les disparités. Le programme visera à modéliser un renforcement des
+systèmes et une programmation basée sur l’équité dans des zones de convergence où
+les enfants souffrent de multiples privations. Les quatre départements et les sept
+communes où l’ensemble des composantes interviendront de manière coordonnée
+représentent des spécificités géographiques et culturelles distinctes : nord -est aride,
+zone pourvoyeuse d’enfants victimes de traite, environnement lacustre et quartier
+périurbain de la capitale.
+18. Les composantes Survie et développement de l’enfant, Éducation de base et
+Protection de l’enfance appuieront l’élaboration et la mise en œuvre au niveau
+décentralisé de politiques sectorielles. Elles aideront à renforcer les systèmes afin
+qu’ils soient aptes à fournir un service de qualité, particulièrement aux enfants les
+plus vulnérables et difficiles d’accès, y compris en situation d’urgence. La première
+composante contribuera à ce que les enfants de moins de 5 ans, les femmes
+enceintes et les ménages bénéficient de façon équitable d’interventions à haut
+impact de qualité en matière de santé, de VIH/Sida, de nutrition et d’assainissement
+de base, tout en favorisant l’adoption de bonnes pratiques au sein des ménages et
+des communautés. La seconde aidera les filles et les garçons de 3 à 17 ans,
+notamment ceux des groupes sous-scolarisés, à accéder à l’enseignement et à
+terminer une éducation de base de qualité. L’objectif de la troisième composante est
+que les enfants et les adolescents, notamment les plus vulnérables, évitent les
+comportements à risque, utilisent davantage les services de justice et de protection
+contre les violences et l’exploitation et que les communautés adop tent des pratiques
+conformes aux droits humains. La quatrième composante, Politiques sociales,
+planification, suivi et évaluation, soutiendra de façon transversale les trois
+premières, en veillant à ce que les politiques et stratégies nationales de
+développement élaborées et mises en œuvre ainsi que les structures de
+communication contribuent à la réduction des disparités et à l’amélioration des
+conditions de vie des enfants, avec la participation des enfants et des jeunes.
+
+6
+
+19. Pour atteindre ces résultats, l’UNICEF adoptera une approche basée sur les
+droits humains et l’égalité des sexes. Les principales stratégies utilisées seront : a) le
+développement des capacités en vue de renforcer les systèmes; b) l’appui à l’offre
+de services de qualité, avec notamment des stratégies avancées, des interventions
+basées sur la communauté et la revitalisation du système par une démarche
+ascendante; c) la communication pour le développement pour un renforcement de la
+demande et l’adoption de pratiques favorables à la sur vie et à l’épanouissement des
+enfants; d) la génération de connaissances spécifiques autour des droits des enfants
+et de leurs violations et leur utilisation stratégique en vue d’une réponse adaptée; e)
+le dialogue politique et le plaidoyer pour le dévelop pement d’un environnement
+favorable à tous les enfants, avec une attention particulière aux enfants les plus
+vulnérables; et f) le partenariat avec un ensemble d’acteurs aux niveaux central et
+décentralisé afin de générer des ressources et des engagements majeurs en faveur
+des enfants.
+i)
+
+Survie et développement de l’enfant
+20. La mortalité des enfants demeure encore très élevée malgré une réduction de
+125 à 106 % entre 2006 et 2011. Ces progrès ont pu notamment être réalisés grâce à
+l’élaboration et la mise en œuvre d’une politique nationale de santé, le
+développement d’une planification décentralisée, la mise en œuvre de directives de
+suivi et de promotion de la santé communautaire. Néanmoins, des défis persistent,
+avec des disparités et des goulots d’étranglement dans les domaines de l’offre
+(disponibilité des produits essentiels, compétences des ressources humaines) et de la
+demande (croyances et pratiques sociales).
+21. Pour lever ces goulots et permettre un accès équitable à la santé – notamment
+aux interventions à haut impact – la composante ciblera 19 communes situées dans 9
+zones sanitaires où les indicateurs relatifs à la survie et au développement de
+l’enfant sont particulièrement bas, ainsi qu’un quartier périurbain de Cotonou, le
+tout représentant 400 000 enfants de moins de 5 ans, 100 000 femmes enceintes et
+360 000 ménages. Le programme visera à renforcer le système de santé en
+développant les capacités de 280 établissements sanitaires publics et privés afin
+qu’ils puissent assurer une offre intégrée de services de qualité, y compris au niveau
+communautaire. Il mènera un plaidoyer pour un passage à l’échelle des modèles
+ayant fait leur preuve, tel celui de la prise en charge intégrée des maladies de
+l’enfant dans sa communauté, à travers une approche de financement basée sur la
+performance et un partenariat avec les mairies en vue de la pérennisation des acquis.
+Il cherchera à influencer les normes et les pratiques culturelles constituant des
+goulots d’étranglement pour la demande de services. Enfin, il visera aussi à
+systématiser et à étendre l’utilisation de méthodes de suivi amélioré qui permettent
+de mesurer en temps réel les progrès vers des résultats équitables.
+22. L’appui du programme s’alignera sur les politiques et plans nationaux, en vue
+de favoriser l’amélioration de la santé maternelle et néonatale, l’élimination de la
+transmission du VIH de la mère à l’enfant, l’éradication de la poliomyélite,
+l’élimination du tétanos néonatal, le contrôle de la rougeole, la prévention et la prise
+en charge des maladies de l’enfant et de la malnutrition, la promotion de la qualité
+de l’eau, de l’hygiène et de l’assainissement de base. Sa mise en œuvre se fera en
+partenariat avec les agences du SNU (Organisation mondiale de la Santé (OMS),
+Fonds des Nations Unies pour la Population (UNFPA), Programme commun des
+Nations Unies sur le VIH/sida), la Banque mondiale, les partenaires bilatéraux
+
+7
+
+(France, États-Unis, Pays-Bas) et les organisations non gouvernementales (ONG), à
+travers les mécanismes de coordination du COMPACT et du mouvement « Scaling
+Up Nutrition » (SUN).
+ii)
+
+Éducation de base
+23. Le Bénin a réalisé des progrès importants dans l’accès à l’éducation et l’équité
+genre : 9 enfants sur 10 vont à l’école et l’écart entre filles et garçons s’es t réduit de
+deux points. Cependant, le taux d’achèvement est peu élevé (71 %) et la qualité
+reste faible : 29 % des élèves de CM1 ont une maîtrise acceptable du français et des
+mathématiques. D’autres formes de disparités demeurent et tendent à s’aggraver en
+termes d’accès, de maintien, d’achèvement et de transition au secondaire. Enfin, les
+diagnostics du secteur montrent des insuffisances dans la gestion et le pilotage du
+système éducatif.
+24. Au vu de ce diagnostic, la composante ciblera neuf communes à faibles
+indicateurs d’accès et d’achèvement et un quartier périurbain de Cotonou. Afin de
+réduire les disparités dans l’accès équitable à l’éducation, elle développera des
+modèles d’intégration des enfants marginalisés dans le système formel et des
+alternatives éducatives pour les adolescents non scolarisés ou déscolarisés. Pour y
+parvenir, elle renforcera les capacités des acteurs de l’éducation au niveau central,
+déconcentré et décentralisé dans la collecte, l’analyse, la gestion et l’utilisation de
+l’information éducative. Elle veillera à renforcer l’équité dans la transition au
+secondaire. Elle contribuera à rehausser la qualité de l’éducation à travers la
+préparation à l’école des jeunes enfants, la formation des enseignants, des
+inspecteurs, et le renforcement du système de supervision. L’environnement
+d’apprentissage sera amélioré par la construction de latrines, la mise en place de
+gouvernements scolaires et de mécanismes de lutte contre la violence à l’école, en
+collaboration avec les associations de parents d’élèves. La composante aidera le
+Gouvernement à améliorer le pilotage et le suivi du système éducatif et améliorera
+la capacité des acteurs dans la préparation et la réponse aux urgences. Enfin, un
+plaidoyer sera développé pour assurer un finance ment équitable et rationnel du
+système éducatif et responsabiliser davantage les niveaux déconcentré et
+décentralisé (directions départementales, circonscriptions scolaires et communes).
+Sous la direction du Ministère de l’Éducation, cette composante renfo rcera son
+partenariat avec les ONG, la société civile, les partenaires techniques et financiers
+(États-Unis, France) et le Partenariat mondial pour l’éducation.
+
+iii)
+
+Protection de l’enfance
+25. Malgré une amélioration du cadre juridique, des défis reste nt à relever en ce
+qui concerne la protection des filles et des garçons. En effet, ceux -ci sont encore
+victimes d’abus telles que les violences sexuelles et physiques, le mariage précoce,
+l’infanticide, l’excision et d’autres pratiques culturelles néfastes qui affectent leurs
+droits à la santé et au développement. En outre, les pires formes de travail des
+enfants, la traite et toute autre forme d’exploitation demeurent des préoccupations
+majeures. Enfin, la réalisation du droit à l’identité reste un autre d éfi à relever, car
+seulement 4 enfants sur 10 du quintile le plus pauvre ont des actes de naissance,
+contre 8 sur 10 dans le quintile le plus riche.
+26. Pour lever les barrières dans ce secteur, la composante visera à renforcer le
+système de protection de l’enfance afin de prévenir et de répondre à la violence et à
+
+8
+
+l’exploitation dans sept communes et un quartier périurbain de Cotonou à forts taux
+de privation des droits de l’enfant. Elle développera la capacité des enfants et des
+adolescents vulnérables à se protéger des risques qu’ils encourent – y compris celui
+de l’infection par le VIH – et ceux victimes d’abus, à se reconstruire. Elle
+contribuera à améliorer l’offre des services de protection en appuyant la mise en
+œuvre équitable des lois et politiques de protection et à assurer aux enfants un accès
+accru à la justice, aux services d’état civil et à l’action sociale. En outre, la
+communication pour le développement permettra aux enfants, aux familles et aux
+communautés d’utiliser davantage les services de protection et d’adopter des
+comportements sociaux protecteurs de l’enfant. Sous la direction du Ministère en
+charge de la Famille, cette composante renforcera son partenariat avec les autres
+secteurs, les ONG, la société civile, les partenaires techniques et financiers (France,
+Union européenne) et les agences du SNU.
+iv)
+
+Politiques sociales, planification, suivi et évaluation
+27. Au Bénin, les politiques connaissent un faible niveau de mise en œuvre en
+raison des contraintes de planification budgétaire et des faibles capacités nationales.
+De plus, les programmes sociaux visant à réduire la vulnérabilité des populations
+restent rares malgré une situation préoccupante (environ 37 % d’enfants vivent dans
+la pauvreté). Par ailleurs, le système national d’information statistique, bien
+qu’assez riche en données quantitatives, ne permet pas toujours un ciblage adéquat
+des interventions du fait de l’absence de désagrégation suffisante de données, de la
+faible capacité d’utilisation des informations et de l’insuffisance d’études
+qualitatives. Enfin, la faible participation des jeunes au développement de leur pays
+constitue un défi.
+28. Au vu de ce diagnostic, cette composante du programme procèdera à une
+SitAn en mettant l’accent sur les disparités et les barrières à l’accès équitable aux
+services sociaux de base de qualité. Cette analyse sous-tendra le plaidoyer aux
+niveaux central et décentralisé pour un meilleur investissement dans les services
+sociaux, grâce à une meilleure budgétisation et à des mécanismes de protection
+sociale. De plus, le suivi et l’évaluation des progrès réalisés en faveur des enfants,
+notamment les plus vulnérables, seront renforcés. Les partenariats stratégiques, un
+plaidoyer et un dialogue politique continu sur la base des données fac tuelles
+constitueront le socle d’intervention de cette composante. Elle développera, dans le
+cadre d’un appui aux communes pour l’élaboration et la mise en œuvre de leurs
+plans de développement, des modèles de résilience permettant un développement
+équitable et durable à la base. A travers les radios de proximité, elle mobilisera les
+populations autour des thématiques prioritaires. Elle s’attèlera enfin à habiliter les
+jeunes à réclamer leurs droits. Sous la direction du Ministère en charge du
+Développement, seront mobilisés dans la mise en œuvre de cette composante, le
+Gouvernement, les communes, les agences du SNU, les partenaires bilatéraux, les
+instituts et structures de communication, la société civile, les ONG, les adolescents,
+les jeunes, le secteur privé, les universités et les médias.
+
+v)
+
+Intersectorielle
+29. Les coûts de cette composante visent à assurer le fonctionnement du Bureau
+Pays, les salaires, les voyages et la formation du personnel, ainsi que la contribution
+de l’UNICEF aux services communs du SNU. Ils permettront aussi d’assurer la
+visibilité des interventions de l’UNICEF.
+
+9
+
+d)
+
+Rapports avec les priorités nationales et le PNUAD
+30. Le programme repose sur les priorités nationales définies dans la SCRP,
+notamment celles relatives au renforcement du capital humain, à la promotion de la
+qualité de la gouvernance et au développement équilibré et durable de l’espace
+national. Il contribue à l’atteinte des résultats des stratégies sectorielles de la santé,
+de l’éducation, de la protection de l’enfant, de la promotion des personnes
+handicapées et de la politique nationale de la décentralisation.
+31. Les résultats attendus du programme contribueront à la réalisation de la totalité
+des six effets du PNUAD 2014-2018 dont ils découlent directement. Les résultats du
+PNUAD couvrent notamment la sécurité alimentaire, la protection sociale, la santé y
+compris le VIH/Sida, la nutrition, la planification familiale, l’assainissement de
+base, l’éducation de base, la protection contre la vulnérabilité social e et les abus, la
+gouvernance, la décentralisation et la gestion des crises et catastrophes.
+
+e)
+
+Rapports avec les priorités internationales
+32. Le programme s’inspire de la Déclaration et des objectifs du Millénaire pour le
+développement. Il se base sur le plan stratégique à moyen terme 2014-2017 de
+l’UNICEF et intègre la préparation et la réponse aux situations d’urgence dans ses
+différentes composantes. Il prend en compte les recommandations de l’EPU 2012 et
+du Comité pour l’élimination de la discrimination à l’égard des femmes, ainsi que
+les engagements du Bénin vis-à-vis du Comité des droits de l’enfant, notamment en
+ce qui concerne les changements de normes et pratiques socioculturelles néfastes.
+De plus, ce programme accompagnera le Bénin dans la mise en œuvre de la
+« Promesse renouvelée » pour la survie de l’enfant, et le mouvement « SUN ».
+Enfin, il s’aligne sur le partenariat post-Busan dans le cadre de l’initiative « Unis
+dans l’Action » du SNU au Bénin.
+
+Principaux partenariats
+33. L’UNICEF continuera à jouer un rôle actif au sein des partenariats établis et
+renforcera son plaidoyer et ses alliances stratégiques. L’agence appuiera le
+Gouvernement dans la Coordination du mouvement « SUN ». Avec l’OMS,
+l’USAID et l’UNFPA, l’UNICEF fera le suivi de la mise en œuvre des interventions
+retenues dans le cadre de la « Promesse renouvelée ». L’UNICEF continuera à
+assurer la coordination des partenaires du secteur de l’Éducation. En matière de
+protection, les liens seront renforcés avec la France et l’Union Européenne dans
+l’accès des enfants à la justice. De nouveaux partenariats seront recherchés avec
+l’Agence Française de Développement et l’Union européenne dans le domaine de la
+protection sociale.
+34. Dans le contexte du PNUAD, l’UNICEF participera aux mécanismes de
+programmation conjointe, notamment dans les domaines de la survie, de la lutte
+contre le VIH/Sida, de la sécurité nutritionnelle, de la protection sociale et du
+renforcement des systèmes nationaux de suivi et d’évaluation. Au niveau
+décentralisé, le travail avec les communes nécessitera un renforcement du
+partenariat avec le Fonds d’Équipement des Nations Unies/Programme des Nations
+Unies pour le développement. Enfin, la coopération avec les parlementaires, les
+médias, les universités, les instituts de recherche et la société civile sera renforcée.
+
+10
+
+Suivi, évaluation et gestion du programme
+35. Le dispositif de suivi et d’évaluation du programme pays s’intégrera dans celui
+du PNUAD, qui est aligné sur celui de la SCRP. Le Plan intégré de suivi et
+d’évaluation déterminera les principales activités de suivi et d’évaluation à mettre
+en œuvre dans le cadre des plans de travail annuels qui découleront du plan d’action
+du PNUAD pour lequel l’UNICEF est chef de file de l’Effet 3 relatif à l’é ducation
+de base. Des revues (semestrielles et annuelles), des études spécifiques, la revue à
+mi-parcours en 2016 et les visites régulières de supervision et de suivi dans les
+zones d’intervention du programme permettront d’apprécier le suivi des progrès
+équitables vers les résultats attendus. De plus, des évaluations seront conduites à la
+revue à mi-parcours dans le domaine de la santé communautaire et de l’éducation
+alternative. Les capacités des partenaires seront en outre renforcées pour améliorer
+le suivi des indicateurs et développer la fonction d’évaluation. Les principaux
+indicateurs d’impact et certains relatifs aux effets seront mesurés par les enquêtes
+démographiques et de santé, les enquêtes à indicateurs multiples et celles sur les
+conditions de vie des ménages.
+36. Un comité de pilotage, présidé par le Ministère en charge du Développement et
+comprenant les représentants des Ministères chef de file pour la mise en œuvre des
+composantes programmes, assurera la coordination du Programme de coopérat ion
+Bénin/UNICEF.
+
+11
+
+

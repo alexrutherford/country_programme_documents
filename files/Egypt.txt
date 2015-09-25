@@ -1,0 +1,597 @@
+Egypt
+Country programme document
+2013-2017
+
+The draft country programme document for Egypt
+(E/ICEF/2013/P/L.3) was approved in accordance with decision 2013/4,
+on an exceptional basis, by the Executive Board at its 2013 annual
+session (18-21 June 2013).
+The draft CPD was discussed at an informal consultation on 31
+May 2013. This final version was approved at the 2013 annual session of
+the Executive Board on 21 June 2013.
+
+†
+
+Basic data
+(2011 unless otherwise stated)
+
+Child population (millions, under 18 years, male/female)
+U5MR (per 1,000 live births)
+Underweight (%, moderate and severe, 2008)
+(%, male/female, urban/rural, poorest/richest)
+
+15.6/14.9
+21
+6
+7/5, 6/6, 8/5
+
+Maternal mortality ratio* (per 100,000 live births, adj usted, 2010)
+
+66 a
+
+Use of improved drinking water sources (%, 2010)
+
+99
+
+Use of improved sanitation facilities (%, 2010)
+
+95
+
+One-year-olds immunized with DPT3 (%)
+
+96
+
+One-year-olds immunized against measles (%)
+
+96
+
+Primary school enrolment/attendance (%, net male/female, 2008)
+
+90/87
+
+Survival rate to last primary grade (%, male/female, 2008)
+
+99/99
+
+Adult HIV prevalence rate (%,15-49 years, male/female)
+HIV prevalence among pregnant women (%)
+Child labour (%, 5-14 year olds, male/female, 2005)
+
+<0.1
+..
+8/5
+
+Birth registration (%, under 5 years of age, 2005)
+
+99
+
+(%, male/female, urban/rural, poorest/richest)
+
+99/99, 99/99, 99/100
+
+GNI per capita (US$)
+†
+
+a
+
+2 600
+
+More comprehensive country data on children and women as well as detailed methodological
+notes on estimates can be found at www.childinfo.org.
+This is the adjusted maternal mortality ratio estimate prepared by the Maternal Mortality
+Estimation Inter-Agency Group. The reported estimate at the country level is 55 deaths per
+100,000 live births (2008), as presented in the Maternal Mortality Surveillance System, 2010.
+
+Summary of the situation of children and women
+1.
+Since January 2011, when citizens, with young people in the forefront, took to
+the streets to demand “freedom, social justice and dignity”, Egypt has experienced a
+prolonged struggle for democracy. The subsequent political and democratic transition,
+which is still ongoing, resulted in the election of the country’s first democratically
+elected civilian President. The Revolution and the political and social unrest which
+followed were ignited by a widespread feeling of political, economic and social
+exclusion among a large part of the population. This was particularly the case for
+young people, whose future prospects have been undermined by poor-quality
+education, high unemployment and increasing poverty and inequality.
+2.
+Over the last decade, Egypt registered mixed progress in the realization of
+children’s rights. In many cases, important achievements on indicators that were
+averages masked persistent disparities within the country, in particular between
+children living in urban and rural areas, Upper and Lower Egypt and Urban
+governorates, within urban areas and between different socioeconomic groups
+(UNICEF Egypt, 2010). Despite periods of sustained economic growth, income
+poverty is widespread in the country; it increased in the last 10 years and is
+expected to deteriorate further due to the current economic difficulties. In 2010 -11,
+26.4 per cent of Egyptian children were living under t he national poverty line, with
+a higher concentration of poverty in rural Upper Egypt (Central Agency for Public
+
+2
+
+Mobilization and Statistics (CAPMAS), 2012). Important achievements in
+legislation, notably the 2008 amended Child Law, were coupled with their partial
+and slow implementation: the Committee on the Rights of the Child, in its 2011
+concluding observations, recommended that Egypt put in place an effective
+coordination system on child policy and programmes. It also recommended the
+establishment of an independent monitoring mechanism devoted to the promotion of
+the rights of the child and to ensuring systematic collection and analysis of data on
+the implementation of children’s rights.
+3.
+Egypt registered important progress in child and maternal mort ality reduction
+and, with an under-five mortality rate (U5MR) of 28.3 per 1,000 live births in 2008,
+has met Millennium Development Goal (MDG) 4. However, disparities across the
+country are wide, with high U5MR observed in rural Upper Egypt, the area with the
+poorest coverage of primary health and social infrastructure and the lowest level of
+attendance at perinatal care services. Neonatal mortality accounts for almost 60 per
+cent of all deaths of children under age five years, and is the component of
+childhood mortality which recorded the narrowest improvement over the last decade
+and actually deteriorated in Urban Governorates (Egypt Demographic and Health
+Survey (EDHS), 2008). MMR also declined significantly; according to a global
+assessment, with a rate of 66 maternal deaths per 100,000 live births, Egypt is on
+track to reach MDG 5.
+4.
+Nutrition challenges in Egypt are multifaceted, with high and increasing levels
+of stunting (29 per cent of children under age five years in 2008) and substantial
+micronutrient deficiencies among young children, coexisting with growing levels of
+overweight and obesity among adolescents and adults, especially girls and women
+(EDHS, 2005 and 2008). Over 6 million people lack direct access to water at the
+household level and a similar number lack improved sanitation services (EDHS,
+2008).
+5.
+Egypt has a low rate of prevalence of HIV/AIDS, less than 0.02 per cent in the
+general population but with a concentrated epidemic which surpasses 5 per cent
+among specific at-risk populations, e.g., men having sex with men and injecting
+drug users (National AIDS Programme, 2011). The majority of HIV cases are
+undetected and unknown. Consequently, only a small portion of people living with
+HIV have access to treatment, including pregnant wo men requiring treatment to
+prevent vertical transmission of HIV to their children.
+6.
+With a primary education gross enrolment ratio of 100.1 per cent in 2011 -12
+and very limited gender disparities (Ministry of Education (MoE), 2012), Egypt is
+likely to achieve MDG 2. However, enrolment rates decline and drop -out rates
+increase for the subsequent level of compulsory education, the preparatory level.
+Major challenges in education concern the relatively low levels of participation in
+pre-primary education (gross enrolment ratio of 24.3 per cent in 2011-12, MoE,
+2012), problems of quality of teaching and school infrastructures, the inadequate
+inclusion of children with special needs, and the mismatch between the outcomes of
+the education system and the labour market demand, as reflected in the high
+unemployment rate for young people with a school degree above the intermediate
+level.
+7.
+Violence against children, child labour and child trafficking remain serious
+concerns in the country and take different forms. Violent disciplinary methods are
+widespread both in the family and at school. Data from 2009 show that 84 per cent
+
+3
+
+of children aged 2-14 years were exposed to some form of physical punishment at
+home (analysis of Family Conditions Survey, UNICEF Egypt 2013). Gender-based
+violence is widespread. In its concluding observations on Egypt ’s report, the
+Committee on the Elimination of Discrimination against Women expressed serious
+concern at violence against women and girls in the private and public spheres,
+including domestic violence, sexual violence and harassment and harmful traditional
+practices.
+8.
+The prevalence of female genital mutilation/cutting (FGM/C) remains high, at
+74 per cent among girls aged 15-17 years (EDHS 2008). Events around the 2011
+Revolution brought the vulnerability of children without family care sharply into
+focus, with children living in the street further exposed to violence and detention
+during the demonstrations and street confrontations.
+9.
+Adolescents aged 10-19 years constitute 22 per cent of the Egyptian
+population and traditionally have been socially disengaged, with few opportunities
+to exercise their right to participation. Data for 2009 (Survey of Young People in
+Egypt) show that only 2.2 per cent of young people (10 -29 years) participated in
+voluntary work and only 5 per cent are members of groups or organizations such as
+youth centres and school boards. Young men’s rates of civic participation are twice
+as high as young women’s. However, the recent Revolution saw many young people
+taking the forefront and becoming agents of change.
+
+Key results and lessons learned from previous cooperation,
+2007-2013
+Key results achieved
+10. The country programme supported the Ministry of Health and Population
+(MoHP) in modelling the Perinatal Care Programme of Excellence (PCPE) and
+surveillance system to reduce perinatal mortality. The model demonstrated
+significant results contributing to substantial reduction of neonatal mortality in the
+targeted areas in three governorates. The PCPE is now being scaled up in selected
+disadvantaged areas in six governorates, to cover a population of approximately
+2.5 million. Egypt was among the first countries to join the global “Child Survival
+Call to Action: A Promise Renewed”. During the programme cycle, Egypt has
+maintained its polio-free status and, in 2007, was removed from the world list of
+endemic countries for maternal and neonatal tetanus. The MoHP is currently
+preparing to introduce the pentavalent vaccine. Additionally, the Nutrition
+Landscape Analysis, the first in the Middle East and North Africa region, assessed
+the readiness of partners’ commitment and capacity to scale up evidence-informed
+interventions. As a result, a nutrition unit was established in the MoHP to coordinate
+policy formulation.
+11. The country programme contributed to the “Quality Education: School
+Improvement” component of the National Strategic Plan for Pre-University
+Education Reform. Child-friendly school principles were included in the quality
+standards for national school accreditation. This marked a major shift in the country
+programme’s support to the education sector, moving from direct implementation
+and piloting to capacity development of the MoE to plan and implement school based reform programmes and develop child-friendly learning environments.
+Additionally, the community-based education (CBE) model provided the evidence
+
+4
+
+for scaling up and including CBE in the national education reforms. The community
+kindergarten model has contributed to increasing enrolment rates of four-to-fiveyear-old children to quality pre-primary education from 17 to 50 per cent in targeted
+areas. The inclusion of children with special needs was piloted in 20 schools in
+Cairo and Sohag following the midterm review (MTR) of the country programme,
+demonstrating that the education system can be adjusted to respond to the needs of
+all children.
+12. The country programme contributed to strengthening child protection systems
+at subnational level. Amendments to the Child Law provided important new legal
+provisions for the protection of children at risk and mandated the establishment of a
+system of Child Protection Committees (CPCs) at governorate and district levels,
+based upon a pilot in Alexandria. Twenty-three District Child Protection
+Committees were activated, reaching more than 25,000 children in need of care and
+protection. Support to the national FGM/C abandonment progr amme contributed to
+over 17,700 families declaring their intention to abandon this harmful practice.
+Interventions for street children benefited more than 3,700 children through
+outreach, interim care and reintegration.
+13. A national civic education programme promoting active citizenship among
+adolescents and youth from all over Egypt has been institutionalized by the National
+Council for Youth, with technical support from UNICEF, reaching almost 14,000
+young people to date. A peer education programme reached over 20,000 young
+people with life, employability and entrepreneurial skills. In partnership with the
+Egyptian Cabinet’s Information and Decision Support Centre, United Nations
+agencies and the Population Council, UNICEF contributed to the generation of
+updated national data on young people, the Survey of Young People in Egypt,
+providing a solid and informed base for programming and policy development.
+14. The programme contributed to the generation and dissemination of knowledge
+on the situation of children and to capacity development for evidence -based
+policymaking. The results of the research on multidimensional child poverty
+contributed to increasing the visibility of children’s issues in national policy
+documents and led to the generation of statistical data and the promotion of new
+research on children. The programme also supported the EDHS (2008). Nationa l
+capacities in the areas of child rights and social policy and research and evaluation
+were also strengthened through support for the establishment of post -graduate
+diplomas on public policy and child rights and on research, monitoring and
+evaluation in three national universities. The monitoring and evaluation capacities
+of the Ministry of Insurance and Social Affairs (MISA) and the National Council for
+Childhood and Motherhood (NCCM) were also strengthened.
+Lessons learned
+15. The country programme has been able to influence national policies and
+programmes for children through small-scale modelling of innovative approaches.
+The most successful of these are the perinatal care programme, establishment of
+CPCs and CBE (pre-primary and primary), all of which have emerged from jointly
+designed pilot initiatives. Experience has shown that piloting has greater likelihood
+of successfully influencing policy when it directly addresses implementation of
+national priorities, when designed and monitored with strong engagement of policy
+makers, and when it is reasonably affordable for the Government to scale up. In the
+
+5
+
+current middle-income context of Egypt, the Government prioritizes mainstreaming
+and scaling up of good models and building sustainable systems. Th ese pilot
+initiatives will be scaled up in the new country programme.
+16. As noted in the MTR, experience points to the necessity of adopting a system based approach to child protection as the challenges facing at -risk children are
+complex and cut across many sectors. This requires the professionalization of social
+workers, national programmes to prevent violence against children and
+strengthening of national and subnational child protection institutions. A more
+comprehensive approach would also strengthen the links between child protection
+and social protection, with a focus on strengthening the protective role of families,
+combining pro-child social protection, family support and case management.
+17. Introducing and managing change in the school learning environment are
+crucial for increasing retention and achievement of students. An evaluation of the
+community school pilot showed higher retention and better student achievement
+than in mainstream schools, a result of its safe learning environment and emph asis
+on quality. The evaluation of the School Improvement Programme showed that it
+has contributed to a growing appreciation of the benefits of inclusion as a catalyst
+for enhancing school capacity to respond to the diverse needs of all students.
+Community schools and inclusive education initiatives in mainstream schools have
+proven to be effective and complementary strategies for developing child -friendly
+learning environments that promote equity and quality education for all.
+18. Communication for development (C4D) proved to be an effective crosssectoral programme component, influencing both behaviours and social norms. Its
+impact was felt on practices and social norms related to immunization, pandemic
+influenza, hygiene and young child feeding. Even more effective use of C4D as a
+strategy will be required to meet the increased demand from partners.
+
+The country programme, July 2013-December 2017
+(a)
+
+Summary budget table
+(In thousands of United States dollars)
+Programme component
+
+(b)
+
+Regular resources
+
+Other resources
+
+Total
+
+Equitable access to basic services
+
+3 852
+
+14 200
+
+18 052
+
+Child protection and adolescent/youth development
+
+3 500
+
+13 400
+
+16 900
+
+Social policy, advocacy, monitoring and evaluation
+
+4 000
+
+4 150
+
+8 150
+
+Cross-sectoral
+
+1 527
+
+250
+
+1 777
+
+Total
+
+12 879
+
+32 000
+
+44 879
+
+Preparation process
+19. The Revolution of January 2011 led to the postponement of the finalization of
+the United Nations Development Assistance Framework (UNDAF) and CPD to
+ensure that emerging national issues, opportunities and priorities were reflected in
+those documents and the future work of UNICEF in Egypt. As a result, the
+
+6
+
+programme cycle was extended 18 months, and the new cycle set for the period July
+2013 to December 2017.
+20. The CPD was developed in conjunction with the UNDAF preparation process
+and within the framework of the Cairo Agenda for Action, a mutual agenda for
+effective development partnership between the Government of Egypt, United
+Nations agencies and other multilateral and bilateral partne rs. The CPD
+development benefited from multiple consultations with key partners and
+stakeholders, and is additionally informed by the 2011 concluding observations of
+the Committee on the Rights of the Child, the 2010 concluding observations of the
+Committee on the Elimination of Discrimination against Women, the
+recommendations of the MTR, the Child Poverty and Disparities Study and Egypt ’s
+midterm report on progress towards the MDGs.
+(c)
+
+Programme components, results and strategies
+21. The overall goal of the 2013-2017 country programme is to support Egypt to
+progressively realize the rights of all girls, boys, and adolescents to survival,
+development, protection and participation. The country programme will support key
+investments in critical periods of the life cycle to enable children to grow up
+healthy, educated and protected within an environment of family care and adequate
+standard of living, promoting gender equality and positive social norms.
+22. The country programme has five programme component results (PCRs):
+(a) PCR 1 — vulnerable mothers and children under age five years have increased
+access to and utilization of continuous and integrated primary health-care services,
+particularly perinatal care, nutritional services and water, sanitation a nd hygiene,
+and quality prevention, care, support and treatment for HIV; (b) PCR 2 — girls and
+boys age 4-14 years have equitable access to quality education with specific focus
+on vulnerable groups and disadvantaged areas; (c) PCR 3 — quality and coverage of
+child protection services and programmes to prevent violence against children are
+strengthened and supported by national policies and budgets; (d) PCR 4 —
+adolescent girls and boys and youth have increased capabilities and opportunities
+for positive development and civic engagement with a focus on disadvantaged
+communities; and (e) PCR 5 — social policies, programmes, public opinion and
+social norms are strengthened to promote and advance child rights.
+23. Equity will be central to the country programme, which will produce evidence
+on disparities between different groups of children, girls and boys, and geographic
+locations through research, monitoring, analysis and policy advocacy. Field -based
+interventions will focus primarily on areas of high dispari ty in Upper Egypt, and
+selected communities in Lower Egypt and in urban areas. The country programme
+will also address harmful social conventions with an impact on the rights of
+children, particularly girls.
+24. The country programme will support the strengthening of policy design and
+systems for implementation of selected national reforms and programmes aiming to
+further develop and promote better access to quality and affordable basic services
+for children. Building on the country’s experience with the Monitoring Results for
+Equity System (MoRES) in the child survival programme, the approach will be
+progressively introduced to other programme areas to identify and address
+bottlenecks and barriers that prevent excluded children from accessing quality basic
+services. Knowledge generation and management will be a cross -cutting strategy,
+
+7
+
+aiming to strengthen national capacities for monitoring and analysis of the situation
+of children and women for more effective policymaking that is informed by
+evidence.
+25. The country programme will be organized around three programme components:
+(a) equitable access to basic services; (b) child protection and adolescent/youth
+development; and (c) social policy, advocacy, monitoring and evaluation. These
+components are mutually reinforcing and complementary.
+(i)
+
+Equitable access to basic services
+26. This component will focus on strengthening basic services systems,
+particularly in the areas of health, nutrition, water and sanitation and education, to
+better reach excluded children and families. It will support line ministries and
+subnational authorities to deliver quality services in a more equitable manner. The
+programme component will contribute to strengthened strategic planning, budgeting
+and monitoring capacities, management information systems, and human resources
+development. It will contribute to identifying and overcoming barriers to make basic
+services systems more responsive to unreached or inadequately reached children and
+women. The component will build on the experience of MoRES currently being
+used for expansion of the PCPE.
+27. The health component will focus on strengthening maternal and child health
+services for the most disadvantaged children and families. The programme
+component will assist MoHP in targeting the most vulnerable women and newborns,
+applying an effective continuum of care, building capacities of health-care
+providers, strengthening health systems and promoting healthier practices through
+communication for behavioural changes. It will also support the Government to
+introduce new vaccines and to scale up models which have been successfully
+developed in the previous country programme, notably the PCPE and the household
+water connection and hygiene education programme. The HIV component will
+support the capacity of MoHP to implement programmes for the elimination of
+mother-to-child transmission of HIV.
+28. This programme component will support evidence-based and cost-effective
+interventions, particularly in the 1,000-day window of opportunity between
+conception and two years of age, to prevent and address malnutrition and
+micronutrient deficiencies. The programme will support the capacity of MoHP to
+coordinate multisectoral nutrition policies and interventions and to deliver a
+minimum response package focused on improved nutrition results. It will also
+strengthen the institutional capacity of the National Nutrition Institute and develop
+new partnerships with universities.
+29. The education component is closely aligned with the National Strategic Plan
+for Education 2013-2017 and will focus on inclusive education to achieve access to
+quality education for all children, particularly for children at risk of exclusion. The
+programme component will support the MoE to scale up the community schools
+model for pre-primary and primary education in Upper Egypt through civil society
+mobilization, developing national standards and strengthening teacher training and
+quality assurance systems. It will also contribute to the mainstreaming of child friendly school principles to ensure an inclusive learning environment that adapts to
+the diversity of needs of disadvantaged girls and boys.
+
+8
+
+30. The main partners for the programme component include MoHP, MoE, MISA,
+governorate and district authorities, National Nutrition Institute, the World Food
+Programme (WFP), the World Health Organization, the United Nations Population
+Fund (UNFPA) and non-governmental and civil society organizations.
+(ii)
+
+Child protection and adolescent/youth development
+31. The programme component will focus on: (a) preventing violence against
+children; (b) strengthening specialized child protection services at national and
+subnational levels, with a focus on case management and family support
+interventions; (c) supporting justice systems to prioritize family and community-based
+solutions for children in conflict with the law and child victims; (d) strengthening
+acquisition of life and employability skills by adolesce nts; and (e) promoting and
+supporting adolescents’ rights to participation and civic engagement.
+32. The programme will focus on preventing violence in its multiple forms,
+including FGM/C, violent disciplinary practices, sexual harassment and domestic
+violence. The programme will develop positive parenting and educational approache s
+and engage with social influencers such as religious leaders to strengthen and
+promote positive social norms.
+33. The programme component will strengthen the legal framework and the
+operational capacity of, and the linkages between, the child protection statutory bodies
+and community-based support encompassing access, capacity, quality and costing of
+child protection services. Strengthening linkages between child protection and social
+protection will be an important area of intervention. The programme wi ll also
+support efforts to reduce detention of children, promote non -custodial solutions and
+strengthen specialized mechanisms for the protection and promotion of child rights.
+34. Given that nearly one third of Egypt’s population are young people aged 10-24
+years, investment in their skills is crucial for the future of the country. The country
+programme will support life skills, employability skills and civic engagement and
+participation to better prepare them for the transition to adulthood. The programm e
+will work to strengthen existing structures and mechanisms accordingly. Inclusion
+of females in all interventions will be an important focus of the programme.
+35. HIV/AIDS interventions will concentrate on the most at -risk populations, such
+as children living in street situations, through child protection and other
+interventions targeting disadvantaged young people. Life -skills programmes in child
+protection and adolescent development will integrate HIV prevention.
+36. The main partners of the programme component include MISA, the Ministry
+of Justice, NCCM, MoE, the Ministry of State for Youth, Ministry of State for Sports,
+National Population Council, National Council for Human Rights, governorates,
+NGOs and United Nations agencies including the International Labour Organization,
+UNFPA, the United Nations Entity for Gender Equality and the Empowerment of
+Women and WFP.
+
+(iii)
+
+Social policy, advocacy, monitoring and evaluation
+37. This programme component will promote and support data collection and
+analysis and generation and dissemination of knowledge on children ’s issues and
+child-related policies. Through communication and advocacy, it will support
+evidence-based policy formulation and implementation, behavioural change and
+
+9
+
+informed participation. This component is closely interrelated to the previous two
+and will provide strategic support to them, particularly in the areas of knowledge
+management, data, research, monitoring and evaluation, communication and
+advocacy. In supporting the progressive implementation of MoRES for the different
+programme components and in line with the new medium-term strategic plan
+(MTSP), this component will prioritize a few high-quality strategic evaluations and
+support data collection to inform improvements and timely adaptations of the
+country programme.
+38. Data and research on the situation of children will adopt an equity perspective
+and focus on disadvantaged children to identify the root causes of poverty and
+deprivation. Strategic research, capacity-building and advocacy on pro-child social
+protection and budget policies will be supported to increase the focus on children in
+major national policy reforms and to promote integrated policy approaches which
+simultaneously address poverty and child protection issues a nd promote universal
+access to quality basic services.
+39. Disaster risk reduction and emergency preparedness interventions will be
+mainstreamed under each programme and coordinated under this programme
+component. This includes support to Syrian refugees in Egypt, as per the
+inter-agency response plan. Through this programme component, relevant ministries
+and partners will be supported to develop child-centred and gender-sensitive disaster
+risk reduction policies and to mainstream these into sectoral plann ing and systems.
+In partnership with the UNDAF working group on environmental sustainability and
+natural resource management, the programme component will research the impact of
+climate change on children.
+40. The programme component will broaden the range of partnerships to advocate
+for positive change for child rights. Existing partnerships with policy makers and
+influencers, religious leaders, civil society, media and the corporate sector will be
+mobilized around the key priorities of the country progra mme.
+41. C4D will be a central strategy for influencing knowledge, attitudes and
+practices of communities, families and caregivers to promote measurable
+behavioural change. The programme will also strengthen national capacities for
+influencing positive changes in complex social norms and underlying cultural and
+equity issues such as violence against children.
+42. The main partners for this programme component include MISA, the Ministry
+of Finance, the Informal Settlement Development Facility, the National Council for
+Childhood and Motherhood, CAPMAS, Al Ahzar University, the Coptic Church,
+national and international universities and research centres.
+(iv)
+
+Cross-sectoral
+43. Cross-sectoral costs will cover programme support and operational functions
+to ensure effective and efficient implementation of the country programme,
+including salaries for staff performing cross-cutting functions.
+
+(d)
+
+Relationship to national priorities and the UNDAF
+44. The CPD is strongly aligned to both national priorities and the UNDAF. The
+country programme contributes to the social and human development component of
+the National Strategic Framework of the Economic and Social Development Master
+
+10
+
+Plan, 2013-2022. The CPD is also aligned with the outcomes of the Egypt UNDAF
+2013-17: (a) poverty alleviation through pro-poor growth with equity; (b) quality
+basic services; (c) democratic governance; and (d) food security and nutrition. The
+programme will contribute to Egypt’s efforts to address the 2011 recommendations
+of the Committee on the Rights of the Child and the 2010 concluding observations
+of the Committee on the Elimination of Discrimination against Women .
+(e)
+
+Relationship to international priorities
+45. The Millennium Declaration, the MDGs, the goals of A World Fit for Children
+and the priorities of the UNICEF MTSP 2006-2013 have been taken into
+consideration in the country programme
+
+Major partnerships
+46. UNICEF will work closely with an expanded range of partners in government,
+international development, civil society, media and the private sector and will also
+work with other United Nations agencies in joint programmes and UNDAF theme
+groups. UNICEF will also promote South-South cooperation, both to share Egypt’s
+experience with other countries and to share international best practices with Egypt.
+
+Monitoring, evaluation and programme management
+47. The country programme components will reinforce their monitoring and
+evaluation and data management with a progressive expansion of the MoRES
+approach. Strategic evaluations will be promoted to support programme activities,
+and all programmes will be evaluated at least once during the cycle. The integrated
+monitoring and evaluation plan will be the central tool for routine monitoring key
+studies and evaluations across the country programme. Programme results will be
+reviewed with government partners such as line ministries and relevant national
+councils, and through the UNDAF review process with United Nations and national
+partners. A gender review is planned for 2014 and the MTR of the UNDAF for the
+first half of 2015. A final evaluation of the UNDAF will be undertaken in the first
+quarter of 2017.
+
+11
+
+

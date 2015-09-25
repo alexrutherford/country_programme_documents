@@ -1,0 +1,946 @@
+E/ICEF/2015/P/L.31
+
+United Nations
+
+Economic and Social Council
+
+Distr.: Limited
+10 August 2015
+Original: English/French/Spanish
+For decision
+
+United Nations Children’s Fund
+Executive Board
+Second regular session 2015
+8-10 September 2015
+Item 4 (a) of the provisional agenda*
+
+Country programme document
+Maldives
+Summary
+The country programme document (CPD) for Maldives is presented to the
+Executive Board for discussion and approval at the present session, on a no-objection
+basis. The CPD includes a proposed aggregate indicative budget of $ 4,250,000 from
+regular resources, subject to the availability of funds, and $5,023,460 in other
+resources, subject to the availability of specific-purpose contributions, for the period
+2016 to 2020.
+In accordance with Executive Board decision 2014/1, the present document
+reflects comments made by Executive Board members on the draft CPD that was
+shared 12 weeks before the second regular session of 2015.
+
+* E/ICEF/2015/12.
+
+1/15
+
+E/ICEF/2015/P/L.31
+
+Programme rationale
+1. Maldives is a Small Island Developing State (SIDS) with a 2014 population of 399,939,
+including 58,683 foreigners,1 which is a 14 per cent increase since the last census in 2006.
+The country is spread out over 90,000 square kilometres with 188 inhabited islands, making
+it one of the world’s most geographically dispersed countries. According to the 2006 census,
+children (aged 0–17) represent 39 per cent of the population.2 The capital city, Malé, accounts
+for 38 per cent of the total population (census 2014); expatriates account for 13 per cent of
+the population in Malé. With an average ground level elevation of 1.5 metres above sea level,
+Maldives is the planet’s lowest country, which has significant implications for its future.
+2. Maldives graduated to middle-income country status in 2011, having shown remarkable
+economic growth of almost 6 per cent between 2000 and 2009,3 largely due to the rapid
+expansion of tourism. The country attained a gross national income (GNI) per capita of
+$5,750 in 2012.4 This growth took place despite the global economic crisis and the 2004
+Indian Ocean tsunami. Moreover, by 2008, Maldives had achieved five of the eight
+Millennium Development Goals ahead of schedule, making it the only ‘MDG Plus’ country
+in South Asia. The Maldives Human Development Index (MHDI) of 0.688 in 2012 (Maldives
+Human Development Report, MHDR, 2014), makes it the highest ranking country in South
+Asia, and 103rd out of 187 countries globally.5 Despite these impressive developments, the
+data mask challenges and significant inequalities.
+3. The State party Report to the Committee on the Rights of the Child (2012)6 noted that
+one of the principal challenges facing the country is the result of numerous changes in
+Government, mainly due to increased political tensions. This has had a significant impact on
+the timely passage of important social legislation and delivery of key child-related social
+services. While the country embarked on a decentralization process in 2010, the intended
+improvements in the social sectors through devolution of some municipal services to Atoll
+and Island Councils have not been realized.7 The graduation to middle-income status has also
+negatively impacted the public debt portfolio as concessional loans and favourable trade
+conditions have deteriorated markedly, presenting threats to the country’s future
+development. Additionally, its SIDS profile, geographical dispersion and isolation of small
+islands, susceptibility to climate change and high vulnerability to natural hazards present the
+greatest constraints to the country’s development and the welfare of its children.
+4. While Maldives has made significant strides in social and economic development, this
+progress has not benefited all Maldivians equally. Disparities in outcomes for children have
+several dimensions, including geographic, income, education and age. The main driver of
+inequality and vulnerability is the population’s geographical dispersion. Spatial disparity
+between Malé and the atolls contributes significantly to the human development gap, mostly
+in the form of income and education choices. The MHDI for Malé is 0.734 compared with
+
+1
+
+Population and Housing Census 2014, Preliminary Results, National Bureau of Statistics, Ministry of
+Finance and Treasury, 13 November 2014.
+2
+Situation of Children in the Republic of Maldives: Secondary analysis of existing information from an
+equity perspective, UNICEF, 2013.
+3
+Maldives Human Development Report (MHDR), 2014, Ministry of Finance and Treasury and UNDP.
+4
+MHDR 2014.
+5
+MHDR 2014.
+6
+Committee on the Rights of the Child, Fourth and Fifth Periodic Reports, Republic Of Maldives, 1
+September 2012.
+7
+Study on the Decentralization Process in the Maldives, UNICEF, 2013.
+
+2/15
+
+E/ICEF/2015/P/L.31
+
+0.627 for all of the atolls.8 Malé performs far better in expected and average years of
+schooling and earnings compared to the atolls. There are also noticeable differences within
+the regions, for example, in 2009, the poverty ratio in the northern region was 72 per cent
+compared with the north-central region, 32 per cent.9
+5. Income disparities are the second most influential driver of inequality. Tourism and
+connectivity are key drivers in setting income levels, 10 which in turn determine better access
+to social services. A widening income inequality gap was recorded in Malé (2009–2010),
+with the richest 10 per cent of households holding almost half of the total income. While
+overall poverty decreased during the period 1997–2010,11 the rate of poverty increased for
+Malé, from 2 per cent in 2003 to 7 per cent in 2010.12 The decrease in the atolls was primarily
+as a result of outmigration to Malé for better employment opportunities and improved access
+to services, mainly education. A critical social inclusion issue is the growing sense of
+disenfranchisement and exclusion that young Maldivians feel, and the corresponding
+perception that the country’s youth are “idle and disconnected from the fabric of society.”13
+6. Maldives has a fully state-funded universal health insurance programme (as legislated
+in the 2011 National Health Insurance Scheme Act), which covers the entire population.
+Despite the achievements of the health-related Millennium Development Goals and
+significant resources allocated to the health sector, malnutrition among children presents the
+most critical public health concern. Rates of stunting, underweight and wasting among
+children under five in 2009 were, respectively, 19 per cent, 17 per cent and 11 per cent. Rates
+of malnutrition and educational attainment in the north-central region were worse than in
+Malé. For example, in 2009, stunting rates were 23 per cent versus 16 per cent, wasting more
+than twice as high (15 per cent versus 7 per cent), and underweight was also more than twice
+as high (24 per cent versus 11 per cent).14 Neonatal mortality rates also remain a concern.
+Other emerging issues include anaemia and obesity, with 6 per cent of children under five
+and 24 per cent of adolescents obese in 2009.15 There is also the risk of HIV and AIDS and
+sexually transmitted infections among young people due to an increase in unsafe sex and
+risky behaviours. Bottlenecks in the enabling environment include negative social norms and
+weak monitoring and quality assurance systems. From the demand side, a preference for
+packaged foods, inadequate child-feeding practices, and, for some, lack of affordable,
+nutritious food, pose key challenges to proper nutrition. On the supply side, system-wide
+challenges include capacity gaps among health staff and low quality of services. Further,
+institutional capacity for coordinated emergency preparedness and response in the health
+sector is weak.
+7. While significant progress has been achieved over the past 15 years in attaining
+universal primary education (99 per cent) and lower secondary education (82 per cent), there
+has been a significant reduction in the rate of transition to higher secondary education (24
+per cent) in 201416, with major societal implications given the growing number of out-of-
+
+8
+
+MHDR 2014.
+Statistics Handbook, Department of National Planning, Ministry of Finance and Treasury, Maldives 2012.
+10
+MHDR 2014.
+11
+Household and Income Survey, 2012.
+12
+Mid-Term Review, Maldives UNICEF country programme, UNICEF 2013.
+13
+‘Youth in the Maldives: Shaping a new future for young women and men through engagement and
+empowerment’, World Bank, 2014.
+14
+Maldives Demographic and Health Survey, 2009.
+15
+Ibid.
+16
+School Statistics 2014, Ministry of Education, Maldives, 2014.
+9
+
+3/15
+
+E/ICEF/2015/P/L.31
+
+school children. The south-central region has the highest mean years of schooling (5.45
+years) compared with the north-central (4.21) and southern (3.45) regions.17 The quality of
+education remains a critical concern at all levels. National assessments indicate poor learning
+outcomes at all levels of education. The average pass rate at lower-secondary level is at 47
+per cent, with major disparities between Malé (58 per cent) and the regions (30 per cent).18
+Children with disabilities have inadequate access to educational opportunities. In 2014, only
+52 out of the 219 schools across the country provided some form of education for children
+with special needs. Support from UNICEF included establishing a baseline and rolling out
+an inclusive school curriculum (2014/15), institutionalizing life skills and improving teacher
+capacity in special education needs.19 However, supply-related bottlenecks to the
+achievement of quality education remain. These include weak teaching and learning
+methodologies, high turnover of secondary schoolteachers, and an ineffective system of
+ensuring proper hygiene and sanitation, especially as it affects girls. In addition, inadequate
+resources for emergency preparedness and lack of capacity of school management and
+teachers to respond is a challenge. Bottlenecks in the enabling environment include the
+difficulty of accessing small and dispersed island populations, inadequate monitoring of
+adherence to national standards, and insufficient advisory/pedagogical support to
+disadvantaged schools.
+8. The most critical child protection issues include violence against children and drug
+abuse among adolescents. Studies reveal that there is a clear correlation between youth
+unemployment and the abuse of drugs and high rates of juvenile crime.20 Low rates of
+educational achievement coupled with limited access to career guidance and life skills
+predispose children to delinquent behaviours and crime. For instance, 61 per cent of juvenile
+offenders reported to the Juvenile Justice Unit (JJU) were school dropouts, with 40 per cent
+of the cases related to drugs and another 18 per cent linked to violent assaults.21 Gang
+violence is on the rise and becoming more brutal. There is growing evidence that a number
+of children involved in criminal behaviour were first in contact with the system after
+themselves having experienced violence. Limited access to recreational and sports
+opportunities is also considered a contributor to the increase in adolescent drug abuse. The
+preliminary results of the National Drug Use Survey – Maldives 2011/2012 show that 48 per
+cent of drug users in Malé are aged 15 to 19 (compared with 18 per cent in the atolls).22
+9. Violence against children exists in the home, school and community. A 2009 study
+indicated that 28 per cent of boys and 19 per cent of girls under age 18 have experienced
+emotional or physical punishment at some point in their lives. 23 Nationally, 15 per cent of
+children attending secondary school reported that they had been sexually abused at least once,
+with prevalence rates among girls double that among boys. The southern region has highest
+rate of unregistered births (14 per cent), highest teenage childbearing rate (3.2 per cent) and
+the largest cohort of children engaged in economically productive work (54.5 per cent).
+According to the Assessment of the Alternate Care Institutions for Children (Ministry of
+Gender and Human Rights, 2013, unpublished), 35 per cent of children are from the southern
+
+17
+
+MHDR 2014.
+‘Human Capital for a Modern Society: General education in the Maldives – An evolving seascape’,
+World Bank, 2012.
+19
+School Statistics 2014, Ministry of Education, Maldives.
+20
+National Drug Use Survey (NDUS) – Maldives 2013, United Nations Office on Drugs and Crime, and
+MHDR 2014.
+21
+Administrative data, Juvenile Justice Unit, Maldives 2014.
+22
+NDUS Maldives 2013.
+23
+‘National Study on Violence against Children in the Maldives’, UNICEF (unpublished, 2009).
+18
+
+4/15
+
+E/ICEF/2015/P/L.31
+
+region. Child protection systems mapping and assessment identified multisectoral systemic
+and enabling environment issues such as lack of comprehensive legislation, tools and
+protocol and implementation guidelines, and weak coordination mechanisms. Supply
+bottlenecks include lack of institutional and human capacity and intersectoral mechanisms to
+provide an efficient and timely response to violence against children, including in
+humanitarian settings; and lack of quality standards and adherence to existing procedures,
+which limit the quality of care. Demand-side barriers include discriminatory attitudes by
+communities towards children who have experienced sexual abuse, lack of awareness and
+the widely accepted belief that issues related to sexual abuse these are ‘family issues’.
+Important pieces of legislation such as the Juvenile Justice Bill and the Child Rights, Child
+Care and Protection Bill are still pending, while enforcement of the Law on the Protection of
+the Rights of the Child (Law No. 9/91) and related provisions in existing legislation is weak.
+Foster care is constrained by the lack of families willing to take on older children.
+10. As the State party Report (2012) noted, children with disabilities continue to face an
+array of obstacles and remain subject to discrimination. The Maldives Operational Review
+2012 noted that teachers lack the skills necessary to work with children with disabilities and
+to detect learning difficulties among students. 24 The impact of poverty has been greatest on
+children, with 18 per cent of the poor being children.25 Despite the country’s achievement of
+‘MDG Plus’ status and the Government’s establishment of a number of social protection
+programmes, there are bottlenecks to social inclusion. These are mostly due to a constrained
+enabling environment, particularly weak generation, analysis and use of data and evidence to
+better target beneficiaries for social protection programmes. Supply bottlenecks include
+abolishment of the coordinating body (Department of National Planning, which housed the
+National Planning Council) in 2014, constrained capacity to analyse and use disaggregated
+data, including data to prepare and implement the humanitarian response. On the demand
+side, inadequate awareness of existing social protection programmes limits the ability of
+disadvantaged groups to make claims.
+11. Given the country’s SIDS profile and the increasing evidence and impact of climate
+change, Maldives is highly vulnerable to natural hazards, particularly coastal flooding, storm
+surges and tsunamis. Land scarcity, coupled with limited utilization options and a growing
+population, also contribute to the country’s vulnerability to multiple hazards. Bottlenecks to
+improving the country’s readiness to deal with disasters include the absence of a childsensitive legal, policy and institutional framework for disaster risk reduction and
+management, and in particular for climate change adaptation, coupled with weak institutional
+capacity.
+12. Both the mid-term review and a recent evaluation of UNICEF country programme
+strategies26 noted that, despite an overly ambitious programme design and the shift to
+upstream advocacy in a challenging political environment with major fiscal challenges, the
+collaboration was able to influence the Government. This was achieved through systematic,
+evidence-based advocacy to prioritize a child-centred equity agenda. Key lessons from the
+last country programme that guided the design of the 2016–2020 programme include: (a)
+
+24
+
+ICPD Beyond 2014, Maldives Operational Review 2012, United Nations Population Fund and
+Department of National Planning, Maldives, 2012.
+25
+Situation of Children in the Republic of Maldives: Secondary analysis of existing information from an equity
+perspective, UNICEF, 2013
+26
+Evaluation of UNICEF Strategies in Addressing issues Affecting Women and Children in the Maldives,
+2015, UNICEF Maldives.
+
+5/15
+
+E/ICEF/2015/P/L.31
+
+sustained engagement with the Government to leverage evidence, policies, programmes and
+budgets to close equity gaps is critical to the mandate of UNICEF in a middle-income country
+context; (b) intersectoral collaboration among key social sectors is crucial in tackling
+common barriers to addressing the deprivations that children face. For instance, for the
+Ministry of Education (MOE), Ministry of Law and Gender (MOLG), Maldives Police
+Service (MPS) and JJU, working together was more efficient and effective in addressing
+child protection issues; (c) reinforcing strategic partnerships between the Government and
+civil society organizations, enhanced capacity for social accountability, monitoring and
+reporting on equity in service quality and coverage.
+
+Programme priorities and partnerships
+13. The overall goal of the country programme is to support the Government of Maldives
+to reduce inequities and disparities and achieve the progressive realization of the rights of all
+children, especially the most vulnerable. In line with the national development priorities of
+the country, UNICEF contributes to the United Nations Development Assistance Framework
+(UNDAF) 2016–2020, particularly Outcome 1: Children and youth access and use equitable,
+inclusive and quality social services, and have increased opportunities for skills
+development. In line with the UNICEF Strategic Plan 2014–2017, the programme will
+leverage the organization’s convening role to build partnerships with key social sectors and
+partners at all levels. The programme design adopts an evidence-based, policy advocacy and
+institutional strengthening approach in addressing the barriers that affect the most
+disadvantaged.
+14. Partnerships with various entities will be developed in order to leverage resources and
+results for children: (i) United Nations agencies under the UNDAF, for instance, with the
+United Nations Educational, Scientific and Cultural Organization (UNESCO) in promoting
+vocational skills development for out-of-school adolescents; the World Bank in social
+protection systems and public expenditure reviews; the World Health Organization (WHO)
+and the United Nations Population Fund (UNFPA) in health systems strengthening; and the
+United Nations Development Programme (UNDP) in environment and climate change
+issues; (ii) non-governmental organizations (NGOs) to support strengthening systems at the
+local island level, monitor and report on results; and advocate for the rights of children; (iii)
+private sector for policy advocacy and leveraging resources, tapping into the country’s
+profitable tourism industry to increase results for children; and (iv) other government entities
+to help to promote an equity agenda for children. The country office will also develop and
+implement a strong resource mobilization strategy that focuses on private sector partnerships.
+15. The country programme will incorporate gender equality and implement the UNICEF
+Gender Action Plan by addressing social and cultural norms with corresponding interventions
+using an equity-focused approach. The country programme will focus on two outcomes, as
+stipulated in the text that follows.
+16. Outcome 1: Inclusive, equitable and quality social services for children (and
+adolescents), especially the most disadvantaged and vulnerable are improved by 2020.
+
+Child health, nutrition, and HIV and AIDS
+17. The UNICEF focus in this programme area will cover neonatal and child health and
+development, and child, adolescent and maternal nutrition. This is consistent with both
+national priorities and responses aimed at reducing malnutrition, neonatal mortality and child
+
+6/15
+
+E/ICEF/2015/P/L.31
+
+morbidity rates, with a focus on high-prevalence regions. Output results include: (i) a
+comprehensive mechanism for child and adolescent nutrition interventions strengthened,
+especially in regions with high malnutrition rates; (ii) policies and strategies for
+implementation and monitoring of inclusive and equitable child health programmes
+developed and implemented.
+18. The programme will focus on strengthening institutional capacity for child, adolescent
+and maternal nutrition interventions and integrating hygiene promotion and safe water use;
+developing policies, frameworks and capacity on neonatal and child health and
+immunization; and developing national systems to address micronutrient deficiencies and
+HIV and AIDS. Additionally, UNICEF will support systems strengthening for generation
+and use of disaggregated data, which will be used to monitor results and to inform gendersensitive policies and strategies. Support will be provided to strengthen capacity and
+coordination for health emergency preparedness and response. UNICEF will partner with
+local NGOs to promote nutrition at community and family levels and advocate for quality
+services; and with WHO and UNFPA in health systems strengthening, newborn care and
+immunization.
+
+Education and water, sanitation and hygiene
+19. The focus in the quality education and water, sanitation and hygiene (WASH)
+programme emphasizes inclusive and alternative education for the most disadvantaged and
+vulnerable children and adolescents, consistent with government education policies and
+priorities of addressing the poor quality of education at all levels. The correlation between
+poor educational achievement and delinquency and crime will be addressed through crosssectoral linkages between MOLG and the Ministry of Youth and Sport (MOYS). In addition,
+support will be provided to MOE to operationalize school improvement and the quality
+assurance and accountability framework (SIQAAF), and to institutionalize life skills at all
+levels of the national curriculum, and technical vocational education and training
+programmes at the lower secondary level. The priorities under this outcome include: (i)
+strengthen implementation and monitoring of an inclusive, child- and gender-sensitive
+curriculum; (ii) establish and operationalize an alternative education system for the most
+vulnerable children.
+20. Partnerships will be enhanced with UNESCO (to promote vocational skills
+development for out-of-school adolescents) and the World Bank (to improve education
+quality). UNICEF will focus on strengthening institutional capacity for implementation of
+the SIQAAF, and generation and use of data for monitoring quality education, including
+learning achievements and education in emergencies. In partnership with the Ministry of
+Health (MOH), UNICEF will strengthen integration of hygiene and sanitation in educational
+settings. Further, partnerships will be developed with the private sector, particularly in skills
+development for out-of-school children. In partnership with the National Disaster
+Management Centre (NDMC), education sector planning and coordination in emergencies
+will be strengthened, to ensure continuation of quality education during emergencies.
+
+Child protection
+21. The child protection programme will aim to create a holistic child protection system at
+national and community levels to prevent, protect and respond to violence against children.
+Addressing the principal bottlenecks, the priorities include (i) child protection system
+effectively prevents and responds to violence against children and children in conflict with
+
+7/15
+
+E/ICEF/2015/P/L.31
+
+the law, and prevents drug abuse; and (ii) an effective national coordination and monitoring
+mechanism operational for timely response to violence against children and children in
+conflict with the law.
+22. By adopting a systems approach, the programme will support the Government to
+establish a national multisectoral coordination mechanism to monitor the effectiveness of
+policies, programmes and services, and outline the accountabilities of duty-bearers across
+relevant sectors. In addition, it will strengthen institutional capacity at the national, atoll and
+community levels and create a framework for provision of psychosocial support to children
+who have experienced abuse. Furthermore, capacity will be strengthened at the MOLG and
+Family and Child Service Centres to establish a continuum of care. Institutions at island
+community level will be strengthened to address negative beliefs, attitudes and practices and
+build capacity for humanitarian response. Partnerships will be forged with NGOs to
+strengthen systems at the local island level, to monitor and report on results and advocate for
+children’s rights; and with the private sector for policy advocacy and leveraging resources.
+23. Outcome 2: Evidence generated for policy advocacy for inclusion in social services by
+2020
+
+Social inclusion
+24. The social inclusion programme includes a strategic approach to addressing
+multidimensional poverty and its attendant deprivations and vulnerabilities. The programme
+aligns with the Government’s focus on strengthening systems for social inclusion, which
+includes detailed analyses and use of disaggregated data for policy responses to child poverty.
+To achieve this, three outputs have been articulated; (i) Systems for generating evidence are
+strengthened at national and subnational levels for inclusive and equitable policies, plans and
+services, especially for the most disadvantaged; (ii) Social protection systems are
+strengthened to improve the focus on the most vulnerable, and (iii) Child- and gendersensitive disaster resilience and climate change adaptation plans and programmes are
+institutionalized and operational at national and subnational levels.
+25. The programme interventions will include strengthening national and subnational
+capacities for generation and use of data and evidence for policymaking, planning and
+programme development, and periodic analyses of data on inequities, including climatically
+vulnerable populations and advocacy on inclusive policies and strategies. Further, support
+will focus on institutional capacity for equitable social protection schemes with functional
+coordination and monitoring mechanisms. Additionally, the programme will promote child
+and gender-sensitive resilience and climate change adaptation, notably by supporting the
+integration of child-centred, multi-hazard risk assessments into development plans at national
+and local levels. It will also support establishment of a national council to promote and
+monitor national policies and programmes on disaster and climate resilience. Partnership will
+be sought with the World Bank to strengthen social protection systems and conduct public
+expenditure reviews, working with the National Social Protection Agency and the National
+Bureau of Statistics (NBS).
+
+Choice and mix of strategies
+26. While the country programme utilizes a combination of sectoral and intersectoral
+approaches, it is conceived as an integrated whole, with each sectoral component
+incorporating good practices and initiatives for scale up. Each outcome contributes to the
+
+8/15
+
+E/ICEF/2015/P/L.31
+
+relevant UNDAF outcome area and the UNICEF Strategic Plan 2014–2017. The
+interventions seek to influence actions at national and subnational levels of Government with
+an emphasis on equity. A human rights-based approach and gender lens have been used in
+the development of this programme and will be applied in its implementation.
+27. Key implementation strategies include capacity development aimed at strengthening
+institutional and human capacities, evidence generation and use for advocacy and policy
+dialogue, and integration and cross-sectoral linkages employed to create programmatic
+synergies and systems for holistic results for children. In addition, South-South and triangular
+cooperation will be facilitated to share best practices and promote learning. A strong focus
+will also be placed on the identification and promotion of innovation, especially in reaching
+marginalized and disadvantaged small populations in remote islands. Finally, the country
+programme will focus on creating strategic partnerships with the private sector, particularly
+the tourism industry, for technical and vocational skills development and adoption and
+monitoring of child rights business principles.
+Summary budget table
+
+Programme component
+
+(In thousands of United States dollars)
+Regular
+Other
+resources
+resources
+Total
+
+Health, nutrition and HIV/AIDS
+Education and water, sanitation and
+hygiene
+Child protection
+
+1 085
+
+1 054
+
+2 139
+
+616
+
+1 628
+
+2 244
+
+1 079
+
+1 200
+
+2 279
+
+Social inclusion
+
+944
+
+889
+
+1 833
+
+Cross-sectoral
+
+525
+
+252
+
+777
+
+4 249
+
+5 023
+
+9 272
+
+Total (rounded)
+
+Programme and risk management
+28. This country programme document outlines the contributions made by UNICEF to
+national results for children in Maldives. It serves as the primary unit of accountability to the
+Executive Board for alignment of results and resources assigned to the programme at country
+level. Accountabilities of managers at the country, regional and headquarter levels with
+respect to country programmes are prescribed in the organization’s programme and
+operations policies and procedures. Through the harmonized approach to cash transfers
+(HACT) framework, UNICEF will focus on ensuring a risk-informed programme and an
+emphasis on programme monitoring.
+29. In recognition of the country’s middle-income status, management of the programme
+is firmly anchored in an upstream strategy that underscores all component results. The
+programme is results-based, which corresponds to the importance the Government places on
+achieving results, as embodied in the UNDAF. The programme approach facilitates interagency coordination through the mechanism of the UNDAF Steering Committee (co-chaired
+by the Ministry of Foreign Affairs (MOFA) and the Resident Coordinator’s Office), and four
+Outcome Technical Committees organized under the following outcome areas: children and
+
+9/15
+
+E/ICEF/2015/P/L.31
+
+youth; gender; governance; and environment and climate change. UNICEF co-chairs
+outcome 1 (children and youth) with MOE and MOYS. UNICEF will promote integration of
+sectors and activities through joint programming, and monitoring by the Government and
+concerned United Nations agencies. The management approach also recognizes the
+decentralized governance structure in Maldives, and will accordingly coordinate its
+programmes at the atoll and island levels.
+30. The principal risks fall largely in the area of governance. Frequent changes in
+Government and a decentralization programme that appears to have an unclear future have
+left accountabilities among and between national-level actors and devolved governments
+unclear. As a result, the implementation of policies and programmes, especially for the most
+vulnerable populations, is often constrained. Policy inconsistencies have resulted in an
+untapped potential for corporate social responsibility by the private sector, while the
+significant increase in public debt and deficit is deemed to have an impact on budget
+allocations, which affects all Maldivians – especially those most vulnerable. At just 1.5
+metres above sea level, the country is always one major storm away from significant adversity
+and possibly a major disaster. Mitigation measures include: monitoring of results and
+sustained evidence-based advocacy with policymakers; promotion of partnerships,
+particularly with the private sector and coalitions at all levels of Government that support the
+achievement of equitable outcomes for children; diversifying and leveraging funding sources;
+closely monitoring implementation of the HACT; continuous monitoring of results through
+field visits and periodic reviews and evaluations; and strengthening risk-informed
+development planning, including early warning mechanisms, emergency preparedness and
+response.
+31. The United Nations country team will establish relevant mechanisms to coordinate
+planning, implementation, monitoring and evaluation of the UNDAF. To operationalize the
+country programme, annual workplans will be developed together with government partners
+and, where appropriate, jointly with other United Nations agencies.
+
+Monitoring and evaluation
+32. Systematic analysis and monitoring of the rights of children is a critical element in the
+country programme planning-to-learning and knowledge management cycle. It will further
+collaboration with the existing structures and institutions, such as the NBS, the relevant
+ministry departments of planning, and academic institutions such as the Maldives National
+University. Evidence for policy dialogue with partners will be generated from research and
+analysis of bottlenecks, sector assessments and updates to the situation of children, as well
+as from performance monitoring. Engagement by UNICEF partners at the national and
+subnational levels in programme planning, implementation and monitoring is intended to
+develop their capacities for social accountability for child rights, particularly among the most
+vulnerable.
+33. Data from the 2014 census, the 2016 Household Income and Expenditure Survey, the
+2015 Demographic and Health Survey, the MaldivInfo database and other administrative
+sources will be strengthened and mined to profile the deprivations faced by children and
+leverage national resources to close the equity gaps.
+34. The Monitoring Results for Equity System will be used to systematically monitor the
+situation of children and adolescents and reduction of disparities and inequities, including
+bottlenecks that hinder the achievement of results. In close collaboration with the MOFA
+
+10/15
+
+E/ICEF/2015/P/L.31
+
+under the UNDAF, and with key line ministries, regular programme reviews will be
+conducted to identify progress and barriers and make adjustments.
+35. In alignment with the UNDAF, the Integrated Monitoring and Evaluation Plan will
+identify and track studies, surveys and evaluations. Together with the UNDAF Steering
+Committee and technical groups, UNICEF will monitor the UNDAF and its outcome results,
+and report on its contribution in coordination with partners. A fully costed Evaluation Plan
+is annexed to this CPD. The programme will track and document progress against planned
+results through annual and mid-term reviews.
+
+11/15
+
+E/ICEF/2015/P/L.31
+
+Annex
+Results and resources framework
+Maldives – UNICEF country programme of cooperation, 2016–2020
+Convention on the Rights of the Child: Education: articles: 28 & 29: Health & social security: 6, 23-24, 26: Protection: 9, 19-20, 25, 33-34, 36-37, 39-40
+Millennium Development Goals: 1, 2, 3, 4, 5 and 7
+Global/Regional Partnerships: A Promise Renewed (child survival); Every Newborn action plan; Rome Declaration on Nutrition;
+South Asian Association for Regional Cooperation (SAARC): South Asia Call for Action on Ending Violence against Children; SAARC Social Charter
+National priorities: Government of Maldives Manifesto 2013
+UNDAF outcomes involving UNICEF contribution:
+ Outcome 1: By 2020, children and youth access and use equitable, inclusive and quality social services, and have increased opportunities for skills
+development.
+Outcome indicators1
+o % of children who are malnourished in the selected high-prevalence regions (National prevalence used as proxies)
+ i. Stunted under-five (U5): Baseline (B)= 18.9% , Target (T)= <15%
+ ii. Wasted U5: B= 10% U5, T= <5%
+ iii. Overweight/obese U5: B= 7%, T= <5%.
+ iv. Overweight/obese adolescents girls aged 15–19 years: B= 23.5%, T= < 15%
+o Neonatal mortality rate: B= 6 deaths per 1,000 live births, T= 2 deaths per 1,000 live births
+o % children fully immunized for vaccine-preventable diseases mandated by the national immunization schedule: B= 93%, T= 98%;
+o % of students passing five or more subjects in their secondary school completion examinations: B= 48% (2013). T= 60% (2020)
+o % of atolls with functional child protection systems: B= 0, T= 50%
+ Outcome 2: By 2020, gender equality advanced and women empowered to enjoy equal rights and opportunities in access to social, economic and political
+opportunities.
+Outcome indicators
+o % of men and women who think that a husband or partner is justified in hitting or beating a wife or partner under certain circumstances: B= Men:
+25.7%, Women:45.1%, T= Men: 20%, Women: 40%
+ Outcome 3: By 2020, citizen expectations for voice, sustainable development, the rule of law and accountability are met by stronger systems of democratic
+governance.
+Outcome indicators
+o % increase in budget allocated for children by sectors: B= 0, T= 10%
+o Number of sectors with functional child-sensitive monitoring data systems: B=2, T= 9
+
+1
+
+12/15
+
+Maldives Demographic and Health Survey (MDHS), 2009.
+
+E/ICEF/2015/P/L.31
+
+
+
+Outcome 4: By 2020, growth and development are inclusive and sustainable, increase resilience to climate change and disasters, and contribute to
+enhanced food, energy and water security and natural resource management
+Outcome indicators
+o Number of sectors that have DRR (disaster risk reduction), climate change adaptation and resilience integrated into relevant sectoral plans and/or
+strategies: B= 0, T= 7
+
+Related UNICEF Strategic Plan outcome(s): Strategic Plan 2014–2017
+Outcome 1: Health; 2: HIV; 3:WASH; 4: Nutrition; 5: Education; 6: Child protection; 7: Social inclusion
+UNICEF outcomes
+
+OUTCOME 1:
+Inclusive equitable
+and quality social
+services for children
+(and adolescents),
+especially the
+disadvantaged and
+vulnerable are
+improved by 2020
+
+Key progress
+indicators, baselines2
+and targets3
+
+1. % of children under
+five who are
+malnourished in
+selected regions with
+high prevalence of
+malnutrition.
+i. Stunted: U5. B=
+18.90%, T= <15%.
+ii. Wasted U5: B= 10%,
+T= <5%
+iii. Overweight
+/obese U5: B= 7%,
+T= <5%.
+iv. Overweight/obese
+adolescent girls aged
+15–19 years: B=
+23.5%, T= < 15%
+(National prevalence
+used as proxies)4
+
+Means of
+verification
+
+Monthly
+Reports;
+Health
+Management
+Information
+System;
+Demographic
+and Health
+Surveys
+
+Indicative country
+programme outputs
+
+Comprehensive mechanism
+for child and adolescent
+nutrition interventions
+strengthened, especially in
+the regions with high
+malnutrition rates.
+Policies and strategies for
+implementation and
+monitoring of inclusive and
+equitable child health
+programmes developed and
+implemented.
+
+Major partners,
+partnership
+frameworks
+
+NGOs/communitybased organizations
+(CBOs) for
+behaviour change
+communication in
+maternal and child
+nutrition; WHO on
+newborn care and
+immunization
+
+Indicative resources by CP
+outcome (in thousands of
+US dollars)
+RR
+
+OR
+
+TOTAL
+
+2 780
+
+3 882
+
+6 662
+
+2
+
+Baselines are 2014 unless otherwise stated.
+Targets are for 2020 unless otherwise stated.
+4
+MDHS, 2009.
+3
+
+13/15
+
+E/ICEF/2015/P/L.31
+
+2. % of schools meeting
+quality standards
+consistent with childfriendly, inclusive
+gender-sensitive
+quality education.
+B= 5%,
+T= 40%
+3. % of out-of-school
+adolescents (girls and
+boys) completing
+alternative education
+programme.
+B= Girls: 0%,
+Boys: 0%,
+T= Girls: 50%
+Boys: 50%
+
+MOE/School
+Annual reports
+
+Strengthen implementation
+and monitoring of inclusive,
+and gender-sensitive
+education.
+
+Education
+Management
+Information
+System
+
+Alternative education system
+for the most vulnerable
+children established and
+operational.
+
+4. Percentage of atolls
+with functional child
+protection system.
+B= 0%
+T= 50%
+
+Sectoral Annual
+reports; Review
+reports
+
+Child protection system
+effectively prevents and
+responds to violence against
+children and children in
+conflict with the law, and for
+prevention of drug abuse.
+Effective national
+coordination and monitoring
+mechanism operational for
+timely response to violence
+against children and children
+in conflict with the law.
+
+OUTCOME 2:
+Evidence generated
+for policy advocacy
+for inclusion in
+
+14/15
+
+1. Number of sectors
+with fully functional
+child-sensitive
+monitoring and data
+systems
+
+Sector agency
+reviews/reports
+
+Systems for generating
+evidence and monitoring are
+strengthened at national and
+sub-national levels for
+inclusive and equitable
+
+MOE and Ministry
+of Environment and
+Energy on WASH;
+World Bank and
+MOE on quality
+education;
+UNESCO and
+MOYS on
+alternative
+education for outof-school children
+
+Collaboration with
+CBOs/NGOs to
+support vulnerable
+children;
+partnership with
+MOLG, MPS, Atoll
+and Island
+Councils, JJU, and
+Juvenile Court, for
+prevention and
+responding to
+violence against
+children and
+children in conflict
+with the law.
+Ministry of Finance
+and Treasury, Local
+Government
+Authority (LGA),
+
+944
+
+889
+
+1 833
+
+E/ICEF/2015/P/L.31
+
+social services by
+2020
+
+Cross-sectoral
+
+B= 2 (2015); T= 9
+
+2. Percentage of
+vulnerable children
+and adolescents
+benefiting from social
+protection schemes.
+B=0%, T=40%
+3. Number and
+proportion of islands
+with child-centred
+disaster management
+(DM) plans.
+B= 12 (6%) (2015)
+T = 94 (50%)
+Number of childcentred cross sectoral
+events
+B=3; T= 10
+
+policies, plans and services,
+especially for the most
+disadvantaged.
+Social protection systems
+strengthened to improve the
+focus on the most vulnerable.
+
+NBS, MOE, MOH,
+MOLG.
+
+Sector agency
+reports/
+publications
+
+Child- and gender-sensitive
+disaster-resilient and climate
+change adaptation plans
+institutionalized and
+operational at subnational
+levels.
+
+LGA, NDMC,
+NGOs, relevant
+sectors, Atoll and
+Island Councils
+
+Annual reports
+
+Media and partnerships
+established and effectively
+promote child rights with a
+focus on equity.
+
+Media, private
+sector, NGOs,
+ministries and
+communities
+
+Survey reports
+Sector reports/
+publications
+
+TOTAL
+
+525
+
+252
+
+777
+
+4 249
+
+5 023
+
+9 272
+
+_______
+
+15/15
+
+

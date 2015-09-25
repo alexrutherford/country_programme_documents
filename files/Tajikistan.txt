@@ -1,0 +1,1156 @@
+E/ICEF/2015/P/L.17
+
+United Nations
+
+Economic and Social Council
+
+Distr.: Limited
+10 August 2015
+Original: English/French/Spanish
+For decision
+
+United Nations Children’s Fund
+Executive Board
+Second regular session 2015
+8-10 September 2015
+Item 4 (a) of the provisional agenda*
+
+Country programme document
+Tajikistan
+Summary
+The country programme document (CPD) for Tajikistan is presented to the
+Executive Board for discussion and comment. The CPD includes a proposed aggregate
+indicative budget of $13,645,000 from regular resources, subject to the availability of
+funds, and $23,690,000 in other resources, subject to the availability of specific purpose contributions, for the period 2016-2020.
+In accordance with Executive Board decision 2014/1, the present document
+reflects comments made by Executive Board members on the draft CPD that was
+shared 12 weeks before the second regular session of 2015.
+
+* E/ICEF/2015/12.
+
+E/ICEF/2015/P/L.17
+
+Programme rationale
+1. Tajikistan is the only-low income country in the Central and Eastern Europe and the
+Commonwealth of Independent States region (gross national income [GNI] per capita of
+$990 in 2013),1 with an economy heavily reliant on remittances from migrant labourers (47.5
+percent of gross domestic product [GDP]).2 This makes the country and its children, who
+represent over 42 percent of the population, vulnerable to external shocks, such as the global
+crisis of 2008 and the recent depreciation of the Russian rouble.
+2. While overall income poverty has fallen significantly, from 96 per cent in 1999 3 to 32
+per cent in 2015,4 childhood deprivation remains widespread: a Multiple and Overlapping
+Deprivation Analysis based on the 2012 Demographic and Health Survey (DHS) shows that
+as many as 89 per cent of children aged 0-4 face at least one deprivation, with 35 per cent
+suffering from three or more deprivations in the dimensions considered by the study. 5
+3. The children of Tajikistan are also highly vulnerable to natural and man-made disasters,
+which include frequent earthquakes, mudflows, landslides, floods and internal and external
+tensions that pose threats to peace and stability.6 The ability of the Government to respond to
+humanitarian crises is limited, and household resilience is constrained partly as result of
+widespread labour migration. 7
+4. While infant and under-five mortality have declined and are now 41 and 48 per 1,000
+live births, respectively,8 for many young children, the right to survival remains at risk, with
+significant disparities by wealth and geographical location. Neonatal mortality is stagnating
+at 22 per 1,000 live births.9 A 2013 study revealed that the majority of facility-based infant
+deaths are preventable. The failure to identify disabilities and developmental delays at an
+early stage results in missed opportunities. Based on World Health Organization estimates of
+the global prevalence of childhood disability, the number of children with disabilities (CWD)
+in Tajikistan is probably much higher than the 26,000 officially registered.
+5. A determinant analysis conducted with partners according to the Monitoring Results
+for Equity System (MoRES), shows the need to improve the management of childhood
+illnesses, perinatal care, capacity of health professionals and the availability of essential
+equipment and drugs. An important bottleneck is the low Government spending on health
+which, at 1.9 percent of GDP in 2013,10 is leading to high out-of-pocket expenditure and
+undermining the sustainability of priority programmes in maternal and child health (MCH).
+Financial barriers, along with uneven geographical availability of services, result in persistent
+inequity in access to health care. Shortfalls in State funding and insufficient MCH
+
+1
+
+GNI per capita, Atlas method (current US$), 2013 - http://data.worldbank.org/country/tajikistan.
+Personal remittances, received (percentage of GDP), 2012:
+http://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS.
+3
+Based on a country-specific poverty line: http://data.worldbank.org/country/tajikistan.
+4
+Government of Tajikistan statistics (TAJSTAT). Продовольственная безопасность и бедность №3 –
+Агентство по статистике при Президенте Республики Таджикистан, 2014:
+http://stat.tj/ru/img/f847a858478260b1abcc6681d6a07473_1419327489.pdf
+5
+Dimensions: Health, Nutrition, Education, Child Protection, Water, Sanitation, Housing, Information.
+6
+Central Asia Multi-Hazard Risk Report. Maplecroft, 2014.
+7
+The Impact of Labour Migration on Children and Families Left Behind. UNICEF, 2011.
+8
+Inter-agency Group for Child Mortality Estimation, at
+http://www.childmortality.org/index.php?r=site/graph#ID=TJK_Tajikistan
+9
+Ibid.
+10
+Ministry of Health and Social Protection of the Population (MoHSPP).
+2
+
+2/17
+
+E/ICEF/2015/P/L.17
+
+management capacities, particularly at the subnational level, also affect the quality of care.
+The polio outbreak in 2010 was an indication of such gaps in the health system.
+6. The prevalence of malnutrition among under 5 children remains high, at 26 per cent
+forchronic and 10 per cent for acute cases; boys and girls are equally affected. Many women
+and children also suffer from micronutrient deficiencies, particularly high rates of anaemia
+and iodine deficiency. Only 39 per cent of households consume adequately iodized salt. 11 A
+2012 study estimated that malnutrition costs Tajikistan $41 million annually in economic
+losses, most of which could be prevented through cost-effective interventions, such as
+universal salt iodization, promotion of good child feeding practices and management of
+severe acute malnutrition.12
+7. At the end of 2013, there were 365 children confirmed as having HIV. There is concern
+about the rising number of women and children infected and the increasing proportion of
+cases transmitted sexually or without known cause of infection. Tajikistan is also a highburden country for multidrug-resistant tuberculosis (TB), with high TB/HIV co-morbidity.
+TB is indeed a major but often unrecognized cause of disease and death among children.
+8. Children are not receiving sufficient support for early learning and school readiness in
+the home environment. Pre-primary education is not compulsory and access is extremely
+limited: the net enrolment rate (ages 3-6) was 11 per cent in 2014, the lowest in the region.
+Enrolment remains biased towards children from urban and wealthier families.
+9. Regarding education, out of school children included 3.9 per cent of those 7-10 years
+old (as of 2014), and 5.7 per cent of those 11-15 years old (as of 2011).13 At lower secondary
+level, 9.1 per cent of girls were out of school, compared to 2.4 percent of boys. 14 CWD are
+among the most marginalized, with only 19 per cent of those 7-18 years old attending
+mainstream schools.15
+10. While the Government has initiated curriculum reform to shift the focus from
+knowledge to competencies and mainstreaming life skills-based education, learning
+achievement needs improvement: reading comprehension is low in early grades,16 and there
+is also no systematic measurement of learning outcomes.
+11. Adolescents have huge potential to contribute to development but face significant
+challenges, including the fact that public services are of poor quality and are not tailored to
+their needs. Perceiving education to be of limited relevance and faced with its poor quality,
+a significant number of children do not continue beyond the compulsory grades 1-9.
+Adolescents have challenges in accessing health services that are unaffordable, have low
+quality and are not ‘youth-friendly’. Children’s limited life skills, leave them ill-prepared for
+their future, including as parents. Livelihood options are limited for young people,
+
+11
+
+DHS, 2012.
+Situation Analysis - Improving economic outcomes by expanding nutrition programming in
+Tajikistan. World Bank/UNICEF, 2012.
+13
+United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Statistics,
+2015, at http://data.uis.unesco.org/
+14 UNESCO Institute for Statistics, 2015, at http://data.uis.unesco.org/
+15 Ministry of Education and Science, Education Management Information System (2014) and
+MoHSPP Data on Registered Persons with Disabilities (2013).
+16 United States Agency for International Development, Kyrgyzstan and Tajikistan Early Grade
+Reading Review, 2011, at
+http://www.gem2.org/sites/default/files/Early%20Reading%20Report_FINAL%20draft%2011232
+011.pdf
+12
+
+3/17
+
+E/ICEF/2015/P/L.17
+
+particularly women, ethnic minorities and persons with disabilities. As a result, many boys
+see labour migration as their only option, while many girls focus on marriage and
+motherhood, thereby contributing to high levels of early marriage and pregnancies.
+12. There is an apparent increase in the number of suicides among young people. The
+estimated average yearly rate for the Sughd Region, for example, is 13.4 per 100,000 for girls
+and 10.9 for boys aged 12–24. Identified determinants include domestic violence, loss of a
+loved one and unjust blame. In addition, mental health services are underdeveloped, with no
+specialized services for young people.17
+13. The voices of adolescents go largely unheard in public and in private domains,
+particularly for girls. Rights awareness and political participation are limited. Corruption in
+service delivery is a big concern for adolescents. 18 Youth in Tajikistan face higher rates of
+illiteracy and unemployment, and poorer health than did the previous generation. Lack of
+opportunities and limited space for participation in decision-making place youth at risk.
+14. Children do not yet benefit from an integrated, comprehensive social protection system
+comprising complementary benefits and services. Benefits are small, poorly targeted,
+inefficiently managed and limited in coverage, reaching only 11per cent of poor households.
+Social assistance accounts for only 0.5 percent of GDP, the lowest level in the region. 19 Key
+bottlenecks include the fact that services that are patchy and reach only a fraction of those
+eligible,20 and community-based services and the social work profession are poorly
+developed. At the same time, inadequate social protection increases the risk of
+institutionalization for CWD and children from poor families.
+15. The number of children in residential care institutions has changed little, with an
+estimated 278 children under three institutionalized as of February 2013. A 2014 rapid
+assessment showed that the vast majority of children in institutions were placed there because
+of economic or social determinants. CWD and girls are more likely than others to be
+institutionalized. Key bottlenecks in the child protection system relate to identification,
+assessment, referral and gate-keeping systems, and case management.
+16. Juvenile offending increased from 625 cases in 2012 to 800 cases in 2014,21 but the
+number of convicted juveniles declined from 504 to 441 in the same period. 22 However, the
+number of juveniles serving prison sentences has grown since 2012, despite the fact that most
+crimes are property-related and committed by first-time offenders. The number of children
+referred to juvenile justice alternatives remains small. Children in conflict with the law are at
+risk of ill-treatment, particularly during arrest and initial inquiry.
+17. A key lesson learned during the 2010-2015 country programme was that the rights areas
+covered were too broad, while the geographical targeting was overly narrow. The programme
+focused on priority districts with high levels of childhood deprivation, with the aim of
+delivering results for disadvantaged children by integrating child rights into local planning
+
+17
+
+UNICEF, Study on Prevalence and Dynamics of Suicide among Children and Young People (12-24
+years of age) in Sughd Region, Tajikistan, 2013, at
+http://www.unicef.org/tajikistan/Suicide_Study_Report_for_WEB_ENG(1).pdf.
+18The Report of the High-Level Panel of Eminent Persons on the Post-2015 Development Agenda.
+Tajikistan, 2013.
+19 World Bank, Analysis of the Safety Nets in Tajikistan, 2014.
+20 European Union, 2012.
+21 Government of Tajikistan Ministry of the Interior, 2014.
+22 Government of Tajikistan Ministry of Justice, 2014.
+
+4/17
+
+E/ICEF/2015/P/L.17
+
+processes, strengthening local capacity to monitor child rights and modeling innovations for
+national scale-up. This strategy was not entirely successful. Given the limited resources,
+delivering demonstrable results for children across a range of child rights indicators proved
+too ambitious. In addition, focusing programme implementation on a limited number of
+districts did not do justice to the wide geographical variation in childhood deprivations. The
+2016-2020 country programme will continue to work at district level to model innovations
+and respond to specific childhood deprivations, but will not focus the entire country
+programme on select priority districts.
+18. The midterm review of the 2010-2015 country programme concluded that the
+programme’s approach to water, sanitation and hygiene (WASH) in schools had significant
+shortcomings in terms of effectiveness, efficiency and sustainability, and that it did not
+succeed in establishing an affordable model for WASH infrastructure viable for national
+scale-up. The support for construction and supplies in WASH in schools was thus
+discontinued, and the programme re-focused on promoting hygiene-related life skills.
+19. The MTR also concluded that a sectorally focused results framework could inhibit the
+cross-sectoral linkages required to deliver results. Therefore, the 2016-2020 country
+programme will take a life-cycle approach, to ensure that child rights in different phases of
+childhood are promoted in a holistic manner.
+20. The 2010-2015 country programme also revealed the importance of addressing child
+rights issues for adolescents, who have enormous potential to contribute to the realization of
+child rights, as demonstrated through youth-led studies and communication for social change.
+Therefore, rights issues for adolescents will be addressed comprehensively and youth
+participation pursued as a central programme strategy.
+
+Programme priorities and partnerships
+21. The overall aim of the country programme is to accelerate progress towards the
+realization of the rights of all children, with special attention given to closing equity gaps at
+different stages of the life cycle. UNICEF will share its expertise with both the Government
+of Tajikistan and civil society to support efforts to implement the Concluding Observations
+of the Committee on the Rights of the Child and the Committee on the Elimination of
+Discrimination against Women, as well as efforts towards ratification and implementation of
+the Convention on the Rights of Persons with Disabilities.
+22. The new country programme is aligned with key Government of Tajikistan policies and
+strategies, in particular the National Development Strategy, the Living Standards
+Improvement Strategy and relevant sector strategies and policies. The programme of
+cooperation is anchored in the 2016-2020 three thematic areas of the United Nations
+Development Assistance Framework (UNDAF) and contributes directly to five of the six
+UNDAF outcomes. The programme results are also aligned with the UNICEF Strategic Plan
+and Gender Action Plan for 2014-2017 and will contribute to the post-2015 Sustainable
+Development Goals.
+Surviving and thriving in the early years
+23. The first programme component will focus on ensuring the best possible start in life for
+children. It will aim to increase quality coverage of high-impact, evidence-based health,
+nutrition and early childhood development interventions that allow children to survive and to
+develop socially, emotionally, physically and intellectually. The programme will pay special
+
+5/17
+
+E/ICEF/2015/P/L.17
+
+attention to the first 1,000 days, which have lifelong implications. This component will
+promote children’s rights to survival and development, to health, including being born free
+of HIV, and to comprehensive well-being. It will aim to reduce equity gaps for children in
+underserved areas and CWD.
+24. Key bottlenecks mentioned above, which threaten to hamper child survival and
+development in the early years, are insufficient allocation of public finances and
+inefficiencies in public expenditure. This programme component will strengthen equityfocused planning, budgeting and public financial management in favour of essential maternal
+and child and newborn health, nutrition, immunization, and other early childhood
+development interventions. UNICEF will play a brokering role among the Government,
+United Nations agencies and civil society to contribute to health sector financial reform,
+aiming for sustained gains toward universal health coverage.
+25. A second set of bottlenecks relates to the willingness and ability of caregivers and
+communities to adopt healthy behaviours and appropriate nutrition and care practices, as well
+the capacity of policymakers and service providers to create an enabling environment for this.
+This programme component, in collaboration with the media and civil society, will support
+caregivers and communities to improve infant and young child feeding and maternal nutrition
+practices, immunization uptake, treatment of childhood illnesses and early care for child
+development. The capacity of front-line service providers will be strengthened. Special
+attention will be given to CWD, children living with HIV and tuberculosis, and children in
+remote rural areas. Communication for social change will help in addressing social norms,
+practices and beliefs that hinder child-friendly behaviours and practices.
+26. The third bottleneck is the quality of maternal, newborn and child health services. The
+new country programme will continue to contribute to improving the quality of care, through
+technical assistance and capacity-building. This entails strengthened infection control in
+maternal, neonatal and child health services, system-strengthening for immunization services
+and greater accountability in service provision. In addition, this programme component will
+aim to improve the capacity of the Government, public oversight bodies and civil society to
+strengthen the voice of parents, caregivers and children in demanding quality services. This
+will enhance quality assurance as well as transparency and accountability for service
+delivery.
+27. The fourth bottleneck relates to multi-sectoral coordination, essential for early
+childhood development. This programme component will continue to support the
+Government in strengthening the inter-sectoral coordination mechanism, within the
+framework of the SUN (Scaling Up Nutrition) movement, and to promote a multidisciplinary approach to early childhood development that is focused on the child and family.
+Inclusive, quality learning
+28. In the 2010-2015 country programme, remarkable progress was achieved in early
+childhood education (ECE), through development of an alternative ECE model, which was
+adopted by the Government and is being replicated, with the aim to double enrolment and
+reach 25 per cent of children 3-6 years old by 2020. UNICEF will support the Government
+to reach this goal, by leveraging resources for ECE and maintaining a quality and an equity
+focus in access. This is crucial since, even once Government plans are achieved by 2020,
+three quarters of children 3-6 years old will still not be enroled in ECE centres. This
+programme component will contribute to fulfilling the rights of children to early learning and
+an inclusive quality education, with a particular focus on girls, CWD and children from poor
+
+6/17
+
+E/ICEF/2015/P/L.17
+
+families. UNICEF will work with key duty bearers to build capacity for the promotion and
+provision of alternative early learning opportunities, including in the home environment,
+while monitoring and promoting their equity focus.
+29. While enrolment levels in basic education are high overall, a number of children are
+either out of school or at risk of dropping out. Lack of access to education, therefore, is a
+bottleneck that needs continued attention. During the previous country programme, data
+collection and advocacy helped to gain greater recognition of this issue. The new country
+programme will build on these achievements to identify children who are out of school or at
+risk of dropping out, and facilitate appropriate measures by education authorities and parents.
+UNICEF will work with partners to develop accelerated-learning solutions for children out
+of school or at risk of dropping out. Communication for social change strategies will address
+social norms that undermine the enrolment of CWD and the transition of girls to education
+levels beyond the compulsory grades.
+30. This programme component will also continue to support improved quality of
+education, building on ongoing efforts to strengthen pre-service training of educators to
+promote learner-centred teaching and to support an inclusive education system. Efforts will
+support the national learning outcomes assessment system, based on the best international
+standards. The programme will assist the Government in the planned transition to a 12-year
+education system, including the associated curriculum reform. UNICEF will continue its
+work with the Ministry of Education and Science to strengthen evidence-based policy and
+planning.
+Full participation of adolescents
+31. The third component aims to unlock the potential of adolescents, by empowering them
+to participate fully in all aspects of life. It will involve adolescents in their becoming change
+makers, promoting an inclusive, tolerant and peaceful society, and will promote the right to
+a ‘second chance’ for children in the second decade of their lives.
+32. Full participation of adolescents, including those from ethnic minorities and those with
+disabilities, with HIV, or with a history of conflict with the law, is hindered by social norms
+that discourage children and youth from having their own opinions and expressing
+themselves openly. Adolescent girls face even stronger obstacles to their participation. This
+programme will enable the Government and civil society to involve adolescents in promoting
+social norms for a peaceful, tolerant and inclusive society.
+33. This component will also address a second bottleneck concerning the ability of
+adolescents to demand and access information and youth-friendly services. It will support
+national and local government institutions and civil society to promote rights awareness and
+life skills development, and will continue to support the expansion of service provision for
+and with adolescents, building on the successful model of Youth-Friendly Health Services.
+At the same time, it will promote development of psychosocial services for adolescents,
+including suicide prevention.
+34. Finally, this programme will work with the national and local government institutions
+and civil society so that adolescents’ needs and priorities can be better addressed in nationaland local- level policy and budgeting processes. This will include creating opportunities for
+adolescents, including the most disadvantaged, to be heard in these processes.
+
+7/17
+
+E/ICEF/2015/P/L.17
+
+Protective environment for children
+35. The final programme component recognizes the fact that children face various kinds of
+risk and vulnerability at all stages of their childhood. There is a need to build a protective
+environment that prevents and responds to deprivation, violence, abuse, exploitation and
+neglect, especially for the most vulnerable. In doing so, the programme will contribute to
+fulfilling children’s rights to a supportive and caring family environment, access to justice
+and adequate social protection.
+36. At system level, this component will contribute to strengthening the policy and legal
+framework for child protection and social protection, providing technical assistance to basing
+the development and implementation of relevant laws, policies and strategies firmly on
+evidence and bringing them in line with international standards. Working with the
+Government and civil society at national and local levels, it will strengthen evidence-based,
+equitable resource allocation and promote stronger inter-sectoral coordination towards an
+improved protective environment. UNICEF will contribute to efforts to design an integrated
+social protection system and demonstrate its feasibility and relevance. This will include
+revision of existing services and benefits as well as the introduction of new evidence-based
+and equity-focused models of services. The programme will work towards a child protection
+system with better identified roles and responsibilities, a strengthened gatekeeping
+mechanism, as well as improved capacity for assuring the availability of, and accessibility
+to, quality services.
+37. Children are often exposed to risk and vulnerability and left unprotected because of
+social norms and harmful practices and beliefs. These include the perception of CWD as
+bringing shame and burdens to their families and society; and the tolerance of physical
+punishment of children and violence against women and girls. This programme’s focus on
+innovative communication for social change will help to overcome these barriers.
+38. Given the high vulnerability of the children of Tajikistan to the impact of natural
+disasters and climate change, disaster risk reduction will be mainstreamed throughout the
+programme. Humanitarian response will be programmed under each outcome, as required.
+The environmental impact of all programme interventions will be closely scrutinized, and
+mitigating measures will be taken whenever required.
+39. The country programme will be implemented in close collaboration with central and
+local government. Partnerships will be forged with civil society organizations, particularly
+those that are led by, or working for, youth. UNICEF will work closely with sister United
+Nations agencies under the governance structure of the UNDAF. UNICEF will continue to
+play an important role in the broader development partnerships and humanitarian
+coordination efforts. New and strengthened partnerships will be explored with the private
+sector and academia, while collaboration with the media will be enhanced.
+Cross-sectoral
+40. The results and resources framework of the new country programme is organized
+around rights issues that affect children at three stages of the life cycle, while considering
+risk and vulnerability faced throughout childhood. The programme will adopt a mix of
+mutually reinforcing programme strategies: communication for social change; advocacy and
+communication for child rights and equity; strengthening national capacity and systems for
+data collection and analysis and for child rights monitoring; innovation; sustained, systemwide capacity-building for the equitable delivery of services; youth participation; and disaster
+
+8/17
+
+E/ICEF/2015/P/L.17
+
+risk reduction and emergency preparedness. Given that Tajikistan remains a low-income
+country with persistent capacity constraints, the programme will support delivery of
+improved quality of services.
+Summary budget table
+(In thousands of United States dollars)
+Programme component
+
+Regular
+resources
+
+Other
+resources
+
+Total
+
+Surviving and thriving in the early years
+
+3 730
+
+8 000
+
+11 730
+
+Inclusive, quality learning
+
+2 635
+
+6 190
+
+8 825
+
+Full participation of adolescents
+
+1 975
+
+3 500
+
+5 475
+
+Protective environment for children
+
+3 805
+
+5 500
+
+9 305
+
+Cross-sectoral
+
+1 500
+
+500
+
+2 000
+
+13 645
+
+23 690
+
+37 335
+
+Total
+
+Programme and risk management
+41. This CPD outlines UNICEF contributions to results for children. It serves as the primary
+unit of accountability to the Executive Board for results alignment and resources assigned to
+the programme at country level. Accountabilities of managers at the country, regional and
+headquarters levels with respect to country programmes are prescribed in the organization’s
+programme and operations policies and procedures and the internal controls framework.
+42. The main risks to country programme implementation are inefficient use of resources;
+hazards that threaten business continuity and sustained progress towards results; the inability
+to mobilize sufficient partners’ resources due to the possibility of declining donor interest in
+Tajikistan, challenges in advocating for an increase in Government budget allocations for
+social services, and the mounting impact of the economic crisis in the region. An integral part
+of all relevant programmatic interventions will be stronger policy dialogue, advocacy and
+capacity-building for budgeting, sustainable public financing and costing of reforms and
+strategies benefiting children. UNICEF will conscientiously implement the policy on the
+harmonized approach to cash transfers, while working closely with other United Nations
+agencies to strengthen assurance activities. Building on success in recent years in working
+with partners, UNICEF will continue strengthening its emergency preparedness and response
+readiness and will further diversify its portfolio of funding partners to mitigate the risk of
+declining donor interest.
+
+Monitoring and evaluation
+43. The lack of timely and disaggregated data of good quality is a constraint for the
+equitable fulfilment of child rights. The country programme of cooperation will continue to
+support strengthening registration and national data systems for child rights monitoring, with
+a focus on tracking equity gaps and real-time monitoring of the impact of shocks. Capacity
+to analyse, interpret and take action on evidence remains weak. Across all programme
+outcomes, strengthening capacity for evidence-based decision-making will be a priority. The
+
+9/17
+
+E/ICEF/2015/P/L.17
+
+UNDAF offers opportunities for coordinated United Nations action to strengthen monitoring
+and evaluation systems. As noted in the costed evaluation plan, at least one evaluation is
+planned for each programme component, carried out jointly with the Government, where
+appropriate.
+
+10/17
+
+E/ICEF/2015/P/L.17
+
+Annex
+Results and resources framework
+Tajikistan-UNICEF country programme of cooperation, 2016-2020
+Relevant Convention on the Rights of the Child articles: 6, 14, 15, 19, 19.1, 23, 24, 26.1, 28, 29
+National priorities: Development of human potential aimed primarily at increasing the quantity and quality of social services for the poor and achieving the
+Sustainable Development Goals, expanding public participation in the development process and strengthening social partnerships (National Development
+Strategy (NDS), Living Standards Improvement Strategy (LSIS) and sector strategies).
+United Nations Development Assistance Framework (UNDAF) OUTCOMES INVOLVING UNICEF:
+Outcome 1: People in Tajikistan have their rights protected and benefit from improved access to justice and quality services delivered by accountable,
+transparent, and gender-responsive legislative, executive and judicial institutions at all levels.
+Indicator: 1.9 Progress in implementation of the Judicial and Legal Reform Programme
+Outcome 3: People in Tajikistan benefit from quality, equitable and inclusive health, education and social protection systems
+Indicators: 3.1. Net enrolment ratio (NER) in primary education, children between the ages of 36-59 months
+ 3.2. Transition rate from lower secondary to secondary general education, by sex (Grade 9 to Grade 10)
+ 3.3. Percentage of children, aged 7-15, with registered disabilities attending mainstream schools
+ 3.4. Out-of-school rate for adolescents of lower-secondary school age, by sex.
+ 3.6. Percentage of GDP for public health expenditure
+ 3.7. Neonatal mortality rate (per 1,000 live births)
+ 3.8. Under-five child mortality rate (per 1,000 live births)
+ 3.9. Maternal mortality ratio (per 100,000 live births) (disaggregated by wealth quintiles and region)
+ 3.12.Percentage of HIV-positive pregnant women who receive antiretrovirals to reduce the risk of mother-to-child transmission
+ 3.14 Percentage of young women/men aged 15–24 who correctly identify ways to prevent sexual transmission of HIV and reject major
+misconceptions about HIV transmission
+ 3.15.Percentage of adults and children with HIV known to be on treatment 12 months after initiation of antiretroviral therapy.
+ 3.17. Percentage of planned state budget expenditure on social protection (to be disaggregated by type of social protection)
+ 3.18. Number of CWD receiving social pensions
+Outcome 4: The nutritional status of the people in Tajikistan is improved through stable access to sufficient, appropriate and safe food, improved child
+feeding practices, better water and sanitation and improved access to quality health care
+Indicators:
+ 4.1. The prevalence of stunting, wasting, underweight among children under age 5
+ 4.2. Exclusive breastfeeding rate among children under 6 months
+ 4.3. Prevalence of anaemia among women of reproductive age (15-49)
+ 4.4. Level of anaemia among children (6-59 months)
+ 4.5. Percentage of households consuming adequately iodized salt
+
+E/ICEF/2015/P/L.17
+
+ 4.6. Proportion of children aged 0-59 months with diarrhoea receiving oral rehydration therapy and zinc
+Outcome 5: Women, youth, children, persons with disabilities and other vulnerable groups are protected from violence and discrimination, have a voice that is
+heard and are respected as equal members of society
+Indicator: 5.4 Ratification of the Convention on the Rights of Persons with Disabilities by the Government of Tajikistan
+Outcome 6: People in Tajikistan are more resilient to natural and man-made disasters and benefit from improved policy and operational frameworks for
+environmental protection and sustainable management of natural resources
+Indicator: 6.11. Proportion of rural communities with increased capacity to manage shocks and risks
+Related UNICEF Strategic Plan outcomes: 1, 2, 4, 5, 6, 7
+UNICEF
+country
+programme
+outcomes
+1. More
+children,
+including the
+most
+marginalized
+, are
+surviving,
+healthy, well
+nourished
+and
+developing
+to their full
+potential in
+their early
+years, with
+focus on the
+first 1,000
+days.
+
+12/17
+
+Key progress indicators, baselines and
+targets
+
+Neonatal mortality rate (per 1,000 live births,
+UNDAF indicator)
+Baseline: 22 (2013)
+Target: 16 (2020)
+
+Under-five child mortality rate (per 1,000 live
+births, UNDAF indicator)
+Baseline: 48 (2013)
+Target: 25 (2020)
+The share of the budget requirement for
+vaccines and related devices covered by the
+Government
+Baseline: 20% (2014)
+Target: 50% (2019)
+% of last births with a postnatal check-up by
+skilled health providers within one week after
+delivery
+Baseline: 61% (total), 66% (Born in health
+facility), 47% (Born elsewhere (2012)
+Target: 80% (2018)
+
+Means of
+verification
+
+Inter-agency
+Group for Child
+Mortality
+Estimation
+(IGME)
+
+IGME
+
+MoHSPP
+administrative
+data
+
+Demographic
+and Health
+Survey,
+/Multiple
+
+Indicative country
+programme outputs
+
+1.More pregnant
+women and children
+benefit from
+Government’s
+increased, efficient,
+transparent and
+equitable budget
+allocation and
+utilization regarding
+maternal and child
+health and nutrition
+interventions
+2. Caregivers and
+communities are
+supported to adopt
+healthy behaviours
+and appropriate
+nutrition and care
+practices for all
+children, including
+children with
+disabilities, HIV and
+
+Major
+partners,
+partnership
+frameworks
+Ministry of
+Health and
+Social
+Protection of
+the Population
+(MoHSPP),
+other relevant
+state
+institutions,
+civil society
+WHO, UNFPA,
+UNAIDS,
+WFP, FAO,
+UNDP
+
+Indicative resources by
+country programme
+outcome (in thousands of
+United States dollars)
+RR
+
+OR
+
+Total
+
+3 730
+
+8 000
+
+11 730
+
+E/ICEF/2015/P/L.17
+
+Indicator Cluster
+Survey,
+MoHSPP
+
+TB, with special
+attention to the first
+1,000 days
+3. Parents, caregivers
+and children demand
+and benefit from
+improved quality of
+maternal, newborn
+and child health care
+services, in
+accordance with
+international
+standards, including
+during emergencies
+
+Prevalence of stunting (S), wasting (W),
+underweight (U) among children under 5
+(UNDAF indicator)
+Baseline: S 26%; W 10%;U 12% (2012)
+Target: S 20%; W 7%; U 8% (2018)
+Level of anaemia among children aged 6-59
+Baseline: 29% (2009) (UNDAF indicator)
+Target: 25% (2018)
+
+DHS/Nutrition
+survey
+
+4. Government’s
+capacity to coordinate
+and manage multisectoral nutrition and
+early childhood
+interventions is
+strengthened
+
+DHS/Nutrition
+survey
+
+DHS/Nutrition
+survey
+
+Prevalence of anaemia among women of
+reproductive age (15-49) (UNDAF indicator)
+Baseline: 24% (2009)
+Target: 16% (2018)
+% of HIV positive pregnant women who
+receive antiretrovirals to reduce the risk of
+
+Country AIDS
+response
+
+13/17
+
+E/ICEF/2015/P/L.17
+
+2. All
+children
+have
+improved
+access to
+quality
+inclusive
+education,
+from early
+learning to
+secondary
+education,
+particularly
+those who
+are most
+marginalized
+.
+
+mother-to-child transmission of HIV during
+the last 12 months (UNDAF indicator)
+Baseline: 31.9% (2013)
+Target: 80% (2019)
+
+progress
+reporting
+
+Net enrolment ratio in pre-primary education,
+children aged 36-71 months (UNDAF
+indicator)
+Baseline: 10% girls / 12% boys (2014)
+Target: 25% (2020)
+
+Education
+Management
+Information
+System, (EMIS),
+other State
+statistics data
+
+Transition rate from lower secondary to
+secondary general education (Grade 9 to
+Grade 10, UNDAF indicator)
+Baseline: 75% girls / 77% boys (2014)
+Target: 85% (2020)
+% of children aged 7–15 with registered
+disabilities attending mainstream schools
+(UNDAF indicator)
+Baseline: 19% (2013)
+Target: 40% (2020)
+Out-of-school rate for adolescents of lowersecondary school age (UNDAF indicator)
+Baseline: 9.1% girls / 2.4% boys (2011)
+Target: 2% (2020)
+% of parents of children without disability
+who consider it acceptable that their children
+attend classes together with CWD
+Baseline: TBD (2016)
+Target: TBD (2019)
+
+14/17
+
+Knowledge,
+Attitudes,
+Beliefs and
+Practices Survey
+(KABP)
+
+1. More children aged
+3-6 years benefit from
+increased capacity of
+government, partners,
+communities, and
+caregivers as duty
+bearers to provide
+and promote early
+learning
+2. More children
+demand and benefit
+from an increased
+political commitment,
+national capacity, and
+accountability to
+adequately
+programme to
+improve access and
+participation to
+complete preschool
+and basic education,
+and transition to
+further education, in
+an equitable
+environment
+3. All children benefit
+from improved
+capacity at the
+national level to
+legislate and plan for
+strengthening of
+education to realize
+
+Ministry of
+Education and
+Science; other
+relevant State
+institutions,
+civil society
+UNDP,
+UNFPA, UNWOMEN,
+OHCHR,
+UNHCR, ILO,
+OSCE, World
+Bank, USAID,
+European
+Union (EU),
+German
+Development
+Institute (GIZ),
+Aga Khan
+Institute, Open
+Society
+Institute
+
+2 635
+
+6 190
+
+8 825
+
+E/ICEF/2015/P/L.17
+
+quality learning in a
+safe and inclusive
+environment
+3. Adolesce
+nts,
+including the
+most
+marginalized
+, are
+recognized
+as equal
+members of
+society and
+empowered
+to
+participate
+meaningfully
+in all aspects
+of life
+
+% of adolescents (10-19 years old), who
+strongly agree that they can resist negative
+pressure from their peers and seniors
+Baseline: Total, Male, Female (TBD)
+Target: Total, Male, Female (TBD)
+% of adolescents, who report that they are
+involved in family and community decisions
+on matters that concern them
+Baseline: Total, Male, Female (TBD)
+Target: Total, Male, Female (TBD)
+% of adolescents, , who report that they are
+involved in local government decisions on
+matters that concern them
+Baseline: Total, Male, Female, CWD, ethnic
+minorities (TBD)
+Target: Total, Male, Female, CWD, ethnic
+minorities (TBD)
+% of adolescents, including those who face
+stigmatization and discrimination. who know
+where and how to access youth-friendly
+services
+Baseline: Total, Male, Female (TBD)
+Target: Total, Male, Female (TBD)
+
+State statistics
+data;
+As this is a new
+programming
+area, new data
+tools will be
+developed with
+Government to
+determine
+baselines and
+track progress.
+Targets will be
+set once the
+baseline is
+developed
+
+1.The normative
+framework and
+budget for
+adolescents, especially
+for the marginalized,
+is improved to
+promote the
+realization of their
+rights to information,
+quality services and
+participation in
+matters concerning
+their lives
+
+Committee on
+Youth, Sports
+and Tourism,
+other relevant
+State
+institutions,
+civil society
+
+1 975
+
+3 500
+
+5 475
+
+WHO, UNFPA,
+UN-WOMEN,
+UNAIDS,
+UNDP
+
+2.Adolescents,
+including the most
+marginalized, demand
+and have access to
+quality youth-friendly
+information, services
+and capacity
+development
+3.Social norms shift in
+favor of the increased
+participation and
+voice of all
+adolescents, with a
+special focus on the
+most marginalized
+
+15/17
+
+E/ICEF/2015/P/L.17
+
+4. Children
+who are
+most at risk
+benefit from
+a better
+functioning
+protective
+environmen
+t that
+prevents
+and
+responds to
+deprivation,
+violence,
+abuse,
+exploitation
+and neglect
+
+% distribution of children in formal care by
+type of care (residential care vs. family-type
+care), at the end of the year
+Baseline: 84%/16% (2013)Male, Female,
+CWD (TBD)
+Target: 77%/23% (2020) Male, Female,
+CWD (TBD)
+
+State statistics
+data
+World Bank
+
+Number of CWD in residential care
+(disaggregated by sex)
+Baseline: 2,493 (2013) Male, Female (TBD)
+Target: 1,653 (2020) Male, Female (TBD)
+Number of children in contact with law
+diverted to alternative community based
+support during the year
+Baseline: 99 (2013) Male, Female (TBD)
+Target: 200 (2020) Male, Female (TBD)
+Number of CWD receiving community care
+service during the year
+Baseline: 240 (2014) Male, Female (TBD)
+Target: 1000 (2020) Male, Female (TBD)
+Percentage of parents who consider physical
+punishment of their children acceptable under
+given circumstances
+Baseline: TBD (2016)
+Target: TBD (2019)
+Number of CWD receiving social pensions
+(UNDAF indicator)
+Baseline: Total: 26,000 (2014), Male, Female
+(TBD)
+Target: Total: 35,000 (2020), Male, Female
+(TBD)
+
+16/17
+
+TRANSMONEE
+
+KABP Survey
+
+1. Children benefit
+from an improved
+protection system
+based on a policy and
+legal framework in
+line with international
+standards, adequately
+resourced by
+evidence-based,
+equitable resource
+allocation and
+executed through
+strong inter-sectoral
+coordination at
+central and local
+levels
+2. National and local
+authorities
+increasingly ensure
+availability and
+accessibility of quality
+child protection
+services and social
+benefits, including
+during emergencies,
+for children most at
+risk and their families
+3. Social norms shift
+in favour of better
+protection and
+inclusion of the most
+marginalized children
+
+Commission on
+the rights of the
+child, other
+relevant State
+institutions,
+civil society
+
+UNDP, WHO,
+UNFPA, UNWOMEN,
+OHCHR,
+UNHCR, ILO,
+USAID, EU,
+Swiss
+Development
+Cooperation,
+GIZ, Japan
+International
+Cooperation
+Agency
+
+3 805
+
+5 500
+
+9 305
+
+E/ICEF/2015/P/L.17
+
+% of planned state budget expenditure on
+social protection (to be disaggregated by type
+of social protection) (UNDAF indicator)
+Baseline: 18,6% (2015)
+Target: 22% (2020)
+5.
+
+Crosssectoral
+
+Effective development, planning,
+coordination, delivery and monitoring
+of country programme results
+
+Periodic
+reviews and
+evaluations of
+programme
+components
+
+Totals
+
+Guidance, tools and
+resources to
+effectively design
+and manage
+programmes are
+available to
+UNICEF and
+partners
+Strategies to
+address crosscutting issues
+related to child
+rights are
+implemented
+
+1 500
+
+500
+
+2 000
+
+13 645
+
+23 690
+
+37 335
+
+_______
+
+17/17
+
+

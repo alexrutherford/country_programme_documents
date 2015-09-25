@@ -1,0 +1,4782 @@
+United Republic of Tanzania
+Common country programme document
+July 2011-June 2015
+
+The draft common country programme document for the
+United Republic of Tanzania (CP/FPA-ICEFWFP/DCCP/2011/TZA/1) was presented to the Executive Board for
+discussion and comments at its 2011 first regular session (8-11
+February 2011).
+The document was subsequently revised, and this final
+version was approved at the 2011 annual session of the Executive
+Board on 23 June 2011.
+
+Contents
+Page
+
+I.
+
+Situation analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3
+
+II.
+
+Past cooperation and lessons learned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8
+
+III.
+
+Proposed programme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+13
+
+IV.
+
+Programme management, monitoring and evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+21
+
+1.
+
+UNDP results and resources framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+25
+
+2.
+
+UNFPA results and resources framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+32
+
+3.
+
+UNICEF programme of cooperation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+36
+
+4.
+
+WFP country programme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+45
+
+Annexes
+
+2
+
+Introduction
+1.
+The Government of the United Republic of Tanzania and the United Nations
+country management team agreed that for the July 2011 to June 2015 period, the
+United Nations in Tanzania will develop a single United Nations Development
+Assistance Plan (UNDAP). This plan is to capture the entire range of activities
+supported by the United Nations in Tanzania, including Zanzibar. It integrates the
+requirements of the United Nations Development Assistance Framework (UNDAF)
+with the country programme documents of four individual organizations — United
+Nations Development Programme (UNDP), United Nations Population Fund
+(UNFPA), United Nations Children’s Fund (UNICEF) and World Food Programme
+(WFP) — and, particularly, with the country programme actions plans signed by the
+Government of the United Republic of Tanzania.
+2.
+The plan builds on lessons learned from the previous UNDAF, the Delivering
+as One pilot, including recommendations of the Delivering as One country -led
+evaluation (2010). The new approach reduces duplication in planning requirements
+for United Nations organizations and partners. It provides a collective, coherent and
+strategically focused plan aligned to national priorities articulated in the poverty
+reduction strategies for Mainland Tanzania and Zanzibar: MKUKUTA II and
+MKUZA 2010-15 (the National Strategy for Growth and Reduction of Poverty and
+the Zanzibar Poverty Reduction Plan). This new approach also encompasses the
+national response to the Millennium Development Goals, key sector planning and
+policy documents, and the current humanitarian situation.
+3.
+The assistance plan articulates the precise contribution of the United Nations
+to Tanzania’s national development priorities and international commitments,
+thereby enhancing transparency as well as accountability to both the Government of
+the United Republic of Tanzania and donors. The plan systematically applies the
+five programming principles of gender equality, environmental sustainability,
+capacity development, a human rights-based approach and results-based
+management, and the plan mainstreams relevant cross-cutting issues. The plan
+reflects the recommendations of a national-level prioritization processes involving
+the Tanzanian Government, development partners, civil society organizations, and
+all resident and non-resident United Nations organizations in Tanzania.
+4.
+To further simplify the programming processes of the four organizations —
+UNDP, UNFPA, UNICEF and WFP — the Tanzanian Government proposed a
+common country programme document to the joint meeting of the Executive Boards
+of UNDP/UNFPA and to UNICEF and WFP in January 2010. This document was
+based on the assistance plan and in lieu of organization-specific country programme
+documents. The Boards of UNDP/UNFPA and UNICEF approved the request at
+their respective June 2010 sessions on an exceptional basis. The Bureau of the
+Executive Board of the WFP agreed at its 14 September 2010 meeting to align itself
+with the decisions of other United Nations funds and programmes with the draft
+programme document submitted at the Board’s first regular session of 2011, for
+approval at the annual session of 2011. The programme document is in line with: the
+United Nations Development Group (UNDG) common framework for the c ountry
+programme outline and country programme document; the June 2010 decisions of
+the four organizations; and United Nations General Assembly resolution 64/289.
+
+3
+
+I. Situation analysis
+5.
+Although Tanzania’s economic progress has been significant, achievement of
+the first Millennium Development Goal (eradicate extreme poverty and hunger;
+ensure full and productive employment and decent work for all) has been elusive.
+Despite some deceleration following the global financial crisis in 2008, annual gross
+domestic product (GDP) growth since 2001 has been greater than 7 per cent, well
+above the sub-Saharan African average. Underlying this success are sharply
+improved economic fundamentals resulting from macroeconomic and financial
+reforms. The macroeconomy has been steady despite global shocks. Inflation has
+been less than 10 per cent for most of the period, moving up to 10.3 per cent in 2008
+as a result of food and fuel crises. The exchange rate has been stable on the back of
+improved foreign exchange reserves and moderate inflation. Levels of external debt
+were reduced from a high of 52.5 per cent in 2003 to 33.1 per cent of GDP in 2008,
+with the country benefiting from participation in the Heavily Indebted Poor
+Countries Debt Initiative. 1
+6.
+Despite economic growth, income poverty declined only marginally from
+35.7 per cent in 2000-2001 to 33.6 per cent in 2007. As the population grew (2.9 per
+cent in 2008), the number of poor Tanzanians increased by 1.3 million over the
+decade, reaching 12.9 million on the mainland, with vast geographical disparities in
+poverty incidence and depth. Such rapid population growth poses challenges for
+achieving all of the Millennium Development Goals, including the first one. Growth
+occurred in areas where employment generation is low, while employment for the
+half a million people entering the labour market each year was in poorly
+remunerated agriculture and in the informal sector. This was another driver of
+poverty. Although fast-growing, Tanzania’s industrial sector is one of the smallest in
+Africa (22.6 per cent by GDP contribution) and adds little to employment creation.
+Agriculture, the largest sector, accounts for: one quarter of GDP; 85 per cent of
+exports; 80 per cent of the overall employment; and 90 per c ent of the employment
+of women.
+7.
+Tanzania has made little progress towards reducing extreme hunger and
+malnutrition. The 2010 Global Hunger Index ranks the situation as ―alarming‖.
+Children in rural areas suffer substantially higher rates of malnutrition and chronic
+hunger, although urban-rural disparities have narrowed as regards both stunting and
+underweight. Food poverty declined from 21.6 per cent in 1991 to 16.6 per cent in
+2007. Nationally, the percentage of children under 5 who are underweight hardly
+dropped. (The figure was 22 per cent in 2004-2005 and 21 per cent in 2010.) The
+absolute number of people affected by chronic hunger remains high. The food
+consumption of 4.1 per cent of the households in rural Mainland Tanzania is
+considered ―poor‖, and in 18.9 per cent of the households it is ―borderline poor‖.
+__________________
+1
+
+4
+
+All data for this Situation Analysis section is from: United Republic of Tanzania, Poverty and
+Human Development Report 2009; United Republic of Tanzania, Millennium Development
+Goals Report Mid-Way Evaluation: 2000-2008; National Bureau of Statistics/ICF Macro,
+Tanzania Demographic and Health Survey 2010 Preliminary Report (October 2010); United
+Republic of Tanzania, Tanzania Gender Indicators Booklet 2010; Tanzania Commission for
+AIDS (TACAIDS), Zanzibar AIDS Commission, National. Bureau of Statistics, Office of the
+Chief Government Statistician, Macro International, Tanzania HIV/AIDS and Malaria Indicator
+Survey 2007-08 (November 2008).
+
+8.
+While on a national level Tanzania regularly produces sufficient food for its
+requirements, many regions (particularly in central, south-east and north-east
+Tanzania) are vulnerable to hunger and food insecurity. Food insecurity results
+mainly from insufficient access to food at the household level. This leads in turn to
+the adoption of unpromising strategies for responding to such recurrent shocks as
+high food prices, drought, pests and diseases. Environmenta l management and
+climate-change adaptation among rural producers is inadequate as are the safety nets
+that might mitigate the effects of recurring livelihood shocks.
+9.
+Low rural sector productivity arises mainly from inadequate infrastructure
+investment; limited access to farm inputs, extension services and credit; limited
+technology as well as trade and marketing support; and heavy dependence on
+rain-fed agriculture and natural resources. Despite reform efforts, lasting structural
+change has proven elusive. Off-farm employment in the poorly paid informal sector
+is rising. Rural private sector and community institutions are undeveloped, further
+compounding inefficiencies and service gaps.
+10. Tanzania’s fast-growing population of 43 million (which includes 1.3 million
+people on Zanzibar) is highly dependent on the environment and natural resources
+for its livelihood. Thus unsustainable harvesting of natural resources, water -source
+encroachment and unchecked cultivation, coupled with global climate change, po se
+challenges both for achieving the Millennium Development Goal related to the
+environment and for maintaining any achievements. Resource utilization and
+management are stretched with rising demand for: fresh water; food; natural
+products; land for crops and grazing; shelter; and wood and charcoal for household
+energy. This rising demand contributes to deforestation and environmental
+degradation. Illegal fishing threatens the sustainability of the fishing industry.
+Access to land resources and demands for various needs, including conservation and
+natural resources management, gives rise to conflicts. Capacities for managing
+natural resources, including climate-change adaptation and mitigation, are
+inadequate to meet the scale of the challenge.
+11. Following the abolition of school fees in 2001, increases in primary school
+enrolment have been rapid, while pre-primary and secondary education has likewise
+shown steady expansion in the last few years. That said, Tanzania ’s progress
+towards Millennium Development Goal 2 (achieving universal primary education)
+still faces challenges. These include ensuring cohort completion (62.5 per cent in
+2008) and education quality. (In 2009 the pupil-to-teacher ratio was quite high:
+54:1.) Another challenge is posed by the passing rate for primary school students
+who have reached the final level (52.7 per cent passed in 2008). Disparities exist in
+access to pre-primary and secondary schools. Residence (urban versus rural),
+household wealth and educational background all play a part. Disability, orphaning,
+child labour and other forms of vulnerability are additional barriers. Quality
+standards are noticeably declining at both the primary and secondary levels. This is
+a consequence of the rapid increase in the school-age population, and also of the
+fact that the expansion in enrolment has not been matched by an expansion in the
+supply of qualified teachers and quality educational materials, nor by investments in
+school safety, basic sanitation and hygiene. Many Tanzanian schools ar e neither
+healthy nor safe environments, particularly for adolescent girls.
+12. The number of girls and boys in primary school is nearly equal. In secondary
+schools, the number of girls as a percentage of total enrolment increased from
+
+5
+
+43.2 per cent to 46.8 per cent from 1992 and 2007. Gender equity markedly declines
+from the outset of secondary school; girls make up only 35 per cent of the total
+number of students who complete secondary school. Compared to boys of the same
+age, girls’ performance in mathematics and science, as well as on school-level
+examinations, is particularly poor. In higher education, girls ’ enrolment as a
+percentage of total enrolment reached 34 per cent in 2007.
+13. By the age of 14 (lower secondary school), approximately half of Tan zania’s
+children have left the schooling system. One third of children attend secondary
+school, and less than 1 per cent enrol in institutions of higher education. Alternative
+opportunities for formal learning, basic literacy and vocational education do no t
+meet the demand.
+14. Tanzania’s impressive achievements in child health continue. Under-5
+mortality rates (Millennium Development Goal 4) continue to drop — from 147 deaths
+per 1,000 live births in 1999, to 81 in 2010. Likewise infant mortality declined from
+99 deaths per 1,000 live births in 1999, to 51 in 2010. Neonatal mortality accounts
+for 30 per cent of the deaths of children under 5 years old. Improved child mortality
+is due in part to the recent improvements in malaria control. Other contributing
+factors have been: vaccination against measles, Vitamin A supplementation and
+other preventative programmes, including those aimed at preventing mother -to-child
+transmission of HIV. By contrast, neonatal deaths (26 per 1,000 live births in 2010)
+have been associated with poor maternal health during pregnancy and inadequate
+obstetric and neonatal care at delivery.
+15. Tanzania lags in the area of maternal health. The maternal mortality ratio in
+2010 is estimated at 454 deaths per 100,000 live births, lower than the previous
+figure of 578 in 2004, but below the Health Sector Strategic Plan III target of 265 by
+2015. About half of all deliveries are assisted by skilled attendants or take place in a
+health facility. The ―three delays‖ — in the decision to seek care, in reaching
+appropriate care, and before intervention at a facility — contribute significantly to
+the high maternal mortality and morbidity. The weakness in institutional
+preparedness to respond — as a result of inadequate equipment and supplies, and of
+insufficient and unskilled staff — affects the quality of obstetric and newborn care.
+There is a need both for skilled health providers across the system and for filling the
+vacant posts. (65 per cent are vacant.) There is also a need for continued
+commitment to the current national health sector and primary health -care
+development efforts including: increasing the number of health centres offering
+packages of essential care; overcoming shortages of equipment and reproductive
+health supplies; addressing human resources challenges; effective health-care
+financing; and improving information and referral systems and linkages with
+community mobilization efforts.
+16. Gender inequities underlie the persistently high levels of maternal deaths in
+Tanzania and the lack of progress in maternal health. High maternal mortality is
+linked with high fertility rates and the low socio-economic status of women. The
+total fertility rate in Tanzania over two decades has changed only slightly, from
+5.8 in 1996 to 5.4 in 2010. Rural women have more than two more children on
+average than their urban counterparts (rural 6.1, urban 3.7). The proportion of
+married women using contraception has risen steadily — from 13 per cent in 1996
+to 27.4 per cent in 2010. With only 12 per cent of women 15 to 24 years using
+modern contraception, teenage pregnancy rates are high. More than half of women
+
+6
+
+under the age of 19 are either pregnant or already mothers, and one in three
+teenagers in the poorest households has given birth at least once. Teenage
+pregnancies — often a consequence of early marriage — carry a higher risk of
+maternal death.
+17. Poor nutrition is common among women of reproductive age. One in two is
+chronically anaemic; one in ten has a low body mass index, which indicates chron ic
+energy deficiency and leads to increased risks during pregnancy. Child malnutrition
+rates are also high. Among children under age 5, 35.4 per cent were stunted and 20.7
+per cent were underweight in 2010. Anaemia affects more than two thirds of all
+children, while 8 per cent suffer from severe anaemia. Lack of breastfeeding of
+infants can contribute to nutritional problems. Forty-one per cent of newborns are
+not breastfed in the first hour of life, and fewer than 15 per cent up to the age of six
+months. Complementary foods given to infants are often inappropriate and
+adulterated with unclean water. An overhaul of nutrition and other health policies,
+strategies and plans in support of maternal and child health is required in order to
+achieve several of the Millennium Development Goals.
+18. Tanzania’s progress on Millennium Development Goal 6 — combating HIV
+and AIDS, malaria and other diseases — has been remarkable, but has emphasized
+vertical interventions in HIV and malaria. Malaria transmission, which pla ys a large
+part in child mortality, has been reduced significantly. Malaria prevalence in
+Zanzibar dropped from 46.2 per cent of the population in 2002 to 0.8 per cent in
+2006. This was a result of improved malaria control as well as of wide and free
+distribution and use of insecticide-treated nets. Nevertheless, malaria continues to
+be a severe challenge on the mainland where the prevalence was 18.1 per cent in
+2007-2008.
+19. HIV prevalence declined from 7 per cent in 2004 to 5.7 per cent in 2008 in
+Mainland Tanzania, and stabilized around 0.6 per cent in Zanzibar. Disparities in
+prevalence exist among different socio-economic groups. Among young people aged
+15 to 24 (20 per cent of the total population) HIV prevalence declined, but infection
+among girls of the same age is disproportionately high (4 per cent compared to 1 per
+cent for young men). Only 39 per cent of young women and 42 per cent of young
+men have comprehensive knowledge about HIV. Low and inconsistent condom use,
+low perception of the risks, and high-risk behaviour, including multiple concurrent
+sexual partners and age-disparate sexual relationships, are factors fuelling
+transmission. Though Zanzibar has low levels of HIV prevalence, it is high there
+among the most at-risk populations — intravenous drug users (15 per cent), sex
+workers (10 per cent) and men who have sex with men (12 per cent). (Comparable
+data on prevalence rates among at risk populations on the mainland is unavailable.)
+Members of these populations are subject to stigmatizatio n and discrimination, and
+have limited access to services and information.
+20. HIV prevention, care and treatment services have been significantly scaled -up
+nationwide. More than 70 per cent of centres providing antenatal care now offer
+services in the field of prevention of mother-to-child HIV transmission.
+Nevertheless, significant service gaps remain. Only 68 per cent of HIV-positive
+pregnant women and 50 per cent of HIV-exposed infants receive anti-retroviral
+prophylaxis to prevent mother-to-child transmission. Integration of HIV and sexualand-reproductive health services is limited. People living with HIV and AIDS still
+
+7
+
+lack many services and participate only indirectly in prevention and policy advocacy efforts.
+21. Efforts to mitigate the social and economic impact of HIV and AIDS have
+expanded, yet much remains to be done. Cumulatively, the epidemic has orphaned
+more than 1.3 million Tanzanian children since 1985. Many receive assistance under
+the interventions of the National Costed Plan of Action for Most Vulnerable
+Children. Of the total HIV-positive population in Tanzania, 840,000 (56 per cent)
+are women between 15 and 49 years old.
+22. Access to safe drinking water for the rural population is low (58.7 per cent in
+2009). In formal urban settlements the figure is 84 per cent. Only 33 per cent of
+households have access to improved latrines. The dire condition of water, sanitation
+and hygiene facilities in schools and health centres is cause for concern. Water
+supply sustainability is a national challenge strongly correlated with poverty and
+locality. That is, it is a particular challenge for rural and informal urban localities.
+Until national solutions emerge, it is critical to provide more support to caregivers at
+the household level to respond to water, sanitation and health challenges.
+23. Formal social-security programmes and health insurance cover a negligible,
+mostly urban-based and relatively well-off portion of the population, providing even
+these people only modest benefits. Most people have no protection against
+contingencies, livelihood shocks or severe deprivation. A draft National Social
+Protection Framework targeting vulnerable groups exists, but associated operational
+modalities as well as institutional arrangements, services and resour ces are still
+lacking. A more comprehensive framework for establishing safety nets and new
+models for social transfers is required. The impact of existing social assistance
+programmes — social security, ageing and disability — in reducing poverty and
+hunger similarly need attention.
+24. The enactment of the Law of the Child Act in November 2009 marked an
+opportunity to create a protective environment for children. Children ’s care and
+development takes place in an environment of acute domestic insecurity. Th ere are
+more than 2 millions orphaned or abandoned children, and 20 per cent of the 5 to
+17 year olds are engaged in child labour. Only 8 per cent of children under 5 have a
+birth certificate. Massive external investment in the National Costed Plan of Acti on
+programme improved access to food, education and health services, though services
+are not yet comprehensive or available to all vulnerable children. Significant gaps in
+protection remain. The structures, systems and services for extending effective
+protection to children subject to abuse, exploitation and violence, and for children
+with disabilities, are lacking. There is an urgent need to increase and train
+personnel, develop monitoring and referral systems, strengthen district and national
+data collection, and promote shared awareness of child protection needs at both the
+community level and among those involved in the enactment and enforcement of
+legislation.
+25. The Government recognizes in the new MKUKUTA and MKUZA that good
+governance is fundamental to achievement of the Millennium Development Goals
+and to improvements in the quality of life and social well -being of citizens.
+26. Tanzania is a stable, peaceful, parliamentary democracy. During the last two
+decades, political pluralism has been introduced and multi-party elections have been
+held every five years since 1995. Nevertheless, political parties have paltry and
+
+8
+
+indistinguishable political platforms due to such problems as inadequate capacities
+and lack of gender equality (that is, a lack of advancement of women to leadership
+positions).
+27. Although the Parliament of the United Republic of Tanzania and the Zanzibar
+House of Representatives are increasingly active in overseeing the work of the
+executive branches, there are still many weaknesses in ensuring government
+transparency and accountability. These include weaknesses in the oversight of the
+implementation of poverty reduction strategies. Recently developed plans for the
+national legislatures indicated significant capacity needs in the are as of oversight,
+the making of laws and the representation of citizens.
+28. The broad-based national governance assessment and consultative process of
+the African Peer Review Mechanism is under way. Political reconciliation in
+Zanzibar is still tentative and will require continued support. In Mainland Tanzania,
+conflicts over natural resource use and rights need addressing through strengthening
+local dialogue and dispute-resolution mechanisms.
+29. The Tanzanian Government faces significant capacity challe nges in managing
+development and achieving the Millennium Development Goals. Monitoring and
+reporting on the implementation of poverty reduction strategies continue to require
+improvement, and the coordination of implementation and of evidence -based
+planning and budgeting needs strengthening. Aid management, including as regards
+dialogue with stakeholders, still poses a significant challenge. Several reform
+programmes are under way, but have been slow to achieve results. Additional reform
+coordination is required while comprehensive efforts to address corruption need
+further support.
+30. The concept of rule of law, including human rights and legal traditions, is not
+widely understood or applied. Implementation in the justice sector is flawed by
+corruption, disadvantages for women and children (including gender violence and
+some cultural norms), and inadequate protection of the rights of the poor. While
+Tanzania is a signatory to the international human rights regime, implementation is
+constrained by the lack of a national action plan for incorporating human rights in
+national law, the justice system and public education.
+31. The right to life, safety and support in life-threatening emergencies is a
+challenge. Tanzania is vulnerable to recurring natural disast ers, climate change,
+declining environmental sustainability and food insecurity. These challenges require
+well-organized, multisector early warning systems and preparation for emergencies.
+32. Tanzania is prone to the influx of refugees, often for long per iods of time. The
+United Nations is currently assisting some 100,000 refugees in north -west Tanzania
+as well as the vulnerable host communities.
+
+II. Past cooperation and lessons learned
+United Nations Development Assistance Framework
+33. The current 2007-2010 UNDAF and the four organization country programmes
+have been extended until mid-2011 to enable full alignment of the Development
+Assistance Plan with the national budget cycle. The Development Assistance
+
+9
+
+Framework supports the implementation of MKUKUTA and MKUZA, in line with
+the guiding principles of the Joint Assistance Strategy for Tanzania of the Tanzanian
+Government and development partners.
+34. UNDAF outcomes follow the outcomes and indicators of the national poverty
+reduction strategies. Since the outcomes are wide-ranging, the United Nations has
+not always been able to assess its distinct contributions to national development.
+The lesson learned is that the Development Assistance Plan outcomes should be
+defined with sufficient specificity to allow the distinct United Nations contribution
+to be measured.
+
+Delivering as One initiatives
+35. The decision of the Government of the United Republic of Tanzania in 2007 to
+be one of the eight Delivering as One pilots transformed United Nations activities in
+Tanzania. The United Nations pilot programme began after the Tanzanian
+Government approved the Development Assistance Framework and the four
+organization’s country programme documents. Nonetheless, the country
+management team was able to adjust its operations. The ―one leader‖, ―one fund‖
+and ―one voice‖ aspects of the Delivering as One approach have been particularly
+successful. Eleven joint United Nations programmes were established within the
+Assistance Framework. Financial support from other development partners to the
+―one fund‖ is indicative of their confidence in the ongoing reform process.
+36. The joint programmes offer lessons for improving programming and results.
+The ―one programme‖ approach was established two years into UNDAF’s
+organization-specific country programme document cycle. Implemented through the
+joint programmes, it responded to national priorities in sectors in which the United
+Nations had expertise. The approach involved collaboration among United Nations
+organizations and partners in drafting joint work plans, budgets and programme
+results, in parallel with (and in some cases superseding) organization activities
+identified in the Development Assistance Framework and organization country
+programme documents. The joint planning and reporting processes increased
+coherence and coordination. According to the findings of the 2010 country -led
+evaluation of the Delivering as One approach, factors contributing to better
+programmes included: joint programming; clear division of l abour based on the
+comparative advantage and mandate of each organization; increased mutual
+accountability; an empowered country management team; and performance -based
+funding through the ―one fund‖ approach.
+37. In a process that strived for inclusiveness and participation, ensuring strategic
+focus has proved to be challenging. The main challenge of the joint programmes is
+the existence of multiple initiatives and projects put together without adequate
+mechanisms for prioritizing and results-based planning. Another concern is weak
+monitoring and evaluation mechanisms and lack of joint annual reviews, by which
+constraints could be detected earlier and corrective measures taken. United Nations
+organizations and implementing partners have varying capacities t o participate in
+joint programmes. Finally, the systems and operational support for Delivering as
+One interventions were put in place gradually, and were therefore not implemented
+in full or used to their full potential. This includes basket funding, full
+
+10
+
+implementation of the principles regarding a harmonized approach to cash transfers
+(HACT principles), and joint procurement.
+
+The four organizations
+World Food Programme
+38. The WFP country programme aimed at reducing vulnerability to food
+insecurity in the drought-prone central and northern regions, and at building
+national capacities. These objectives were pursued through four integrated WFP
+initiatives: the food for education (FFE) and food for assets (FFA) programmes;
+targeted supplementary feeding; and HIV/AIDS programmes. Through the food for
+education programme, in 2010 WFP reached approximately 640,000 children in
+1,167 schools with school meals, increasing attendance and exam pass rates. WFP
+supported the Tanzanian Government in developing a draft national school-feeding
+policy and provided technical support to strengthen the national Comprehensive
+Food Security and Vulnerability Analysis (CFSVA) and food security monitoring
+system. The WFP food for assets programme supported communities affe cted by
+chronic hunger in drought-prone areas in order to improve resilience to shocks and
+protect assets. The targeted supplementary feeding programme promoted pre - and
+post-natal health and addressed the problem of low-birth-weight children. It
+increased immunization and growth-monitoring coverage by providing, as part of
+regular mother-and-child services, a monthly take-home ration to pregnant and
+lactating women as well as to moderately malnourished children in two districts.
+The WFP AIDS programme supported food-insecure people affected by HIV and
+AIDS. WFP procured food locally, supporting smallholder farmers, and engaged
+local transport services. The 2010 country programme evaluation concluded that
+interventions: contributed to improved food security at individual and household
+levels; were effective in creating productive safety nets; and are likely to have
+long-term impact. For instance, some of the target areas of the food for assets
+programme no longer need emergency assistance during droughts. The exception is
+the HIV and AIDS programme which lacks direct linkages to other programmes.
+Based on the lessons learned hereby, WFP plans to enhance opportunities for
+partnership and linkages with existing Tanzanian Government policies and priority
+programmes, including in the field of disaster risk reduction. WFP also plans to
+work closely with the Tanzanian Government on policies and strategies integrating
+the safety net programmes into budgets and plans. The idea is eventually to hand
+these programmes over to the Government.
+United Nations Development Programme
+39. The UNDP country programme aimed to: enhance pro-poor development,
+wealth creation, democratic governance and development management, and to
+mainstream national development policies related to the environment, HIV and
+AIDS, and gender. The focus was on national capacity development and
+policymaking. The UNDP contribution strengthened dialogue, capacity and
+ownership of the poverty reduction strategy monitoring and evaluation systems
+involved in the production of the national Poverty and Human Development Report
+and the Millennium Development Goals Report. UNDP also helped improve the
+national capacity to promote inclusive economic growth, to monitor poverty, and to
+achieve evidence-based development planning and decision-making at the national
+
+11
+
+and local levels. UNDP supported Tanzania in piloting the Millennium Development
+Goals Acceleration Framework. Strengthened systems and tools for the management
+of external resources, such as the Aid Management Platform, and capacities to adopt
+an integrated trade strategy were established. In the field of democratic governance,
+support given by UNDP to the introduction of a permanent electronic registry of
+voters improved the effectiveness of electoral management bodies and added
+credibility to the political process. UNDP also supported the design and
+implementation of strategies to help national institutions combat corruption and to
+promote a holistic and participatory approach to corruption prevention. Further, it
+assisted in the integration of environmental issues into national poverty reduction
+efforts, including in local income-generation activities. Capacities for environment
+conservation and management of land, forest, water and wildlife resources a nd
+biodiversity reserves were developed. UNDP developed coordination capacities for
+a national response to climate change both as regards adaptation and as regards
+integrating alternative energy solutions in national policy. The organization
+strengthened capacities for disaster risk reduction and improved human security.
+UNDP assisted in HIV and AIDS mainstreaming and capacity-building for the
+national multisector response to this challenge. UNDP made a management
+contribution to the Delivering as One pilot, administering the ―one fund‖ and acting
+as a managing agent of five United Nations joint programmes.
+United Nations Population Fund
+40. The UNFPA country programme focused on policy dialogue, advocacy, and
+capacity- and partnership-building in areas of population and development,
+reproductive health and rights, and gender equality. Through technical support,
+UNFPA strengthened production and utilization of disaggregated population data,
+including providing ongoing support for the preparation of the 20 12 census. UNFPA
+led efforts to ensure integration of population and environmental issues in the
+poverty reduction strategies, sector policies and programmes. Increasing the
+availability of disaggregated data drew policymakers’ attention to gender disparities.
+UNFPA engaged in four of the joint programmes, playing a management role for the
+joint programme to reduce maternal and newborn mortality. UNFPA continued to
+participate in the health sector-wide approach, including in the Health Basket
+funding mechanism, to ensure accountability and predictability of funds for
+reproductive and child health. Responding to gaps in skills, UNFPA supported
+pre-service and in-service training of health providers. UNFPA advocated for
+dedicated budget lines for contraceptives and increased budget allocations, and it
+procured selected contraceptives for Mainland Tanzania and Zanzibar so that a
+consistent supply would be ensured. The management, leadership and technical
+capacities of the two national AIDS commissions were built, and support was given
+to the development of the National Costed Plan of Action. Strategic partnerships
+with faith-based organizations continued to address reproductive health and rights,
+gender equality and HIV prevention. UNFPA improved access to youth -friendly
+health services and enhanced youth leadership and participation in the review and
+development of selected national and sector- specific frameworks, plans and
+strategies. The UNFPA gender leadership provided support for mainstreaming
+gender in sectoral plans and strategies; gender monitoring and evaluation across
+ministries, departments and agencies; and addressing gender-based violence, as well
+as for promoting greater utilization of gender policy guidelines and mainstreaming
+instruments.
+
+12
+
+United Nations Children’s Fund
+41. UNICEF contributed to results at national and subnational levels as well as
+upstream policy formulation and capacity-building and downstream support to
+quality service provision by national partners. In the area of child protec tion,
+sustained advocacy and technical support resulted in drafting and enactment of the
+comprehensive Law of the Child Act. In the health field, UNICEF supported the
+development and implementation of the National Road Map Strategic Plan to
+Accelerate Reduction of Maternal, Newborn and Child Deaths, the National
+Nutrition Strategy, and the scale-up plan for the prevention of mother-to-child
+transmission of HIV during pregnancy and childbirth. UNICEF supported the
+National Multi-Sector HIV Prevention Strategy, National Costed Plan of Action,
+National Life Skills Education Framework, and the national strategy for care and
+support in education services for HIV prevention. In the field of education, UNICEF
+supported the establishment of primary school basic standards and the national
+primary school in-service teacher training strategy. In the area of water, sanitation
+and hygiene, efforts culminated in bringing together four key ministries to define
+roles in support of one lead governmental entity in the sector: the Environmental
+Health and Sanitation Unit in the health ministry. Furthermore, UNICEF convened
+and mobilized civil society organizations around child rights. At the subnational
+level, UNICEF supported the scaling up of national programmes in seven distr icts
+by strengthening capacities to ensure: that district planning and budgeting prioritizes
+children; delivery of facility-based services; and enhanced community awareness.
+UNICEF successfully scaled up national programmes, although confinement to
+learning districts limited its ability to respond to vulnerabilities elsewhere,
+particularly in HIV and AIDS prevention and nutrition. This has been highlighted in
+reviews.
+
+Common lessons learned
+42. By focusing on upstream policy work, United Nations organizations were able
+to have a transformational impact on a national level in many areas, as well as the
+sustained technical-level engagement necessary for the adoption and finalization of
+new policies and legislation. Greater reliance on the internal divisi on of labour and
+more effective delegation between organizations contributed to coherence,
+efficiency and policy results. Between now and 2015, the United Nations needs to
+further expand these efforts to intensify harmonization among all development
+partners, contributing to stronger partnerships between multilateral and bilateral
+development organizations.
+43. The United Nations contribution to the national policy dialogue is increasingly
+a measure of its relevance in Tanzania. Going forward, the expectati ons of the
+United Nations system as a whole to support national reform processes will require
+the United Nations organizations involved to make commensurate investments in
+capacities to deliver results and leadership, both programmatically and at the polic y
+level. Efforts to strengthen joint and mutual accountability and transparent reporting
+on results need to be scaled-up in support of resource mobilization for the United
+Nations system.
+44. Programmes need to be aligned with national policies to ensure maximum
+impact and address sustainability. New modalities such as sector basket funding can
+
+13
+
+be useful to leverage United Nations technical support and limited resources. One of
+the comparative advantages of the United Nations in this area is its ability to support
+building national capacity by managing and leading a process that involves many
+development partners.
+45. Inadequate national capacities to implement endorsed policies and strategies,
+as well as to address overlaps and conflicting policies, are key implementation
+constraints that require attention, including support for coordination and
+harmonization. Capacity development should build on participatory assessments and
+focus more on the strengthening of systems and institutions, along with human
+resource development. To increase the impact of national programmes, it will be
+useful to strengthen performance at a decentralized level by demonstrating effective
+approaches and enhancing the capacities of central institutions.
+United Nations Development Assistance Plan
+46. The United Nations Development Assistance Plan responds to these lessons. It
+is the complete programme of cooperation across all United Nations organizations
+working with the Tanzanian Government, including specialized and non -resident
+organizations. It is a tool for jointly formulating realistic work plans and budgets for
+all United Nations organizations, plans and budgets that are aligned with their
+capacities and the division of labour of the Joint Assistance Strategy for Tanzania.
+Interventions are prioritized, focused and contain an interlinked strategy that aims at
+a coherent overall programme, aligned, where possible, to sector policies, national
+strategies and structures. Linkages to regional and global initiatives are stated in t he
+Plan at the sectoral level. In this way greater synergy is forged between United
+Nations plans and multilateral and bilateral support. Quality plans and monitoring
+and evaluation matrices in the Plan will lead to annual reviews, reporting against
+targets and allowing for enhanced performance-based funding. This will have a
+synergistic effect, increasing the value of organization inputs.
+
+III. Proposed programme
+47. The common country programme document is anchored in the 2011 -2015
+Development Assistance Plan. The principal and strategic contributions of the four
+organizations are designed in response to the situation analysis and the lessons
+learned from past cooperation. They align with the national priorities, are consistent
+with global and regional initiatives, and target improved partner capacities for:
+pro-poor growth; enhanced sector capacities for delivery of comprehensive basic
+social services; and stronger governance and accountability, encompassing human
+rights, gender responsiveness, humanitarian assistance and disaster risk reduction.
+
+Pro-poor growth
+Economic growth and reduction of poverty
+48. The common country programme document provides strategic inputs to
+pro-poor, inclusive economic development. The comparative advantage of t he
+United Nations lies in its ability to enable national stakeholders. It will provide
+
+14
+
+technical assistance to the Government of the United Republic of Tanzania to create
+an inclusive growth model.
+49. UNFPA will provide technical and financial assistance to the Tanzanian
+Government and to higher-learning and research institutions to generate and utilize
+disaggregated demographic and housing data for a more comprehensive approach
+to: economic development; integration of population and environmental issues i nto
+planning and budgeting frameworks; and strengthened expertise in analysis and data
+gathering related to population, environment and poverty linkages. The organization
+will support the National Bureau of Statistics’ 2012 census; establish an Integrated
+Management Information System (IMIS), and coordinate and implement the
+Tanzania Statistical Master Plan, which involves the establishment of routine
+administrative and vital records systems.
+50. WFP will support the capacity of national institutions to co nduct periodic rapid
+vulnerability analyses and the Comprehensive Food Security Vulnerability
+Assessment. WFP will also support the implementation of the Tanzanian
+Government’s compact investment plan for the Comprehensive Africa Agriculture
+Development Programme. This targets improved agricultural production and
+community asset creation within the framework of strengthened food and nutrition
+security.
+51. UNDP will support capacity development of ministries, departments and
+agencies so they can formulate and implement policies and strategies that improve
+income and promote employment. South-South exchanges will enable prompt
+adoption of techniques and initiatives that are proving beneficial. Support for
+contract management and the development of public-private partnerships across
+Mainland Tanzania and Zanzibar will be explored.
+52. The United Nations will build capacities in relevant ministries and the private
+sector to broaden market opportunities, including within the East African
+Community Common Market. UNDP will provide technical assistance to the
+Tanzanian Government’s coordination of a broad trade-sector programme and
+support streamlining of regional integration regulations. Through the global
+knowledge network of UNDP it will provide trade policy opt ions that advance
+human development, and, via the Enhanced Integration Framework, promote further
+integration within the East African Community.
+53. Interventions by WFP will focus on strengthening value along the agricultural
+supply chain. One important way the United Nations can achieve tangible results in
+Tanzania is by providing assistance in the area of disaster risk reduction, in
+particular to bolster national capacity where it is lacking. Using this approach,
+productive safety nets — including the food for assets and food for education
+programmes — will strengthen community resilience, reduce vulnerability and
+enhance local food access and availability. These efforts will include capacity
+support for the local transport sector and more sustainable mar ket access for small
+producers across the entire agricultural cycle, thus promoting household economic
+growth and reducing hunger.
+
+15
+
+Environment and climate change
+54. The United Nations will support the Tanzanian Government to ensure that key
+sector ministries, departments and agencies and local government authorities
+integrate environmental concerns and climate-change adaptation and mitigation in
+their strategies and plans. Enhanced Tanzanian Government capacity will ensure
+coordination and monitoring of natural resource use at national and local levels in
+key target sectors, including agriculture, water, health, forestry, wildlife and
+tourism, energy, and coastal zone resources.
+55. UNDP will support the Government and other partners to articulate a v igorous
+national response to climate change and rapid environmental degradation. Building
+on its global network of expertise and its corporate thrust to address climate change
+adaptation and mitigation, UNDP will help build capacities to coordinate and
+mainstream efforts at the sector level and to reinforce implementation at the local
+level. UNDP will also use its comparative strength as a trust fund manager to
+facilitate establishment of an investment fund for climate change. UNDP will assist
+in developing mitigation strategies through training and technical support to
+national institutions, including those in the private sector, as well as by the
+promotion of: renewable energy sources, improved energy standards, efficient
+technologies and ―clean practices‖ (to help preserve the environment). UNDP will
+continue supporting development of a national framework for reducing emissions
+from deforestation and forest degradation, as well as of local capacity to manage
+forest carbon projects.
+56. WFP will support inclusion in local plans of best practices that promote
+community adaptation to climate variability, strengthen resilience to shocks, and
+improve access to food. These practices include small-scale water catchments, soil
+conservation and feeder roads.
+57. UNDP will support capacity development for improved enforcement of laws
+on the environment and of regulations protecting ecosystems, as well as for
+sustainable management of natural resources. UNDP will support awareness -raising
+related to the Environmental Management Act, facilitating formulation of
+environmental plans and strategies at the local government level, as well as
+strengthening technical, financial and governance capacities for sustainable land and
+forest management.
+58. With strategic support from the Global Environment Facility, UNDP will
+continue to strengthen national capacity for sustainable management of protected
+areas as well as of coastal forest and marine ecosystems. This will include
+strengthening policy and regulatory frameworks. Assista nce will be provided to help
+develop: national frameworks for mainstreaming sustainable land management into
+national economic growth goals, as well as financing of and payment for ecosystem
+services related to carbon, water and biodiversity. In Zanzibar, support will be given
+to institutions for the management of forests and protected areas.
+
+16
+
+Quality of life and social well-being
+Education
+59. Addressing equitable access to quality education at all levels, including
+alternative learning opportunities for illiterate adults, the Development Assistance
+Plan will provide assistance to a range of initiatives aimed at improving learning
+quality and teaching within and outside the formal education system.
+60. UNICEF will support implementation of the national policy on integrated early
+childhood development. It will also support improvements in the quality of teacher
+education programmes for basic education in priority subjects, and enhanced
+resource allocations to priority districts for evidence -based planning, management
+and quality assurance.
+61. WFP will assist the Tanzanian Government in finalizing a national school feeding policy and implement a school-feeding scheme to promote lower drop out
+rates and improved learning. The scheme will provide markets for smallholder
+farmers and a safety net for children in poor households.
+62. UNICEF will support finalization and implementation of ―second chance‖
+policies and guidelines for learners whose school attendance has been disrupted,
+particularly by pregnancy. Children with disabilities and other vulnerabilities, such
+as those living with albinism, will be a particular focus. As regards alternative
+learning opportunities for out-of-school children, UNICEF has been supporting the
+mainstreaming of an integrated post-primary education system in selected districts.
+UNFPA will strengthen the provision of youth life-skills education in the areas of
+sexual and reproductive health and HIV prevention.
+Health and nutrition
+63. The Development Assistance Plan provides for extensive United Nations
+engagement and for capacity-building of the health system.
+64. The United Nations will support the national Strategic Plan to Accelerate
+Reduction of Maternal, Newborn and Child Deaths. UNFPA and UNICEF will
+jointly accelerate implementation of this Plan, particularly in low-performing
+regions in Mainland Tanzania. UNFPA will equip Zanzibar health facilities to
+provide quality family planning, basic and comprehensive emergency obstetric care,
+post-natal services, and integration of sexual and reproductive health and HIV and
+AIDS services.
+65. The United Nations contributes to capacity development for integration of
+nutrition into national and subnational policies, plans and budgets, as well as
+contributing to the strengthening of institutional arrangements for providing
+services. UNICEF will support nutrition services in high -risk regions through
+development of guidelines and the introduction of nutrition workers at subnational
+levels. WFP supports the capacity of the Ministry of Agriculture and of local
+government authorities to plan and budget in a nutrition-sensitive fashion,
+emphasizing food fortification and dietary diversity. WFP further assists ministries,
+departments and agencies in providing targeted and time -bound supplementary
+feeding (combined with appropriate nutrition messaging) in areas with high levels
+of malnutrition and acute hunger.
+
+17
+
+66. The availability and supply of essential medicines and health commodities
+across the country will be addressed through technical support, including through an
+information system for supply chain management. UNICEF support will strengthen
+vaccine and related cold-chain capacity. UNFPA will further strengthen the sexual
+and reproductive health supply chain, focusing on supplies of co ntraceptives and
+other reproductive health items.
+67. Priority will be given to community health structures that promote the use of
+local care. UNICEF will support a review of these structures, develop guidelines
+and implement distance-learning schemes for community-owned resource persons.
+The organization will build Ministry of Health communications capacities related to
+evidence-based programmes. UNFPA will provide client-oriented information and
+other demand-stimulating interventions to promote improved health-care seeking
+behaviour, including by young people.
+68. The United Nations will provide technical support for the development of a
+national health sector training plan to guide human resources planning nationally
+and address human resources issues at all levels. UNFPA will propose alternative
+approaches to health worker skills development and support the implementation of
+an integrated pre-service nursing curriculum in Zanzibar. The technical assistance
+provided by UNICEF will include curriculum development, job aids and supervision
+tools for training and accrediting community health workers in zonal centres.
+69. The United Nations will provide technical assistance to strengthen routine
+health data collection and analysis, enabling national and subnational health
+authorities to direct health services to low-coverage areas. UNICEF will facilitate
+the scaling up of innovative approaches to data and information capture, including
+approaches involving mobile phone technologies. It will also facilitate the
+integration of child survival and nutrition indicators into national and subnational
+surveys.
+HIV and AIDS
+70. The United Nations prioritizes capacity-building and technical assistance to
+promote universal access to prevention, care and support based o n the UNAIDS
+Outcome Framework priority areas. To ensure the greatest access to quality services,
+including a community-based continuum of care, UNICEF focuses on serviceprovider capacity in the public sector, among civil society organizations and in
+networks of people living with HIV and AIDS. UNFPA will support expansion and
+integration of family planning services for women living with HIV. WFP will
+advocate and give policy and technical advice to local government authorities. The
+aims are to encourage budgeting for a food and nutrition component as part of
+treatment and management strategies for HIV and AIDS (transitioning from direct
+food assistance), and to encourage specialized partners, along with government, to
+take over existing programmes.
+71. The United Nations will support implementation of a comprehensive
+multisector HIV prevention strategy, emphasizing high-risk settings (high-prevalence
+regions, schools, learning institutions) and high-risk groups (out-of-school
+adolescents, girls, youths, most-at-risk populations). UNFPA will support the
+implementation of the HIV prevention strategy, focusing on comprehensive condom
+programming, life-planning skills for out-of-school youth, equipping media and
+civil society organizations for social and behavio ur change communication, and
+
+18
+
+addressing prevention among discordant couples (in which one partner is infected
+and the other is not). UNICEF will support the scaling up of interventions that
+reduce vulnerability and prevent HIV infection and sexual violence among
+adolescent girls and young people in high-prevalence regions.
+72. UNDP will continue supporting capacity development at the Tanzania
+Commission for AIDS (TACAIDS) and the Zanzibar AIDS Commission (ZAC). The
+aims are: to promote leadership and coordination of the national response; to
+promote sensitivity to human rights issues and advocacy for people living with HIV
+and AIDS; and to address misconceptions, stigmas and discrimination. UNFPA will
+support the implementation of the Gender Operational Pla n for HIV and AIDS.
+UNICEF will assist in the production of advocacy and communication packages for
+the national AIDS response, with a focus on children and young persons.
+73. The United Nations will assist disaggregated data analysis to promote
+enhanced understanding of the drivers of the epidemic as well as of the human
+rights issues involved in working with the most-at-risk populations. UNFPA will
+facilitate research on sexual risk behaviours and on updating communication
+strategies to better target women and youth, including people living with HIV and
+AIDS. UNICEF will commission an analysis of national survey data to inform the
+planning and implementation of the national HIV and AIDS response and to support
+the monitoring of the National Costed Plan of Action for effectiveness and
+responsiveness.
+Water, sanitation and hygiene
+74. UNDAP has an upstream focus, providing technical assistance and capacity
+development for improved national mechanisms: for enhanced water, sanitation and
+hygiene; for sanitation and hygiene coordination initiatives; for national water
+resources management; and, in Zanzibar, for water supply and to leverage sector
+funds.
+75. UNICEF will help ministries, departments and agencies coordinate and
+harmonize coverage of child, girl-friendly and accessible water, sanitation and
+hygiene within schools. The strategy includes increased fund allocations for
+ministries, departments and agencies to develop and roll out national school water,
+sanitation and hygiene guidelines and comprehensive campaigns to promote social
+and behavioural change.
+76. UNICEF will contribute to a coordinated national response to issues affecting
+household sanitation, hygiene and water treatment as well as safe water storage. A
+national advocacy campaign on sanitation and hygiene, with a special focus on
+Zanzibar, will be supported, as will promotion of hygiene and sanitation,
+communication about these matters, and the development of the evidence base for
+appropriate water, sanitation and hygiene strategies. UNICEF will support the
+capacity of organizations representing vulnerable groups to influence national water,
+sanitation and hygiene policy dialogue on equity and sustainability of water
+supplies.
+Social protection
+77. In support of national goals for adequate social protection and to promote the
+rights of the vulnerable, the Development Assistance Plan focuses on promoting the
+
+19
+
+adoption, scaling-up and better integration of public and other mechanisms in
+Tanzania to address socio-economic vulnerabilities and deliver protection services
+for Tanzanian children and families. UNICEF will technically support the
+development of a coherent social protection policy and regulatory framework, and
+the establishment of institutional mechanisms for coordination of social -protection
+interventions. WFP will promote interventions related to providing food security,
+nutrition-related safety nets and broader social protection.
+78. In addressing the need for more protective services for children and vulnerable
+families, UNICEF will support the Tanzanian Government in the development of a
+tested strategy for child protection. It will make use of the experience of piloting
+child protection models and strengthened child protection responses within the
+National Costed Plan of Action.
+79. UNFPA will allocate resources to develop better understanding among
+decision makers and communities of violence and the abuse of women. UNICEF
+and UNFPA target gaps in legislation, strategies and policies needed to protect
+children, young people and women from abuse, violence and exploitation. Such
+efforts include promoting an effective national response on the issue of birth
+registration. UNICEF will also support the development of technical skills and
+competencies of relevant duty bearers to prevent and respond to incidents of such
+abuse.
+
+Governance, accountability and human rights; emergency
+and refugees
+Governance, accountability and human rights
+80. The United Nations will assist comprehensive strengthening of national
+capacities to manage development at national and subnational levels.
+81. UNDP will help strengthen key national institutions for policy coordination
+and planning, including financing, budgeting and MKUKUTA monitoring. UNICEF
+will provide support for enhanced institutional capacity at the subnational level for
+planning, budgeting, monitoring and reporting. UNICEF will support further policy
+development and enhancing the availability of data regarding children in national
+monitoring systems.
+82. The Tanzanian Government’s capacity to manage and coordinate international
+development assistance will be strengthened through the development of strategies,
+action plans and an improved aid management system to facilitate national
+leadership. UNDP will assist ministries, departments and agencies to better
+coordinate core public sector reforms with the goal of more coherent and rapid
+improvements in good governance, and UNDP will help the Government of
+Zanzibar identify and support select core reforms.
+83. Assistance will be provided so that ministries, departments and agencies, as
+well as non-State actors, can advance key national strategies to combat corruption.
+84. UNDP will continue supporting the improvement of election management
+capacities via the application of integrated systems throughout the electoral cycle.
+This will be done with a view to extending assistance to the 2015 election process if
+requested.
+
+20
+
+85. Interventions to strengthen parliaments will respond to the corporate plans of
+each legislature, enabling the members to better fulfil their responsibilities to
+provide representation, develop legislation and provide oversight, including
+oversight of poverty reduction strategies. Support for political parties will
+encourage the development of platforms and promote internal de mocracy and the
+leadership of women.
+86. UNDP will support completion of the African Peer Review Mechanism and
+provide strategic support to governance needs in the emerging East African
+Community. In the context of the UNDP conflict prevention and recovery mandate,
+reconciliation and dialogue at the local level in Mainland Tanzania and Zanzibar
+will be supported.
+87. UNDP, in collaboration with United Nations partners, will support human
+rights promotion and protection capacities through development of a co mprehensive
+national human rights action plan and human rights education strategy. UNICEF
+will help relevant ministries, departments and agencies, as well as civil society,
+coordinate, collect and compile information to enable the fulfilment of the
+Tanzanian Government’s reporting obligations under such instruments as the
+Convention on the Rights of the Child. In conjunction with UNFPA, UNICEF will
+also help with reporting obligations under the Convention on the Elimination of All
+Forms of Discrimination against Women.
+88. The United Nations supports the Tanzanian Government reforms of the justice
+system on behalf of women and children. UNICEF will provide technical assistance
+to develop policies and strategies for strengthening child and juvenile justice i n line
+with the Law of the Child Act and international standards. The Organization will
+also support the strengthening of human resources in the judicial system and among
+law enforcement agencies. The aim here will be the implementation of procedures
+that are sensitive to the needs of women and children and respectful of their rights.
+UNFPA will focus specifically on the review and reform of laws in Zanzibar that
+concern gender-based violence.
+
+Emergency preparedness and response
+89. The United Nations will contribute to enhancing the emergency preparation
+and response capacities of the Tanzanian Government and of Tanzanian
+communities. Emphasis will be on the delivery of coordinated emergency
+preparedness and responses in the areas of: water, sanitatio n and hygiene; health;
+education; protection; agriculture; food security and nutrition. UNICEF will
+facilitate linkages between ministries, departments and agencies and other
+stakeholders to promote the assessment of emergencies, information -sharing,
+monitoring and overall response. It will help high-risk districts and shehias (village
+councils) create emergency preparedness and response plans, including allocated
+resources and integrated communication strategies. WFP will focus on strengthening
+the early warning systems of agricultural line ministries and communities. It will
+support the food-security components of emergency nutrition assessments, along
+with the development of an inter-ministerial contingency plan for Zanzibar. UNFPA
+will support procurement of equipment and supplies to address sexual and
+reproductive health and gender-based violence in line with the minimum initial
+service package for reproductive health in emergencies. It will also support
+
+21
+
+incorporation of background demographic data for e mergency preparedness into the
+Integrated Management Information System (IMIS). UNDP will strengthen
+government disaster risk reduction planning and coordination capacity, with a focus
+on Zanzibar.
+90. The United Nations has a unique global mandate to support humanitarian
+action wherever such action is required. It therefore will commit resources to
+continue support for camp-based refugees in Tanzania. WFP will take the lead
+among the United Nations organizations in ensuring access to food assistance based
+on needs. (WFP budgets for food assistance to refugees as part of its Protracted
+Relief and Recovery Operations.) UNFPA will support access to high quality,
+gender-sensitive sexual and reproductive health and HIV prevention information,
+skills and services. UNICEF will provide supplies and services for child health,
+education and protection.
+
+IV. Programme management, monitoring and evaluation
+91. The Development Assistance Plan will be jointly implemented by the United
+Nations organizations, the Tanzanian Government and non-State actors within the
+framework of the division of labour agreed to in the Joint Assistance Strategy for
+Tanzania and in light of the overarching goals of improved national ownership and
+effective partnership.
+92. Management and institutional arrangements for programme implementation
+will utilize national processes and systems. Where relevant, other modalities for
+programme implementation will be utilized. The Assistance Plan will conform to the
+national annual planning cycle (July to June), thus facilitating the meaningful
+participation of the United Nations in national planning and review processes.
+93. Organizations will carry out resource-mobilization strategies consistent with
+their global mandates and partnership requirements. This work will be
+complemented by continued use of the ―one fund‖ to support partnership and
+resource mobilization under the Assistance Plan.
+94. Sector and programme working groups will undertake all inter-organization
+coordination related to planning, monitoring and reporting against the Assistance
+Plan.
+95. The United Nations organizations will draw upon their respective global and
+regional knowledge networks, as well as taking advantage of opportunities for
+South-South cooperation. The United Nations organizations and implementing
+partners will be jointly accountable for the delivery of Assistance Plan outcomes and
+outputs. The mainstreaming of cross-cutting considerations will be assessed as part
+of the programme performance criteria. A four-year integrated Assistance Plan
+monitoring and evaluation plan will be developed for coordinated, strategic and
+joint monitoring of progress. The monitoring and evaluation will be centred on
+pre-defined indicators, baselines and annual targets. In addition, a Delive ring as One
+monitoring and evaluation matrix, aligned to the 2015 vision for Delivering as One
+in Tanzania, will track progress in achieving programmatic and operational
+efficiencies.
+96. The reporting against Assistance Plan targets will use, where possib le, existing
+national systems such as the MKUKUTA monitoring system. As part of the
+
+22
+
+proposed programme, the United Nations organizations will support the
+strengthening of national monitoring and evaluation capacities, in order to improve
+data availability and quality.
+97. The United Nations organizations will report on achievements at the outcome
+and output level and a United Nations Development Assistance Plan annual report
+will be presented to the joint steering committee of the Government of the United
+Republic of Tanzania and the United Nations. This reporting will include:
+constraints and challenges faced in implementation processes; lessons learned;
+financial expenditures; mainstreaming of cross-cutting considerations; compliance
+with the triennial comprehensive policy review and the Paris principles on aid
+effectiveness; and measures for the sustainability of the programme beyond the
+lifetime of the Assistance Plan global agreements.
+98. The Assistance Plan will also will be subject to systematic revie w and, where
+necessary, to revision, so as to ensure the continued relevance of United Nations
+efforts in Tanzania. An evaluation of the Assistance Plan will be undertaken in the
+penultimate year of its implementation, in addition to programme - or organizationspecific evaluations.
+
+23
+
+List of Abbreviations
+
+24
+
+AMP
+
+aid management platform
+
+ANC
+
+antenatal care
+
+APRM
+
+African Peer Review Mechanism
+
+ART
+
+anti-retroviral therapy
+
+ARV
+
+anti-retroviral
+
+AU
+
+African Union
+
+CC
+
+climate change
+
+CCPD
+
+common country programme document
+
+CMT
+
+United Nations country management team
+
+CORPS
+
+community-owned resource persons
+
+CPD
+
+country programme document
+
+CSO
+
+civil society organization
+
+DaO
+
+Delivering as One
+
+DFID
+
+Department for International Development (United Kingdom)
+
+DRR
+
+disaster risk reduction
+
+EAC
+
+East African Community
+
+EIA
+
+environmental impact assessment
+
+EMA
+
+Environment Management Act
+
+EMB
+
+Electoral Management Body
+
+EMoC
+
+emergency maternal obstetric care
+
+FFA
+
+food for assets (programme)
+
+FFE
+
+food for education (programme)
+
+GDP
+
+gross domestic product
+
+HACT
+
+harmonized approach to cash transfers
+
+IMIS
+
+Integrated Management Information System
+
+INSET
+
+in-service teacher training
+
+ITN
+
+insecticide-treated net
+
+JAST
+
+Joint Assistance Strategy for Tanzania
+
+LED
+
+local economic development
+
+LGA
+
+local government authority
+
+M&E
+
+Monitoring and Evaluation
+
+MAF
+
+Millennium Development Goals Acceleration Framework
+
+MAIR
+
+MKUKUTA Annual Implementation Report
+
+MDAs
+
+ministries, departments and agencies
+
+MDGR
+
+Millennium Development Goals Report
+
+MKUKUTA
+
+National Strategy for Growth and Reduction of Poverty (acronym
+from Swahili name)
+
+MKUZA
+
+Zanzibar Poverty Reduction Plan (acronym from Swahili name)
+
+MMS
+
+MKUKUTA Monitoring System
+
+MP
+
+Member of Parliament
+
+NACSAP
+
+National Anti-Corruption Strategy and Action Plan
+
+NBS
+
+National Bureau of Statistics
+
+NCPA
+
+National Costed Plan of Action for Most Vulnerable Children
+
+PHDR
+
+Poverty and Human Development Report
+
+PLHIV
+
+people living with HIV and AIDS
+
+PMTCT
+
+prevention of mother-to-child transmission (of HIV)
+
+PRS
+
+poverty reduction strategy
+
+RCU
+
+reform coordination unit
+
+REDD
+
+reducing emissions from deforestation and forest degradation
+
+SBCC
+
+social and behaviour change communication
+
+SLM
+
+sustainable land management
+
+SME
+
+small and medium-sized enterprise
+
+TACAIDS
+
+Tanzania Commission for HIV/AIDS
+
+UNDAF
+
+United Nations Development Assistance Framework
+
+UNDAP
+
+United Nations Development Assistance Plan
+
+UNDP
+
+United Nations Development Programme
+
+UNFPA
+
+United Nations Population Fund
+
+UNICEF
+
+United Nations Children’s Fund
+
+WASH
+
+water, sanitation and hygiene
+
+WFP
+
+World Food Programme
+
+ZAC
+
+Zanzibar AIDS Commission
+
+25
+
+26
+
+Annex 1
+UNDP results and resources framework for the United Republic of Tanzania,
+July 2011-June 2015
+Resources for July 2011-June 2015:
+
+Regular: $43,050,000
+
+Others: $59,913,000 Total: $102,963,000
+
+Programme Component: Poverty Reduction (including achieving the Millennium Development Goals)
+MKUUTA Goal 1.2 Reducing income poverty through promoting inclusive, sustainable and employment -enhancing growth
+MKUZA Goal 1.2 Promote sustainable and equitable pro-poor and broad-based growth
+UNDAP Outcomes
+UNDAP Outputs
+Indicator, Baseline & Targets
+Key Partners
+Indicative
+Resources
+(in US dollars)
+Key national institutions
+Select national policies
+Indicator: MDAs incorporate
+Ministry of Finance and
+Regular
+develop/enhance
+incorporate strategies for
+sectoral policies consistent with
+Economic Affairs; Planning
+4,215,000
+evidence-based pro-poor
+enhancing job-rich
+national pro-poor strategies
+Commission; Zanzibar
+economic development
+dividends and poverty
+Baseline: tourism policy;
+Ministry of Finance and
+Other
+policies and strategies
+reduction
+agricultural policy; Kilimo Kwanza
+Economic Affairs
+800,000
+strategy document; employment
+policy; trade policy: there is no longterm growth plan; national capacity
+development plan
+Target: MDAs incorporate sectoral
+policies consistent with national propoor strategies
+Relevant MDAs, LGAs
+Relevant MDAs, LGAs
+Indicator: LGAs supported in LED
+Attorney General’s
+Regular
+and non-State actors
+and private sector
+plans
+Chambers; Ministry of
+1,810,000
+enhance structures and
+collaborate in promoting
+Baseline: Mapping of LED-related
+Industry Trade and
+policies for promoting
+investment and local
+institutions identifying their
+Marketing; local
+Other
+viable pro-poor business
+economic development
+mandates and functional
+government; Planning
+400,000
+sectors and SMEs
+assignments; analysis of macro
+Commission; private sector
+policies related to LED
+foundation; Zanzibar
+Target: Guidelines for private and
+Business Council; Zanzibar
+public investment-targeting prepared Investment Promotion
+and adopted
+Authority; Zanzibar
+Ministry of Tourism, Trade
+and Industry
+
+Relevant institutions
+improve national
+capacities to promote
+regional integration and
+international trade
+
+Trade mainstreamed in
+key plans and strategies of
+selected MDAs with more
+products, goods and
+services integrated along
+the value chains within
+the country and EAC;
+relevant institutions and
+MDAs harmonize traderelated instruments,
+services, standards and
+policies to smooth EAC
+integration and
+competitiveness
+
+Indicator: Effective coordination of
+trade-related initiatives by Ministry
+of Industry and Trade
+Baseline: Weak coordination
+capacity
+Target: National dialogue on state of
+trade development in Tanzania held
+
+Ministry of Industry Trade
+and Marketing; Tanzania
+Chamber of Commerce,
+Industry and Agriculture;
+Zanzibar Ministry of
+Tourism, Trade and
+Industry; Zanzibar Chamber
+of Commerce, Industry and
+Agriculture; EAC; Ministry
+of East Africa Cooperation;
+Zanzibar Ministry of
+Tourism, Trade and
+Industry; academia;
+Enhanced Integrated
+Framework
+
+Programme Component: Environment and Energy for Sustainable Development
+MKUKUTA Goal 1.4 Ensuring food security and climate change adaptation and mitigation
+MKUZA Goal 1.2 Promote sustainable and equitable pro-poor and broad-based growth
+MKUKUTA Goal 1.5 Allocating and utilizing national resources equitably and efficiently for growth and poverty reduction,
+especially in rural areas
+MKUZA Goal 1.2 Promote sustainable and equitable pro-poor and broad-based growth
+Key MDAs and LGAs
+National capacity and
+Indicator: # of CC resilience
+Vice President’s Office
+integrate CC adaptation
+strategies for CC
+initiatives that address risks
+Division of Environment; Prime
+and mitigation in
+adaptation in place
+vulnerability and CC impacts;
+Minister’s Office; regional
+strategies and plans
+Baseline: Consolidated information
+administration; local
+on climate risk vulnerability, CC
+government; Japan; DFID
+impacts and adaptation options in
+place
+Target: At least 4 CC resilience
+initiatives implemented in the
+coastal, semi-arid and semi-humid
+zones
+National capacity to adopt Indicator: Manufacturing and
+Vice President’s Office Division of
+and implement mitigation
+tourism enterprises incorporate lowEnvironment; Ministry of
+strategies for a lowcarbon and energy efficient
+Energy and Minerals;
+carbon and resourcetechnologies
+UNIDO
+efficient development
+Baseline: Minimal enterprise
+path enhanced
+adoption of low-carbon and energy
+efficient technologies
+Target: 3 additional enterprises
+incorporating low-carbon and energy
+efficient technologies for the first
+time (12 in total)
+
+Regular
+1,900,000
+Other
+2,350,000
+
+Regular
+1,580,000
+Other
+4,050,000
+
+Regular
+3,770,000
+Other
+11,300,000
+
+27
+
+28
+
+Relevant MDAs, LGAs
+and non-State actors
+improve enforcement of
+environment laws and
+regulations for the
+protection of ecosystems,
+biodiversity, and the
+sustainable management
+of natural resources
+
+National governance
+framework for REDD and
+capacity to manage
+programmes for reducing
+the loss of forest carbon in
+place
+National and local levels
+have enhanced capacity to
+coordinate, enforce and
+monitor environment and
+natural resources
+
+Technical, financial and
+governance capacities for
+sustainable land and forest
+management enhanced
+Improved capacity for
+sustainable management
+of protected areas, coastal
+forest and marine
+ecosystems, including
+policy and regulatory
+frameworks
+
+Indicator: REDD issues incorporated
+Vice
+into national policy
+Baseline: No REDD strategy; REDD
+issues are new to the country
+Target: National REDD strategy
+implemented as per agreed schedule
+Indicator: LGAs formulate
+environment plans and strategies in
+line with EMA
+Baseline: Minimal understanding of
+environment issues among LGAs
+Target: Support to LGAs to
+formulate environment plans and
+strategies in line with EMA
+Indicator: # of key policies
+mainstreaming SLM
+Baseline: Few key policies
+mainstream SLM
+Target: At least three additional
+policies mainstream SLM
+Indicator: Business plans show
+improved financial scorecard for
+national system of coastal forest
+protected areas and target landscapes
+(Rufiji, Kilwa, Lindi and Zanzibar)
+Baseline: No business plans for
+coastal forest protected areas
+Target: Business plans implemented
+in coastal forest protected areas and
+target landscapes (Rufiji, Kilwa,
+Lindi and Zanzibar)
+
+President’s Office Division of
+Environment; Ministry of
+Natural Resources and
+Tourism; UNEP; FAO;
+Norway
+
+Regular
+1,200,000
+
+Vice President’s Office
+Division of Environment;
+Prime Minister’s Office;
+regional administration; local
+government; UNEP; Global
+Environment Facility
+
+Regular
+1,210,000
+
+Vice President’s Office
+Division of Environment; Prime
+Minister’s Office; regional
+administration; local
+government; UNEP; Global
+Environment Facility
+Vice President’s Office
+Division of Environment;
+Ministry of Natural Resources
+and Tourism; Global
+Environment Facility
+
+Regular
+1,360,000
+
+Programme Component: HIV/AIDS
+MKUKUTA Goal 2.3 Improving survival, health and well being of all children, women and vulnerable groups
+MKUZA Goal 2.2 Improved health delivery systems particularly to the most vulnerable groups
+Relevant CSO and
+CSOs, including PLHIV
+Indicator: CSOs, including PLHIV
+National Council of NGOs;
+PLHIV networks
+umbrella organizations
+umbrella organizations and
+National Council of PLHIV;
+effectively coordinate
+and networks, coordinate
+networks, effectively coordinate
+TACAIDS; ZAC; Zanzibar
+and participate in
+their constituencies and
+their constituencies
+Association of PLHIV; private
+decision-making forums
+operationalize
+Baseline: Limited communication
+sector; Zanzibar Ministry of
+participatory processes
+within networks; limited internal
+Health and Social Welfare;
+capacities; limited strategic guidance Prime Minister’s Office;
+to CSOs
+regional administration; local
+Target: Networks participating in
+government; Chief Minister’s
+CSO forum; each network has a
+Office; participating UN
+functional internal communication
+organizations
+mechanism; strategic plans for key
+networks have achieved 20% of their
+targets, according to agreed schedule
+
+Other
+4,100,000
+
+Other
+4,100,000
+
+Other
+4,900,000
+Regular
+1,433,000
+Other
+5,350,000
+
+Regular
+850,000
+Other
+588,000
+
+TACAIDS and ZAC
+provide effective
+guidance to the national
+HIV/AIDS response,
+based on evidence and
+per agreed human rights
+standards
+
+Existing M&E systems
+and sector reviews
+optimized to provide
+strategic information to
+decision makers and
+implementers at all levels
+for evidence-based
+planning
+TACAIDS and ZAC have
+appropriate technical
+capacity to support
+MDAs, LGAs and nonState actors to mainstream
+human rights and gender
+considerations in the
+national response to
+HIV/AIDS
+
+Appropriate policies and
+guidelines for an
+enhanced HIV & AIDS
+response are developed
+and disseminated;
+TACAIDS and ZAC
+mobilize resources and
+provide leadership,
+coordination and
+oversight of recipients and
+stakeholders
+
+Indicator: LGA managers (women
+and men) and selected district-level
+HIV M&E implementers trained
+Baseline: Revised M&E system
+established; 50% of selected HIV
+M&E implementers trained in datacollection tools and guidelines:
+Target: 100% of selected HIV M&E
+implementers trained in datacollection tools and guidelines
+Indicator: Staff in TACAIDS and
+ZAC trained in mainstreaming
+human rights, gender and key
+population concerns in strategic
+plans
+Baseline: Less than 10% of staff in
+TACAIDS and ZAC trained in
+mainstreaming human rights, gender
+and key population concerns in
+strategic plans
+Target: 80% of staff in TACAIDS
+and ZAC trained in mainstreaming
+human rights, gender and key
+population concerns in strategic
+plans
+Indicator: Regional and district
+offices receive the necessary policy
+and guidelines documents
+(prevention strategy, PMTCT, male
+circumcision guidelines, global HIV
+and AIDS policy)
+Baseline: Policy and guidelines
+regularly developed and reviewed;
+minimal dissemination of policies
+and guidelines to regional and
+district offices
+Target: 90% of regional and district
+offices in receipt of updated policies
+and guidelines
+
+Ministry of Health and Social
+Welfare; TACAIDS; ZAC;
+Zanzibar Ministry of Health and
+Social Welfare
+
+Regular
+950,000
+
+Ministry of Health and Social
+Welfare; TACAIDS; ZAC;
+Zanzibar Ministry of Health and
+Social Welfare; Prime
+Minister’s Office; regional
+administration; local
+government; Chief Minister’s
+Office; participating UN
+organizations
+
+Regular
+1,350,000
+
+Ministry of Justice and
+Constitutional Affairs, Ministry
+of Health and Social Welfare;
+TACAIDS; ZAC; Zanzibar
+Ministry of Health and Social
+Welfare; Prime Minister’s
+Office; regional administration;
+local government; Chief
+Minister’s Office, participating
+UN organizations
+
+Regular
+1,300,000
+
+Other
+421,000
+
+Other
+1,000,000
+
+Other
+1,444,000
+
+29
+
+30
+
+Programme Component: Democratic Governance
+MKUKUTA Goal 3.1 Ensuring systems and structures of governance uphold the rule of law and are democratic, effective, accountable, predictable,
+transparent, inclusive and corruption-free at all levels
+MKUKUTA Goal 3.2 Improving public service delivery to all, especially to the poor and vulnerable
+MKUKUTA Goal 3.3 Promoting and protecting human rights for all, particularly for poor women, children, men and the vulnerable
+MKUZA Goal 3.3 Strengthen the rule of law, respect for human rights and access to justice
+MKUZA Goal 3.4 Improve democratic institutions and national unity
+Relevant MDAs advance key
+Anti-corruption and
+Indicator: NACSAP III
+Ministry of Justice and
+Regular
+national strategies for good
+other select core
+operational
+Constitutional Affairs,
+7,500,000
+governance
+reforms strengthened;
+Baseline: Implementation of
+Zanzibar Ministry of
+select public sector
+NACSAP II under way
+Constitutional Affairs and
+Other
+reforms in Zanzibar are
+Target: NACSAP III implemented
+Good Governance; Ministry of
+1,600,000
+developed and
+(including recommendations of
+Community Development
+accelerated
+NACSAP II) as per plan
+Gender and Children;
+Indicator: New workplan for core
+Prevention and Combating of
+RCU implemented
+Corruption Bureau; Prime
+Baseline: No comprehensive RCU Minister’s Office; Zanzibar
+workplan
+Ministry of Labour, Youth,
+Target: RCU meets regularly as
+Women and Children
+per workplan requirements
+Development; Ministry of
+Finance; Sweden; Canada;
+DFID
+Leads to more effective aid
+A national strategy and
+Indicator: JAST for aid
+Ministry of Finance; Ministry
+Regular
+management and aid
+action plan for aid
+effectiveness implemented
+of Finance and Economic
+2,062,000
+coordination
+effectiveness is adopted
+Baseline: No JAST II
+Affairs; Zanzibar & Mainland;
+and implemented by
+Target: JAST II operational as per
+DFID
+Other
+Government and
+agreed schedule
+900,000
+development partners;
+the aid management
+system is improved to
+better incorporate
+reporting and
+dissemination of
+relevant data; national
+leadership in the
+dialogue structure is
+strengthened and donor
+coordination improved
+Select MDAs and LGAs have
+The Planning
+Indicator: % of President’s Office Ministry of Finance; Ministry
+Regular
+increased capacity for
+Commission plays an
+Planning Commission and key
+of Finance and Economic
+1,350,000
+planning, budgeting,
+active role in improved
+staff from Prime Minister ’s
+Affairs; Prime Minister’s
+monitoring and reporting
+national policy
+Office, Ministry of Finance and
+Office; President’s Office
+Other
+coherence
+Economic Affairs; Ministry of
+Planning Commission
+850,000
+Industry Trade and Marketing;
+and Ministry of Agriculture
+Forestry and Food Security
+trained on policy and analytical
+issues
+
+Tanzanian Government
+advances fulfilment of its
+international treaty obligations
+
+Key institutions effectively
+implement their election and
+political functions
+
+An effective national
+development
+(MKUKUTA and
+MKUZA) monitoring
+and reporting system is
+operationalized;
+capacities of selected
+MDAs and LGAs are
+developed in areas of
+poverty and policy
+analysis, public finance
+and management
+A comprehensive
+national human rights
+action plan is developed
+
+The National Assembly
+and House of
+Representatives better
+fulfil their
+representative,
+legislative and oversight
+responsibilities; MPs
+effectively oversee the
+monitoring and analysis
+of the PRSs
+
+Baseline: No training plan for
+policy and analytical issues in
+place
+Target: 70% of President’s Office
+Planning Commission and key
+staff from Prime Minister ’s
+Office, Ministry of Finance and
+Economic Affairs; Ministry of
+Industry Trade and Marketing;
+and Ministry of Agriculture
+Forestry and Food Security
+trained on policy
+and analytical issues
+Indicator: MMS reports
+incorporate sector-specific
+statistics
+Baseline: Biannual PHDR, annual
+MAIR
+Target: Timely and improved
+MAIR 2013/14, timely and
+improved PHDR 2014, timely and
+improved MDGR 2014
+
+Indicator: National human rights
+action plan developed
+Baseline: No national human
+rights action plan
+Target: Comprehensive national
+human rights action plan adopted
+and ready for implementation
+Indicator: Annual PRS review by
+National Assembly and House of
+Representatives; Baseline: No
+reviews undertaken
+Target: Annual Parliamentary
+reports and recommendations
+produced
+
+Ministry of Finance, Ministry
+of Finance and Economic
+Affairs (Mainland and
+Zanzibar); DFID; general
+budget support (GBS) partners
+
+Regular
+11,200,000
+
+Commission for Human Rights
+and Good Governance; CSOs;
+Ministry of Justice and
+Constitutional Affairs
+
+Regular
+760,000
+
+National Assembly; House of
+Representatives
+
+Regular
+6,723,000
+
+Other
+1,500,000
+
+Other
+800,000
+
+Other
+2,000,000
+
+31
+
+32
+
+Election management
+bodies better manage
+the election cycle
+through the application
+of integrated
+management systems
+Political parties develop
+comprehensive policy
+platforms; political
+parties improve internal
+party democracy;
+women assume
+leadership roles and
+positions in politics
+APRM results improved
+and EAC governance
+development supported
+
+Indicator: % of recommendations
+from post-election evaluations on
+which action taken by EMBs;
+Baseline: Recommendations from
+post-election evaluations
+Target: Action taken on 100% of
+recommendations (2014)
+Indicator: Parties publish updated
+policy platforms
+Baseline: 5 principal parties
+produce policy platforms
+Target: Policy platforms available
+
+National Assembly; House of
+Representatives; Netherlands;
+Norway; Sweden; DFID
+
+National Electoral
+Commission; Prime Minister’s
+Office, regional administration
+and local government;
+Zanzibar Electoral Commission
+
+Regular
+3,540,000
+
+Indicator: A Government response
+to the APRM country
+report/action plan
+Baseline: 0 reports to AU
+Target: Government reports to AU
+Indicator: Meetings with EAC
+governance institutions conducted
+Baseline: 0 meetings
+Target: UN quarterly meetings
+with EAC governance institutions
+
+CSOs; political parties;
+registrar for political parties
+
+Regular
+610,000
+
+Programme Component: Crisis Prevention and Recovery
+MKUKUTA Goal 3.4 Ensuring national and personal security and safety of properties
+MKUZA
+Goal 3.3 Strengthen the rule of law, respect for human rights and access to justice
+Prime Minister’s office and
+Operational framework
+Indicator: National operational
+Chief Minister’s office
+and dialogue structure for
+guidelines in place and evaluated
+disaster management
+implementation of the
+Baseline: Guidelines for Mainland
+departments effectively lead
+disaster management
+need updating following review;
+emergency preparedness and
+policies in Mainland and
+guidelines for Zanzibar not yet in
+response with a focus on
+Zanzibar in place;
+place
+areas most susceptible to
+community conflict
+Target: Updated national
+disasters; select communities prevention and resolution
+operational guidelines for both
+participate in democratic and dialogue structures
+Mainland and Zanzibar in place,
+peaceful discourse
+established in select areas
+reviewed and evaluated
+
+Regular
+6,020,000
+Other
+10,000,000
+
+Other
+850,000
+
+Other
+100,000
+
+Prime Minister’s office and
+Chief Minister’s office disaster
+management departments;
+CSOs; Ministry of Ministry of
+Home Affairs; Ministry of
+Justice and Constitutional
+Affairs; Zanzibar
+
+Regular
+2,250,000
+Other
+500,000
+
+Annex 2
+UNFPA results and resources framework for the United Republic of Tanzania,
+2011-2015
+Indicative resources: Total $33.85 million: $18.8 million (regular resources); $0.8 million (programme coordination
+and assistance); $14.25 million (other resources)
+UNFPA p rogramme comp on ent : p opulation and development
+N ational strategies for growth and reduction of poverty: Mainland (MKUKUTA) goal 1.2: Reducing income poverty through promoting inclusive,
+sustainable and employment-enhancing growth; Zanzibar (MKUZA) goal 1.2: Promote sustainable and equitable pro -poor and broad-based growth
+United Nations Development Assistance Plan (UNDAP) strategic area: economic growth
+UNFPA strategic plan (goal 1): systematic use of population dynamics analyses to guide increased investments in gender equality, youth development,
+reproductive health and HIV/AIDS for improved quality of life and sustainable development and poverty reduction
+UNDAP outcome: Key national institutions develop and enhance evidence-based, pro-poor economic development policies and strategies
+UNDAP outputs
+Indicators, baselines and targets
+Partners
+Relevant ministries, departments and
+agencies, higher learning institutions
+and other research institutions utilize
+population variables in developing
+sector policies and plans
+
+Indicator: percentage of planned surveys conducted on time
+Baseline: to be determined; Target: 100%
+Indicator: percentage of survey reports with appropriately
+disaggregated data; Baseline: to be determined; Target: 100%
+Indicator: number of social sector ministries that incorporate
+sex, age, education, income and geographical location
+variables in economic and development plans. Baseline: to be
+determined; Target: all social sector ministries
+
+National Bureau of Statistics,
+Prime Minister’s Office —
+Regional Administration and
+Local Government; Zanzibar
+office of the Chief Government
+Statistician, Zanzibar Ministry
+of Finance and Economic
+Affairs, academia
+
+Indicative
+resources
+$5 million
+from regular
+resources;
+$3 million
+from other
+resources
+
+U N F PA p ro g r a m me c o mp o n e n t: r eproductive health and rights
+National strategies for growth and reduction of poverty: Mainland (MKUKUTA) goals: 2.3: improving the survival, health and we ll-being of all children,
+women and vulnerable groups; and 3.4: ensuring national and personal security and safety of properties. Zanzibar (MKUZA) goal s: 2.2: improved healthdelivery systems, particularly for the most vulnerable groups; and 3.3: strengthen the r ule of law, respect for human rights and access to justice
+UNDAP strategic area: health, HIV and AIDS, emergencies and refugees
+UNFPA strategic plan (goal 2): universal access to reproductive health by 2015 and to comprehensive HIV prevention by 2010 for improved quality of life
+UNDAP outcome: Relevant ministries, departments, agencies and local government administrations develop, implement and monitor policies, plans and
+budgets for the effective delivery of health services
+UNDAP outputs
+Indicators, baselines and targets
+Partners
+Indicative
+resources
+Ministries of Health and Social
+Welfare and local government
+administrations’ capacity to plan,
+implement, monitor and evaluate the
+One Plan for Maternal, Newborn and
+Child Health is improved
+
+Indicator: percentage of comprehensive council health plans
+with increased allocations for maternal, neonatal and child
+health activities; Baseline: to be determined; Target: at least
+25% increase
+Indicator: percentage of health centres providing basic
+emergency obstetric and newborn care, and adolescent
+friendly health services; Baseline: 22%; Target: 40%
+
+Central medical stores, Prime
+Minister’s Office, Ministries of
+Health and Social Welfare,
+development partners, civil
+society, non-governmental and
+faith-based organizations
+
+$11.75
+million from
+regular
+resources;
+$10.25
+million from
+other
+resources
+
+33
+
+34
+
+UNDAP outcome: Tertiary and district health facilities in Zanzibar increase the coverage of quality emergency obstetric care, newborn, child and post-natal
+services
+Tertiary and district health facilities in Indicator: percentage of facilities with increased facilityCentral medical stores, Ministries of Health and
+Zanzibar are equipped to provide
+based deliveries; Baseline: to be determined; Target: 90%
+Social Welfare, local government administrations,
+quality emergency obstetric care,
+Indicator: percentage of service-delivery points with at least
+development partners, civil society organizations
+newborn and postnatal services
+three modern methods of contraception in stock consistently;
+and non-governmental organizations
+Baseline: to be determined; Target: at least 50%
+UNDAP outcome: Ministries of Health and Social Welfare, local government administrations and shehias (villages) strengthen community health structures
+and communication strategies for promoting health and nutrition behaviour
+Evidence-based, integrated
+Indicator: percentage of health facilities providing adolescent
+Prime Minister’s Office - Regional
+communication strategies for
+sexual and reproductive health services; Baseline: to be
+Administration and Local Government, Ministries
+improving behaviour and the uptake
+determined; Target: increase of at least 20%
+of Health and Social Welfare, development
+of services, including adolescent
+Indicator: new family planning acceptors in targeted regions;
+partners, civil society, non-governmental and
+health and nutrition, are developed
+Baseline: to be determined; Target: 30% increase
+faith-based organizations
+and implemented
+UNDAP outcome: Ministries of Health and Social Welfare and local government administrations develop human resources for health policy and plans
+Alternative approaches to health
+Indicator: percentage of health facilities implementing task
+Prime Minister’s Office, Ministries of Health and
+worker skills development and
+shifting model in selected districts; Baseline: to be
+Social Welfare, civil society, non-governmental
+utilization are in place
+determined; Target: to be determined, based on task shifting
+and faith-based organizations, academia,
+model and district-specific action plan
+professional associations and training institutes
+UNDAP outcome: An effective national integrated supply chain and management system for medical supplies is operationalized
+Medical supply systems for
+Indicator: percentage of districts using computerized stock
+Central medical stores, Ministries of Health and
+quantification, procurement, storage
+management systems to forecast contraceptives;
+Social Welfare, local government administrations,
+and distribution are accurate, centrally Baseline: 0; Target: 40% of districts
+development partners, Prime Minister ’s Office
+linked and computerized
+UNDAP outcome: Tanzania AIDS Commission and Zanzibar AIDS Commission provide effective guidance to the national HIV/AIDS resp onse, based on
+evidence and per agreed human rights standards
+Existing monitoring and evaluation
+Indicator: Number of studies conducted and reports
+Ministries of Health and Social Welfare,
+systems and sector reviews are
+disseminated to decision makers and implementers during the
+Parliament, Prime Minister’s Office - Regional
+optimized to provide strategic
+country programme cycle; Baseline: 0. Target: 5
+Administration and Local Government, Tanzania
+information to decision makers and
+and Zanzibar AIDS commissions, Ministry of
+implementers at all levels for
+Community Development, Gender and Children;
+evidence-based planning
+Zanzibar Ministry of Social Welfare, Women’s
+Development and Children, Ministry of
+AIDS commissions have appropriate
+Indicator: percentage of social sector HIV reports
+Education and Vocational Training, academia,
+technical capacity to support
+documenting human rights, gender and youth-specific
+civil society and faith-based organizations,
+ministries, departments and agencies,
+activities; Baseline: to be determined; Target: 100%
+development partners
+local government administrations, and
+non-state actors to mainstream human
+rights and gender considerations in
+the national response to HIV/AIDS
+UNDAP outcome: Selected ministries, departments and agencies, local government administrations and non-state actors implement evidence-based HIV
+prevention programmes
+
+National and subnational coordination
+mechanisms for HIV prevention are
+functional and guide implementation
+of the national multisectoral
+prevention strategy
+Selected ministries, departments,
+agencies, local government
+administrations and civil society
+organizations implement their HIV
+prevention interventions aligned with
+the national multisectoral prevention
+strategy
+Quality and coverage of behaviour
+change communication interventions
+for young people are operationalized,
+expanded and evaluated
+
+Indicator: percentage of annual sector reports submitted
+reflecting implementation of their HIV prevention strategy;
+Baseline: to be determined; Target: 60%
+Indicator: Number of life skills implementers for out-ofschool youth utilizing the national life skills training manual;
+Baseline: to be determined; Target: All implementers
+
+Local government administrations, Ministries of
+Health and Social Welfare, Prime Minister’s
+Office - Regional Administration and Local
+Government, Tanzania AIDS Commission,
+Ministry of Community Development, Gender
+and Children, Ministry of Education and
+Vocational Training, civil society, faith-based and
+non-governmental organizations, media and
+professional associations
+
+Indicator: percentage of young people in selected high
+prevalence regions using a condom at their last high-risk
+sexual encounter; Baseline: 30% male, 43% female; Target:
+20% increase in each category
+
+UNDAP outcome: Ministries, departments and agencies and civil society organizations reach and mobilize most -at-risk populations to utilize appropriate
+user-friendly HIV/AIDS services
+Ministries, departments and agencies,
+Indicator: number of facilities providing comprehensive HIV
+Ministries of Health and Social Welfare, Zanzibar
+and civil society organizations
+and AIDS services for most-at-risk populations in line with
+AIDS Commission, Zanzibar Ministry of Social
+provide user-friendly HIV and AIDS
+standard guidelines; Baseline: 0. Target: 4 facilities
+Welfare, Women’s Development and Children,
+services to most-at- risk populations
+Ministry of Education and Vocational Training,
+civil society, faith-based and non-governmental
+Zanzibar AIDS Commission,
+Indicator: percentage of civil society organizations and
+organizations, media and development partners
+ministries, departments and agencies,
+government health facilities providing sexual and
+and civil society organizations
+reproductive health/HIV services to young people; Baseline:
+implement programmes to link most0; Target: 30%.
+at-risk populations to available
+services and reduce risk behaviour in
+young people
+Communication and advocacy
+Indicator: communication and advocacy strategy reflecting
+strategies to promote the utilization of service utilization by people living with HIV and other
+HIV/AIDS services by people living
+vulnerable groups is available; Baseline: 0; Target:
+with HIV, most vulnerable children
+communication and advocacy strategy in use
+and others are operationalized
+UNDAP outcome: Disaster management departments of the Prime Minister ’s Office and the Chief Minister’s Office effectively lead emergency
+preparedness and response, with a focus on areas most susceptible to disasters
+Operational framework and dialogue
+Indicator: national operational guidelines for disaster
+Prime Minister’s Office - Regional
+structure for implementation of the
+management reflect reproductive health, gender and
+Administration and Local Government, Zanzibar
+disaster management policies in the
+population concerns; Baseline: concerns not reflected. Target:
+Chief Minister’s Office, disaster management
+mainland and in Zanzibar are in place
+concerns reflected in national guidelines
+departments
+UNDAP outcome: Relevant ministries, departments and agencies, local government administrations, and non -state actors are prepared, have adequate
+sectoral capacity and provide an effective, coordinated response in water, sanitation and hygiene, health, education, protect ion, agriculture, food security
+and nutrition in emergencies
+
+35
+
+36
+
+Ministries of Health and Social
+Welfare coordination mechanism for
+health in emergencies is functional
+and has enhanced response capacity
+UNDAP outcome: Refugees have access
+
+Indicator: percentage of emergency health stocks
+prepositioned to provide reproductive health services;
+Baseline: 0; Target: 100%
+
+Ministries of Health and Social Welfare, civil
+society, faith-based and non-governmental
+organizations, Tanzania Red Cross Society
+
+to basic services and protection in line with international norms and standards
+
+Refugees’ access to quality, genderIndicator: percentage of refugees accessing sexual and
+sensitive sexual and reproductive
+reproductive health services;
+health and sexual gender-based
+Baseline: 90%. Target: 100%
+violence services according to the
+minimum initial service package is
+enhanced
+UNFPA programme component: gender equality
+
+Disaster management departments of the Prime
+Minister’s Office and the Chief Minister’s Office,
+Ministries of Health and Social Welfare, civil
+society, faith-based and non-governmental
+organizations, Tanzania Red Cross Society and
+local governments
+
+National strategies for growth and reduction of poverty for Tanzania: Mainland (MKUKUTA) goals 2.6 and 3.1: Ensuring systems and structures of
+governance uphold the rule of law and are democratic, effective, accountable, predictable, transparent, inclusive and corrupt ion-free at all levels; 3.3:
+Promoting and protecting human rights for all, particularly for poor women, children, men and the vulnerable. Zanzibar (MKUZA) goals 2.6 and 3.3:
+Strengthen the rule of law, respect for human rights and access to justice
+UNDAP strategic areas: social protection and governance
+UNFPA strategic plan (goal 3): gender equality advanced and young girls empowered to exercise their human rights, particularly their reproductive rights,
+and live free from discrimination and violence
+UNDAP outcome: Government addresses priority gaps in legislation, strategies and guidelines to pro tect children and women from abuse, violence and
+exploitation
+UNDAP outputs
+Indicators, baselines and targets
+Partners
+Indicative
+resources
+Increased response to gender-based
+Indicator: number of community gender-based violence
+Parliament, Zanzibar Ministry
+$2.05 million
+violence by law enforcement agents
+committees competent to respond to cases; Baseline: to be
+of Social Welfare, Women’s
+from regular
+determined; Target: At least a two-fold increase from the
+Development and Children;
+resources;
+baseline
+Ministry of Community
+$1 million from
+Development, Gender and
+other resources
+Children; Faith-based, nongovernmental and civil society
+organizations, the media and
+professional associations
+UNDAP outcome: Government advances the fulfilment of its international treaty obligations
+Adherence to key treaties and the
+Indicator: report on the Convention on the Elimination of All
+Commission for Human Rights and Good
+universal periodic review is
+Forms of Discrimination against Women submitted on time;
+Governance, relevant ministries, faith-based,
+continuously monitored, reported on
+Baseline: 2008 report on the Convention combines three
+non-governmental and civil society
+and relevant commissions’
+reports into one report; Target: 2012 single report submitted on organizations, private sector, trade unions and
+observations are followed up
+time
+the media
+UNDAP outcome: Government justice system better protects the rights of women and children in contact or in conflict with the law and is better able to
+respond to their needs
+An effective, gender-sensitive legal
+Indicator: number of gender-based violence cases reported
+Prime Minister’s Office, Parliament, academia,
+framework to address gender-based
+annually; Baseline: to be determined; Target: at least 10%
+professional associations, Commission for
+violence is in place
+annual increase in reported cases
+Human Rights and Good Governance, relevant
+ministries, media, faith-based, non-governmental
+and civil society organizations
+
+Annex 3
+UNICEF programme of cooperation with the Government of the United Republic
+of Tanzania, 2011-2015: summary results matrix and summary budget table
+More comprehensive data on children and women can be found at www.childinfo.org .
+Summary results matrix
+Programme
+component (and
+related focus area
+of the mediumterm strategic
+plan)
+Child and
+maternal health
+and nutrition
+
+Programme component results
+(UNDAP outcomes with UNICEF
+contributions)
+
+Key progress indicators, baselines and targets
+(for each programme component result)
+
+Major partners,
+partnership frameworks
+and cooperation
+programmes
+
+37
+
+Strengthen national health systems, maternal and newborn care, community-based health care and early childhood development, as
+well as nutrition, for scaled-up delivery of health and nutrition services, to accelerate child survival and development gains and
+improve maternal health
+Ministry of Health and Social
+Indicator: comprehensive council health plans (CCHPs) in
+United Nations
+Welfare and local government
+selected LGAs targeting interventions as per gaps identified at
+World Health Organization
+authorities (LGAs) produce quality
+annual reviews. Verification: CCHP, annual review reports.
+(WHO), UNFPA, WFP
+and timely data for evidence-based
+Baseline: to be determined (TBD). Target: CCHPs in more than
+Government
+planning and decision-making.
+(>) 70 per cent (%) of selected LGAs targeting interventions as
+Prime Minister’s Office —
+per gaps identified at annual reviews.
+Regional Administration and
+Local Government, Ministry
+Ministry of Health and Social
+Indicator: Health Promotion Unit of Ministry of Health and
+of Health and Social
+Welfare, LGAs and Shehias
+Social Welfare implementing the health and nutrition
+(subdistricts) strengthen
+communication strategy. Verification: assessment report; partner Welfare, Ministry of
+Agriculture, Food and
+community health structures and
+report; communication strategy; opinion survey. Baseline: no
+communication strategies for
+communication strategy. Target: targets for first implementation Cooperatives, Ministry of
+Community Development,
+promoting health and nutrition
+phase of communication strategy met.
+Gender and Children,
+behaviours.
+Indicator: infants aged less than (<) 6 months in targeted LGAs
+Ministry of Education and
+who are exclusively breastfed. Verification: evaluation report.
+Vocational Training,
+Baseline: TBD. Target: 50% increase.
+Ministry of Industry, Trade
+Indicator: proportion of pregnant women in targeted regions
+and Marketing, Ministry of
+delivered by skilled health personnel. Verification: service
+Labour, Employment and
+statistics and survey reports. Baseline: TBD. Target: 30%
+Youth Development,
+increase.
+Ministry of Finance and
+Relevant ministries, departments
+Indicator: nutrition institutional arrangements established and
+Economic Affairs, Tanzania
+and agencies (MDAs) and LGAs
+regions having trained nutrition coordinators. Verification:
+Food and Drug Authority,
+integrate nutrition into policies,
+policy/legal document; partner reports. Baseline: unclear division
+National Bureau of
+plans and budgets and strengthen
+of labour between MDAs and LGA structures; no nutrition
+Statistics, central medical
+institutional arrangements for
+coordinators at regional level. Target: All regions have one
+stores
+delivery of services.
+trained nutrition coordinator; National Nutrition Strategy II
+Zanzibar Ministry of
+approved with clarity in institutional roles.
+Agriculture, Livestock and
+Indicator: health facilities in targeted districts providing quality
+Environment, Zanzibar
+nutrition services, as per essential nutrition actions. Verification:
+Ministry of Regional
+evaluation report. Baseline: TBD. Target: improved quality of
+Administration and Special
+nutrition services, as per essential nutrition actions.
+
+38
+
+Ministry of Health and Social
+Welfare and LGAs develop human
+resources for health policy and
+plans.
+Relevant MDAs and LGAs
+develop, implement and monitor
+policies, plans and budgets for
+effective delivery of health
+services.
+
+An effective national integrated
+supply chain and management
+system for medical supplies is
+operationalized.
+Water,
+sanitation and
+hygiene
+
+Indicator: proportion of accredited health institutions providing
+priority training. Verification: partner reports. Baseline: needs
+assessment to be undertaken and priority training agreed.
+Target: 50% of accredited institutions providing the required
+training.
+Indicator: proportion of comprehensive council and district
+health plans that meet the set criteria for approval. Verification:
+CCHP review reports. Baseline: TBD. Target: 70%.
+Indicator: proportion of health centres providing basic
+emergency obstetric and newborn care, adolescent-friendly
+health services, Integrated Management of Childhood Illnesses.
+Verification: service availability, statistics reports; Tanzania
+Service Provision Authority. Baseline: 22% (5% for basic).
+Target: 70% health-care centres provide basic services.
+Indicator: proportion of facilities reporting stock-outs of
+medicines, vaccines and contraceptives in selected regions.
+Verification: stock management reports. Baseline: limited
+information on stock-outs. Target: less than 25% of facilities in
+selected regions report stock-outs of medicines, vaccines and
+contraceptives.
+
+Departments, Zanzibar
+Ministry of Health and
+Social Welfare, Zanzibar
+Ministry of Labour, Youth,
+Women and Children
+Development, Zanzibar
+Ministry of Tourism, Trade
+and Industry, Zanzibar
+Office of the Chief
+Government Statistician
+Other
+CSOs, faith-based
+organizations (FBOs),
+international nongovernmental organizations
+(NGOs), academia, media,
+professional associations,
+training institutes,
+development partners
+
+Focus on school WASH, household sanitation and hygiene and emergency WASH, for scaled -up and coordinated delivery of evidencebased WASH interventions, to accelerate child survival, education and development
+The Government adopts evidencebased measures to enhance
+decision-making, equity and
+inclusion of women, children and
+vulnerable populations in WASH.
+
+The Government implements a
+coordinated, scaled-up national
+response for improved sanitation
+and hygiene.
+
+Relevant MDAs provide a
+coordinated, harmonized response
+for increased coverage and
+improved quality of child-friendly
+(esp. girl-friendly) and accessible
+school WASH.
+
+Indicator: number of reports or documentation annually
+produced for the WASH sector and other key sectoral reports
+addressing or responding to equity issues. Verification: Water
+Sector Development Programme annual/mid-year report, health
+sector programme annual report. Baseline: annual equity report
+by Tanzania Water and Sanitation Network (with WaterAid
+support). Target: two stand-alone and two key sector reports /
+documentation, with equity focus included.
+Indicator: donors supporting a national scaled-up response for
+improved sanitation and hygiene. Verification: reports to the
+National Steering Committee for Sanitation and Hygiene.
+Baseline: some money available under Water Sector
+Development Programme. Target: two major development
+partners/ sector-wide approach funding sanitation and hygiene
+in 50% of districts in Tanzania.
+Indicator: households in target areas practicing positive WASH
+behaviour. Verification: baseline and evaluation report.
+Baseline: TBD. Target: 20% increase in targeted areas.
+Indicator: national school WASH programme operational.
+Verification: Ministry reports. Baseline: initial discussion on
+national programme or institutional mechanisms. Target:
+national school WASH programme implementation ongoing in
+more than 40 districts.
+
+United Nations
+UN-Habitat, WHO
+Government
+Prime Minister’s Office —
+Regional Administration and
+Local Government, Ministry
+of Education and Vocational
+Training, Ministry of Health
+and Social Welfare, Ministry
+of Water and Irrigation,
+National Environment
+Management Council
+Zanzibar Ministry of
+Education and Vocational
+Training, Zanzibar Ministry
+of Health and Social Welfare,
+Zanzibar Water Authority,
+Zanzibar Bureau of Statistics
+Other
+Comprehensive Community
+Based Rehabilitation of
+Tanzania, WaterAid,
+academia, research
+institutions, University of
+Dar es Salaam, CSOs, FBOs,
+NGOs
+
+Children and
+AIDS
+
+39
+
+Support scale-up of an evidence-based and comprehensive national HIV and AIDS response on PMTCT and paediatric AIDS, HIV
+prevention and care, and support for OVC, with a clear focus on children, adolescent s and young people, and other vulnerable groups
+Tanzania Commission for AIDS
+Indicator: TACAIDS and ZAC have systems for quality data
+United Nations
+(TACAIDS) and Zanzibar AIDS
+management, monitoring and evaluation and knowledge
+UNAIDS, UNDP, UNFPA,
+Commission (ZAC) provide
+sharing. Verification: systems inventory report; review report.
+United Nations Educational,
+effective guidance to the national
+Baseline: limited data management, monitoring and evaluation
+Scientific and Cultural
+HIV/AIDS response, based on
+and knowledge sharing. Target: improved data availability, data
+Organization (UNESCO),
+evidence and human rights
+quality, and enhanced utilization.
+Food and Agricultural
+standards.
+Indicator: staff in TACAIDS and ZAC trained in mainstreaming
+Organization of the United
+human rights, gender and key population concerns in strategic
+Nations (FAO), United
+plans. Verification: gender and human rights audit reports;
+Nations Development Fund
+medium-term expenditure frameworks. Baseline: less than 10%
+for Women (UNIFEM),
+of staff in TACAIDS and ZAC trained in mainstreaming human
+WFP, WHO
+rights, gender and key population concerns in strategic plans.
+Government
+Target: 80% of staff in TACAIDS and ZAC trained in
+Parliament, Prime Minister’s
+mainstreaming human rights, gender and key population
+Office — Regional
+concerns in strategic plans.
+Administration and Local
+Government, Ministry of
+Selected MDAs, LGAs and nonIndicator: proportion of women aged 15-24 years in high
+Community Development,
+State actors (NSAs) implement
+prevalence regions having comprehensive knowledge of HIVGender and Children,
+evidence-based HIV prevention
+prevention methods. Verification: Demographic and Health
+Ministry of Health and
+programmes.
+Survey (DHS), Tanzania HIV/AIDS and Malaria Indicator
+Social Welfare, Ministry of
+Survey (THMIS); follow-up knowledge, attitudes and practices
+Justice and Constitution
+(KAP) survey. Baseline: TBD, based on regions selected.
+Affairs, Ministry of
+Target: >85%.
+Education and Vocational
+Indicator: proportion of women aged 15-19 years in high
+Training, Ministry of
+prevalence regions who reported using a condom during last
+Labour, Employment and
+sexual intercourse. Verification: DHS, THMIS; follow-up KAP
+survey. Baseline: TBD, based on regions selected. Target: >50%. Youth Development,
+Ministry of Agriculture,
+Zanzibar MDAs and CSOs reach
+Indicator: proportion of most-at-risk populations, including
+Food and Cooperatives,
+and mobilize most-at-risk
+young people, utilizing appropriate and user friendly services.
+Ministry of Livestock
+populations to utilize appropriate
+Verification: quarterly service coverage reports; annual service
+Development and Fisheries,
+user-friendly HIV/AIDS services.
+coverage reports. Baseline: 8 CSOs and 1 MDA working with
+TACAIDS
+most-at-risk populations reporting out of those that are working
+Zanzibar Ministry of Health
+on HIV. Target: 50% of most-at-risk populations reached with
+and Social Welfare, Zanzibar
+appropriate user-friendly HIV/AIDS services.
+Ministry of Labour, Youth,
+Relevant MDAs, LGAs and NSAs
+Indicator: selected MDAs with medium-term expenditure
+Women and Children
+effectively operationalize the
+frameworks reflecting NPA and strategies for MVCs.
+Development, Zanzibar
+National Costed Plan of Action
+Verification: medium-term expenditure frameworks. Baseline:
+Ministry of Education and
+(NCPA) for most vulnerable
+limited capacity and budget to implement NCPA for MVCs.
+Vocational Training,
+children (MVC).
+Target: increased budgeting of NCPA activities in MDA
+Zanzibar AIDS Commission,
+budgets, compared to previous year.
+Other
+Selected MDAs, LGAs and NSAs
+Indicator: health-care facilities provide care and treatment
+CSOs, FBOs, NGOs,
+deliver increased quality of
+services, according to national guidelines. Verification:
+academia, media,
+HIV/AIDS care and treatment
+Tanzania Service Provision Authority; annual care and
+professional associations
+services.
+treatment reports. Baseline: no regular assessment and reports
+of quality of care and treatment services. Target: increase in
+quality care and treatment services provided in targeted regions
+according to national guidelines.
+
+40
+
+Child protection
+
+Focus on child justice, child protection systems strengthening and birth registration, to protect children from abuse, exploi tation and
+violence in line with government commitments within frameworks of the Law of the Child Act (2009) and the national PRS
+The government justice system
+protects the rights of women and
+children in contact or conflict with
+the law, and is better able to
+respond to their needs.
+
+MDAs, LGAs, law enforcement
+agencies and selected CSOs have
+improved technical skills to prevent
+and respond to cases of
+abuse/violence/exploitation of
+children.
+The Government addresses priority
+gaps in legislation, strategies and
+guidelines to protect children and
+women from abuse, violence and
+exploitation.
+
+Decision makers and communities
+understand issues concerning
+violence and abuse against
+children, including available
+protection services.
+
+Indicator: justice system incorporates international standards for
+child justice and juvenile justice. Verification: review report;
+evaluation report. Baseline: inadequate reflection of
+international standards in child and juvenile justice. Target:
+increased reflection of international and national standards, as
+per implementation strategies.
+Indicator: rehabilitation and reintegration services in place in
+detention centres and in pilot areas. Verification: partner reports.
+Baseline: lack of community prevention, rehabilitation and
+reintegration programmes for children to be formally referred,
+diverted and sentenced, and a lack of such services in detention
+centres. Target: rehabilitation services in place in detention
+centres and in the pilot areas and roll-out plans finalized.
+Indicator: MDAs, LGAs and other child protection duty bearers
+have technical skills to prevent and respond to child protection
+issues. Verification: training reports; partner reports. Baseline:
+ad hoc training sessions going on. Target: > 80% targets set in
+multisectoral capacity-building strategy met.
+Indicator: districts with trained duty bearers respond effectively
+to child protection issues. Verification: evaluation report.
+Baseline: TBD. Target: first-phase districts respond effectively.
+Indicator: government legislation, strategies and guidelines
+reviewed and adequately address abuse, violence and
+exploitation against children. Verification: legislation, strategies
+guidelines, assessment report. Baseline: presence of Antitrafficking Act and the Law of the Child Act; no regulations and
+implementation strategy; inadequate enforcement of legislation
+and regulations with regard to gender-based violence. Target:
+government legislation, strategies and guidelines adequately
+address abuse, violence and exploitation.
+Indicator: national birth registration strategy for children under
+5 years approved and operationalized. Verification: strategy
+document; evaluation report; and survey data. Baseline: draft
+national birth registration strategy for children under 5 years
+available. Target: midterm targets of the national birth
+registration strategy achieved.
+Indicator: referrals of child victims of violence to protection
+services. Verification: Department of Social Welfare of Ministry
+of Health and Social Welfare, magistrates, police and other
+child-protection duty bearer reports. Baseline: TBD. Target: 20%
+increase.
+Indicator: understanding of decision makers on violence against
+children issues and public statements to address these issues.
+Verification: KAP survey (baseline, midterm and end of term);
+national press and television monitoring. Baseline: TBD. Target:
+30% increase in understanding; increase in public statements.
+
+United Nations
+International Organization
+for Migration, UNFPA,
+UNIFEM
+Government
+Parliament, Prime Minister’s
+Office — Regional
+Administration and Local
+Government, Ministry of
+Community Development,
+Gender and Children,
+Ministry of Education and
+Vocational Training,
+Ministry of Home Affairs,
+Ministry of Health and
+Social Welfare, Ministry of
+Justice and Constitution
+Affairs, Ministry of Labour,
+Employment and Youth
+Development, Commission
+for Human Rights and Good
+Governance, National
+Bureau of Statistics
+Zanzibar Ministry of Health
+and Social Welfare, Zanzibar
+Ministry of Education and
+Vocational Training,
+Zanzibar Ministry of Labour,
+Youth, Women and Children
+Development, Zanzibar
+Chief Justice,
+Other
+CSOs, FBOs, NGOs,
+academia, media,
+professional associations
+
+Relevant MDAs integrate child
+protection into their national
+programmes.
+
+MDAs produce, utilize and report
+disaggregated data on abuse,
+trafficking, exploitation and
+violence against women and
+children according to agreed
+timeframes.
+Local service providers respond
+effectively to women and child
+victims of abuse, violence and
+exploitation in select areas.
+
+Education
+equity and
+quality
+
+Indicator: NCPA-MVC provides response on child protection
+issues. Verification: NCPA 2011-2015 evaluation report.
+Baseline: 2007-2010 NCPA does not adequately address child
+protection issues. Target: increased response to child protection
+issues, operationalized by NCPA.
+Indicator: Government has a tested strategy to scale up child
+protection in Tanzania in relevant MDAs. Verification: pilot
+evaluation report; scale-up strategy document. Baseline: pilot
+initiated. Target: costed national child protection scale-up
+strategy approved.
+Indicator: data available on abuse, trafficking, exploitation and
+violence against women and children. Verification: survey
+reports, sectoral information systems. Baseline: insufficient
+disaggregated data on violence, abuse and exploitation of
+women and children. Target: increase in data availability from
+surveys and sectoral information systems.
+Indicator: child and women who are victims of abuse, violence
+and exploitation have access to quality protection services.
+Verification: local service provider plans; progress reports;
+evaluation. Baseline: limited service provision and inadequate
+quality of services for women and children who are victims of
+abuse, violence and exploitation. Target: increase in access and
+quality services provided by targeted local service providers.
+
+Contribute to the realization of MDGs 2 and 3, the United Nations Girls ’ Education Initiative and Education for All through education
+systems capacity development, by enhancing learning and the school environment and by focusing on equity, gender and life skills
+The Ministry of Education and
+Vocational Training expands
+provision of alternative learning
+opportunities to include less
+teacher-dependent learning modes,
+focusing on out-of-school children
+and illiterate adults.
+
+The Ministry of Education and
+Vocational Training improves
+quality of teacher education
+programmes for basic education in
+priority subjects.
+
+Indicator: number and types of additional options available for
+alternative learning opportunities. Verification: Ministry of
+Education and Vocational Training reports; SITAN report.
+Baseline: number and type for alternative learning opportunities
+TBD. Target: two additional, feasible options for alternative
+learning opportunities, of which one is less teacher-dependent.
+Indicator: proportion of females registered in new alternative
+learning opportunities programmes. Verification: monitoring
+reports. Baseline: 2011 total enrolment TBD. Target: 50% of
+learners participating in pilot are female.
+Indicator: proportion of districts implementing In-service
+Teacher Education (INSET) strategy and its operational
+guidelines. Verification: monitoring reports; evaluation report.
+Baseline: INSET modules not in place. Target: 50%.
+Indicator: proportion of pilot teacher education institutes
+meeting Pre-Service Teacher Education (PRESET) curriculum
+delivery minimum standards set by Ministry of Education and
+Vocational Training. Verification: monitoring reports;
+evaluation report. Baseline: PRESET modules not in place.
+Target: >70% teacher education institutes.
+Indicator: proportion of teachers who completed the INSET
+demonstrating Ministry of Education and Vocational Training
+
+United Nations
+UNESCO, WFP
+Government
+Prime Minister’s Office —
+Regional Administration and
+Local Government, Ministry
+of Community Development,
+Gender and Children,
+Ministry of Education and
+Vocational Training,
+Tanzania Institute of
+Education, Ministry of
+Health and Social Welfare
+Zanzibar Ministry of Health
+and Social Welfare, Zanzibar
+Ministry of Education and
+Vocational Training,
+Zanzibar Ministry of
+Regional Administration and
+Special Departments,
+Zanzibar Ministry of Labour,
+Youth, Women and Children
+
+41
+
+42
+
+Relevant MDAs operationalize
+national policy on Integrated Early
+Childhood Development
+
+Relevant MDAs undertake
+evidence-based planning,
+management and quality assurance
+at national, district, ward and
+school levels.
+
+Social policy
+analysis and
+development
+
+teacher competencies. Verification: inspectorate reports;
+evaluation reports; classroom observation reports. Baseline:
+Ministry of Education and Vocational Training teacher
+competency framework not in place. Target: 40% demonstrating
+60% of competencies.
+Indicator: oversight mechanism for relevant MDAs to
+operationalize Integrated Early Childhood Development policy
+in place and functional. Verification: minutes; monitoring
+reports; medium-term expenditure framework documents.
+Baseline: oversight inadequate, no meetings; no monitoring
+reports. Target: two oversight inter-ministerial meetings held
+annually.
+Indicator: proportion of allocations to low-performing districts.
+Verification: medium-term expenditure frameworks. Baseline:
+limited evidence base; TBD. Target: increase in allocations to
+low-performing districts.
+Indicator: districts have evidence-based education plans.
+Verification: district education plans. Baseline: limited evidence
+base. Target: basic education management information systems
+inspectorate data incorporated in district plans.
+
+Development, Zanzibar
+districts
+Other
+CSOs, FBOs, NGOs,
+training institutes
+
+Seek to influence the design of policy, legislative and budgetary frameworks, geared towards the realization of children ’s rights,
+including in the area of social protection, in an equitabl e manner
+Government coordinates a
+multisectoral social protection
+response to the needs of
+economically deprived and insecure
+groups.
+
+Government advances fulfilment of
+its international treaty obligations.
+
+Indicator: approved National Social Protection Framework
+(NSPF) implemented, as per agreed schedule. Verification:
+NSPF; implementation plan, review and evaluation reports.
+Baseline: NSPF pending adoption; weak coordination across
+sectors. Target: national social protection response evaluated
+and recommendations shared with all stakeholders.
+Indicator: coverage of national social protection interventions to
+respond to the needs of economically deprived groups.
+Verification: evaluation report. Baseline: limited coverage of
+social protection interventions, mostly small-scale, sporadic and
+donor-funded. Target: increase in social protection coverage
+(national programmes, additional vulnerable groups,
+geographical), as per national implementation plan.
+Indicator: National Human Rights Action Plan developed.
+Verification: National Human Rights Action Plan. Baseline: no
+national human rights action Plan; management structure for
+National Human Rights Action Plan in place; consultations with
+stakeholders started. Target: annual review of National Human
+Rights Action Plan conducted; annual targets defined in Action
+Plan met; new annual workplan for the National Human Rights
+Action Plan set.
+Indicator: reports submitted on time to regional and
+international bodies. Verification: Convention on the Rights of
+the Child, Convention on the Elimination of Discrimination
+against Women, African Charter for the Rights and Welfare of
+
+United Nations
+International Labour
+Organization, Office of the
+High Commissioner for
+Human Rights, UNDP,
+UNESCO, UNFPA, WFP,
+WHO
+Government
+Prime Minister’s Office —
+Regional Administration and
+Local Government, Ministry
+of Natural Resources and
+Tourism, Ministry of
+Community Development,
+Gender and Children,
+Ministry of Education and
+Vocational Training,
+Ministry of Information,
+Culture and Sports, Ministry
+of Industry, Trade and
+Marketing, Ministry of
+Justice and Constitution
+Affairs, Ministry of Labour,
+Employment and Youth
+Development, Ministry of
+
+the Child, state of conservation report, labour-related reports.
+Baseline: Convention on the Rights of the Child due in 2012,
+state of conservation report; all labour reports due in 2010 were
+submitted past deadline. Target: submissions as per established
+schedule.
+
+Emergency
+preparedness
+and response
+
+Agriculture, Food and
+Cooperatives, Ministry of
+Finance and Economic
+Affairs, Ministry of Health
+and Social Welfare,
+Commission for Human
+Rights and Good
+Governance
+Zanzibar Ministry of
+Tourism, Trade and Industry,
+Zanzibar Ministry of State,
+Finance and Economic
+Affairs, Zanzibar Ministry of
+Education and Vocational
+Training, Zanzibar Ministry
+of Labour, Youth, Women
+and Children Development,
+Zanzibar districts
+Other
+CSO, FBOs and NGOs,
+media, private sector, trade
+unions
+
+Support capacity development of the Government to effectively lead national emerge ncy preparedness and response, with a focus on
+areas most susceptible to disasters, and provide support to refugee programmes in north -western Tanzania
+Communities have access to
+improved credible emergency
+information to enable early action.
+
+Relevant MDAs, LGAs, and NSAs
+are prepared, have adequate
+sectoral capacity and provide an
+effective intra-coordinated response
+in WASH, health, education,
+protection, agriculture, food
+security and nutrition in
+emergencies.
+The disaster management
+departments of the Prime
+Minister’s Office and the Chief
+Minister’s Office effectively lead
+emergency preparedness and
+response, with a focus on areas
+most susceptible to disasters.
+
+Indicator: information on emergency preparedness and response
+disseminated through local disaster committees. Verification:
+field trip reports; LGA reports; food-security assessment reports;
+evaluation report. Baseline: insufficient emergency information
+for communities; food-security information at national level.
+Target: local disaster committees effectively disseminate
+information on emergency preparedness and response.
+Indicator: relevant sectors providing coordinated emergency
+response. Verification: meeting minutes; assessment reports;
+training reports by sector; joint evaluation. Baseline: TBD in
+June 2011. Target: increased collaborative or coordinated
+emergency response to 75% of emergencies with over 50,000
+affected people.
+
+43
+
+Indicator: high-risk districts and Shehias with costed emergency
+preparedness and response plans. Verification: reports on
+response to emergencies in affected regions; copies of plans on
+file at Prime Minister’s Office and Chief Minister’s Office.
+Baseline: reports from past emergency interventions; some
+plans available but not consolidated. Target: 20 emergency
+preparedness and response plans at district level operationalized
+(5 in Zanzibar Shehias and 15 mainland districts).
+
+United Nations
+FAO, UNDP, UNFPA,
+United Nations High
+Commissioner For Refugees
+(UNHCR), WFP, WHO
+Government
+Prime Minister’s Office,
+Prime Minister’s Office —
+Regional Administration and
+Local Government, Ministry
+of Agriculture, Food and
+Cooperatives, Ministry of
+Education and Vocational
+Training, Ministry of Health
+and Social Welfare, Ministry
+of Livestock Development
+and Fisheries, Ministry of
+Water and Irrigation,
+Ministry of Natural
+Resources and Tourism,
+Ministry of Home Affairs
+Zanzibar Chief Minister’s
+Office – Disaster
+
+44
+
+Refugees have access to basic
+services and protection in line with
+international norms and standards.
+
+Planning,
+monitoring and
+evaluation
+
+Indicator: proportion of refugees with access to basic services
+and protection. Verification: annual UNHCR Standards and
+Indicators Report. Baseline: 60,000 refugees in camps have
+access to basic services and protection. Target: 90% of an
+estimated 20,000 refugees have access to basic services and
+protection.
+
+Management Department,
+Zanzibar Ministry of Health
+And Social Welfare,
+Zanzibar Ministry of
+Agriculture, Livestock and
+Environment, Zanzibar
+Water Authority
+Other
+Tanzania Red Cross Society,
+CSOs, FBOs, NGOs
+
+Strengthen planning, monitoring and evaluation nationally and internally, within the United Nations system, focus on targeting
+inequities around children in subnational plans and budgets and increase tracking and reporting of results on children
+Select MDAs and LGAs have
+increased capacity for planning,
+budgeting, monitoring and
+reporting.
+
+Indicator: LGAs produce plans and reports following agreed
+planning, budgeting, monitoring and reporting quality
+standards. Verification: LGA plans and reports. Baseline: TBD,
+based on planned evaluation. Target: at least 20 LGAs produce
+plans and reports following agreed planning, budgeting,
+monitoring and reporting quality standards.
+
+United Nations
+United Nations Capital
+Development Fund, UNDP,
+UNIFEM
+Government
+President’s Office Planning
+Commission, Prime
+Minister’s Office —
+Regional Administration and
+Local Government, Ministry
+of Agriculture, Food and
+Cooperatives, Ministry of
+Community Development,
+Gender and Children,
+Ministry of Finance and
+Economic Affairs, National
+Bureau of Statistics
+Zanzibar Ministry of State,
+Finance and Economic
+Affairs
+Other
+Academia, CSOs, FBOs,
+NGOs, private sector
+
+Summary budget table
+
+Programme
+Child and maternal health and nutrition
+
+(In thousands of United States dollars)
+Regular resources
+Other resources
+
+Total
+
+15 000
+
+25 670
+
+40 670
+
+Water, sanitation and hygiene
+
+8 000
+
+10 600
+
+18 600
+
+Children and AIDS
+
+6 500
+
+11 380
+
+17 880
+
+Child protection
+
+7 200
+
+12 220
+
+19 420
+
+Education equity and quality
+
+8 500
+
+10 180
+
+18 680
+
+Social policy analysis and development
+
+3 300
+
+540
+
+3 840
+
+Emergency Preparedness and Response
+
+5 000
+
+640
+
+5 640
+
+Communication, advocacy and partnerships
+
+3 800
+
+200
+
+4 000
+
+Planning, monitoring and evaluation
+
+3 300
+
+600
+
+3 900
+
+14 092
+
+1 278
+
+15 370
+
+74 692
+
+73 308
+
+148 000
+
+Cross-sectoral costs
+Total
+
+45
+
+Annex 4
+WFP United Republic of Tanzania country programme,
+2011-2015
+WFP TANZANIA COUNTRY PROGRAMME 200200 (2011-2015)
+Number of beneficiaries
+
+2,521,400
+
+Duration of project
+
+4 years
+(1 July 2011-30 June 2015
+
+WFP food tonnage
+
+239,995 mt
+Cost (United States dollars)
+
+WFP food cost
+
+97,206,792
+
+Total cost to WFP
+
+175,025,307
+
+Situation analysis — food security situation 1
+1.
+The comprehensive food security vulnerability assessment (CFSVA) findings
+reveal that poor food consumption, a proxy indicator for food security, is strongly
+associated with the ownership of productive assets and vulnerability to shocks
+affecting crops and livestock. Households with poor consumption experienced
+greater exposure to plant diseases and animal pests, are more likely to be headed by
+women, and have low expenditure and wealth index scores. Food -insecure
+households own fewer livestock, cultivate fewer crops and do not use modern
+inputs.
+2.
+The country’s food self-sufficiency over the past eight years 2 has ranged
+between 88 and 112 percent. 3 Although Tanzania is typically food self-sufficient at
+the national level, there are localized food deficits at the regional, district and
+household levels. The most food-deficit regions 4 include Arusha, Manyara, Lindi,
+Mtwara and Singida; even in years of a national surplus, these regions experience
+food deficits. In contrast, regions of Rukwa, Ruvuma, Iringa and Mbeya in the
+southern highlands produce surpluses and are regarded as the national granary; these
+are the main sources for commercial supplies and a part of the surplus is procured
+by the National Food Reserve Agency (NFRA) for government emergency stocks
+for deficit areas.
+3.
+The asymmetrical agricultural production in Tanzania is compounded by poor
+market integration, interregional taxation, weak road infrastructure, long distances
+between surplus and deficit areas, and cereal export bans. These limits to trade
+result in a large difference between prices for the producer and for the consumer,
+__________________
+1
+2
+3
+4
+
+46
+
+For detailed situation analysis see the common country programme document (CCPD).
+2002/03 to 2009/10.
+Measured by the ―self-sufficiency ratio‖ (SSR).
+SSR below 100 percent.
+
+10-66622
+
+with local cereal prices above import parity levels. High prices affect access to food
+for low-income households.
+4.
+Household agricultural production is low and is characterized by the use of
+traditional inputs, hand tools and rain-fed agriculture. There is a low level of land
+ownership. Agricultural labour opportunities are seasonal and limited during
+droughts, constraining household income and purchasing power. Accelerating land
+degradation is of particular concern in food-deficit regions, resulting in increased
+susceptibility to climatic shocks, which deepen negative coping strategies, poverty
+and seasonal hunger.
+5.
+The high prevalence of stunting and micronutrient deficiencies, such as iron
+deficiency anaemia, are the main nutritional problems. 5 The 2010 Demographic and
+Health Survey (DHS) indicates 42 per cent of children under 5 are stunted, 6 4.8 per
+cent are wasted and 21 per cent are underweight. The regions of Arusha, Kagera,
+Kigoma, Manyara, Mbeya, Morogoro, Mtwara, Mwanza, Ruvuma, Shinyanga,
+Singida and Tanga have prevalences of stunting between 35 and 50 percent;
+Dodoma, Iringa, Lindi and Rukwa have prevalences over 50 percent. 7 The
+prevalence of stunting is significantly higher for boys than for girls and much more
+common among rural children.
+
+WFP strategic focus
+6.
+WFP activities are aligned with Tanzania’s Poverty Reduction Strategy (PRS) 8
+and the United Nations Development Assistance Plan (UNDAP) July 2011 -June
+2015, and integrated in the CCPD. 9 The PRS is designed to address gaps in attaining
+the Millennium Development Goals, prioritizing agriculture, food security and
+nutrition security as key drivers for growth. The Comprehensive Africa Agriculture
+Development Programme (CAADP) compact was signed in July 2010 and WFP will
+support the Government to implement the CAADP investment plan, with specific
+attention to Pillar 3, Food supply and hunger.
+7.
+The WFP activities are based on the WFP Country Strategy 2011 -2015,
+focusing on: (i) ensuring continuity and building on experience and best practices
+from previous programmes; (ii) prioritizing food-insecure areas and the most
+vulnerable households; (iii) supporting a demand-driven and participatory approach;
+(iv) enhancing strategic and local partnerships; (v) ensuring alignment and coherence
+with government policies and strategies related to agricultural development, nutrition
+and food security; (vi) supporting the government goals for environmental
+sustainability and climate change adaptation/mitigation; (vii) equitable access to
+__________________
+5
+6
+7
+
+8
+9
+
+See the CCPD.
+Height-for-age below -2 standard deviation.
+National Bureau of Statistics and ORC Macro. 2010. Tanzania Demographic and Health Survey,
+2010. Dar es Salaam, Tanzania and Calverton, MD, United States of America.
+MKUKUTA II and MKUZA II
+WFP’s Executive Board Bureau agreed at its 14 September 2010 meeting to align with the other
+United Nations funds and programmes, submitting the draft CCPD at its First Regular Session
+of 2011 for approval at its Annual Session of 2011. The CCPD is in line with the United Nations
+Development Group (UNDG) Common Framework for the Country Programme Outline and
+Country Programme Document, the four agencies’ June 2010 decisions and United Nations
+General Assembly Resolution A/RES/64/289.
+
+47
+
+quality education at all levels for boys and girls; (viii) improving survival, health,
+nutrition and well-being, especially for children, women and other vulnerable
+groups; and (ix) providing adequate social protection and rights to vulnerable groups .
+8.
+
+The WFP country programme will focus on the following two priorities: 10
+
+• Food security and nutrition support (Strategic Objectives 2, 4 and 5)11 for
+people living in environmentally fragile and chronically food-insecure
+areas who face recurrent hunger periods, struggle to access food and to
+meet their basic food and nutrition needs, are more vulnerable to shocks
+and require direct assistance. Focused around productive safety nets and
+nutrition, activities include food for education (FFE), food for assets
+(FFA) and nutrition support.
+• Investments in community food and nutrition security (Strategic
+Objectives 2 and 5) for communities that are able to meet their basic
+food and nutrition needs but require further investment to ensure future
+food security and reduced vulnerability. Activities include enabling
+government policy for hunger and nutrition solutions, linking small
+producers to markets and strengthening food security information
+systems.
+9.
+The food assistance safety net approach of FFA, FFE and nutrition activities
+on a district-wide basis in the most food-insecure areas is aimed to contribute to the
+development of targeted communities affected by recurrent shocks and chronic
+hunger. Priority will be given to strengthening programme linkages with local
+government priorities, plans and budget processes, paving the way for a transition to
+wholly government-owned safety net programmes. Complementary partnerships and
+commitments from stakeholders will be important.
+10. WFP integrates capacity development in its programme activities and will
+work hand in hand with government counterparts and communities in the design,
+implementation and monitoring of the activities, including training and peer -to-peer
+learning between districts, especially for school fe eding. This capacity development
+approach will facilitate the transition to government ownership and implementation
+by local government authorities and allow WFP to gradually focus more on policy
+and technical support.
+11. Food for education — Component 1. Schoolchildren at 1,167 primary schools
+(full day and boarding) will receive two cooked school meals a day during the 195
+school days per year: a mid-morning porridge of fortified corn-soya blend (CSB)
+and a school lunch consisting of cereals, pulses and vegetable oil. Based on food
+security indicators combined with enrolment, attendance and drop out rates, FFE
+will target Arusha, Dodoma, Manyara, Shinyanga and Singida regions. In addition,
+WFP will support the Ministry of Education and Vocational Training (MoEVT) to
+__________________
+10
+
+11
+
+48
+
+There are three priorities in the WFP Country Strategy: the first priority is emergency assistance
+and assistance to refugees, addressed through emergency operations (EMOPS) and protracted
+relief and recovery operations (PRROs); the second and third priorities are addressed through
+this country programme.
+Strategic Objective 2: Prevent acute hunger and invest in disaster preparedness and mitigation
+measures; Strategic Objective 4: Reduce chronic hunger and undernutrition; and Strategic
+Objective 5: Strengthen the capacities of countries to reduce hunger, including through handover strategies and local purchase.
+
+10-66622
+
+pilot the use of micronutrient powders to fortify the mid -day meal; if successful,
+WFP will incorporate the process in all 1,167 schools under the FFE component.
+12. WFP will work with communities and local non-governmental organizations
+(NGOs) to continue supporting the improvement of sanitation, hygiene and school
+infrastructures, particularly fuel-efficient stoves and rainwater harvesting tanks. The
+Government will implement a national deworming programme.
+13. WFP will continue to support MoEVT in developing a national school feeding
+strategy and guidelines to support implementation of school feeding. School
+nutrition is now incorporated in the Ministry’s education and training policy. A
+national policy is a critical step towards facilitating a sustainable national FFE
+programme. Concurrent to policy support, WFP will continue to develop capacity at
+central and district level to train education officials to manage school feeding
+activities, and to support the existing Education Sector Managemen t Information
+System (ESMIS) database.
+14. Food for Assets — Component 2. 12 The evaluation of the previous WFP
+country programme recommended a more focused and long-term strategy in its FFA
+activities. Through a disaster risk reduction lens, FFA will streng then community
+resilience, reduce vulnerability and enhance local food access and food availability
+throughout the agricultural cycle for people who are unable to mitigate recurring
+economic, climatic or seasonal shocks that cause ―poor‖ or ―borderline‖ consumption.13
+Food will be an incentive to participate in asset-creation activities and participants
+will receive take-home rations during the lean period when access to food is poor
+and prices are high. A food basket of cereals, pulses and vegetable oil wi ll be
+provided according to standardized work norms. Based on the rural daily labour
+wage rate and average market prices, the daily ration for FFA activities is equivalent
+to approximately 90 per cent of household expenditure on food. 14
+15. To strengthen resilience and promote adaptation to climate variability, FFA
+activities will include soil and water conservation measures (water harvesting
+systems and soil fertility enhancement measures), basic community socio -economic
+infrastructure, irrigation, homestead productivity intensification and income generating activities, and tree nursery development. Community targeting and local level participatory planning will ensure that the most vulnerable and food -insecure
+households are given priority to participate in FFA activities and be direct
+beneficiaries of the assets created or rehabilitated. A portion of the FFA food
+(5-15 per cent) will be reserved for the most vulnerable households that are unable
+to work because of age, disabilities, pregnancy, chronic illness, etc. These
+beneficiaries will engage in less strenuous activities. WFP will draw on market and
+feasibility studies to explore combinations of transfers for food, cash and vouchers.
+16. The projects will be integrated into the district-level agricultural and
+development plans. A lasting impact on community food security will be achieved
+through the design of synergetic projects using the Local-Level Participatory
+Planning and Implementation Approach (LLPPIA). In addition to developing
+capacity of local entities, this approach will enhance the community project
+__________________
+12
+13
+14
+
+The FFA activities will take place for a six-month period according to the agricultural calendar.
+As measured by the food consumption score.
+Alpha values for cereals 1.72 (local purchase) and 1.67 (regional purchase).
+
+49
+
+ownership. Programme success or the triggers to graduate from food assistance will
+be based on community and household asset scores and food consumption data.
+17. Nutrition Programmes — Components 3 and 4. The supplementary feeding
+programme (SuFP) will aim to reduce levels of global acute malnutrition (GAM)
+among children under 5 and pregnant and lactating women and will ensure
+continuity of the current programme in districts with a GAM rate above the national
+average, while gradually shifting to a new approach that addresses stunting. The
+SuFP will provide CSB and vegetable oil to 12,000 children under 5 and pregnant
+and lactating women with moderate acute malnutrition in health centres or posts in
+the prioritized districts. 15
+18. The mother-and-child health and nutrition (MCHN) programme will help
+reduce stunting levels among children under 2. A ration of CSB will be given to all
+pregnant and lactating women for six months before and after delivery as well as to
+children 6-24 months who attend health centres. The MCHN programme will also
+contribute to improving mother and child health by encouraging them to use health
+and nutrition services. WFP, NGOs and other United Nations agencies will provide
+technical assistance in community-based approaches to counselling and education
+on nutrition and infant/young child feeding practices.
+19. To address micronutrient deficiencies, WFP will continue to help accelerate
+food fortification. Advocacy and technical support will be provided, in collaboration
+with the World Health Organization (WHO), the United Nations Children ’s Fund
+(UNICEF) and the World Bank, for safe and cost-effective food fortification
+promoting the use of locally produced commodities. Research will focus on the
+feasibility of, and support to, small/medium-scale processing and fortification,
+especially in rural areas. As locally fortified foods become available, WFP will
+explore means by which vouchers can be used in conjunction with food respons es to
+support the development of markets for the MCHN programme.
+20. Technical support to the Government will be provided for strengthening the
+Nutrition Information Management System for programmatic planning. In
+collaboration with the Tanzania Food and Nutrition Centre (TFNC) and other
+stakeholders, sentinel centres for nutrition monitoring will be established in various
+locations.
+21. HIV and AIDS — Component 5. Based on a review of WFP’s comparative
+advantages and recommendations from the evaluation of the previous country
+programme, WFP’s engagement in HIV and AIDS will shift to an integrated strategy
+focusing on policy, nutrition advocacy and integrating support to people affected by
+HIV and AIDS into WFP activities. The hand-over process started in the 2007-2011
+country programme; in the 2011-2015 country programme, WFP will continue food
+assistance to anti-retroviral therapy (ART) patients, most-vulnerable children
+(MVC) 16 and families through cooperating partners for six months, while
+supporting linkages with organizations specializing in HIV and AIDS that can
+provide necessary food support. WFP will follow the progress of the beneficiaries
+__________________
+15
+
+16
+
+50
+
+Entry criteria is weight-for-height less than -2 and greater than -3 z-score for children under 5;
+mid-upper arm circumference (MUAC) between 18.5 and 21 cm for pregnant women in the
+second and third trimesters, and lactating women with a child under 6 months.
+MVC includes orphans attending boarding vocational training centre under the food-for-training
+(FFT) activity.
+
+10-66622
+
+for six months following exit from the programme and will address HIV and AIDS related vulnerabilities within its broader social and livelihood support programme,
+as well as through health and nutrition services.
+22. At the national level, WFP will advocate for strengthening the national HIV
+policy, which places the Government at the centre of interventions that focus on food
+assistance, with an emphasis on nutrition for people living with HIV (PLHIV).
+Under the UNDAP, WFP will contribute to an inter-agency approach of
+strengthening the TFNC and Tanzania Commission for AIDS (TACAIDS) to provide
+technical support, and will ensure that future policy incorporates nutrition and food
+security components for PLHIV.
+23. Linking smallholder farmers to markets. Building on the current activities
+under the Purchase for Progress (P4P) Initiative, WFP will continue to use its foo d
+purchasing capacity to combat hunger and improve food security. In partnership
+with United Nations agencies, NGOs, farmer groups and government ministries,
+Alliance for a Green Revolution in Africa, the African Development Bank, the
+World Bank and others, the capacity of smallholder farmers will be reinforced to
+raise farmer incomes through the direct sale of agricultural products to local or
+regional markets. Credit facilities, improved storage capacities and post -harvest
+handling, quality control, and the use of improved seeds and fertilizers will boost
+the capacities for smallholder farmers to undertake market -oriented farming
+activities. WFP will explore opportunities to further link farmer groups to local FFE
+activities, integrate communities that have graduated from FFA to smallholder
+procurement, and link with partners for small-scale agro-processing and food
+fortification.
+24. Strengthening food security and nutrition information systems. The 2010
+CFSVA, which was implemented by the National Bureau of Statistics, with technical
+oversight and analytical support from WFP and other government offices, will serve
+as the benchmark for measuring improvements in household and community food
+security. The Government also leads periodic rapid vulnerability as sessments at least
+twice a year. While the Government demonstrates clear capacity to monitor the food
+security situation at national level, district capacity for early warning and nutrition
+monitoring remains weak. Consequently, further capacity developmen t through
+training, investment in data collection and analysis, and joint assessments 17 are
+required to ensure that WFP and the Government can respond to localized and
+structural causes of hunger.
+
+__________________
+17
+
+Including: Developing capacity of food security information teams and rapid vulnerability
+assessments, strengthening early warning systems, geographical-risk mapping and disaster risk
+reduction database for flood-prone areas.
+
+51
+
+TABLE 1: BENEFICIARIES BY COMPONENT (average per year)*
+Men/boys
+
+Women/girls
+
+Total
+
+Component 1 – FFE
+
+352 114
+
+366 486
+
+718 600
+
+Component 2 – FFA
+
+122 500
+
+127 500
+
+250 000
+
+Component 3 – SuFP
+
+5 880
+
+42 120
+
+48 000
+
+Component 4 – MCHN
+
+34 839
+
+69 261
+
+104 100
+
+Component 5 – HIV and
+AIDS**
+
+14 504
+
+15 096
+
+29 600
+
+529 249
+
+616 251
+
+TOTAL AVERAGE/YEAR
+
+1 145 500
+
+* The cumulative number of people receiving food assistance during the country programme is 2,521,400. The
+total average beneficiaries per year has taken into account the possible 10 per cent overlap of SuFP and
+MCHN beneficiaries.
+** For the HIV and AIDS programme the figure is for the first six months only (July -December 2010).
+
+Programme management, monitoring and evaluation
+25. The Government at central, regional and district levels will guide all
+interventions. WFP will use its expertise in capacity development and training to
+enhance the ability of the Government and other partners to implement the
+activities.
+26. WFP expects to buy 54 per cent of the food requirements locally, and also to
+procure for WFP projects implemented in neighbouring countries. WFP works with
+large traders, but is also fostering relationships with smallholder farmer groups. To
+reduce transport costs, purchases closer to the beneficiaries will be favoured. A cost
+comparison with import parity will be applied for all local food procurement. Food
+arriving by ship to Dar es Salaam will be transported by road to extended delivery
+points in Arusha and Dodoma and to schools in districts or villages.
+27. As a baseline for the activities, WFP will draw on the 2010 CFSVA, DHS and
+two forthcoming baseline surveys for school feeding and productive safety nets that
+include household socio-economic indicators. The monitoring plan will be linked to
+the overall programme strategy and be implemented wit h the support of field
+monitors based in sub-offices. WFP will reinforce its monitoring system to ensure
+measurements of programme impact against the baseline data.
+28. This country programme has benefited from the evaluation of the 2007 -2011
+country programme conducted in 2010. A decentralized midterm evaluation will
+focus on identifying any potential adjustments required in the implementation
+strategy as well as assessing the overall performance — relevance, coherence,
+efficiency, effectiveness and sustainability — of this country programme.
+29. WFP will require a shift in the staff profile and skills so that they emphasize
+programme management and capacity development, as well as advisory skills and
+negotiation skills, in order to enable staff to engage with, and provide policy and
+technical advice to, the Government. In the course of the country programme, WFP
+will invest in training to develop staff in these areas.
+
+52
+
+10-66622
+
+TABLE 2: DAILY FOOD RATIONS BY COMPONENT (g/person/day)
+Food type
+Cereals
+
+Component 1 –
+FFE*
+120
+
+Component 2 –
+FFA
+400
+
+Component 3
+– SuFP
+-
+
+Component 4
+– MCHN
+-
+
+Component 5 –
+HIV and AIDS**
+MVC 300
+ART 450
+
+Pulses
+
+30
+
+70
+
+-
+
+MVC 50
+ART 60
+
+Vegetable oil
+
+5
+
+30
+
+20
+
+-
+
+MVC 20
+ART 25
+
+CSB
+
+40
+
+Total
+
+-
+
+195
+
+Total kcal/day
+
+725
+
+% Kcal from
+protein
+
+13.9
+
+% Kcal from fat
+
+15.6
+
+Number of feeding
+days per year
+
+195
+
+230
+
+500
+
+250
+
+1 900
+
+1 097
+
+11.4
+
+15.1
+
+22.2
+
+27.7
+
+180
+
+90
+
+Woman 250
+
+MVC 80
+
+Child 210
+
+ART 120
+
+Woman 250
+
+MVC 450
+
+Child 210
+
+ART 655
+
+Woman 1 000
+
+MVC 1 715
+
+Child 840
+
+ART 2 477
+
+Woman 18.0
+
+MVC 12.7
+
+Child 13.5
+
+ART 12.7
+
+Woman 18.0
+
+MVC 19.6
+
+Child 13.5
+
+ART 18.5
+
+365
+
+180
+
+* WFP will pilot adding micro-nutrients to the midday meal.
+** For HIV, each beneficiary will receive a family ration, based on an average of five people per family; under FFT, orphans
+attending boarding vocational training centre will receive a mid-morning snack and a lunch at the centre.
+
+TABLE 3: TOTAL FOOD REQUIREMENTS BY COMPONENT (2011–2015) (mt)
+Food type
+
+Component
+1 – FFE
+
+Component
+2 – FFA
+
+Cereals
+
+67 220
+
+72 000
+
+-
+
+-
+
+Pulses
+
+16 805
+
+12 600
+
+-
+
+-
+
+299
+
+29 704
+
+2 801
+
+5 400
+
+346
+
+-
+
+122
+
+8 669
+
+556
+
+60 318
+
+Vegetable oil
+CSB
+
+22 407
+
+Total
+
+109 233
+
+90 000
+
+45.5
+
+37.5
+
+% of total
+requirements
+
+Component
+3 – SuFP
+
+Component
+4 – MCHN
+
+Component
+5 – HIV and
+AIDS
+2 084
+
+Total
+
+141 304
+
+3 974
+
+33 381
+
+4 320
+
+33 381
+
+3 061
+
+239 995
+
+1.8
+
+13.9
+
+1.3
+
+100
+
+53
+
+BUDGET SUMMARY FOR TANZANIA COUNTRY PROGRAMME 200200 (2011-2015) (US$)
+Component 1
+
+Food (mt)18
+
+Component 2
+
+Component 3
+
+Component 4
+
+Component 5
+
+Total
+
+109 233
+
+90 000
+
+4 320
+
+33 381
+
+3 061
+
+239 995 mt
+
+Food
+
+43 575 053
+
+32 557 728
+
+2 419 684
+
+17 506 920
+
+1 147 408
+
+97 206 792
+
+Total by component
+
+43 575 053
+
+32 557 728
+
+2 419 684
+
+17 506 920
+
+1 147 408
+
+97 206 792
+
+External transport
+Landside transport storage
+and handling (LTSH)(total)
+LTSH (per mt)
+
+6 412 017
+35 106 469
+146.28
+
+Other direct operational costs
+Total direct
+operational costs
+
+7 104 501
+145 829 779
+
+Direct support costs19
+
+17 745 275
+
+Indirect support costs20
+
+11 450 254
+
+Total WFP costs
+
+175 025 307
+
+__________________
+18
+19
+
+20
+
+54
+
+This is a notional food basket for budgeting and approval. The contents may vary.
+Indicative figure for information purposes. The direct support costs allotment is reviewed
+annually.
+The indirect support cost rate may be amended by the Board during the project.
+
+10-66622
+
+DIRECT SUPPORT REQUIREMENTS (US$)
+Staff and staff-related costs
+International professional staff
+
+5 188 794
+
+Local staff - national officers
+
+1 738 321
+
+Local staff - general service
+
+3 663 560
+
+Local staff - overtime
+
+28 000
+
+International consultants
+
+1 535 000
+
+Staff duty travel
+
+2 283 000
+
+Subtotal
+
+14 436 675
+
+Recurring expenses
+Rental of facility
+
+336 000
+
+Utilities general
+
+160 000
+
+Office supplies and other consumables
+
+160 000
+
+Communications services
+
+400 000
+
+Equipment repair and maintenance
+Vehicle running cost and maintenance
+Office set-up and repairs
+United Nations organization services
+Subtotal
+
+64 000
+1 080 000
+80 000
+200 000
+2 480 000
+
+Equipment and capital costs
+Vehicle leasing
+
+285 600
+
+Communications equipment
+
+323 000
+
+Local security costs
+
+220 000
+
+Subtotal
+TOTAL DIRECT SUPPORT COSTS
+
+828 600
+17 745 275
+
+55
+
+56
+
+WFP LOGICAL FRAMEWORK
+Results
+
+Performance indicators
+
+UNDAP OUTCOMES21
+
+UNDAP Outcome Indicators
+
+MoEVT has a system in place for national school
+feeding, prioritizing food insecure areas
+
+Government implementation strategy and guidelines for
+national school feeding in place
+
+Relevant ministries, departments and agencies
+(MDAs) undertake evidence-based planning,
+management and quality assurance at national,
+district, ward and school levels
+
+Food and non-food items distributed in sufficient quantity
+and quality to targeted women, men, girls and boys under
+secure conditions
+
+Local government authorities (LGAs), agriculture
+support organizations and smallholder farmers
+increase agricultural productivity, access to markets
+and food security
+Key MDAs and LGAs integrate climate change
+adaptation and mitigation in their strategies and plans
+Government coordinates a multisectoral social
+protection response to the needs of economically
+deprived and insecure groups
+Relevant MDAs and LGAs integrate nutrition into
+policies, plans and budgets and strengthen
+institutional arrangements for delivery of services
+Selected MDAs, LGAs and non-State actors deliver
+increased quality of HIV and AIDS care and
+treatment services
+
+District-level management information system (MIS) for
+basic education established and use of data, particularly
+with regards to equity and quality related indicators,
+increased
+Better knowledge-sharing on agriculture productivity, food
+fortification and marketing
+Hazard risk reduced in targeted communities, including
+climate change adaptation
+Select LGAs incorporate climate change adaptation
+programmes in their plans and budgets
+Evidence base strengthened to inform social protection
+programme design options targeted to priority groups
+Priority regions and districts deliver essential nutrition
+services effectively
+National institutional arrangements prioritize nutrition in
+policies, plans and budgets
+Targeted anti-retroviral therapy (ART) patients have
+improved nutrition status in the first six months of ART
+MoHSW and LGAs have enhanced capacities to provide
+quality HIV care and treatment services including
+tuberculosis (TB)/HIV collaborative services and nutrition
+
+__________________
+21
+The Tanzania UNDAP integrates WFP outcomes and indicators in its different sectors.
+
+Risks, assumptions
+
+Limited inter-ministry
+linkages to support
+agriculture and food
+security and a mismatch
+between national ministry
+budgetary allocations and
+government priorities
+
+A lack of a conducive and
+enabling environment for
+the private sector, limiting
+their full participation in the
+agriculture and food
+security sector
+
+Climate change and climate
+variability increase the
+number or severity of
+natural disasters, forcing the
+Government to divert funds
+from development to
+emergency interventions
+
+Resources
+required
+
+WFP LOGICAL FRAMEWORK
+Results
+
+Performance indicators
+
+Risks, assumptions
+
+Resources
+required
+
+Country programme component 1: Food for education
+US$79,662,240
+
+Strategic objective 4: Reduce chronic hunger and undernutrition
+Outcome 1
+Increased access to education and human capital
+development in assisted schools
+
+Output 1.1
+Food and non-food items distributed in sufficient
+quantity and quality to targeted women, men, girls
+and boys under secure conditions
+
+Enrolment: Average annual rate of change (Target: 3%);
+Attendance rate (Target: 86%)
+Drop out rates for girls and boys (Target: to be determined in
+2010 school feeding baseline survey
+Gender ratio: ratio of girls to boys enrolled (Target: 1)
+Pass rate for girls and boys for grade VII (Target: 45%)
+
+Communities and schools
+are committed to fulfilling
+their obligations related to
+kitchens, water and fuel
+
+Number of women, men, girls and boys receiving food and
+non-food items, by category and as % of planned figures
+(Target: see beneficiary table)
+Quantity of food and non-food items distributed, by type, and
+as % of planned distribution
+(Target: see food requirements table)
+
+Strategic objective 5: Strengthen the capacities of countries to reduce hunger, including through hand-over strategies and local purchase
+Outcome 2
+MoEVT has a system in place for national school
+feeding, prioritizing food-insecure areas
+Output 2.1
+Government implementation strategy and guidelines
+for national school feeding in place
+Output 2.2
+District-level MIS for basic education established
+and use of data, particularly with regards to equity
+and quality related indicators, increased
+
+Approved system in place for national school feeding
+programme (Target: national system functions)
+
+National commitment to
+implementation of school
+feeding
+
+Strategy and guidelines with clear roles and responsibilities
+at national, district and ward level
+(Target: School feeding guidelines and implementation
+strategy operational at national, district and ward level)
+Share of districts with school feeding activities that have
+functioning ESMIS database
+(Target: 100%)
+
+Stakeholders collaborate in
+ESMIS development
+
+57
+
+58
+
+WFP LOGICAL FRAMEWORK
+Results
+
+Performance indicators
+
+Risks, assumptions
+
+Resources
+required
+
+Country Programme Component 2: Food for assets
+US$65,635,858
+
+Strategic objective 2: Prevent acute hunger and invest in disaster preparedness and mitigation measures
+Outcome 3
+Adequate food consumption over assistance period
+for targeted households at risk of falling into acute
+hunger
+Output 3.1
+Food and non-food items distributed in sufficient
+quantity and quality to targeted women, men, girls
+and boys under secure conditions
+
+Outcome 4
+Hazard risk reduced at community level in targeted
+communities
+
+Output 4.1
+Built or restored disaster mitigation assets by targeted
+communities
+
+Household food consumption score: percentage of targeted
+households with food consumption score >35
+(Target: 80%)
+
+No major emergencies that
+impact livelihoods or health
+status of targeted population
+
+Number of women, men, girls and boys receiving food and
+non-food items, by category and as % of planned figures
+(Target: see beneficiary table)
+Quantity of food and non-food items distributed, by type,
+and as % of planned distribution
+(Target: see food requirements table)
+Community asset score: percentage of targeted
+communities with an asset score over set threshold (Target:
+to be determined by project baseline); Household asset
+score: % of targeted households with an asset score over set
+threshold
+(Target: to be determined by project baseline)
+
+Effective and reliable
+marketing systems for food
+and non-food items
+
+Number of assets constructed/rehabilitated
+(Target: to be determined on the basis of implementation
+plan)
+
+Non-food items and access
+to extension services
+ensured
+
+Strategic objective 5: Strengthen the capacities of countries to reduce hunger, including through hand-over strategies and local purchase
+Outcome 5
+Broader policy frameworks incorporate hunger
+solutions
+Output 5.1
+Select LGAs incorporate climate change
+adaptation/disaster risk reduction programmes in their
+plans and budgets
+
+Percentage increase in Government’s funding for hunger
+solution tools in national plans of action
+(Target: 20%)
+Share of WFP-initiated FFA projects incorporated into
+district development and budget plans
+(Target: 100%)
+
+Progress made on local
+level influences national
+policymaking
+
+WFP LOGICAL FRAMEWORK
+Results
+Output 5.2
+Evidence base strengthened to inform social
+protection programme design options targeted to
+priority groups
+
+Performance indicators
+
+Risks, assumptions
+
+Resources
+required
+
+Lessons learned on different transfer mechanisms inform
+social protection policy choices
+(Target: lessons learned documented and distributed)
+
+Country programme component 3: Supplementary feeding programme
+US$3,150,521
+
+Strategic Objective 4: Reduce chronic hunger and undernutrition
+Outcome 6
+Improved nutritional status of targeted women, girls
+and boys
+Output 6.1
+Food and non-food items distributed in sufficient
+quantity and quality to targeted women, men, girls
+and boys under secure conditions
+
+Supplementary feeding recovery rate (Target: > 75%)/
+defaulter rate (Target: < 15%)
+Average length of enrolment in supplementary feeding
+(Target: < 60 days)
+Number of women, girls and boys receiving food and
+non-food items, by category and as % of planned figures
+(Target: see beneficiary table)
+Quantity of food distributed, by type, and as % of planned
+distribution
+(Target: see food requirements table)
+
+District health management
+teams fulfil its role
+supporting SuFP
+
+Country programme component 4: Mother-and-child health and nutrition
+US$24,344,340
+
+Strategic objective 4: Reduce chronic hunger and undernutrition
+Outcome 7
+Improved nutritional status of targeted women, girls
+and boys
+
+Output 7.1
+Pregnant and lactating women counselled on proper
+childcare and feeding practices
+
+Prevalence of stunting among targeted children under 2
+(Target: 10% reduction/year)
+Prevalence of targeted women practicing exclusive
+breastfeeding and correct introduction of complementary
+foods (Target: to be determined)
+Percentage of children aged 24 months who completed all
+vaccinations according to the schedule in the national
+protocol
+(Target: to be determined)
+Percentage of supported pregnant and lactating women who
+received antenatal/post-natal check-ups
+(Target: to be determined)
+
+Health personnel are
+motivated and have time to
+provide adequate
+counselling sessions
+
+59
+
+60
+
+WFP LOGICAL FRAMEWORK
+Results
+Output 7.2
+Food and non-food items distributed in sufficient
+quantity and quality to targeted women, girls and
+boys under secure conditions
+
+Performance indicators
+
+Risks, assumptions
+
+Number of women, girls and boys receiving food and nonfood items, by category and as % of planned figures
+(Target: see beneficiary table)
+Tonnage of food distributed, by type, and as % of planned
+distribution (Target: see food requirements table)
+
+District health management
+teams fulfil its role
+supporting MCHN
+programme
+
+Strategic objective 5: Strengthen the capacities of countries to reduce hunger, including through hand-over strategies and local purchase
+Outcome 8
+Better knowledge-sharing on agriculture productivity,
+food fortification and marketing.
+
+National protocol for fortification of foods adopted
+
+Adequate coordination of
+producers of fortified foods
+
+Number of best mechanisms for food fortification
+identified;
+Output 8.1
+Capacity and awareness for food fortification
+developed through WFP-organized actions/training
+
+Number of small scale farmers trained on food
+fortification;
+Quantity of equipment and communication materials
+provided
+
+Outcome 9
+National institutional arrangements prioritize nutrition
+in policies, plans and budgets
+Output 9.1
+Capacity for nutrition-sensitive design, planning and
+budgeting is developed
+Outcome 10
+Priority regions and districts deliver essential nutrition
+services effectively
+
+Percentage increase in Government’s funding for hunger
+solution tools in national plans of action
+
+Number of districts planning and budgeting for MCHN
+activities
+
+Number of targeted communities with health facilities with
+sufficient staff to provide agreed services
+
+Output 10.1
+Capacity and awareness for MCHN developed
+through WFP-organized actions/training
+
+Progress made on local
+level influences national
+policymaking
+
+National protocol for MCHN adopted
+
+Sufficient human capital to
+fill positions at all levels
+
+Resources
+required
+
+WFP LOGICAL FRAMEWORK
+Results
+
+Performance indicators
+
+Risks, assumptions
+
+Resources
+required
+
+Country Programme Component 5: HIV and AIDS
+Strategic objective 4: Reduce chronic hunger and undernutrition
+Outcome 10
+Increased survival of adults and children with HIV
+after 6 and 12 months of anti-retroviral therapy
+(ART)
+Outcome 11
+Targeted ART clients have improved nutritional
+status in the first six months of ART
+Output 11.1
+Food and non-food items distributed in sufficient
+quantity and quality to targeted women, men, girls
+and boys under secure conditions
+
+ART survival rate: % of adults and children with HIV
+known to be on treatment 6 and 12 months after initiation
+of ART
+(Target: to be determined)
+Prevalence of malnutrition among WFP-assisted ART
+patients in clinics (Target: to be determined)
+Number of women, men, girls and boys receiving food and
+non-food items, by category and as % of planned figures
+(Target: see beneficiary table)
+Quantity of food distributed, by type, and as % of planned
+distribution (Target: see food requirements table)
+
+Strategic objective 5: Strengthen the capacities of countries to reduce hunger, including through hand-over strategies and local purchase
+Outcome 12
+MoHSW and LGAs have enhanced capacities to
+provide quality HIV care and treatment services
+including TB/HIV collaborative services and nutrition
+Output 12.1
+Agreed hand-over and mainstreaming strategies in
+place
+
+Food assistance and nutrition components are incorporated
+in national HIV policy document and implemented
+
+Number of hand-over and mainstreaming strategies agreed
+to between WFP and partners
+
+US$ 2,232,348
+
+61
+
+

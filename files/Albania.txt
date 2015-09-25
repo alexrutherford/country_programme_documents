@@ -1,0 +1,1543 @@
+Albania
+Common country programme document
+2012-2016
+
+The draft country programme document for Albania
+(DP/FPA/OPS-ICEF/DCCP/2011/ALB/1) was presented to the
+Executive Board for discussion and comments at its 2011 annual
+session (20-23 June 2011).
+The document was subsequently revised, and this final
+version was approved at the 2011 second regular session of the
+Executive Board on 15 September 2011.
+
+Contents
+Page
+
+I.
+
+Situation analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3
+
+II.
+
+Past cooperation and lessons learned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+
+III.
+
+Proposed programme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6
+
+IV.
+
+Programme management, monitoring and evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14
+
+I.
+
+UNDP results and resources framework for Albania, 2012 -2016 . . . . . . . . . . . . . . . . . . . . . . . .
+
+16
+
+II.
+
+UNFPA results and resources framework for Albania . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+III.
+
+Government of Albania-UNICEF programme of cooperation — Summary results matrix,
+2012-2016, including the indicative budget . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+21
+
+Annexes
+
+2
+
+I. Situation analysis1
+1.
+Albania has made significant progress towards achieving the vision, as set out
+in its National Strategy for Development and Integration, 2007 -2013, to be a
+―country with high living standards, which is integrated in the European and Euro Atlantic structures, is democratic, and guarantees the fundamental human rights and
+liberties‖. In 2009, Albania applied for candidacy to the European Union (EU) but
+needs to make progress in meeting the EU criteria before accession. Albania has
+ratified all nine core United Nations human rights treaties, including the Optional
+Protocols to the Convention on the Rights of the Child, and has committed itself to
+achieving the Millennium Development Goals (MDGs). The impressive economic
+progress of Albania, averaging 5-6 per cent growth per year over the past decade,
+has enabled progress towards key MDG targets, including combating extreme
+poverty and gender inequalities, and improving health and nutrition.
+2.
+The Government of Albania recognizes that good governance is critical to
+achieving its development goals and meeting international commitments.
+Democratic institutions have been put in place in a relatively short period of time,
+but the emergence of a culture of respect for democratic processes and the rule of
+law remains a longer-term goal. Mechanisms need to be strengthened for the
+engagement of civil society with the State and the engagement of the broader
+population in demanding greater transparency and efficiency, including through the
+emergence of a more pluralistic and independent media. The relatively low
+participation of women is a particular challenge. Although the legal and policy
+framework on gender has been strengthened, the main challenge lies in its
+implementation and appropriate budgeting at national and local levels .
+3.
+Wider reform of public administration, strengthened system-wide capacities
+and greater cooperation across ministries are required to make progress in the areas
+of rule of law, anti-corruption and accountable governance. The Government has
+identified the enhanced use of Information and Communication Technology (ICT) as
+being critical to improved governance and economic growth, launching a National
+Cross-Cutting Strategy on Information Society in 2009. A cross -cutting strategy on
+corruption and transparent governance exists, but a lack of data hampers the
+assessment of progress.
+4.
+Managing external and internal migration remains a major development
+challenge. Increased internal migration from rural to urban areas stems from the
+growing economic and social divide between them. This, along with more effective
+law-enforcement responses to combating cross-border crimes, has led to increased
+internal trafficking in human beings, particularly of women and girls. Juvenile
+justice reform is incomplete: for example, some 75 per cent of juvenile offenders are
+placed in detention while awaiting trial.
+5.
+The impressive economic growth of Albania over the last decade is a
+significant achievement. Yet sustaining equitable growth would be a challenge even
+without the global economic crisis. The crisis has exposed a dependence on
+remittances from abroad, a low level of diversification of trade and the need to
+__________________
+1
+
+Sources include the Institute for Statistics (INSTAT), the Demographic and Health Survey
+(2008-2009), the Living Standards Measurement Study, MDG Progress Report 2010 and
+progress reports of the National Strategy for Development and Integration.
+
+3
+
+enhance competitiveness, including by attracting foreign direct investment. Barriers
+to investment include weak property rights, pervasive corruption and
+underdeveloped infrastructure. Another hurdle to overcome is ensuring an energy
+supply adequate to meet the current and future needs of Albania.
+6.
+Albania has put in place sound policy, legal and institutional frame works for
+environmental management and protection. The Government is committed to
+reducing greenhouse gas emissions and is beginning to consider the wider
+implications of climate change. However, the transition to a market economy has led
+to unsustainable exploitation of natural resources, together with weak enforcement
+of standards and regulations. Despite frequent floods and the risk of earthquakes,
+disaster response processes are not in place and disaster risk reduction is not well
+integrated into central and local development plans.
+7.
+Despite the fact that national poverty levels have declined to 12.4 per cent
+(2008), regional disparities remain. For example, poverty in mountainous areas is
+26.6 per cent (2008). There is a broad awareness of the need to address development
+disparities among regions and the even sharper disparities between municipalities
+and communes, as well as the need to strengthen the capacity of local governments.
+8.
+Historically marginalized groups, such as Roma, Balkan-Egyptians, people with
+disabilities and the elderly, often remain excluded. Fulfilment of basic rights by these
+groups, especially Roma and Egyptians, is hobbled by established patterns of poverty
+and discrimination. Social transfers are not always adequate and do not always reach
+those in need, and systematic follow-up is lacking. People with disabilities and those
+living with HIV face difficulties in accessing social services related to health,
+rehabilitation and education and in securing employment. Anti -discrimination
+legislation is in place but implementation is slow and not fully monitored. Domestic
+violence remains widespread, with a majority of women having suffered some form
+of abuse, and discriminatory gender attitudes are still entrenched. Municipal
+structures concerned with protecting children from abuse or neglect are all but absent,
+as the social protection system is unable to help children escape the conditions that
+create poverty.
+9.
+The Government has pledged to achieve ‗education for all‘ by 2015, but public
+spending on education in 2009 remained at only 3.8 per cent of gross domestic
+product. Despite recent investment, basic education enrolment has declined since
+2003 and preschool education enrolment has stagnated at 50 per cent. Clear
+disparities exist: for example, disadvantaged groups such as the Roma have lower
+access.
+10. The incomplete reform of the health insurance programme and health
+financing hampers access to health services, which are often of low quality. System wide capacities in health administration remain weak and there is limited access to
+information on health. The under-five child mortality rate fell from 39 deaths per
+1,000 live births in 2000 to 22 deaths per 1,000 live births in 2009, but is still short
+of the MDG target of 10 deaths per 1,000 live births. While the burden of
+communicable diseases is generally decreasing, cases of HIV and tuberculosis are
+increasing, as is the incidence of non-communicable diseases and conditions such as
+cancer, diabetes and mental disorders.
+11. Strong growth has led to only a minor decline in unemployment, which
+reached a low of 13.1 per cent in 2009. The access of young women and men to
+
+4
+
+employment remains a challenge, as do high levels of employment in the informal
+economy. Discrimination in employment persists, despite the ratification of key
+conventions by Albania and a number of government initiatives aiming to end the
+practice. Another issue to address is the economic empowerment of women, whose
+participation in the labour market (51.8 per cent) is much lower than that of men
+(73.3 per cent).
+
+II. Past cooperation and lessons learned2
+12. The One UN Programme 2007-2011 (―the programme‖) focused on promoting
+more transparent and accountable governance; greater participation in public policy
+and decision-making; increased and more equitable access to quality basic services;
+regional development and reduced disparities; and environmentally sustainable
+development. A number of lessons learned from the 2007-2011 programme,
+identified partly through the ―Country Led Evaluation — Delivering as One
+Albania‖, which took place in 2010, will feed into the formulation of the new
+programme.
+13. The programme contributed to the reduction of ‗brain drain‘ in the public
+sector and academia, helping to bring back to Albania, and retain, critical human
+capital. Support was also provided to the establishment of an ICT network among
+government institutions, contributing to their modernization and increased
+effectiveness. The programme supported the Government in the Living Standards
+Measurement Survey, Demographic and Health Survey, national census and MDG
+reviews, providing critical evidence for policymaking and targeting services towards
+marginalized groups. This support also resulted in enhanced national capaci ties for
+the collection, analysis and use of data. ‗One UN‘ interventions also contributed to
+strengthening the capacity of the Government to coordinate and monitor the
+implementation of the National Strategy for Development and Integration.
+14. The programme provided technical assistance that contributed to the adoption
+of key gender- and child-related legislation and the establishment of indicators and
+data sets on gender and child rights. This brought increased attention and
+monitoring capacity to these issues. The support provided by the programme helped
+women‘s organizations to raise awareness of and advocate for an end to violence
+against women, and to monitor its incidence. Efforts also helped to double the
+number of Members of Parliament who are wome n. Support for civil and birth
+registration in Roma and Egyptian communities contributed towards increased
+access to basic services. In the area of justice, juvenile offenders are now more
+frequently receiving alternatives to detention.
+15. Support provided to the poorest regions helped to improve livelihoods and
+enhance national and local capacities to meet the MDGs. The programme also
+helped to improve migration management by aligning migration with policies
+creating employment and strategies for the labour market.
+16. The programme supported the development and implementation of policies
+promoting inclusion, and regulatory and institutional frameworks and standards
+leading to enhanced delivery of health services. Special attention was paid to
+__________________
+2
+
+Sources include the Country-led Evaluation of Delivering as One Albania (July 2010), as well as
+programme evaluations.
+
+5
+
+marginalized and at-risk groups, as well as the elderly. Education policies and
+guidelines are in place, promoting inclusive education for all children.
+17. Government capacities to meet the environmental requirements of the EU and
+multilateral agreements were enhanced through technical support provided to the
+development and implementation of key legal instruments, climate change
+adaptation and mitigation, the maintenance of protected areas, and the promotion of
+cleaner means of economic production. The programme contributed to the
+achievement of Albania being declared mine-free in 2009; as a result of these
+efforts, local communities in the poorest region of the country regained use of their
+farmland.
+18. While the programme successfully supported the introduction of important
+policies, laws and strategies, capacity within the Government for their
+implementation has not always been sufficient, and budgetary commitments have
+fallen short. To ensure the sustainability of these achievements, the Programme will
+intensify efforts to strengthen the capacity and accountability of the Government
+regarding implementation. Particular attention will be paid to advocacy for the
+rights of the most marginalized, including through enhancing civil society
+engagement in this area.
+19. High turnover of staff in public administration has hindered delivery of public
+services and affected the pace of reforms. Future cooperation will therefore
+emphasize the importance of a sustainable professional civil service and support the
+strengthening of institutions, tools and mechanisms for effective and equitable
+service delivery, particularly at the local level.
+20. United Nations assistance under the new programme takes into account the
+status of Albania as a middle-income country and the needs of the most
+disadvantaged. Social and economic indicators have improved on average, although
+significant disparities and inequities exist; efforts will focus especially on the poor,
+disadvantaged and marginalized. By emphasizing advocacy, policy advice and
+promoting East-East cooperation, including on how to meet international human
+rights commitments, the programme will contribute to the goals of Albania to meet
+EU accession requirements and make the best use of its growing national wealth and
+EU pre-accession funding.
+
+III. Proposed programme
+21. The strategic direction and outcomes of the draft common country programme
+for Albania, 2012-2016 (―the programme‖), were defined during a Strategic
+Prioritization Retreat facilitated by the United Nations System Staff College. The
+retreat was followed by an intensive period of consultations with line ministries,
+civil society and development partners. The draft programme was presented to the
+Government Modernization Committee, which confirmed that the strategic d irection
+is well aligned with the National Strategy for Development and Integration and that
+it reflects national development priorities and international commitments, along
+with United Nations norms and standards. At the request of the Government, the
+new programme also continues to build upon the Delivering as One approach of the
+United Nations.
+
+6
+
+22. The goal of the programme is to promote sustainable and equitable
+development, social inclusion and the adherence to international norms and
+fulfilment of international obligations, in support of the integration of Albania into
+the EU.
+23. The programme is guided and informed by the development priorities of
+Albania as expressed in the National Strategy for Development and Integration; the
+need to further accelerate efforts to achieve the MDGs; international commitments
+and human rights obligations; the priority of the Government of Albania to join the
+EU; and the global reform context, specifically the principles of the Paris
+Declaration on Aid Effectiveness and the Accra Agenda for Action.
+24. The programme builds upon United Nations values, the comparative
+advantages of participating funds, programmes and specialized agencies of the
+United Nations, and lessons learned from previous cooperation. The normative a nd
+operational roles, neutral positioning, convening power, policy expertise and
+technical capacity of the United Nations system will be brought to bear in ways that
+complement the assistance provided by other multilateral and bilateral development
+partners. Cooperation between the United Nations system agencies and the
+Government of Albania, notably through the provision of policy advisory services,
+will be guided by the mandate of the United Nations to advocate for and support
+implementation of international human rights standards, gender equality,
+environmental sustainability, development of national capacities, accountability and
+transparency, and results-based management.
+25. The programme brings together the expertise of 19 funds, programmes,
+specialized agencies, organizations and entities of the United Nations (Food and
+Agriculture Organization of the United Nations, International Atomic Energy
+Agency, International Fund for Agricultural Development, International Labour
+Organization, International Trade Centre, United Nations Entity for Gender Equality
+and the Empowerment of Women, Joint United Nations Programme on HIV/AIDS,
+United Nations Conference on Trade and Development, United Nations
+Development Programme, Economic Commission for Europe, United Nations
+Environment Programme, United Nations Educational, Scientific and Cultural
+Organization, United Nations Population Fund, Office of the United Nations High
+Commissioner for Refugees, United Nations Children‘s Fund, United Nations
+Industrial Development Organization, United Nations Office on Drugs and Crime,
+United Nations Volunteers and the World Health Organization) and the International
+Organization for Migration. Of these, eight are resident in Albania.
+
+A.
+
+Governance and Rule of Law
+Support will be provided to strengthening public oversight, civil society and
+media institutions to enhance the accountability of authorities to the public and
+the enforcement of commitments to gender equality in planning, programming
+and budgeting processes.
+26. To strengthen accountability mechanisms, United Nations agencies will work
+with authorities at all levels to ensure that rights, policies, services, entitlements and
+complaints mechanisms are known to citizens and used, especially by the
+marginalized. The programme will continue to promote and support the work of
+public oversight bodies to make them more accessible, especially to the
+
+7
+
+marginalized. The programme will also support ministries in the introduct ion of
+relevant secondary legislation.
+27. The Government will be assisted to improve public oversight and the regulatory
+framework for engagement with civil society (including the media), and to strengthen
+mechanisms through which civil society helps to ensure government accountability
+and transparency. Civil society, including women‘s groups, will be supported to
+engage citizens and raise awareness on and advocate for human rights, including
+women‘s rights, and access to justice. This will include the engagement of civil
+society in monitoring the status of human rights and access to justice and reporting to
+treaty bodies. Other areas to be covered in this broader engagement by civil society
+include addressing poverty and economic development in rural areas, the provision of
+social and health services, gender equality, HIV/AIDS and anti -corruption. The
+United Nations agencies will support increased networking among national and local
+civil society organizations, notably women‘s groups, building capacity in policy
+analysis, collective negotiation and lobbying.
+28. The programme will support the implementation and monitorin g of
+international commitments — for example, the Convention on the Elimination of All
+Forms of Discrimination against Women and Security Co uncil resolution 1325
+(2000) — and national legislation related to gender. It will support the
+mainstreaming of gender into other legislation, strategies, policies, and budgetary
+processes at local and national levels.
+Public administration will be supported to enhance capacities, practices and
+systems for effective delivery of national development priorities and international
+obligations.
+29. The programme will support the planning, monitoring and evaluation
+processes of the National Strategy for Development and Integration as well as
+cooperation among line ministries in sectors that require it, such as health,
+environment and gender. The United Nations agencies will assist the Government in
+further pursuing the goals of the Paris Declaration on Aid Effectiveness and Accra
+Agenda for Action by supporting efforts to strengthen public financial management
+and national procurement systems, with the aim of increasing use of these national
+systems by donors.
+30. In the area of public administration reform, the programme will contribute to
+strengthening human resource management, development and training. In this
+regard, efforts will support the reversal of ―brain drain‖, encouraging highly
+qualified Albanians who have left the country to return. The programme will at the
+same time develop the various capacities of policy planners and national and local
+officials and support the professionalization of service delivery in health and child related services.
+31. The capacity of the Government to collect, compile, analyse and disseminate
+data will be supported in the areas of poverty measurement, social protection, child
+protection and welfare, health, gender and population dynamics. Non -State users of
+data will be assisted to enhance their capacity to demand, collec t and analyse data
+for better monitoring of government performance.
+32. The programme will support improving the legal and technical foundations for
+IT infrastructure. This will involve increasing the provision of e -services, and
+
+8
+
+promoting new technologies that make local and national systems more transparent
+and accessible by the public, including technologies related to customs and taxation.
+The programme will support the goals of the Government to meet international
+obligations and standards for juvenile justice, for managing migration and for
+fighting organized crime.
+33. The fight against organized crime will be supported with the implementation
+of the Integrated Border Management Strategy. Joint training will be provided to
+relevant State institutions to ensure a unified response to cross-border crimes.
+Awareness will be raised on the risks of internal trafficking. Collaboration will be
+fostered with other groups in society, including the private sector, on the
+investigation and prosecution of money laundering, smuggling and trafficking.
+Efforts will be made to ensure that legislation in these areas conforms to
+international standards. The programme will support the development of a judicial
+training curriculum for judges and prosecutors.
+34. To support the efforts of the Government to tackle corruption, the programme
+will help to promote a culture of non-tolerance toward corruption in the public
+sector as well as measures to reduce the vulnerability of government institutions,
+based on the United Nations Convention against Corruption. The programme will
+assist the Government to strengthen public financial management to ensure
+transparent and appropriate budgets, entitlements and expectations of public
+servants.
+35. As part of the International Consortium assisting Albania in reform of the
+justice system, the programme will support central and local authorities in reforming
+the probation and pre-trial detention systems, providing alternatives to detention and
+diversion for juveniles, supporting child victims and witnesses of crime, and
+ensuring children‘s access to justice.
+36. Government efforts in managing migration will be further supported at all
+levels, including through the implementation of the Strategy on Migration. Efforts
+will centre on countering irregular migration and trafficking and reintegrating
+returning migrants, including the most vulnerable.
+
+B.
+
+Economy and environment
+The enhancement of regulatory frameworks, trade facilitation and investment
+promotion for inclusive and sustainable growth will be supported.
+37. Support will be provided to increase competitiveness by developing the
+capacities of economic institutions, promoting market development and supporting
+the introduction and implementation of enabling policies and measures. The
+programme will support the collection, processing and analysis of data in line with
+international and EU standards and promote greater supply chain integration and
+compliance with EU competition law. The new investment agency will be supporte d
+to attract diaspora investment and remittances for development. Support will be
+provided to strengthen economic diplomacy.
+38. The trade and business climate will be improved through the fostering of
+cooperation between government and business, the estab lishment of one-stop-shops
+at border customs, increased capacities for implementation of best practices in trade
+
+9
+
+facilitation, including the provision of an automated system for customs data and
+establishment of the Single Window to enhance the efficie nt exchange
+information between trade and government. The programme will support
+establishment of the Albanian Business Relay and Innovation Centre and
+regulation of energy that is renewable and free of greenhouse gas emissions.
+
+the
+of
+the
+the
+
+39. The programme will promote Corporate Social Responsibility and the Global
+Compact. Assistance will also be provided in upgrading public and utility services.
+The programme will work with service providers to improve quality and client
+satisfaction. In order to empower consumers, the programme will help to enhance
+the capacities of responsible national and non-governmental institutions such as the
+Ministry of Economy, Trade and Energy, the Consumer Protection Commission,
+consumer protection associations, and other institutions working in the field of food
+safety.
+Efforts to protect, preserve and use natural resources more sustainably will be
+supported, with consideration given to the impacts of climate change and to the
+achievement of European Union environment standards.
+40. The United Nations agencies will advise Albania on how to meet its
+commitments related to climate change and to support implementing bodies to
+monitor progress, promote the use of the Clean Development Mechanism and
+mitigation measures such as solar-water heating technology, and to introduce
+adaptation measures. The Government will be advised on how to translate United
+Nations environmental conventions into practice, specifically those pertaining to
+biodiversity and protected areas, desertification, forestry and water resource
+management.
+41. The United Nations agencies will assist the Government to adopt a strategic
+approach for environmental planning, and will support the establishment of a
+functional inter-ministerial decision-making body. The agencies will also support
+the creation of economic instruments to increase funds available for addressing
+environmental priorities.
+42. Improving governmental capacity to carry out environment assessments in the
+context of increased public awareness and participation will help Albania to meet
+environmental standards. The programme will support the expansion of the
+environmental education curriculum and activities in schools. Solid waste will be
+more appropriately managed at the local level. Support will con tinue for monitoring
+air pollution, water quality and waste water, along with mainstreaming the European
+Water Framework Directive and implementing the National Cleaner Production
+Programme. Green jobs will be promoted in waste management and environmental
+protection.
+43. Development of central and local capacity will be assisted in disaster risk
+preparedness and prevention, and the mobilization of volunteers. Attention will be
+paid to national heritage sites. The United Nations agencies will support the
+Government in implementing the National Action Plan for the Destruction of
+Obsolete and Surplus Ammunition by 2013.
+
+10
+
+C.
+
+Regional and local development
+Enhanced institutional capacities, frameworks and policies aimed at promoting
+equitable and sustainable regional development will be supported.
+44. The programme will provide support to central, regional and local government
+institutions to formulate a regional development policy and strategic approach to
+absorb EU IPA (instrument for pre-accession assistance) funds for regional
+development. Advice and training will be provided on institutional reforms and
+innovations and on gender-sensitive local economic development planning and
+implementation.
+45. The programme will support policymaking on food safety and quality,
+providing technical assistance to the Ministry of Agriculture, Food and Consumer
+Protection and local governments to support competitive farm production and
+markets, build institutions, and harmonize legislation with the EU acquis
+communautaire. Selected local interventions will include the provision of
+vocational-training grants for members of poor households without viable
+agricultural assets and the provision of technical assistance and support for
+economically active poor women. Where appropriate, the programme may invest in
+local infrastructure and provide co-financing and credit for small agricultural
+producers and rural businesses.
+46. The programme will promote local economic develop ment through sustainable
+tourism, and will support relevant governmental institutions and Albanian regions in
+implementing the national strategies for Tourism, Culture and Cultural Marketing.
+Support will also be provided to strengthen capacities for cultural diplomacy. The
+programme will support the strengthening of legislation and policies that develop
+and safeguard cultural and natural heritage sites; the fight against illicit trafficking
+of cultural property; and the upgrading of national capacities for the preservation,
+management and promotion of heritage.
+Support will be given to capacity development of regional and local governments
+for delivery of equitable, inclusive and accountable services to the public, with
+particular attention paid to marginalized groups and communities.
+47. The Ministry of Interior will be advised on the implementation of the
+Decentralization Strategy, including effective fiscal decentralization and
+institutional consolidation. Innovative approaches to regional development will be
+facilitated through decentralized cooperation. Advice will be provided on a
+framework for inter-municipal cooperation that enables local governments to fulfil
+obligations under their increased competencies, and on gender -responsive reform of
+regional government institutions.
+48. The United Nations agencies will provide technical assistance to regional and
+local authorities on administrative and financial management and coordination
+between central and local governments, emphasizing innovation and g endersensitive improvements. The programme will support the design and implementation
+of local legislation or policies that ensure access to services — in particular for
+marginalized groups — that promote community participation, and that align actions
+with national plans such as the National Action Plan for Roma. Monitoring and
+reporting on the implementation of regional and local plans will also be supported.
+
+11
+
+D.
+
+Inclusive social policy
+Legislation, policies promoting inclusion, social protection mechanisms and
+special interventions that ensure fulfilment of the rights of disadvantaged
+individuals and groups will be supported.
+49. The United Nations agencies will assist the Ministry of Labour, Social Affairs
+and Equal Opportunities in convening national partners to harmonize support to the
+national social inclusion strategy, to identify policy gaps and to monitor and review
+progress. The programme will support the review of the social protection
+mechanism and its application, in terms of legislation and its implementation and
+the availability of services for vulnerable groups. The United Nations agencies will
+help to ensure that relevant statistics are available and will foster necessary dialogue
+among public and private institutions. Efforts will rely on established institutions or
+task forces, such as those promoting inclusion of Roma populations.
+50. The reform of the social protection system and the monitoring of its impact on
+vulnerable groups will continue to receive attention. United Nations agen cies will
+work with the Government to reduce child poverty and address the intergenerational
+transmission of poverty. Consideration will be given to whether specialized services,
+in addition to monetary benefits, can help vulnerable groups to escape exclus ion.
+51. Efforts will assist the implementation and monitoring of the Anti -Discrimination
+Law. Legislation necessary for the implementation of the United Nations Convention
+on the Rights of Persons with Disabilities will be identified. Local authorities wi ll be
+assisted to provide relevant services. Policy interventions will be tested and
+awareness raised on the rights of persons with disabilities.
+52. The programme will support the implementation and monitoring of the law on
+the Protection of the Rights of the Child and as well as research and innovations to
+reduce risks for children, including substance abuse and violence. Existing local
+protection mechanisms for children will be expanded and integrated into the State
+Social Services. Family-based alternatives to institutionalization will be promoted
+for children without parental care. The Government will be assisted to ensure that
+all newborn children are registered, and that vulnerable families apply improved
+parenting practices and have access to organized childcare.
+53. The capacities of institutions, including the media, will be strengthened to
+work with young people and promote rights-based values and healthy lifestyles. The
+programme will assist the development of cohesive national youth policies and an
+inclusive national volunteer infrastructure.
+54. In support of the Madrid Declaration and International Plan of Action on
+Ageing, the United Nations agencies may provide orientation for government,
+business and civil society groups so that they are able to provide and monitor
+services for older persons and foster their participation in society.
+55. The programme will support enforcement of the Domestic Violence Law by
+local authorities through stronger budgeting and a stronger response by health,
+justice, and security sectors.
+
+12
+
+Efforts will be supported to ensure the participation of all boys and girls in
+quality formal and informal education, paying particular attention to
+marginalized groups.
+56. The Ministry of Education and Science will be assisted to achieve ―education
+for all‖, especially through better support for schools with high dropout and
+collaboration with social protection mechanisms. Assistance will be given to schools
+so that they are welcoming, free of violence and supportive of all chi ldren, including
+those with disabilities, and help young people to build basic life skills and positive
+behaviours. The United Nations agencies will support the Ministry in promoting
+universal preschool education, focusing on vulnerable families and the de velopment
+of financing models for low-cost, quality preschools.
+57. In collaboration with other relevant ministries, United Nations agencies will
+help to incorporate education on human rights, health and cultural heritage through
+the development of teacher training materials and the capacities of teachers, school
+psychologists and social workers. Capacity for improved school management will
+be strengthened in cooperation with civil society.
+Efforts to provide universal health insurance and access to quality, gendersensitive and age-appropriate public health services will be supported.
+58. Relevant ministries will be supported to provide integrated activities for
+preventive public health measures in line with the International Health Regulations,
+including for anti-tobacco actions, communicable diseases, HIV/AIDS, sexually
+transmitted diseases, substance dependence, and a broad range of non -communicable
+diseases. Relevant institutions will be assisted in research, surveillance, analysis, and
+evaluation, with the aim of improving public health policies, health financing and
+health insurance. Public health institutions will be assisted to communicate public
+health priorities and maintain an effective communication system during crises.
+59. The United Nations agencies will support the Ministry of Health in
+strengthening maternal and young child health systems, including better parenting
+and feeding practices, community outreach, and integration with social services
+interventions. Training on reproductive health and gender-based violence for health
+professionals will be supported. Support for nuclear medicine and radiotherapy will
+continue. Institutions will be strengthened to help communities to monitor and
+demand quality health services. The involvement of males in issues of reproductive
+health, gender and population will be promoted, including through media. Youth friendly primary health services, especially for disadvantaged adolescents, will also
+be promoted.
+60. The programme will advocate multisectoral dialogue in support of prevention
+and care related to HIV/AIDS, focusing on the most-at-risk populations. Advocacy
+will also emphasize overcoming stigma and discrimination and inclusion of people
+affected by HIV/AIDS in social protection schemes. Educator s, social workers,
+health officials and law enforcement officers will be oriented on prevention of drug
+use. Prevention of drug abuse and HIV/AIDS will be linked to protection services
+for the groups most at risk, including those in prisons.
+
+13
+
+Efforts to ensure the realization of the fundamental right to work, inclusive
+employment opportunities and comprehensive social dialogue will be supported.
+61. The programme will contribute to transforming the work of the National
+Employment Services from that of administering benefits to providing services for
+job seekers and enterprises. This will include strengthening the planning and
+monitoring of policies and active labour-market measures. The focus will be on
+groups at risk of exclusion. The Government will be supported to promote the
+reintegration of returning migrants and to design policies promoting a higher
+percentage of employment in the formal economy through means such as effective
+social dialogue.
+62. The programme will aid the State Labour Inspectorate to improve inspection
+and occupational safety and health services, including through effective
+implementation of labour inspection policy. It will promote partnership among the
+Labour Inspectorate, the Ombudsperson and the Office of the Anti -Discrimination
+Commissioner.
+63. The programme will assist authorities to increase the access of women to
+social services, professional education, health services, social and employment
+insurance, ownership of assets and microcredit. The Health Insurance Institute will
+be assisted to expand its maternal protection scheme.
+
+IV. Programme management, monitoring and evaluation
+64. To the extent possible, existing national institutional structures will be used for
+strategic leadership, direction, oversight and coordinati on of the programme. The
+programme will be supported by a coherent governance structure, with clear lines of
+accountability and decision-making. Overall programme management and
+coordination will be the joint responsibility of the Government and the United
+Nations agencies.
+65. The Government Modernization Committee will serve as the highest -level
+policy, coordination and decision-making authority of the Government in the
+programme, determining strategic priorities and reviewing progress. The
+Department of Strategy and Donor Coordination will be responsible for coordinating
+Government, United Nations and donor activities, and ensuring that the
+commitments of the Government related to the programme are fulfilled and that
+progress towards objectives is monitored.
+66. The United Nations country team (UNCT), under the leadership of the United
+Nations Resident Coordinator (UNRC), will work towards the implementation of the
+programme. The programme will be made operational through Annual Work Plans
+determining the results and outputs to be achieved. The Integrated Results Matrix
+and Budgetary Framework will encourage the United Nations agencies to be results oriented and work as one. Through the UN Coherence Fund, the coherence,
+efficiency and efficacy of United Nations support will be enhanced through the
+pooling of resources into a common fund for key strategic priorities.
+67. On behalf of UNCT, the UNRC, together with the Government, will lead
+efforts to mobilize resources for the UN Coherence Fund. To increase th e
+predictability of resources, donors will be encouraged to contribute non -earmarked
+resources as early as possible and preferably with multi -year commitments. United
+
+14
+
+Nations agencies will use their core resources and aim to mobilize funds to cover
+the funding gap in the Budgetary Framework. Resources raised by agencies are
+expected to be committed for the programme. Funding of the programme may be a
+challenge because of overall declining development funding in Albania. In response,
+the support of the donor community for the new programme will be critical.
+68. United Nations agencies will work with the Government to establish a
+Monitoring and Evaluation framework, making use of existing Government data
+collection and management systems to the extent possible. Instruments expected to
+be used include periodic Government surveys, supplementary studies, joint periodic
+programme reviews, and independent assessments and evaluations. A midterm
+review of the programme will be conducted to ensure that it is aligned wi th national
+priorities. A final evaluation will be carried out to assess overall achievement of
+results.
+
+15
+
+16
+
+Annex I
+UNDP results and resources framework for Albania, 2012-2016
+Resources for 2012-2016:
+
+Regular: $2,476,000 Other: $36,000,000
+
+Total: $38,476,000
+
+National priority: Develop and consolidate the democratic state
+United Nations common country programme outcome 1.1: Strengthen public oversight, civil society and media institutions to make authorities
+more accountable to the public, and better able to enforce gender-equality commitments in planning, programming and budgeting processes;
+outcome 1.2: Enhance public administration capacities, practices and systems so as to effectively deliver on national development priorities and
+international obligations; outcome 1.3: Ensure that the Government meets international obligations and standards for juvenile justice, for managing
+migration and in the fight against organized crime and corruption.
+Related strategic plan focus area: Democratic Governance
+Government
+partner
+contribution
+
+Other partner
+contributions
+
+UNDP
+contribution
+
+Indicator(s), baselines and target(s)
+for UNDP contributions
+
+Indicative country
+programme outputs
+
+Legal reforms
+for compliance
+with
+international
+genderequality
+standards.
+Continued
+commitment
+on aid
+effectiveness
+and transparent
+use of public
+funds.
+
+United Nations
+and donor
+support to
+women‘s
+groups‘
+advocacy for
+policy reform
+and
+strengthening of
+public
+administration
+and anticorruption
+measures.
+
+Support to
+strengthen publicoversight
+institutions to
+promote
+transparency and
+accountability;
+support gender law
+implementation
+across all relevant
+public institutions;
+promote
+coordinated national
+development
+planning and
+monitoring; support
+implementation of
+United Nations
+Convention against
+Corruption.
+
+Implementation of national policies
+and legislation to advance gender
+equality.
+Baseline: 2010 Committee on the
+Elimination of Discrimination against
+Women observations
+Target: These observations
+implemented by 2016
+
+Capacities of Parliament
+and Ombudsman
+strengthened to ensure
+greater transparency and
+accountability of
+Government.
+
+Extent of donor use of national
+procurement/ financial systems.
+Baseline: Derived from 2010 OECD
+survey
+Target: more than 50 per cent by
+2015
+Number of local government units
+with anti-corruption measures.
+Baseline3: to be confirmed
+Target: to be confirmed
+
+Legal drafting and
+advocacy campaign
+completed concerning legal
+and policy instruments
+required for compliance
+with European Union
+standards and the
+Convention on the
+Elimination of All Forms of
+Discrimination against
+Women.
+
+11-29486
+
+__________________
+3
+
+Baseline and target to be identified through the UNDP anti-corruption programme formulation in 2011.
+
+Indicative
+resources/
+outcome
+Regular:
+$710,000
+Other:
+$7,500,000
+
+National priority: Achieve rapid, balanced and sustainable economic and social development
+United Nations common country programme outcome 2.1: Government, trade organizations and the private sector support inclusive and
+sustainable economic growth through enhanced regulatory frameworks, trade facilitation and investment promotion; outcome 2.2: National
+authorities and institutions, the private sector and the general public protect, preserve and use natural resources more sustainably, taking into account
+the impacts of climate change and the achievement of European environment standards.
+Related strategic plan focus areas: Poverty Reduction/Environment and Sustainable Development
+Strengthen
+legal and
+institutional
+capacities in
+support of
+foreign direct
+investment
+(FDI) and
+private sector
+development.
+Strengthen
+compliance
+with
+environmental
+agreements.
+
+Private sector
+contribution to
+increased and
+inclusive growth.
+Donor support to
+compliance with
+EU environmental
+acquis. Local
+community
+mobilization by
+civil society
+organizations.
+World Bank
+support to disaster
+management.
+
+Promotion of
+inclusive economic
+growth by developing
+capacities of trade and
+FDI promotion
+institutions. Support to
+meeting national
+climate change
+commitments, and
+compliance with
+international
+standards.
+
+Number of businesses using services of
+Albanian Investment and Development
+Agency (AIDA).
+Baseline: 0
+Target: 200
+
+Capacities of Ministry of
+Economy, Trade and Energy
+and AIDA supported to
+promote trade and FDIS.
+
+Local authorities integrate
+Number of Environmental Impact
+climate change into
+Assessments (EIAs) conducted in line development strategies
+with EU standards.
+considering opportunities
+Baseline: EIAs rarely conducted in line highlighted during Cancun
+with EU standards
+Conference of the Parties
+Target: 50 per cent
+(COP) 16.
+Number of climate change adaptation
+measures prepared/implemented
+Baseline: 0
+Target: 5
+
+Regular:
+$516,000
+Other:
+$12,500,000
+
+Options for protected areas
+expansion and establishment
+of protected area network
+identified considering the
+outcomes of Nagoya COP 10.
+
+National priority: Balanced regional development and reduced inequalities between regions
+United Nations common country programme outcome 3.1: Institutional capacities, frameworks and policies meeting international standards
+promote equitable and sustainable regional development, focusing on land use and livelihoods for women and men, and on agriculture, tourism and
+cultural and natural-heritage management; outcome 3.2: The public, including marginalized groups and communities, better receive equitable,
+inclusive and accountable decentralized services from regional and local governments.
+Related strategic plan focus areas: Poverty Reduction/Democratic Governance
+Harmonize
+national sector
+policy
+objectives with
+subnational
+priorities.
+Deepen
+decentralization
+reform in line
+
+Austria,
+Switzerland and
+German Agency
+for Technical
+Cooperation
+support regional
+planning and
+development of
+small and
+
+Support to
+formulation of
+national policy on
+regional
+development and
+regional
+development plans.
+Technical assistance
+to strengthen the
+
+National policy on subnational
+regional development is implemented
+Baseline: draft strategy available
+Target: yes
+Number of culture and tourism
+marketing tools implemented
+Baseline: 0
+Target: 5
+
+Six regional development
+strategies or plans under
+implementation.
+
+Regular:
+$650,000
+
+Options identified for the
+operationalization of the
+Albania culture and tourism
+marketing strategy.
+
+Other:
+$12,000,000
+
+18
+
+with the
+subsidiarity
+principle. Lead
+implementation
+of national
+strategies on
+culture and on
+tourism.
+
+medium-sized
+industries.
+UN-Women
+promotes local
+level genderresponsive
+budgeting.
+UNESCO
+supports
+cultural
+development.
+
+implementation of
+decentralization
+strategy and local
+government
+capacities for
+service delivery.
+Promotion of
+sustainable tourism
+for local economic
+development.
+
+National priority: Equal opportunities will be established for men and women
+United Nations common country programme outcome 4.1: The rights of disadvantaged individuals and groups are equally ensured through
+legislation, inclusive policies, social protection mechanisms and special interventions; outcome 4.2: All people better realize fundamental rights to
+work, have greater and inclusive employment opportunities, and can engage in comprehensive social dialogue.
+Related strategic plan focus areas: Poverty Reduction
+Ministry of
+Labour
+coordination of
+the crosscutting
+national social
+inclusion
+strategy.
+Government
+implements
+active labourmarket
+measures.
+
+Local government
+units ensure
+coherent approach
+to addressing the
+needs of
+vulnerable people.
+Private sector
+embraces active
+labour market
+measures. United
+Nations support to
+Roma and
+implementation of
+national social
+inclusion strategy.
+
+Support to analytical
+work, legislation,
+policy development to
+help implement
+national social
+inclusion strategy to
+address the needs of
+marginalized persons,
+e.g. the Roma and
+disabled.
+Development of
+public-private
+partnerships.
+Employment
+promotion among
+women, youth and
+vulnerable people.
+
+Number of regions/municipalities with
+plans for social inclusion in place,
+funded and providing statutory social
+protection services.
+Baseline: 0
+Target: 12
+Number of domestic violence cases
+addressed by community coordinated
+response (CCR) mechanisms.
+Baseline: 0 (CCR decreed in Albania
+February 2011)
+Target: to be confirmed4
+Number of vulnerable men and women
+benefiting from active labor market
+measures.
+Baseline: 300 beneficiaries from UNDP
+supported schemes in 2010
+Target: 350 beneficiaries supported
+annually
+
+11-29486
+
+__________________
+4
+
+Scale depends on lessons that will be learned from pilot initiatives in 2011.
+
+National strategies related to
+social inclusion implemented
+and monitored.
+Vulnerable men and women
+benefit from employment
+opportunities generated
+through active labour market
+measures.
+
+Regular:
+$600,000
+Other:
+$4,000,000
+
+Annex II
+UNFPA results and resources framework for Albania
+National priority: Develop and consolidate the democratic state
+United Nations draft common country programme document (CCPD) (pillar 1) outcomes:
+Outcome 1.1: Strengthened public oversight, civil society and media institutions make authorities more accountable to the public, and better able to
+enforce gender-equality commitments in planning, programming and budgeting processes;
+Outcome 1.2: Public administration has enhanced capacities, practices and systems to effectively deliver on national development priorities and
+international obligations
+Programme
+UNFPA outcomes, indicators, baselines and targets (based on the draft CCPD outcomes Partners
+Indicative
+component
+listed above)
+resources by
+programme
+component
+Gender
+equality
+
+Population
+and
+development
+
+Outcome 1.1.1: An enabling sociocultural environment that is conducive to male participation
+and promotes gender equality and reproductive rights
+Indicator: proportion of currently married women aged 15-49 who participate in decisionmaking in the following areas: health care, major household purchases, purchases of daily
+household needs, and visits to her family or relatives, disaggregated by residence and wealth
+quintile
+Baseline: 56%
+(a) percentage who participate in all four decisions: 56%
+(b) urban: 68%
+(c) rural: 47%
+(d) lowest wealth quintile: 37.5%
+Target: 25% increase
+Outcome 1.2.1: Data on population dynamics, gender equality, sexual and reproductive health
+and HIV/AIDS available, analysed and used to develop and monitor policies and programme
+implementation
+Indicator: proportion of national policies that incorporate population dynamics, reproductive
+health and rights and gender equality
+Baseline: 40%; Target: 70%
+Indicator: four new health and population national studies carried out
+Baseline: zero; Target: four
+Indicator: all health and population indicators disaggregated by sex and geography
+Baseline: not available; Target: yes
+Indicator: census data processed and disseminated
+Baseline: not available; Target: yes
+
+Ministry of
+Health;
+Ministry of
+Culture, Youth
+and Sports;
+Ministry of
+Labour and
+Social Affairs;
+civil society
+organizations;
+United Nations
+organizations;
+Institute of
+Statistics;
+Institute of
+Public Health
+
+$0.3 million
+from regular
+resources
+
+$1.1 million
+from regular
+resources;
+$1.5 million
+from other
+resources
+
+20
+
+National priority: The Government will establish equal opportunities for men and women
+United Nations draft CCPD (pillar 4) outcomes:
+Outcome 4.1: The rights of disadvantaged individuals and groups are equally ensured through legislation, inclusive policies, social-protection
+mechanisms and special interventions;
+Outcome 4.2: Boys and girls over the age of three (including youth), especially from marginalized groups, access and participate in high-quality
+education and learning opportunities;
+Outcome 4.3: The health of the population is protected by universal health insurance coverage, and high-quality, gender-sensitive and ageappropriate public health services for all, including identified at-risk populations is available;
+Outcome 4.4: All people are better able to take advantage of their fundamental right to work, have greater and inclusive employment opportunities,
+and can engage in comprehensive social dialogue
+Programme
+UNFPA outcomes, indicators, baselines and targets (based on the draft CCPD outcomes Partners
+Indicative
+component
+listed above)
+resources by
+programme
+component
+Reproductive
+Outcome 4.1.1: The rights of disadvantaged individuals of reproductive health age and of the
+Ministry of
+$0.4 million
+health and
+elderly are equally ensured through standardized and oversight mechanisms integrated into
+Health;
+from regular
+rights
+primary health care, inclusive policies, social-protection mechanisms and special
+Health Insurance
+resources;
+interventions
+Institute;
+$0.3 million
+Indicator: Unmet need for family planning for married women (15-49 years) decreased
+Institute of Public from other
+Baseline: 60% ; Target: 20%
+Health;
+resources
+Government
+Gender
+Outcome 4.1.2: Responses to gender-based violence, particularly domestic and sexual
+$0.2 million
+social services;
+equality
+violence, are expanded through sexual and reproductive health care and through HIV
+from regular
+civil society
+prevention services
+resources;
+organizations;
+Indicator: Percentage of gender-based violence cases addressed by the health system
+$0.3 million
+United Nations
+Baseline: 1%; Target: 25%
+from other
+organizations;
+resources
+public health
+Reproductive Outcome 4.2.1 Access of young people to gender-sensitive, life skills-based sexual and
+$0.3 million
+directorates;
+health and
+reproductive health information in secondary education is improved
+from regular
+rights
+Indicator: percentage of secondary schools that implement health and sexual and reproductive Ministry of
+resources
+Labour, Social
+health curricula
+$1 million
+Affairs and Equal from regular
+Baseline: 0%; Target: 20%
+Outcome 4.3.1: Demand, access and utilization of reproductive health services, especially for Opportunities;
+resources;
+Ministry of
+women, young people and other vulnerable groups increased
+$1.5 million
+Education and
+Indicator: rate of improvement in sexual reproductive health key health indicators –
+from other
+Science
+contraceptive prevalence rate (modern methods) for married women (15-49 years)
+resources
+Baseline: 10.6% (2009); Target: 15%
+Gender
+Outcome 4.4.1: Increased access of women to integrated health education, especially in rural
+$0.2 million
+equality
+and hard to reach areas
+from regular
+Indicator: number of women reached by integrated health education
+resources;
+Baseline: 0; Target: 18,000
+$0.5 million
+from other
+resources
+
+Annex III
+Government of Albania-UNICEF programme of cooperation
+Summary results matrix, 2012-2016, including the indicative budget
+UNICEF programme component: Governance for children
+
+Budget:
+
+Regular resources: $800,000
+Other resources: $5,000,000
+UNICEF-supported result: Effective public oversight and monitoring of institutions help to ensure implementation of policies and
+programmes addressing the needs and rights of marginalized children
+National development priority: Governance and Rule of Law
+
+Millennium Development Goals (MDGs)/Millennium Declaration
+commitment /Convention on the Rights of the Child articles: all
+
+United Nations common
+country programme
+document (CCPD) outcomes
+1.1 Strengthened public
+oversight, civil society and
+media institutions make
+authorities more accountable
+to the public, and better able
+to enforce gender equality
+commitments in planning,
+programming and budgeting
+processes
+1.2 The public administration
+has enhanced capacities,
+practices and systems to
+effectively deliver on
+national priorities and
+international obligations
+
+UNICEF contributing results;
+Medium-term strategic plan (MTSP)
+focus area (FA)
+ Public oversight bodies related to
+children, including Parliament,
+Ombudsman, civil society
+organizations (CSOs) and media,
+increasingly demand accountability
+(FA5)
+
+1.3 Government meets
+international obligations and
+standards for juvenile justice,
+managing migration and the
+fight against organized crime
+and corruption
+
+ Juvenile offenders or victims of
+crime are treated in accordance
+with international standards (FA5)
+
+ Key policy research and monitoring
+institutions effectively manage data
+related to children and periodically
+report on the situation of
+marginalized children,
+implementation of child-related
+legislation and international
+conventions (FA5)
+
+Indicators
+(TBD = to be determined)
+
+Partnerships, additional to
+United Nations agencies
+
+ Parliamentary hearings on child-related
+issues
+Baseline: 1 per year; Target: 2 per year
+ % of major child-related complaints
+handled by Ombudsman addressed
+Baseline: TBD; Target: 75%
+ % of significant child-related issues raised
+by CSOs or media and addressed
+Baseline: 0; Target: 75%
+ % of regions with functional institutions
+that monitor child rights:
+Baseline: 10%; Target: 100%
+ Periodic reporting on the law on protection
+of the rights of the child, National Action
+Plan for children, recommendations of the
+Committee on the Rights of the Child
+Baseline: infrequent; Target: annual
+reports, or as required.
+ % of juvenile offenders diverted
+Baseline: 20%; Target: 35%
+ Length of pre-trial detention
+Baseline: 5–7 months; Target: 3–4 months
+ System in place to monitor that child
+victims are treated according to standards
+Baseline: none; Target: system exists.
+
+European Union,
+Organization for Security
+and Co-operation in
+Europe, the United States,
+the United Kingdom and
+others support democratic
+institutions and rule of law.
+UNICEF will add childrelated focus. Includes the
+international consortium
+for justice reform for which
+UNICEF is focal point for
+juveniles. Ministries of
+Social Affairs, Interior,
+Justice, with Institute for
+Statistics and regional
+councils lead national
+efforts. Work with
+Parliamentarians,
+Ombudsman and local
+non-governmental
+organizations.
+
+22
+
+UNICEF programme component: Inclusive and protective policies for children
+
+Budget:
+
+Regular resources: $1,450,000
+Other resources: $22,000,000
+UNICEF-supported result: Children from vulnerable groups are assisted, through specific policy measures and government programmes, to
+be healthy and take full advantage of all learning opportunities
+National development priority: Social Inclusion and social protection
+MDGs 1,2,4,5,6/ Convention on the Rights of the Child articles:
+poverty, health, education, protection
+United Nations CCPD
+UNICEF contributing results;
+Indicators
+Partnerships, additional to
+outcome
+MTSP focus area
+United Nations agencies
+4.1 The rights of
+Collaboration among
+ Social policy reformed to
+ Extent of child poverty
+disadvantaged individuals
+help children escape poverty
+Baseline: 12% of population; Target: 4% of children sector-specific policy
+and groups are equally
+institutions (e.g., health
+(FA5)
+ % of municipalities with fully functioning child
+ensured through
+and education) and social
+ Social services protect
+protection services
+legislation, inclusive
+services for disadvantaged
+vulnerable children from
+Baseline: 40%; Target: 100 %
+policies, social protection
+abuse and neglect (FA3)
+ % of municipalities with unified information systems families will be
+mechanisms and special
+strengthened. Includes
+ Services exist to protect
+on violence against children
+interventions
+work with local
+adolescents from harm
+Baseline: 0%; Target: 75%
+governments and through
+(FA3)
+ % of youth abusing drugs
+several civil society
+Baseline: approximately 3,000 problematic users;
+organizations. Policy
+Target: 1,500
+support for social
+4.2 Boys and girls over
+ Specific government policies  % of children from marginalized groups enrolled in
+inclusion will be
+the age of 3 (including
+ensure marginalized children
+preschooling
+coordinated also with the
+youth), especially from
+participate in quality
+Baseline: 13% (Roma); Target: 30% (Roma)
+Austrian and Swiss
+marginalized groups,
+preschooling (FA2)
+ % of dropouts
+development cooperation,
+participate in quality
+ Specific policies ensure
+Baseline for marginalized groups: TBD;
+and with the World Bank
+education and learning
+marginalized children
+Target: 50% of baseline
+on education and social
+opportunities
+participate in quality
+ primary school children in target areas attaining at
+transfers. For
+compulsory education (FA2)
+least minimum learning achievements
+environmental awareness,
+Baseline: TBD; Target: 70%
+work with a large network
+4.3 Health insurance is
+ Children and young people
+ % of vulnerable children that have access to basic
+within civil society will
+universal and of quality;
+of vulnerable families have
+package of health services
+continue.
+gender-sensitive and ageequal access to health
+Baseline: TBD; Target: 80% in target areas
+appropriate public health
+services, and the health of
+ % of vulnerable children covered by preventive
+services are available to
+young children is monitored
+health, including home visits by nurses
+all, including at-risk
+(FA1)
+Baseline: TBD; Target: 80% in target areas
+populations
+ Children of vulnerable
+ % of children stunted under age 5
+families receive appropriate
+Baseline: 19%; Target: 30% reduction
+support for their health and
+ Anaemia prevalence in children under age 5
+development during their
+Baseline: 17%; Target: 30% reduction
+early years (FA1)
+ % of vulnerable children (0-3) with access to
+organized early childhood development
+Baseline: TBD; Target: 30%
+
+4.4 All people better
+realize fundamental rights
+to work and have greater
+and inclusive employment
+opportunities
+
+ Vulnerable youth have
+access to functioning
+employment services (FA5)
+
+ % of regions with youth employment services and
+skills training programmes
+Baseline: 16%; Target: 100%
+
+2.2 National authorities
+and institutions, the
+private sector and the
+general public protect,
+preserve and use natural
+resources more
+sustainably
+Cross-sectoral costs
+
+ Children in compulsory
+schools act for
+environmental protection
+(FA2)
+
+ % of students using environmental curriculum
+(grades 1 to 5)
+Baseline: 20%; Target: 50%
+
+Total:
+
+Budget:
+
+Regular resources: $1,500,000
+Other resources:
+Regular resources: $3,750,000
+Other resources: $27,000,000
+
+

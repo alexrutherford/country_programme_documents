@@ -1,0 +1,930 @@
+E/ICEF/2015/P/L.30
+
+United Nations
+
+Economic and Social Council
+
+Distr.: Limited
+10 August 2015
+Original: English/French/Spanish
+For decision
+
+United Nations Children’s Fund
+Executive Board
+Second regular session 2015
+8-10 September 2015
+Item 4 (a) of the provisional agenda*
+
+Country programme document
+Algeria
+
+Summary
+The country programme document (CPD) for Algeria is presented to the
+Executive Board for discussion and approval at the present session, on a no-objection
+basis. The CPD includes an aggregate indicative budget of $5,928,000 from regular
+resources, subject to the availability of funds, and $8,026,000 in other resources,
+subject to the availability of specific-purpose contributions, for the period 2016 to
+2020.
+In accordance with Executive Board decision 2014/1, the present document
+reflects comments made by Executive Board members on the draft CPD that was
+shared 12 weeks before the second regular session of 2015.
+
+* E/ICEF/2015/12.
+
+1/15
+
+E/ICEF/2015/P/L.30
+
+Programme rationale
+1. Algeria is an upper-middle-income country, which ranks 93rd out of 187 countries in
+the 2014 Human Development Index.1 After a period of slowdown, population growth
+accelerated from 2008, bringing the total population to almost 39.1 million people in 2014,2
+37 per cent (14.3 million) of them children and adolescents. The urban population represents
+85 per cent of the total population.3 This accelerated population growth is likely to continue
+in the short and medium term due to an increased fertility rate4 over recent years, currently
+resulting in more than 1 million live births per year.
+2. Since the country’s independence, the Algerian Government has maintained a firm
+commitment to a social contract focused on human development and on significant
+investments in the redistribution of national resources. Such commitment translated
+throughout the years into wide-ranging social transfer and subsidy schemes that today
+represent today more than 25 per cent of government expenditure, as well as through
+significant funding for national education (15 per cent of public expenditure) and health (8
+per cent). Such investments have had an extremely positive impact on social development,
+reflected in the fact that the Government should meet, or even exceed, almost all the
+Millennium Development Goals. However, despite significant progress in reducing the
+maternal mortality ratio, from 215 to 66.4 per 100,000 live births between 1990 and 2013, 5
+the country needs to make further efforts to reach the ratio that would allow it to achieve
+Millennium Development Goal 5, which would be 57 per 100,000 live births.
+3. Despite the positive results previously mentioned, particularly given the scale of the
+underlying logistical and financial challenges to human development in a country that is now
+the largest in Africa by area. However, the results hide a more complex social reality, with
+substantial disparities in terms of access to and quality of social service provision. These
+disparities primarily affect the southern and highland regions, vulnerable populations living
+in urban and semi-urban areas, and particular categories of children with specific needs,
+especially those with disabilities. The Sahrawi refugees, who have been living in harsh
+conditions in the camps around Tindouf (south-west Algeria) for nearly 40 years, are also
+considered one of the most vulnerable populations.
+4. Such disparities are due to structural factors linked to the country’s geography, as well
+as to institutional and sociocultural factors. The fragility of information systems and
+monitoring and evaluation systems induces challenges to rational planning and proper
+management of mother and child-focused programmes. As a result, the quality and level of
+access to social services do not meet the required standards nor do they reflect the depth of
+government’s investment in such areas. Despite the country’s large body of statistics on the
+situation of mothers and children, the data available are not always broken down by region,
+gender or income quintile. However, analysis of administrative statistical data and the 2013
+Multiple Indicator Cluster Survey (MICS 4) results highlight a number of vulnerability
+factors specific to mothers and children in various sectors.
+5. Significant strengthening of service provision in the health sector, particularly in terms
+of infrastructure and facilities, greatly helped national efforts in reducing infant mortality to
+
+1
+
+Human Development Index 2014,
+Population of Algeria (National Office of Statistics, ONS).
+3
+General population census (ONS, 2008).
+4
+Fertility rate: 3.02 children per woman (ONS, 2014)
+5
+National administrative data.
+2
+
+2/15
+
+E/ICEF/2015/P/L.30
+
+21.4 per 1,000 live births6 However, this progress is insufficient in light of the delay in
+reducing neonatal mortality, which now accounts for 70 per cent of infant mortality. The
+causes include: insufficient integration of care for newborns into pregnancy and childbirth
+management; lack of comprehensive perinatal management leading to frequently delayed
+transfers in case of complications; and limited neonatal care provision, particularly in terms
+of neonatal resuscitation and prevention of avoidable disabilities.
+6. Budgetary efforts in the education sector have also served to improve educational
+provision, addressing the challenges of providing education for all, meeting Millennium
+Development Goal 2 and ensuring a significant increase in access to preparatory education
+for children aged 5 to 6 years. In 2012–2013, net attendance in primary education reached
+97.4 per cent,7 almost equal for boys and girls, and this draft country programme of
+cooperation envisages a range of efforts to ensure that all children attend and remain in school
+until the age of 16. In 2014, nearly 494,000 children aged 6 to 16 years did not attend school,8
+primarily in disadvantaged regions, large urban centres and deprived families. Furthermore,
+a recent study9 of children not attending school and those at risk of dropping out highlighted
+that nearly 500,000 pupils may leave the school system without attending secondary
+education (lycée). Factors underlying these challenges are: a growing need for continuous,
+specialized training for teachers and school principals; a lack of opportunity for reintegration
+of out-of-school children into the educational system or for professional training for older
+ones; and limited access to preschool education for children aged 3 to 5 years.
+7. The country has also made commendable efforts in terms of integrated early childhood
+care and development for children aged 0 to 6 years, notably in health care, with measles
+vaccination rates above 90 per cent.10 However, progress is still needed in a number of areas.
+Today only 25 per cent of babies under 6 months benefit from exclusive breastfeeding,
+whereas this proportion was more than 80 per cent at the start of the 1990s,11 and inadequate
+feeding practices induce delayed growth in 11.7 per cent of children aged under 5 years
+(MICS 4). Although more than 50 per cent of children aged 5 years attend customized
+preparatory classes managed by the Ministry of National Education, only 16.6 per cent of
+children aged 3 and 4 years attend preschool establishments, with marked inequalities
+between regions and between income quintiles. This gap in service provision is caused by
+the fragmentation of mandates and interventions within different ministries, as well as by the
+challenges arising from the coordination of multisectoral service provision.
+8. In the area of child protection, a Bill to improve protection measures for children at risk
+and those in conflict with the law was presented to the Council of Ministers in 2014. This
+should help to strengthen systemic issues identified in relation to children at risk. Indeed,
+children at risk or in conflict with the law remain a major concern, as underlined by the 2014
+census by the security services, which listed 6,231 assaults on children, 256 abductions, 14
+homicides and 6,836 children in conflict with the law.12 Although the lack of a mechanism
+for systematic reporting of cases of violence against children means that a breakdown of data
+is not possible, MICS 4 indicates that 86 per cent of children aged 2 to 14 years are victims
+of corporal punishment or psychological abuse,13 with no significant differences between
+
+6
+
+MICS 4 (2013).
+MICS 4 (2013).
+8
+Study by the Global Initiative on Out-of-School Children (OOSCI, 2014).
+9
+Ibid.
+10
+MICS 4 (2013).
+11
+Ibid.
+12
+Directorate General for National Security (DGSN) data (2014).
+13
+MICS 4 (2013).
+7
+
+3/15
+
+E/ICEF/2015/P/L.30
+
+regions, social backgrounds or gender. The main challenges for the sector are the need to
+strengthen the coherence between intersectoral mechanisms to prevent and report violence
+against children, and to consolidate quality standards for case management, prevention and
+management of child protection services.
+9. The almost 11 million adolescents and young people (aged 15 to 29 years) face many
+challenges, often resulting from a difficult transition between school or professional training
+and entry into the labour market. Bottlenecks in this sector result in service provision for
+young people that does not meet their expectations and a lack of knowledge among
+adolescents and young people of their rights and opportunities for constructive participation
+in their communities.
+10. The Government of Algeria continues to provide substantial social transfers in the form
+of subsidies for basic goods and energy products, as well as many non-contributory sectoral
+social transfers, which play an important role in supporting the most vulnerable children and
+families. However, there are two remaining issues to consider. The first concerns the lack of
+consistency in the targeting and management of these transfers, inducing high transaction
+costs and a social safety net in need of improvement. The second relates to the unclear
+sustainability of these transfers if the reduction in oil prices continues over the medium and
+long term. Revenue from oil products represents 70 per cent of government revenue. Such a
+reduction in oil prices, if sustained in the long term, could make it difficult to maintain the
+subsidies and social transfers at existing levels, and make it harder for the country to
+implement the 2012 recommendations from the Committee on the Rights of the Child. The
+Committee had recommended increasing social sector budgets, speeding up the review of
+sectoral policies and legal and regulatory frameworks that perpetuate discrimination against
+children, and adapting the national information system so the data collected would aid
+analysis of progress achieved. Other recommendations related to the creation of coordination
+mechanisms to strengthen integration between programmes.
+11. Children may also be exposed to risks in relation to natural disasters such as earthquakes
+and floods. Although Algeria has so far experienced few impacts from climate change, the
+country has made considerable efforts to greatly increase its water storage capacity. It has
+also introduced risk reduction programmes, in partnership with UNICEF, particularly for
+schools located in the areas most at risk.
+12. In terms of lessons learned, two strategies implemented as part of the previous
+programme of cooperation, 2012–2015, could enlighten and inform implementation choices
+for the forthcoming programme. The first was the use of the analysis tool for bottlenecks –
+the Monitoring Results for Equity System (MoRES) – in relation to maternal mortality. This
+proved a useful aid to developing a national action plan to accelerate the reduction of maternal
+mortality. The same approach will be used to carry out an analysis of neonatal mortality, as
+part of the forthcoming programme of cooperation. Experience gained through the previous
+programme also underlined the importance of advocacy and communication about child
+rights to the general public, to encourage ownership and use of child rights and equity
+approaches. This type of approach proved particularly successful in the #ENDviolence
+campaign, which prompted an instant commitment from the Algerian population and its
+Government. The Government subsequently brought the campaign to the United Nations
+Human Rights Council in order to champion it in the international arena.
+13. In light of the preceding analysis and given the country’s economic status, the
+programme of cooperation will focus on areas in which UNICEF has genuine comparative
+advantages: the capacity to support partners to effectively address the bottlenecks that
+perpetuate disparities between children; and the capacity to produce factual data that can be
+
+4/15
+
+E/ICEF/2015/P/L.30
+
+directly used by decision makers and ultimately help partners to translate these data into
+policies, strategies and results for children.
+
+Programme priorities and partnerships
+14. The country programme 2016–2020 will support the efforts made by the Government
+to allow all Algerian children to fully exercise their rights to survival, development,
+protection and participation, and to provide them with inclusive, high quality social services
+to support them in reaching their full potential. Anticipating a number of themes addressed
+by intergovernmental discussions on the Sustainable Development Goals, particular attention
+will be given to the collection and analysis of national data that facilitates a better
+understanding of the disparities between children and adolescents in inclusive access to high
+quality social services, depending on their gender, age, geographical location, disability
+status or socio-economic conditions.
+15. The content of the country programme is closely aligned with the five-year National
+Development Plan’s priority focus areas, as presented to Parliament following the
+presidential election in 2014. The country programme’s interventions fall primarily into the
+following categories: reform of the major social sectors, efforts to improve funding and
+public expenditure in the social sectors, and actions to promote human development through
+improving the quality of services in the sectors of education, child protection, social
+protection, health care and national solidarity.
+16. The content of the country programme is also closely aligned with the Strategic
+Cooperation Framework (CdCs) proposed outcomes for 2016–2020, agreed upon by United
+Nations agencies and national partners. In particular, the country programme will contribute
+to the ‘social development’ related outcome, which states that “by 2020, the population is
+provided with improved, inclusive and equitable access to high quality social services.”
+Child development and education
+17. While Algeria has almost achieved universal attendance in primary education, recent
+studies have highlighted that access to early childhood development services for children 05 years old is still limited. They have also shown that the education sector still faces
+challenges in attracting and keeping all school-age children in school until the age of 16,
+especially in some regions of the country. In light of this context, the “child development and
+education” component will contribute to efforts by Algeria to ensure that by 2020, children
+aged 0 to 16 years, especially those living in provinces reflecting disparities, have improved
+access to high quality maternal and neonatal health services, and equal educational and
+developmental opportunities and services. This will be done in close collaboration with the
+Ministries of National Education, Health Population and Hospital Reform, Religious Affairs
+and Endowments and other actors working in the sector, notably the United Nations
+Educational, Scientific and Cultural Organization and the World Health Organization.
+18. The “integrated early childhood development (IECD)” sub-component will support
+efforts made by the country in recent months through the development of the first national
+IECD strategy. The first set of interventions will support the country’s commitment to the A
+Promise Renewed initiative, by developing a national plan to accelerate a reduction in
+neonatal mortality and providing behaviour change communication to improve health and
+nutritional care for infants and young children (aged 0–3 years). The second set of
+interventions will help to improve access for children aged 3–5 years to quality early
+childhood development services, as planned in the latest national strategy. The support will
+
+5/15
+
+E/ICEF/2015/P/L.30
+
+notably focus on the development and dissemination of tailored models for preschool care at
+the community and decentralized levels.
+19. The “out of school children” sub-component will contribute to national efforts to reduce
+the incidence of school dropout. It will aim to introduce communication and prevention
+strategies to improve access to and retention in school for all school-age Algerian children,
+and to limit dropout in order to keep as many children and adolescents as possible in the
+educational system until the age of 16.. These interventions will be targeted and will focus
+on the provinces with the highest numbers of children out of school. For those who have
+dropped out, the programme will work with the Ministry of Education and the Ministry of
+Professional Training and Education to strengthen mechanisms for cross-sectoral
+coordination, providing the children with new opportunities for reintegration into various
+forms of schooling, such as ‘catch up classes’, distance learning and support for vocational
+and technical training.
+20. The “school governance” sub-component will support national efforts to improve the
+institutional environment of the education system, to make education provision more widely
+available and to improve access to high quality education through extending decentralization
+policies that encourage management and monitoring of data at school level. To this end, the
+country programme will support the Ministry of Education in upgrading its statistical
+information system to an effective decision-making tool. This will enable local officials to
+address school dropout effectively and in real time, and will enable decision makers at the
+central and provincial levels to develop and pilot action plans to prevent and combat school
+dropout. The country programme will also help the Ministry to promote participatory
+governance models involving parent and pupil committees, which will also aim to reduce
+violence against and among children.
+Child protection and participation
+21. The rapid social changes affecting Algerian society (such as accelerated population
+growth and urbanization) have made children much more vulnerable to violence and harmful
+behaviours. The “child protection and participation” component will support the country’s
+efforts to ensure that children and adolescents have equal access to improved protection, in
+the form of prevention and management of vulnerability resulting from violence, and ensure
+they can actively participate in matters of social and political life that affect them. This
+component will be implemented in close collaboration with institutional partners that have
+daily involvement in child protection and participation. These will include the Ministries of
+National Solidarity, the Interior and Local Government, Family and Women’s Affairs;
+Justice; and Youth and Sports, as well as a number of partners from civil society and the
+United Nations (the United Nations Entity for Gender Equality and the Empowerment of
+Women (UN-Women) and the United Nations Population Fund (UNFPA).
+22. The “institutional strengthening” sub-component will contribute to national efforts to
+improve the institutional environment for child protection, to ensure greater effectiveness of
+protection services and better coordination of the accompanying multisectoral response. The
+programme will support the relevant ministries in revising the national legal and regulatory
+frameworks in order to prioritize the best interests of the child, consistent with the
+international commitments made by Algeria. The programme will help the Ministry of
+National Solidarity to review the mechanisms for preparing and implementing budgets for
+protection services, and to generate knowledge on causes and problems relating to child
+protection and the low level of participation by children. It will also help the Ministry to
+
+6/15
+
+E/ICEF/2015/P/L.30
+
+improve coordination mechanisms and review systems for collecting and processing
+statistical information.
+23. The “improving child protection services” sub-component will support national efforts
+to improve access to and utilization of cross-sectoral child protection services throughout the
+country. The programme will help the Ministries of National Solidarity, Justice and the
+Interior to identify good practices in prevention and child protection support systems that
+may be extended on a national scale. There will be a particular focus on alternatives to
+detention and on mediation practices. There will also be a focus on introducing a referral
+system for reporting, and providing a structured and systematic response to violence against
+children, as well as on developing and implementing new operational standards for
+institutions working with vulnerable or at-risk children. Finally, the programme will support
+model interventions designed to give young people opportunities for civic participation.
+24. The “social norms and participation” sub-component will contribute to national efforts
+to improve the behaviours of communities, families and children, and their awareness of
+norms in relation to child protection and the prevention of violence and abuse. Support will
+be provided through the following actions: use of behaviour change communication to
+eliminate inappropriate practices and to promote positive social norms and practices that
+encourage the protection and participation of children and adolescents; increased use of new
+technologies to disseminate knowledge in relation to participation and protection, as well as
+information about the locations and respective services provided by centres established by
+various institutional partners (or by civil society) to meet social demand. The Ministry of
+Youth will also be supported to better identify the needs and expectations of young people
+regarding the services provided by youth-centred institutions throughout the country, and to
+consider participatory management practices that could be adopted to encourage optimal
+participation by young people in these centres and, potentially, in their management and daily
+programming.
+Social inclusion
+25. It is vital to pre-empt the budgetary trade-offs that may be detrimental to child-focussed
+programmes – especially those benefiting the most disadvantaged children – given
+continuing constrained global economic growth and low oil prices that may reduce national
+revenue. In order to contain this situation and maintain growth in budgets for social
+programmes, the “social inclusion” component will support efforts to institutionalize
+mechanisms for identifying inequalities in access to high quality social services for all and
+causal links that could explain lasting disparities. This component will also support efforts to
+improve targeting mechanisms and the efficiency of social transfers for the most
+disadvantaged children, to support more effective social protection. This component will be
+implemented in close collaboration with institutional partners that have daily involvement in
+child protection and participation. These are the Ministries of National Solidarity, Justice and
+the Interior, the National Economic and Social Council (CNES) and a number of partners
+from civil society and the United Nations (the International Labour Organization (ILO),
+UNFPA and UN-Women).
+26. The “social equality” sub-component will support quantitative and qualitative
+improvements in the production and dissemination of data, so decision makers can use the
+data to revise social development strategies and plans to make them more inclusive and more
+supportive of children. Support will be provided to the CNES in launching a national equity
+observatory. Algeria will also benefit from technical expertise from Mexico, through a
+strengthening of the emerging UNICEF-supported South-South cooperation between the two
+
+7/15
+
+E/ICEF/2015/P/L.30
+
+countries. This will involve sharing skills, good practices and proven methodologies for
+effective monitoring and evaluation of public policies on society. Other opportunities for
+intergovernmental cooperation and exchange may be explored in support of this subcomponent’s objectives.
+27. The sub-component “child centred social protection” will support improvements in the
+effectiveness and efficiency of existing targeting and social transfers for the most
+disadvantaged children. This will include facilitating the sharing of experiences between
+national and international bodies in the context of South-South cooperation, in particular
+drawing on the experience of Brazil or other relevant country experiences. This component
+of the programme will be implemented in collaboration with other United Nations agencies
+and multilateral organizations, in particular ILO and the World Bank.
+Emergencies and humanitarian situations
+28. The country programme will continue work to reduce major risks around school
+facilities, aiming to give pupils and teachers a better understanding of protective practices in
+the event of an earthquake. UNICEF Algeria will also continue its support for the refugee
+populations around Tindouf, in partnership with United Nations agencies, and will help local
+partners to provide basic social services in the areas of health, education and protection. There
+will be a particular focus on capacity-building for resilience among the targeted beneficiary
+populations.
+Cross-sectoral component
+29. The cross-sectoral component will cover operational costs common to all programmes,
+such as rent and travel, and cross-sectoral human resource costs for security and support staff.
+30. The country programme will use several strategies to achieve results. Institutional
+support, together with the generation of disaggregated data in areas of national solidarity,
+neonatal health, education and youth sectors, will build the skills of national partners and
+improve the quality of services provided to children. In education, the introduction of new
+technologies for information management will enable national and provincial authorities, as
+well as school principals, to provide better performance monitoring for the education system
+and to be responsive in implementing corrective measures. Drawing on South-South
+cooperation in the field of social protection will help to introduce relevant models to the
+country, to improve the effectiveness of social transfers targeting children.
+31. The programme will be implemented in conjunction with: Ministries of Education,
+National Solidarity, Youth, Justice, Health, the Interior, and Religious Affairs, CNES and
+various ministerial departments involved in budget planning and mobilization. There will be
+strengthened partnerships with Parliament and civil society organizations around child
+participation and monitoring of the situation of children. Consideration will also be given to
+developing partnerships with bilateral or multilateral agencies working in Algeria, such as
+the African Development Bank, the European Commission and the World Bank. Partnerships
+with United Nations agencies will be strengthened by capitalizing on programme initiatives
+such as combating maternal and infant mortality and monitoring disparities. The emerging
+partnership with the private sector will be strengthened around themes such as combating
+violence against children and seeking funding to extend activities and projects at the local
+level.
+
+8/15
+
+E/ICEF/2015/P/L.30
+
+Summary budget table
+(In thousands of United States dollars)
+Programme component
+
+Regular resources
+
+Other resources
+
+Total
+
+Child development and education
+
+1 400
+
+5 350
+
+6 750
+
+Child protection and participation
+
+1 828
+
+1 076
+
+2 904
+
+Social inclusion
+
+1 400
+
+1 200
+
+2 600
+
+Cross-sectoral component
+
+1 300
+
+400
+
+1 700
+
+Total
+
+5 928
+
+8 026
+
+13 954
+
+Programme and risk management
+32. Under the leadership of the Government and the United Nations Resident Coordinator,
+UNICEF Algeria was an active participant in the development of the Strategic Development
+Framework 2016–2020, based on elements of the Delivering as One (DaO) approach
+(although Algeria is not currently a DaO pilot country). In this context, UNICEF provides
+coordination of the social development group. It is anticipated that these working groups will
+be institutionalized, becoming a mechanism for monitoring implementation of the CdCs and
+a forum that will facilitate synergies and be a catalyst for agencies’ programme interventions.
+UNICEF will monitor its implementation as envisaged by the CdCs steering mechanism.
+Expected opportunities and risks in relation to the intended impacts of the country
+programme
+33. Considering its geographic location, two notable risks for Algeria include the everpresent risk of a sudden deterioration in the security or humanitarian situation in the subregion, or the sudden onset of a natural disaster, in particular an earthquake. Either of these
+would entail a sudden increase in urgent humanitarian needs. However, Algeria does have
+national response bodies with significant capacity. UNICEF Algeria will therefore regularly
+review the relevance of its emergency preparedness and response plan, based on the civil
+protection response mechanisms prepared by the Algerian authorities.
+34. The current budgetary pressure linked to low oil prices, and its impact on national
+budget stability, are not a risk to national investments in the social sectors, due to the
+country’s significant financial reserves. They, however, represent an opportunity for a
+thorough review of the adequacy and efficiency of current social transfers and options to
+achieve better targeting of these transfers towards the country’s most vulnerable populations.
+35. . To this end, national partners will be closely involved in implementation, results-based
+management will be systematically applied, and the aid effectiveness principles outlined in
+the Paris Declaration and Accra Agenda for Action will be observed.
+36. The programme will also ensure that approaches such as the harmonized approach to
+cash transfers, joint monitoring mechanisms and other relevant working groups designed to
+increase inter-agency collaboration and effectiveness are applied.
+37. Implementation of these measures will be monitored by the UNICEF Algeria country
+management team. General coordination will be provided by the Ministry of Foreign Affairs.
+
+9/15
+
+E/ICEF/2015/P/L.30
+
+UNICEF and its partners will prepare joint workplans, which will be reviewed at technical
+meetings and during the mid-term review. Details of the technical arrangements for these
+processes are provided in the country programme action plan. The results of these processes
+will inform United Nations reviews to assess CdCs implementation.
+38. This country programme document outlines the UNICEF contribution to support the
+efforts made by Algeria to promote human development while tackling disparities,
+discrimination and violence. It details the priority areas chosen for cooperation, focusing on
+the most vulnerable children, and the level of technical and financial support needed. It serves
+as a core document to allow the Executive Board to assess the expected outcomes of the
+cooperation between UNICEF and the Government of Algeria.
+
+Monitoring and evaluation
+39. In keeping with CdCs 2016-2020, many elements of this programme are intended to
+build national capacity in collection, processing and analysis of statistical data on children in
+Algeria. Various intervention strategies will be used such as: use of new technologies to
+strengthen management systems in the education sector; greater use MoRES to analyse
+bottlenecks in neonatal mortality, and improved effectiveness of child protection services at
+the decentralized level; and support for the creation and operation of the planned national
+observatory for equity monitoring and the teams responsible for providing the partner
+ministries with statistical information on the creation and dissemination of disaggregated
+equity-focused data. The next household survey (MICS 6) planned in 2017, will provide an
+updated analysis of the situation of children and women.
+40. The programmes implemented by UNICEF and its partners will be regularly monitored,
+supported by annual reviews of progress and constraints with implementating partners. A
+mid-term review, planned for summer of 2018, will also allow UNICEF and the Government
+of Algeria to take stock of results achieved, and, if necessary, make adjustments in terms of
+expected outcomes and programme priorities. Evaluations of certain elements of the
+programme of cooperation will gauge the effectiveness and relevance of the various subprogramme components, for a clearer view of the adjustments needed at mid-term or at the
+end of the programme. Three evaluations are planned: (a) effectiveness and relevance of
+decentralized preschool provision models; (b) effectiveness and relevance of the social
+inclusion programme; and (c) results and actual impact of all UNICEF programmes in
+Algeria.
+
+10/15
+
+E/ICEF/2015/P/L.30
+
+Annex
+Results and resources framework
+Algeria – UNICEF country programme of cooperation, 2016–2020
+Relevant articles of the Convention on the Rights of the Child:
+Articles 2-3 6, 8-10, 12, 17, 19, 22, 26-29, 35, 40.
+National priorities:
+ Advance the quality of human development in the education, training and health sectors, taking into account the rights of poorer people and those with
+specific needs.
+ Improve access to high quality social services and to social protection, especially for vulnerable groups (women, children, elderly people and children
+with disabilities).
+CdCs (UNDAF) outcomes involving UNICEF:
+The population has improved access to inclusive, equitable, high quality social services by 2020.
+Education
+1) Rate of early school leaving (children under 16 years): Baseline: 3.7% (girls: 3.1%); Target: 2.7%
+2) Success rate at official examinations: Baccalaureate: Baseline: 47.19%; Target: 67%
+3) Number of projects including a literacy aspect: Baseline: 1; Target: 3
+Health
+1) Surveillance system for maternal deaths in place: Baseline: No; Target: Yes
+2) Maternal mortality ratio: Baseline: 63.6/100 000; Target: 57/100 000
+3) Infant mortality rate: Baseline: 22% (boys: 23.5%; girls: 20.4%); Target: to be confirmed
+4) Prevalence of cardiovascular disease: Baseline: 26.1; Target: 20%
+Social protection
+1) Percentage of beneficiaries removed during review of the register for flat-rate solidarity allowance: Baseline: 56.5%; Target: 20%
+UNICEF Strategic Plan 2014-2017 Outcomes:
+1. Health
+5. Education
+6. Child protection
+7. Social Inclusion
+
+11/15
+
+E/ICEF/2015/P/L.30
+
+UNICEF outcomes
+
+Key progress indicators,
+baselines and targets
+
+Means of
+verification
+
+Indicative country
+programme outcomes
+
+Child development
+and education
+Improved care and
+learning
+opportunities
+promoting the
+survival,
+development and
+inclusion of children,
+especially those
+living in regions with
+high inequalities
+
+1) Percentage of children
+aged 36 to 59 months
+registered with a preschool
+learning programme
+Baseline:
+National: 17%
+Central highland regions:
+6%
+
+MICS 6
+
+Outcome 1
+Children aged 0 to 5
+years have better
+access to opportunities
+for care, survival,
+preschool learning and
+development.
+
+Quintiles
+Poor: 7%
+Rich: 31% (national level)
+Target: 25% by 2020
+2) Neonatal mortality
+Baseline: 16/1,000
+Central highland regions:
+21/1,000
+
+Administrative
+data from
+Ministry of
+National
+Education
+Out of school
+children
+initiative
+(OOSCI)
+micro surveys
+
+Outcome 2
+Vulnerable and
+excluded children aged
+6 to 16 years have
+increased support in
+terms of access to
+education and to high
+quality learning and
+professional training
+opportunities; children
+are encouraged to
+continue with their
+schooling.
+
+Target: 13/1,000
+3) Percentage of children
+aged 6 to 14 years outside
+the school system
+Baseline:
+3% at primary school level
+6.5% at lower secondary
+level
+
+12/15
+
+Outcome 3
+The Government has
+strengthened capacity
+to legislate, plan and
+budget, to improve the
+governance and quality
+of educational services
+
+Major partners,
+partnership
+frameworks
+
+ Ministry of
+National Education
+ Ministry of
+National Solidarity
+ Ministry of
+Professional
+Training
+ Ministry of Health
+
+Indicative resources by
+country programme
+outcome:
+Regular resources (RR)
+Other resources (OR)
+(In thousands of US
+dollars)
+RR
+
+OR
+
+Total
+
+1 400
+
+5 350
+
+6 750
+
+E/ICEF/2015/P/L.30
+
+on a national and local
+scale.
+
+Target: less than 2% at
+primary level and less than
+5% at secondary level
+4) Net rate of school
+enrolment (6-16 years)
+Baseline (MICS 4): 93%
+Target: 96%
+Child protection
+and participation
+Strengthened
+multisectoral
+prevention and
+management of cases
+of violence against
+girls and boys
+
+1) Percentage of children
+aged 1 to 14 years who are
+victims of violence
+Baseline (children aged 2 to
+14 years):
+National: 86% (boys: 88%;
+girls: 85%)
+Target: National: 70%
+2) Introduction of a
+multisectoral1 referral
+system in certain
+geographical areas
+Baseline: none
+Target: successful
+introduction
+3) Institutionalization and
+adoption of the young
+people's participation
+model (youth council)
+
+MICS 6
+Administrative
+date from
+Ministries of
+National
+Solidarity and
+Justice
+
+Outcome 1
+The government has
+strengthened
+commitment and
+capacity to legislate,
+plan and budget to
+extend prevention and
+response interventions
+in the area of child
+protection.
+
+ Ministry of
+National Solidarity
+ Ministry of Justice
+ Ministry of
+National Education
+ Ministry of Youth
+
+RR
+
+OR
+
+Total
+
+1 828
+
+1 076
+
+2 904
+
+Outcome 2
+There are improved
+standards for the
+management and
+quality of prevention
+and child protection
+services at national and
+local levels.
+Outcome 3
+
+1
+
+Effective referral system: a system allowing appropriate identification and referral of cases of violence against children, through definition of the roles and
+responsibilities of the actors involved, development of standard operating procedures, and creation of referral routes, using training and mentoring.
+
+13/15
+
+E/ICEF/2015/P/L.30
+
+Families and
+adolescents (both boys
+and girls) in the most
+affected regions are
+better equipped to
+participate, to protect
+themselves and to
+reduce harmful
+behaviours.
+
+promoted by UNICEF, in
+at least three decentralized
+locations
+Baseline: none
+Target: at least three
+recorded mechanisms in
+place
+4) Introduction of
+alternatives to detention
+for children in conflict
+with the law, in some
+geographical areas
+(mediation, community
+service, parole)
+Baseline:
+to be confirmed with
+qualified representatives of
+juvenile justice
+Target: alternatives to
+detention implemented, in
+accordance with relevant
+standard operational
+procedures and memoranda
+of understanding, in the
+relevant geographical areas
+Social inclusion
+An improved policy
+environment and
+social protection for
+disadvantaged and
+vulnerable children
+and adolescents,
+underpinned by
+knowledge and data
+
+1) Existence of an
+independent body
+responsible for monitoring
+equality and for analysis of
+multidimensional poverty
+affecting children.
+Baseline: none
+
+MICS 6
+Updated
+country profile
+on equality
+National Office
+of Statistics
+
+Outcome 1
+Strengthened national
+capacity and skills for
+the creation of
+knowledge regarding
+social equality and
+multidimensional
+poverty in children.
+Outcome 2
+
+14/15
+
+
+
+
+
+
+National
+Economic and
+Social council
+CNES
+Ministry of
+National
+Solidarity
+Ministry of
+National
+Education
+
+1 400
+
+1 200
+
+2 600
+
+E/ICEF/2015/P/L.30
+
+which focus on
+equality.
+
+Target: existence of a
+functioning observatory for
+equality
+
+Strengthened national
+capacity for the
+adoption of child social
+protection measures
+which are efficient,
+effective, inclusive and
+gender sensitive.
+
+
+
+Ministry of
+Health
+
+Cross-sectoral
+component
+
+1 300
+
+400
+
+1 700
+
+Total resources
+
+5 928
+
+8 026
+
+13 954
+
+_______
+
+15/15
+
+

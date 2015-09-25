@@ -1,0 +1,1351 @@
+E/ICEF/2015/P/L.22
+
+United Nations
+
+Economic and Social Council
+
+Distr.: Limited
+10 August 2015
+Original: English/French/Spanish
+For decision
+
+United Nations Children’s Fund
+Executive Board
+Second regular session 2015
+8-10 September 2015
+Item 4 (a) of the provisional agenda*
+
+Country programme document
+China
+Summary
+The country programme document (CPD) for China is presented to the Executive
+Board for discussion and approval at the present session, on a no-objection basis. The
+CPD includes a proposed aggregate indicative budget of $38,535,000 from regular
+resources, subject to the availability of funds, and $98,000,000 in other resources,
+subject to the availability of specific-purpose contributions, for the period 2016 to
+2020.
+In accordance with Executive Board decision 2014/1, the present document
+reflects comments made by Executive Board members on the draft CPD that was
+shared 12 weeks before the second regular session of 2015.
+
+* E/ICEF/2015/12.
+
+E/ICEF/2015/P/L.22
+
+Programme rationale
+1. China continues to grow economically and to expand its global role. With the world’s
+second largest child population, China had an estimated 274 million children in 2013,
+representing 20 per cent of the country’s total population and 14 per cent of the world’s
+children.1 In recent years, increasing commitment by the Government to equitable growth
+has generated tremendous progress in advancing the status of children: achievement of
+universal access to primary education, promotion of gender equality, reduction of infant and
+under-five mortality and poverty alleviation for urban and rural children. The Government
+has introduced child-focused concepts into critical governance documents, including the 12th
+National Five-Year Plan for Social and Economic Development (2011–2015), the Ten-Year
+Poverty Reduction Programme and the National Post-Disaster Reconstruction Strategy. The
+Government has also developed child-specific laws, policies and guidelines, such as the
+National Plan of Action for Children (2011–2020). However, the implementation of childoriented laws and policies presents ongoing challenges, with the most vulnerable and
+impoverished children often unable to access quality public services and specialized
+programming.
+2. Rapid urbanization and migration trends continue to impact geographic and regional
+disparities, posing challenges to the survival, development and protection of millions of
+vulnerable children. Between 2000 and 2011, the urban population rose from 36 per cent to
+more than 50 per cent of the total population. More than 200 million people have migrated
+to urban areas. With an estimated 36 million children migrating with their parents; 61 million
+children have been left behind in rural areas without the care of one or both parents. Nearly
+2 million of these children live alone.
+3. Under the country’s system of hukou, a household registration is required to access
+public services; children living outside their registration area may face obstacles to gaining
+access. Moreover, many migrant children have inadequate and incomplete health insurance
+and vaccination coverage, and are unable to attend public schools. In addition, the increased
+tendency for older migrant children to enter the labour market leads to relatively higher dropout rates among migrant children.
+4. An estimated 25 per cent of children live in poverty-affected areas. The poorest and
+most disadvantaged children, confronted with multiple and overlapping inequalities,
+disproportionately live in rural and ethnic minority areas in the country’s western regions,
+which are mountainous and remote. In these areas, poor quality public health services and
+access bottlenecks contribute to elevated under-five and infant mortality rates (IMRs).
+Children in rural areas face nutritional deprivations, with the prevalence of underweight and
+stunting in 2010 at 8 per cent and 20 per cent, respectively, compared with 1.3 per cent and
+3.4 per cent for urban children. In education, overall enrolment rates are high: in 2013, net
+enrolment in primary education was more than 99 per cent, and gross enrolment rates in
+secondary education stood at 104 per cent and 86 per cent for the junior and senior levels,
+respectively. However, the school attendance rate for secondary rural children is low, at
+almost 60 per cent. The quality of education in rural areas is constrained by a lack of resources
+and capacity. Access to water, sanitation and hygiene (WASH) is similarly lower in rural,
+poor areas in western China, with 44 per cent of the population not using improved sanitation
+
+1
+
+2/18
+
+All statistics are from the 2010 National Population Census or other national sources, unless otherwise
+stated.
+
+E/ICEF/2015/P/L.22
+
+facilities in 2012, compared with 26 per cent in urban areas (UNICEF and the World Health
+Organization (WHO) Joint Monitoring Programme data).
+5. There is growing attention to the issue of violence against children. In a 2005 UNICEFsupported survey, 55 per cent of respondents reported having experienced physical violence,
+60 per cent reported having experienced psychological violence, and 26 per cent reported
+having experienced sexual violence before the age of 16. A number of initiatives are under
+way to ensure an environment that protects children from violence, abuse and exploitation,
+through a social protection system that promotes children’s welfare.
+6. Despite gains achieved, gender differentials persist. In 2012, the national sex ratio at
+birth stood at 118 boys for every 100 girls. National census data for 2010 showed that the
+IMR for girls exceeded that of boys. Sex differentials are also seen in other indicators. For
+example, census data indicate that rural parents are more likely to bring their sons than
+daughters with them to their place of migration, which results in only boys’ benefiting from
+urban resources.
+7. Promoting equity and reducing the disparities faced by children – between rural and
+urban locations, boys and girls, across regions, among ethnic groups, and according to age
+groups, disability and HIV status – is vital to ensuring the fulfilment of the rights of all
+children, particularly the most disadvantaged.
+8. China faces a range of recurrent and major natural disasters, including floods, drought
+and earthquakes. Globally, China ranks among the countries suffering the greatest losses
+from natural disasters, in terms of both fatalities and economic damages. Natural disasters
+tend to have disproportionate and irreversible consequences, especially for children. During
+the devastating Wenchuan Earthquake in 2008, a significant proportion of those who perished
+were children. Moreover, psychosocial, social and economic shocks caused by disasters can
+have lifelong impacts on children.
+9. Major lessons have emerged from UNICEF current cooperation that are relevant to the
+design of the new country programme. There has been validation of the critical relationship
+between ‘downstream’ and ‘upstream’ engagement in the middle-income country context of
+China, through the strategy of “from pilots to policy to results at scale”. UNICEF has a long
+record of working with partners in China to contribute to the design of policies, standards
+and guidelines for nationwide application, based on evidence collected from pilot activities
+and technical studies. Key examples are the models developed of child-friendly spaces and
+child-friendly schools, universal hospital delivery and early childhood development (ECD).
+Once sound laws and policies are in place, pilot settings provide a critical venue to monitor
+and analyse the barriers, bottlenecks and success factors in the equitable implementation of
+policies, and identify the improvements, adaptations and capacity-building needed to ensure
+that interventions reach the most disadvantaged populations.
+10. A further lesson concerns the transition from sectoral, relatively vertically organized
+interventions for children, to integrated, intersectoral approaches at the community level.
+China has successfully developed national programmes to address critical needs such as for
+rural water supply and HIV and AIDS. However, experience has demonstrated the
+complexity of the conditions surrounding focused actions, and the potential to engage
+multiple sectors in addressing the relevant bottlenecks and barriers affecting children.
+Building on the current programme, opportunities are seen to incorporate actions for the
+prevention of parent-to-child transmission (PPTCT) of HIV within maternal and child health
+(MCH) and address HIV prevention along with other risky behaviours among adolescents;
+and to focus on critical needs for gender-appropriate sanitation facilities and improved
+
+3/18
+
+E/ICEF/2015/P/L.22
+
+hygiene practices in schools and health facilities. Combined efforts in nutrition and sanitation
+are similarly seen to generate greater results for children than efforts in each area alone.
+11. The country programme spans a range of sectors responding to the situation and needs
+of Chinese children, strategically focusing on where the greatest value can be added through
+the development of knowledge and evidence, and its use to support advocacy for effective
+policies and their implementation in favour of children and vulnerable groups. The weight
+and mix of technical work continue to evolve in the light of the country’s continuing rapid
+economic and social development.
+12. UNICEF cooperation, while limited in financial terms in relation to the country’s large
+population, geographic size and resources, is designed in the light of the organization’s
+demonstrated comparative advantage, complementary to national and other international
+efforts. To make the greatest difference for children, UNICEF will continue to direct its
+actions to:
+(a)
+
+Mobilize partners behind child rights, convene key actors and advocate for strengthened
+policies and programmes for children, particularly the most disadvantaged and
+vulnerable;
+
+(b)
+
+Support local action and pilot activities to inform the development and implementation
+of new and strengthened policies, standards and guidelines;
+
+(c)
+
+Facilitate knowledge generation and dissemination, best practices and innovative
+approaches;
+
+(d)
+
+Promote multisectoral approaches to addressing children’s needs; and
+
+(e)
+
+Support improved monitoring systems and evaluations.
+
+13. UNICEF continues to prioritize equity and gender equality in all areas of cooperation.
+In promoting the realization of rights for all children, particular focus is given to the most
+disadvantaged and vulnerable groups, including those living in poverty, ethnic minorities,
+children affected by migration and children with disabilities. The programme will work
+towards the elimination of gender discrimination and inequality at all levels, and for the
+implementation of gender-sensitive approaches. These efforts will become even more visible
+in the new country programme and will be mainstreamed in all areas of work.
+
+Programme priorities and partnerships
+14. The objective of the country programme is to increase the capacity of Government and
+other partners for effective action for the fulfilment of the rights of children and women, in
+the context of the National Plan of Action for Children (2011–2020) and in accordance with
+the Convention on the Rights of the Child and its two Optional Protocols adopted in 2000,
+and the Convention on the Elimination of All Forms of Discrimination against Women. The
+country programme is aligned with relevant sectoral plans and with policies and programmes
+at provincial and county level. It has been prepared in alignment with the United Nations
+Development Assistance Framework (UNDAF) 2016–2020 and the activities of sister United
+Nations agencies. All programme components contribute to the three proposed UNDAF
+outcomes, in particular to Outcome 1: “More people, particularly the vulnerable and
+disadvantaged, enjoy improved living conditions and increased opportunities for economic,
+social and cultural development.” The programme responds to the principles and elements of
+the UNICEF Strategic Plan 2014–2017.
+
+4/18
+
+E/ICEF/2015/P/L.22
+
+15. UNICEF cooperation will focus on three strategic priorities, which will guide the main
+thrust of its operational programmes, knowledge generation and advocacy:
+(a)
+
+Increasing access to public services, notably health, nutrition, HIV, WASH, education,
+child protection and child welfare, particularly for the most vulnerable and
+disadvantaged, including through promoting children’s right to an identity and system
+strengthening.
+
+(b)
+
+Child-sensitive social protection and the eradication of multidimensional child poverty.
+
+(c)
+
+An integrated, intersectoral approach to early childhood development for children aged
+0 to 3, with a focus on resource-poor settings.
+
+16. These priorities will be pursued through an approach that emphasizes the reduction of
+disparities in coverage and the benefits of services, through the identification of barriers and
+bottlenecks to effective programme delivery and of actions to address them. The programme
+is guided by a theory of change resting on (a) the generation of evidence from pilot activities
+and wider knowledge to advocate for and inform the generation of strengthened policies,
+standards and guidelines; and (b) support to the implementation of these measures to benefit
+the most disadvantaged children, including through continued monitoring and feedback from
+pilot activities.
+17. The programme is structured into five components, each consisting of two outcomes,
+as follows:
+Health, nutrition and WASH
+18. Within the framework of the Every Woman, Every Child initiative and related
+international agreements and partnerships, as well as the recently developed national Child
+Survival Strategy, this component aims to ensure that children and women, particularly the
+most disadvantaged, benefit from high-impact, quality interventions at minimum cost.
+Actions will provide demonstration experience and technical support towards (a) improved
+national policies for child survival and development, guided by results from sound research
+and monitoring systems; and (b) increased public demand for and access to services. Policy
+emphasis will be given to MCH, including PPTCT of HIV, nutrition, immunization, child
+injury prevention and sanitation and hygiene services, all of which will be supported by an
+effective integrated health management information system. In the area of nutrition,
+particular focus will be given to the promotion of breastfeeding, appropriate infant and young
+child feeding and micronutrient supplementation. Integrated approaches will help to ensure
+maximum synergies between health, nutrition, WASH and HIV interventions to achieve
+results for children. Particularly in demonstration counties, the programme will focus on
+increasing the relevant capacities of policymakers and service providers, and of communities
+and families.
+Education and child development
+19. In alignment with the global strategy of Education for All and the Government of China
+2010–2020 Education Plan for equity and quality, this component will contribute to ensuring
+that children in China, particularly the most vulnerable, including children with disabilities,
+have improved access to and complete child-friendly, quality and equity-oriented (suzhi
+jiaoyu) education. Key elements include development and testing of a costed child-friendly
+schools model in disadvantaged counties; piloting of social, emotional and mental health
+education strategies in primary and secondary schools, especially for migration-affected and
+
+5/18
+
+E/ICEF/2015/P/L.22
+
+ethnic minority children; demonstration of innovative teaching and learning and teacher
+training models; promotion of gender-sensitive WASH facilities and practices in schools; and
+development and testing of HIV- and AIDS-informed life skills curricula for adolescents in
+and out of school.
+20. This component will also contribute to ensuring that all children aged 0 to 6, particularly
+the most disadvantaged, have improved access to affordable, quality early childhood care and
+development, through actions to: support the Government in the development of strategies
+for implementation of ECD quality standards and guidelines, including teacher training;
+promote ECD models and strategies for children aged 3 to 6 ; pilot innovative, integrated
+models of community-based ECD for the youngest children aged 0 to 3, and advocate for a
+national focus on integrated approaches to ECD for this age group.
+Child protection
+21. Expanding on significant progress achieved in recent years, this component will
+continue to support the development of an equitable and integrated child protection system
+that benefits all children in China. Support will be provided for the development and
+implementation of effective, gender-sensitive child protection and welfare related laws and
+policies, in line with international standards; and strengthening the capacity of government
+institutions at national and subnational level to provide equitable, quality and coordinated
+child protection services, including in the justice system. A key element will be continued
+support to the development of the workforce of social workers, including paraprofessionals.
+Emphasis will be placed on increasing the availability and use of disaggregated child
+protection data to inform planning, policy and programme development and budgeting.
+22. This component will further contribute to ensuring that children benefit from a family
+and community environment that protects them from violence, abuse, exploitation and
+neglect, with particular attention to protecting girls and boys from violence and unnecessary
+family separation; and strengthening the quality and coverage of community-based child
+protection and welfare services with a focus on the most disadvantaged, including children
+affected by HIV and AIDS and by migration, and children in humanitarian situations. The
+programme will support the integration of these services into the child protection system.
+Social policy and inclusion
+23. Overarching the sectoral programmes, this component gives technical and policy focus
+to initiatives to ensure that children, particularly the most disadvantaged and excluded,
+benefit from equitable and inclusive poverty reduction and social protection systems. It will
+support the generation of evidence on multiple dimensions of child poverty and social
+exclusion, including gender inequality, HIV and AIDS and the impact of migration on
+children. Evidence and knowledge will be developed for use in policy dialogue, advocacy
+and local planning in all relevant sectors. They will strengthen government capacity to
+legislate and implement inclusive poverty reduction and social protection interventions,
+including cash transfer programmes.
+24. The outcomes will contribute to the understanding of social sector budgets, providing
+evidence that will be used to advocate for increased investment in services that benefit
+children, and to promote effective, efficient and equitable finance for and governance of
+essential public services across all sectors. They will also include strengthening institutional
+capacity and governance for financing in favour of children. Innovation and South-South
+learning will be promoted to support governance reforms and help to ensure that national
+
+6/18
+
+E/ICEF/2015/P/L.22
+
+plans of action for women and children, essential public services, poverty reduction and
+social protection measures reach all children with the intended impact and results.
+Cross-sectoral
+25. The cross-sectoral component will support activities related to programme management
+and coordination, knowledge and advocacy, including coordination of multisectoral
+initiatives. It will support evidence-based advocacy to promote and fulfil child rights through
+public communication, strategic partnerships and coordination of knowledge generation
+among a wide array of stakeholders. This includes the use of digital media and innovative
+platforms and partnerships, as well as technical support for communication for development,
+with a particular focus on adolescents and the prevention of HIV. Technical assistance will
+be provided for local capacity strengthening and for studies, surveys, monitoring and
+evaluation.
+26. A coordinated approach will support action in multiple sectors across the country
+programme, including a multi-hazard and child-centred approach to disaster risk reduction
+(DRR), addressing climate change and environmental risks, and emergency response focused
+on accelerating programme implementation. A major initiative with a focus on children aged
+0 to 3 will be promoted for integrated early childhood development and will bring together
+activities in all programme sectors.
+Implementation strategies
+27. Particularly in the context of the country’s size and immense resources, UNICEF and
+other international partners are able to maximize their contributions to overall coverage and
+benefits to children and vulnerable groups. This is achieved through support to testing new
+and innovative approaches that contribute to positive policy changes, initiatives and budget
+reforms which, when well implemented, benefit the most disadvantaged and vulnerable
+children. Across all sectors, support will be provided to pilot and demonstration activities,
+strengthening the capacity of service providers and communities, and increasing the capacity
+of families and children to demand and access services. Focus will be given to activities in
+selected counties with disadvantaged populations, and to support to adolescents and other
+vulnerable groups. Barriers and bottlenecks will be identified and addressed in relation to (a)
+knowledge and behaviours, social norms and other factors influencing the demand for and
+access to services by families and communities; and (b) the equitable supply of quality
+services, especially through innovative and integrated cross-sectoral models to reach the most
+disadvantaged. The programme will actively work towards the elimination of gender
+discrimination and inequality at all levels, through targeted interventions combined with
+mainstreaming of gender-sensitive approaches.
+28. Based on the evidence generated from pilot activities and related studies, surveys and
+research, and drawing on international experience, the programme will promote strengthened
+policies and build institutional capacity within the enabling environment. In the longer term,
+it will help to shift social norms through policy dialogue, advocacy and follow-up to
+implementation.
+29. In recognition of the significant and growing potential of China to influence and assist
+development in other countries through its voice in global and regional forums, UNICEF will
+facilitate South-South cooperation, particularly with countries in Africa. This includes
+providing China with technical support in its role as a supplier of low-cost, quality supplies
+to other countries, both directly and through UNICEF supply channels.
+
+7/18
+
+E/ICEF/2015/P/L.22
+
+30. The programme reflects the full range of UNICEF implementation strategies, with their
+mix and emphasis varying according to the situation, needs and opportunities in relation to
+different sectors and issues. Core strategies are capacity development; evidence generation,
+policy dialogue and advocacy, and partnerships, with priorities on South-South cooperation,
+innovation and support to integrated approaches.
+31. UNICEF will continue to cooperate with the Government as its key partner. Its
+partnerships with Government continue to primarily rest with line ministries and coordinating
+bodies at the national level. UNICEF will cooperate with provincial- and county-level
+governments for pilot and demonstration activities in all relevant sectors. In the area of HIV
+and AIDS, for example, UNICEF will continue to cooperate closely with the State Council
+AIDS Working Committee Office (SCAWCO), the HIV Section of the Disease Control
+Bureau of the National Health and Family Planning Commission (CDC/NHFPC) and other
+key partners at national and subnational levels.
+32. UNICEF will increasingly explore cooperation with civil society, particularly to
+accelerate shifts in social norms, family behaviour and demand for effective services.
+Expansion of digital platforms, including through social media, will be instrumental in this
+process. UNICEF also works with the private sector and corporate partnerships to promote
+innovation and mobilize resources in support of the country’s commitment to children in
+China and globally.
+33. Partnerships with national and international academic and technical institutions, which
+will work closely with the UNICEF team of technical experts, are critical for undertaking
+research and analysis, and developing and validating evidence to inform policies and their
+implementation for children. They are also essential for connecting China with the best global
+expertise and thinking.
+34. In accordance with the UNDAF modalities all programme components are linked to,
+and contribute to the relevant thematic and working groups, and relevant Global Programme
+Partnerships. UNICEF will coordinate closely with WHO and the United Nations Population
+Fund (UNFPA) on issues related to MCH, nutrition and sanitation. UNICEF coordinates with
+the World Bank in these areas, with cooperation foreseen under the new Global Financing
+Facility in support of Every Woman, Every Child. UNICEF will work with the United
+Nations Educational, Scientific and Cultural Organization (UNESCO) on issues related to
+basic education and early childhood development. UNICEF will also work with UN-Women
+(the United Nations Entity for Gender Equality and the Empowerment of Women) to ensure
+effective coordination of gender-specific elements of the programme and application of
+gender-sensitive approaches. HIV and AIDS issues will be coordinated together with the
+Joint United Nations Programme on HIV/AIDS (UNAIDS), UNFPA and WHO. UNICEF
+and UNFPA jointly collaborate with the National Bureau of Statistics to strengthen national
+statistical capacity and improve the quality and coverage of data on children and women.
+
+8/18
+
+E/ICEF/2015/P/L.22
+
+Summary budget table
+(In thousands of United States dollars)
+Programme component
+
+Regular
+resources
+
+Other
+resources
+
+Total
+
+Health, nutrition and WASH
+
+8 035
+
+30 000
+
+38 035
+
+Education and child development
+
+8 000
+
+25 000
+
+33 000
+
+Child protection
+
+7 500
+
+20 000
+
+27 500
+
+Social policy and inclusion
+
+7 500
+
+12 000
+
+19 500
+
+Cross-sectoral
+
+7 500
+
+11 000
+
+18 500
+
+38 535
+
+98 000
+
+136 535
+
+Total
+
+Programme and risk management
+35. The proposed programme builds on the strengths and achievements of more than 30
+years of partnership and effective programmes of cooperation with the Government of China,
+which have contributed to unparalleled progress for children in China. The programme
+continues to be well aligned with the country’s national development priorities and with
+national sectoral plans and programmes. UNICEF will continue to be an active member of
+and play a leadership role in key United Nations thematic and working groups.
+36. Management of the programme is results-based, in accordance with the corresponding
+government emphasis and as stipulated in the UNDAF. This approach facilitates inter-agency
+coordination through the mechanism of Results Groups for planning and programming,
+including participatory planning between the Government and multilateral actors of the
+United Nations system.
+37. Strong partnership with the Government of China remains central to the programme
+and its ongoing success. From the Government, the Ministry of Commerce, the National
+Working Committee on Children and Women (NWCCW), the National Development and
+Reform Commission (NDRC), various line ministries and organizations such as the AllChina Women’s Federation (ACWF) will be the key partners in planning and management
+processes. This arrangement will ensure full alignment with national priorities and the
+identification of challenges, as requested by Member States in the quadrennial
+comprehensive policy review of operational activities for development of the United Nations
+system. Regular monitoring and review processes with these partners form the key
+mechanism by which risks are identified and managed in the country programme. The
+cooperation will continue to focus on developing and leveraging key areas of technical
+expertise, and maximizing the use of strong government information and management
+systems wherever possible.
+38. UNICEF will continue to use the harmonized approach to cash transfers as the
+mechanism for management of programme financial resources, through the reimbursement
+modality. UNICEF workplans will be further integrated with the workplans of government
+partners to ensure financial sustainability. National audit systems will be engaged to support
+programme and financial assurance activities. Efforts will continue to be made to strengthen
+accountabilities, particularly at subnational level.
+
+9/18
+
+E/ICEF/2015/P/L.22
+
+39. As the country’s national resources continue to grow, UNICEF will use its available
+regular resources to fund core programme and essential inputs for priority strategies and
+interventions. The wider implementation of the country programme will be supported by
+other resources, which will be developed through three major channels: (a) partnerships with
+the UNICEF National Committees and, through them, with corporations that wish to develop
+their corporate social responsibility (CSR) profile in China; (b) engagement with global
+alliances and international foundations, and (c) expanding CSR partnerships in China, and
+the continuing promotion of cards and gifts. Building on the strong performance achieved to
+date, it is expected that the programme’s funding needs can be fully met.
+40. Monitoring systems will be maintained and strengthened for routine measurement of
+progress and results, in line with the indicators and targets contained in programme
+workplans. Close and regular communications with programme partners at national and
+subnational levels will continue to be critical as early warning mechanisms of implementation
+issues. Periodic review processes are in place with all partners to identify actions that may
+need to be taken to ensure programme quality, efficiency and effectiveness. These are
+supplemented by regular internal management monitoring and review processes.
+41. Modest adjustments are being made to the programme management structure to ensure
+maximum alignment with its goals and resources. The new programme introduces a range of
+areas that require strengthened staff technical capacities, reflecting a risk to the achievement
+of planned results. To mitigate this risk, a comprehensive staff learning and development
+programme is being implemented. There are no changes to the location or operational
+procedures of the UNICEF country office.
+42. This country programme document outlines UNICEF contributions to national results
+and serves as the primary unit of accountability to the Executive Board for results alignment
+and resources assigned to the programme at country level. Accountabilities of managers at
+the country, regional and headquarters levels with respect to country programmes are
+prescribed in the organization’s programme and operational policies and procedures.
+
+Monitoring and evaluation
+43. A robust data and monitoring system to track progress, assess performance and support
+adaptation in different contexts is a key component of the UNICEF pilot project strategy to
+inform policymaking and guide the implementation of policies to benefit the most
+disadvantaged. Bottleneck and barrier analysis will be applied strategically to gain
+knowledge of constraints and how they are being addressed. In the framework of the
+Monitoring Results for Equity System, UNICEF will continue to collaborate with national
+statistical systems to improve the coverage and quality of disaggregated data and strengthen
+results monitoring. Within the health programme, a major element is the establishment of an
+integrated health management information system.
+44. Systematic monitoring and analysis of the situation and rights of children and equity
+gaps is an essential, integrated element of the country programme. UNICEF will further
+strengthen its continuous analysis of the situation of children and women, with a focus on
+generating new knowledge, analysing and packaging information and communicating
+evidence for advocacy. The processes of knowledge generation and management are being
+addressed in an increasingly integrated manner, with the aim of strengthening national and
+subnational capacities and systems.
+
+10/18
+
+E/ICEF/2015/P/L.22
+
+45. UNICEF will coordinate and work jointly with other agencies to monitor the
+implementation and results of the UNDAF, including the UNICEF contribution.
+46. Information on emergency risks in relation to natural disasters is generated at county,
+provincial and national level through existing government channels. UNICEF and other
+partners are cooperating with the Government to further improve the timeliness and quality
+of disaster-related information and its analysis with a child focus.
+47. The Integrated Monitoring and Evaluation Plan and annual planning will identify the
+mechanisms and instruments of the research, studies and evaluations to be carried out each
+year. From 2016 to 2020 at least three major evaluations will be conducted: (a) Evaluation
+pilot implementation of child friendly spaces; (b) Evaluation of the integrated maternal and
+child health project, and (c) Final evaluation of the integrated maternal and child health
+conditional cash transfers pilot. A range of other evaluations and assessments will be
+undertaken during the programme cycle to inform decision-making on scale up, programme
+design and policy adjustments, with an emphasis on strengthening national evaluation
+capacity.
+48. In close collaboration with the Ministry of Commerce and coordinating partners,
+regular reviews of the programme will be carried out in order to identify progress, constraints
+and lessons learned, and to introduce any necessary adjustments.
+
+11/18
+
+E/ICEF/2015/P/L.22
+
+Annex
+Results and resources framework
+China - UNICEF country programme of cooperation, 2016–2020
+All UNICEF programme outcomes contribute to the three proposed UNDAF outcomes, in particular to Outcome 1: “More people, particularly the
+vulnerable and disadvantaged, enjoy improved living conditions and increased opportunities for economic, social and cultural development.”
+UNDAF Outcome indicators, including those measuring change that includes UNICEF contribution, are to be finalized by end-2015.
+UNICEF outcomes
+
+Key progress
+indicators,
+baselines and
+targets
+
+Means of
+verification
+
+Indicative country programme outputs
+
+Major partners
+and
+partnership
+frameworks
+
+Indicative resources
+by outcome
+(in millions of US
+dollars)
+RR
+
+OR
+
+Total
+
+6.0
+
+3.4
+
+9.4
+
+1. Health, Nutrition and WASH
+Related UNICEF Strategic Plan Outcome(s): 1. Health, 2. HIV/AIDS, 3. WASH, 4. Nutrition
+1.1 National policies
+for child survival and
+development (CSD)/
+quality of services.
+By 2020, pregnant
+women and children,
+particularly the most
+disadvantaged,
+increasingly benefit
+from equitable
+national policies,
+guidelines and tools
+for, and innovative
+monitoring and
+evaluation of, high
+impact and quality
+interventions for
+
+Number of national
+policies and
+guidelines
+developed
+Baseline: TBD
+Target: TBD
+
+Government
+documents
+
+Number of
+provincial child
+survival strategies
+developed and
+incorporated into
+plans
+(4/TBD)
+
+Government
+documents
+
+1.1.1 MCH. Increased evidence and
+policymakers’ capacity to formulate and
+revise policies, guidelines and tools for high
+impact interventions for MCH, PPTCT of
+HIV and child and adolescent development,
+and support equitable delivery of quality
+services.
+1.1.2 WASH (sanitation and hygiene).
+Increased evidence and policymakers’
+capacity to formulate and revise policies,
+guidelines and tools for pro-poor sanitation,
+promote public-private partnerships and
+support equitable delivery of quality
+sanitation services.
+
+NWCCW
+NDRC
+NHFPC
+National
+Patriotic Health
+Campaign
+Committee
+Office
+(NPHCCO)
+SCAWCO
+WHO, UNFPA
+World Bank
+
+E/ICEF/2015/P/L.22
+
+survival and
+development (MCH,
+nutrition, WASH,
+immunization and
+child injury
+prevention).
+1.2 Coverage and
+quality of services,
+demand and access.
+By 2020, pregnant
+women, children and
+their caretakers,
+particularly the most
+disadvantaged in
+UNICEF
+demonstration
+counties, have
+increased demand for
+and access to high
+impact and quality
+interventions for
+survival and
+development.
+
+Percent of newborns
+registered within 3
+days
+(TBD/TBD)
+
+Surveys,
+routine
+monitoring
+
+Percent of pregnant
+women and children
+with minimal
+acceptable diet
+(TBD/TBD)
+
+Surveys,
+routine
+monitoring
+
+1.2.1 Health providers’ capacity. Increased
+skills and capacity of health providers at
+national and subnational level to deliver
+evidence-based, standardized, high impact
+interventions for maternal and child
+survival, nutrition, immunization, PMTCT
+of HIV, hygiene and sanitation and
+adolescent health, and to mobilize local
+leaders and heads of facilities.
+
+NWCCW
+NDRC
+NHFPC
+NPHCCO
+ACWF
+
+2.0
+
+26.6
+
+28.6
+
+8.0
+
+30.0
+
+38.0
+
+5.0
+
+16.0
+
+21.0
+
+1.2.2 Community capacity and family
+behaviour and demand. Increased
+mobilization and engagement of households
+and community leaders for maternal, child
+and adolescent health promotion,
+immunization, injury prevention and
+sanitation and hygiene, and improved skills
+and capacity at household level.
+
+Total resources
+
+2. Education and Child Development
+Related UNICEF Strategic Plan Outcome(s): 5. Education
+2.1 Child-friendly
+quality education. By
+2020, children in
+China aged 6 to 18
+years, particularly the
+most vulnerable, have
+
+Number of schools
+implementing
+national (Ministry
+of Education, MOE)
+child friendly
+standards
+
+M&E reports
+
+2.1.1 Child friendly schools pilot model. A
+comprehensive model of child-friendly
+schools developed, tested and costed in
+disadvantaged counties.
+
+Ministry of
+Education
+UNESCO
+
+13/18
+
+E/ICEF/2015/P/L.22
+
+improved equitable
+access to and
+complete childfriendly learning and
+suzhi jiaoyu-oriented
+education.
+
+(0/250)
+Number of counties
+adopting life skills
+education package
+(0/20)
+
+M&E reports
+
+2.2 ECD. By 2020,
+children aged 0-6
+years, particularly the
+most disadvantaged,
+have improved access
+to affordable quality
+early childhood care
+and development.
+
+National
+kindergarten
+enrolment rate
+(67.5%/85%)
+
+Education
+Management
+Information
+System
+
+Number of ECD
+teachers in
+disadvantaged
+counties trained per
+year
+(0/4,000)
+
+M&E reports
+
+2.1.2 Social and emotional learning.
+Comprehensive model of social and
+emotional learning and mental health
+developed and tested to support
+implementation of national standards and
+guidelines.
+
+China
+Association for
+Science and
+Technology
+(CAST)
+
+2.2.1 ECD (3-6 years). Models and
+strategies developed and piloted to promote
+quality ECD for 3-6-year-olds, with a focus
+on disadvantaged groups.
+
+Ministry of
+Education
+ACWF
+NWCCW
+China National
+Committee for
+the Care of
+Children
+(CNCCC)
+World Bank
+
+2.2.2 ECD (0-3 years). Models of
+community-based integrated ECD for
+disadvantaged children aged 0-3 years
+piloted and assessed to inform scale up at
+national level.
+
+National Centre
+for Educational
+Technology
+(NCET)
+
+Total resources
+
+3.0
+
+9.0
+
+12.0
+
+8.0
+
+25.0
+
+33.0
+
+5.0
+
+11.0
+
+16.0
+
+3. Child Protection
+Related UNICEF Strategic Plan Outcome(s): 6: Child Protection
+3.1 Child protection
+system. By 2020,
+girls and boys in
+China, especially the
+most disadvantaged,
+increasingly benefit
+from an equitable and
+integrated child
+
+14/18
+
+Number of laws and
+policies on child
+protection and
+welfare in line with
+international
+standards adopted or
+updated
+(0/5)
+
+National
+records
+
+3.1.1 Child protection related laws and
+policies. Enhanced capacity of national and
+subnational government counterparts to draft,
+review and revise gender-sensitive child
+protection and welfare related laws and
+policies in line with international standards.
+
+National
+People’s
+Congress
+Ministry of
+Civil Affairs
+(MCA)
+
+E/ICEF/2015/P/L.22
+
+protection system,
+including in
+humanitarian
+situations
+
+Number of national
+protocols for
+prevention and
+response services
+for child protection
+developed and
+adopted
+(4/8)
+
+National
+protocols
+
+3.1.2 Child protection and welfare services.
+Enhanced capacity of government
+institutions at national and subnational level
+to provide equitable, quality and coordinated
+child protection and welfare services,
+including child-friendly justice, to girls and
+boys and their families.
+
+Ministry of
+Public Security
+Ministry of
+Justice
+CDC/NHFPC
+NWCCW,
+ACWF,
+CNCCC
+China Disabled
+Persons’
+Federation
+(CDPF)
+SCAWCO
+
+3.2 Protective
+environment for
+children. By 2020,
+girls and boys in
+China, especially the
+most disadvantaged,
+increasingly benefit
+from a supportive
+community
+environment that
+protects children
+from violence, abuse,
+exploitation and
+neglect and promotes
+their welfare.
+
+Proportion of target
+population in
+selected sites who
+understand and
+demonstrate nonviolent behaviour
+towards children
+(TBD/TBD)
+
+Surveys,
+monitoring
+reports
+
+3.2.1 Behaviour change. Increased
+awareness, capacities and commitment of
+families, communities and Government in
+selected areas to address violence against
+girls and boys and unnecessary family
+separation, including in humanitarian
+situations.
+
+NWCCW
+ACWF
+MCA
+CDC/NHFPC
+CDPF
+
+Proportion of
+disadvantaged
+children in
+programme areas
+benefiting from
+protection and
+welfare services
+(TBD/TBD)
+
+Monitoring
+reports
+
+Total resources
+
+2.5
+
+9.0
+
+11.5
+
+7.5
+
+20.0
+
+27.5
+
+3.2.2 Community-based services. Increased
+coverage and quality of equitable
+community-based child protection and
+welfare services particularly for the most
+disadvantaged, including those affected by
+HIV and AIDS and migration.
+
+4. Social Policy and Inclusion
+
+15/18
+
+E/ICEF/2015/P/L.22
+
+Related UNICEF Strategic Plan Outcome(s): 7. Social Inclusion
+4.1 Poverty reduction
+and social protection.
+By 2020, girls and
+boys, particularly the
+most disadvantaged
+and excluded, benefit
+from more equitable
+and inclusive poverty
+reduction and social
+protection systems,
+policies and
+programmes.
+
+Number of
+subnational
+government poverty
+reduction plans
+containing
+commitment and
+measures to reduce
+child poverty.
+(1/3)
+
+County poverty
+plans
+
+Coverage rate of
+girls and boys,
+particularly the most
+disadvantaged,
+benefiting from
+expanded dibao
+(cash transfer
+system)
+(13%/20%)
+
+Administrative
+records,
+statistical
+reports
+
+4.2 Essential social
+services. By 2020,
+girls and boys,
+particularly the most
+disadvantaged and
+excluded, have
+increased access and
+utilization of
+effective, efficient
+and equitable
+essential social
+services.
+
+National and
+subnational
+government
+expenditure on
+essential social
+services as a share
+of gross domestic
+product
+(8.3%/10%)
+
+Administrative
+records,
+statistical
+reports
+
+16/18
+
+Out-of-pocket
+expenditure as share
+of total health
+expenditure
+(33%/<30%)
+
+4.1.1 Child poverty analysis. Strengthened
+capacity of Government partners to
+recognize and measure child poverty and
+disparities, and generate and use evidence to
+design, implement, monitor and resource
+child poverty plans.
+4.1.2 Social protection policies.
+Strengthened engagement and enhanced
+capacity of Government partners to
+legislate, reform and implement inclusive
+social protection interventions that uphold
+the rights of girls and boys.
+
+4.2.1 Analysis for new and expanded
+policies. Strengthened capacity of
+government partners to conduct evidencebased policy analysis on child-focused
+essential social services, to ensure financing
+of new and expanded policies.
+4.2.2 Technical support to existing policies.
+Increased capacity of government partners
+to apply child focused and gender-sensitive
+economic analysis and effective governance
+practices to design, scale up, sustain and
+evaluate existing policies for social services.
+
+International
+Poverty
+Reduction
+Centre in China
+Leading Group
+Office on
+Poverty
+Alleviation and
+Development
+MCA
+Ministry of
+Commerce
+NWCCW,
+ACWF
+
+3.7
+
+8.5
+
+12.2
+
+Ministry of
+Finance
+NDRC
+NWCCW
+World Bank
+Asian
+Development
+Bank
+
+3.8
+
+3.5
+
+7.3
+
+E/ICEF/2015/P/L.22
+
+Total resources
+
+7.5
+
+12.0
+
+19.5
+
+CCTV
+Xinhua News
+Agency
+ACWF,
+CNCCC
+National
+Bureau of
+Statistics
+National
+Disaster
+Reduction
+Center of China
+MCA
+China Center
+for Health
+Education
+Chinese
+Academy of
+Social Sciences
+
+7.5
+
+11.0
+
+18.5
+
+(Reference the
+respective
+programmes)
+
+0.0
+
+0.0
+
+0.0
+
+5. Cross-Cutting
+Related UNICEF Strategic Plan Outcome(s): 7. Social Inclusion/all other Strategic Plan outcomes
+5.1 Knowledge,
+evidence and
+advocacy. By 2020,
+country and
+government leaders,
+policymakers and
+decision makers and
+other key
+stakeholders across
+society utilize robust
+knowledge and
+evidence to inform
+the development of
+equitable policies,
+programmes, public
+communication and
+advocacy to improve
+the situation of the
+most disadvantaged
+and vulnerable
+children and women.
+
+Number of
+influential advocacy
+initiatives produced
+with engagement of
+young people,
+academia and the
+private sector
+(TBD/TBD)
+
+5.2 Integrated
+approaches to ECD.
+By 2020, children in
+China, particularly
+the most
+disadvantaged,
+benefit from
+multisectoral,
+integrated models to
+support early
+
+TBD
+
+UNICEF and
+partner
+information
+systems
+
+5.1.1 Public communication and advocacy.
+Key decision makers, informants, opinion
+leaders and the general public are better
+informed, more aware of and committed to
+promoting positive social norms and action
+in the best interests of the child.
+5.1.2 Emergency preparedness/DRR and
+response. Improved knowledge and capacity
+of public authorities, service providers and
+communities in identified disaster-prone
+areas to respond to emergencies, increase
+preparedness, reduce disaster risks,
+strengthen resilience and mitigate climate
+change impacts.
+
+Number of DRR
+and preparedness
+plans established
+and practiced in
+pilot areas
+(TBD/TBD)
+
+TBD
+
+(‘Virtual’ outcome, reflecting relevant
+outputs from different programmes.)
+
+17/18
+
+E/ICEF/2015/P/L.22
+
+childhood
+development.
+Total resources
+
+7.5
+
+11.0
+
+18.5
+
+Grand total
+
+38.5
+
+98.0
+
+136.5
+
+_______
+
+18/18
+
+

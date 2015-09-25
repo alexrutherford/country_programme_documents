@@ -1,0 +1,875 @@
+Haïti
+Projet de descriptif de programme de pays
+2013-2016
+
+Le projet de descriptif de programme de pays relatif á Haïti
+(E/ICEF/2012/P/L.30) a été présenté au Conseil d’administration
+pour examen et commentaires lors de sa deuxième session ordinaire
+de 2012 (11-14 septembre 2012).
+Le présent document a été révisé par la suite et cette version
+finale a été approuvée lors de la première session ordinaire de 2013
+du Conseil d’administration, le 8 février 2013.
+
+Données de base †
+(2010, sauf indication contraire)
+............................................................. ..
+Nombre d’enfants de moins de 18 ans (en millions) . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4,3
+
+TMM5 (pour 1 000 naissances vivantes, en 2009) . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+80 a
+
+Insuffisance pondérale (%, modérée ou grave, 2005-2006) . . . . . . . . . . . . . . . . . . . .
+
+18 b
+
+(urbain/rural, les plus pauvres/les plus riches) . . . . . . . . . . . . . . . . . . . . . . . . . .12/20, 22/6
+Taux de mortalité maternelle (pour 100 000 naissances vivantes, 2005-2006) . . . . . . .
+
+630 c
+
+Taux d’inscription et de fréquentation scolaire dans l’enseignement primaire
+(% net, garçons/filles) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+48/52 d
+
+Élèves du primaire atteignant la dernière année de scolarité primaire
+(%, garçons/filles, 2005-2006) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+85 d
+
+Accès à des sources d’eau potable de meilleure qualité (%) . . . . . . . . . . . . . . . . . . .
+
+69
+
+Utilisation d’installations sanitaires adéquates (%) . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+17
+
+Taux de prévalence du VIH chez les adultes (%, 2009) . . . . . . . . . . . . . . . . . . . . . . .
+
+1,9
+
+Enfants qui travaillent (%,de 5 à 14 ans, 2005-2006) . . . . . . . . . . . . . . . . . . . . . . . .
+
+21
+
+Naissances déclarées (%, enfants de moins de 5 ans, 2005-2006). . . . . . . . . . . . . . .
+
+81
+
+(%, garçons/filles, urbain/rural, les plus pauvres/les plus riches) . . . . . . . . 81/82,
+. . . . 87/78, 72/92
+RNB par habitant (dollars des États-Unis) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+650
+
+Enfants de 1 an ayant reçu les trois doses de vaccins associés DTC3 (%) . . . . . . . . . .
+
+59
+
+Enfants de 1 an vaccinés contre la rougeole (%) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+59
+
+†
+
+a
+
+b
+
+c
+
+d
+
+2
+
+On trouvera des données supplémentaires sur les enfants et les femmes en consultant le site
+www.childinfo.org.
+L’estimation de 2010 effectuée par le Groupe interorganisations des Nations Unies pour
+l’estimation de la mortalité juvénile (IGME; http://www.childmortality.org), publiée le
+15 septembre 2011, est de 165 décès pour 1 000 naissances vivantes. Cette estimation prend
+en compte les décès des moins de 5 ans causés par le tremblement de terre de 2010. Le
+Groupe IGME a proposé d’ajouter 25 000 décès pour déterminer la mortalité des enfants en
+2010. Étant donné que la mortalité due au tremblement de terre a doublé le taux de mortalité
+des moins de 5 ans pour Haïti en 2010 et que cela sera probablement un sommet imputable à
+un événement isolé, l’on fera figurer l’estimation de 2009 de 80 décès pour 1 000 naissances
+vivantes dans le tableau des données de base du descriptif de programme de pays, en
+attendant que l’estimation de 2011 et les données de la dernière enquête démographique et
+sanitaire soient disponibles, en 2012.
+Les estimations de l’insuffisance pondérale sont fondées sur les Normes de croissance de
+l’enfant (OMS) adoptées en 2006.
+L’estimation faite 2010 par le Groupe interorganisations des Nations Unies (formé de
+l’OMS, l’UNICEF, le FNUAP et la Banque mondiale) est de 350 décès pou r 100 000
+naissances vivantes. Elle est fondée sur un ensemble de données comparables au niveau
+international sur la mortalité maternelle. Elle prend aussi en compte les problèmes bien
+documentés de sous-déclaration et de mauvaise classification des décès maternels,
+notamment des estimations pour les pays ne disposant pas de données. Les séries
+chronologiques comparables sur les taux de mortalité maternelle pour les années 1990, 1995,
+2000, 2005 et 2010 sont disponibles sur http://www.childinfo.org/maternal _mortality.html.
+Des données issues d’une enquête ont été utilisées pour cet indicateur de l’éducation.
+
+Résumé de la situation des enfants et des femmes
+1.
+L’on a estimé la population haïtienne, dont le taux de croissance annuel est de
+1,3 % 1, à 10 millions d’individus. Cette population est constituée de 43 % de
+personnes âgées moins de 18 ans et de 57 % de personnes âgées de moins de 24 ans.
+Près de la moitié de ces personnes vivent en milieu urbain, et plus de 25 % habitent
+dans la capitale. Dans l’Indice de développement humain de 2011, Haïti est classée
+à la cent cinquante-huitième place sur 187 pays 2. Vingt pour cent seulement des
+Haïtiens ont un emploi stable de salarié, 75 % survivent avec moins de 2 dollars des
+États-Unis par jour, et la moitié avec seulement avec 1 dollar ou moins par jour 3. La
+pauvreté absolue touche 40 % des enfants, et 70 % d’entre eux connaissent au moins
+une forme de dénuement 4.
+2.
+Le coefficient de Gini (0,65) 5 reflète des disparités frappantes. Le quintile le
+plus riche bénéficie de 70 % du revenu national, tandis que les plus pauvres doivent
+se contenter de 1,5 % seulement de ce revenu. On remarque de fortes disparités
+entre les zones urbaines et les zones rurales : 84 % des enfants des campagnes
+vivent dans un grave dénuement (contre 45 % pour ceux des zones urbaines). Des
+femmes sont à la tête de 45 % des ménages, lesquels sont bien plus pauvres que
+ceux dirigés par des hommes. Signalons, enfin, que les 62 % de ménages ruraux
+dirigés par les femmes vivent en-dessous du seuil de pauvreté (alors que ce
+pourcentage est de 54 % dans le cas des ménages dirigés par les hommes).
+3.
+Le budget de l’État s’appuie principalement sur l’aide extérieure (qui a financé
+58 % du budget de 2010-2011) 6. Malgré une plus grande transparence dans le
+processus budgétaire grâce à la publication des dépenses publiques, faire un budget
+efficace demeure un défi. Les budgets des services sociaux sont toujours peu
+importants, et les services sociaux sont trop privatisés : 12 % seulement des services
+d’enseignement et 28 % des fournisseurs de services de santé sont administrés par
+l’État. Pendant l’exercice 2011-2012, les allocations budgétaires affectées aux
+secteurs sociaux ont été de 13,6 % à l’éducation, 6,9 % à la santé et 0,53 % aux
+affaires sociales 7.
+4.
+Les plus récentes données sur la concrétisation des droits de l’enfant et les
+progrès relatifs aux objectifs du Millénaire pour le développement datent de 2006
+(même si les résultats de l’Enquête démographique et sanitaire seront disponibles à
+la fin de 2012) et la gestion des données administratives laisse encore à désirer.
+Aucun rapport périodique n’a été soumis au Comité des droits de l’enfant depuis le
+rapport initial de 2001, et le tout premier rapport périodique destiné au Comité pour
+l’élimination de la discrimination à l’égard des femmes a été présenté en 2008.
+5.
+Certes, des défis se posent dans le domaine de la vaccination, ce qui souligne
+la nécessité de s’occuper des personnes les plus difficiles à joindre, notamment de
+celles qui n’ont jamais été vaccinés. Outre les causes néonatales, la diarrhée, la
+pneumonie et la malnutrition contribuent à 30 % des décès parmi les moins de
+__________________
+1
+2
+3
+4
+5
+6
+7
+
+http://data.worldbank.org/indicator/SP.POP.GROW (2010).
+http://hdrstats.undp.org/en/countries/profiles/HTI.html (2011).
+La pauvreté en Haïti. Profil de la pauvreté à partir des données de l’ECVH . (MPCE, 2005).
+Absolute Child Poverty in the 21 st century in Haiti. (Bristol University/UNICEF Haiti, 2007).
+La pauvreté en Haïti. Voir note 3.
+Budget 2010-2011. Ministère de l’économie et des finances.
+Idem.
+
+3
+
+5 ans : 30 % des enfants sont atteints d’hypotrophie nutritionnelle, 18 % présentent
+une insuffisance pondérale; et 10 % sont atteints de cachexie 8. Par ailleurs, les trois
+quarts des nourrissons de 6 à 23 mois et plus de la moitié des femmes enceintes sont
+anémiques. Et les suppléments en vitamine A ne parviennent qu’à moins de 40 %
+des enfants de 6 à 59 mois 9.
+6.
+La prévalence du VIH/sida est la plus élevée de la région (1,9 %); de plus, à
+Port-au-Prince, cette infection est le lot de 3,7 % des femmes enceintes 10. Vingt
+pour cent des femmes testées reçoivent des conseils pour prévenir la transmission du
+virus de la mère à l’enfant, et moins d’un tiers des femmes enceintes séropositives
+font l’objet d’un traitement antirétroviral. Selon une estimation, 14 % seulement des
+12 000 enfants de moins de 14 ans qui sont séropositifs reçoivent des
+antirétroviraux 11.
+7.
+Haïti n’est pas près d’atteindre les cibles de salubrité relatives à l’eau et à
+l’assainissement dans le cadre de l’objectif 7 du Millénaire pour le développement.
+En fait, de 1990 à 2009, la protection découlant d’installations d’assainissement a
+baissé à de 26 % à 17 %. La moitié de la population rurale pratique la défécation à
+l’air libre, et plus de 31 % de ses membres n’ont pas accès à de l’eau sans risque
+pour la santé. Les disparités géographiques sont manifestes : 85 % des personnes
+vivant en milieu urbain ont accès à de l’eau sans risque pour la santé contre 51 % de
+celles qui habitent en milieu rural. En outre, 24 % des citadins disposent
+d’installations sanitaires adéquates, contre 10 % pour les ruraux 12.
+8.
+La moitié des enfants haïtiens ne vont pas à l’école, et les lacune s dans l’accès
+aux établissements scolaires sont particulièrement marquées dans les zones rurales
+et parmi les quintiles les plus pauvres. L’enseignement est en grande partie privé et
+payant (88 % des établissements sont publics); de plus, la moitié des ét ablissements
+préscolaires, sont aussi privés et payants 13. Les deux tiers des élèves ont plus de
+l’âge normal, ce qui constitue un défi pour dispenser un enseignement efficace 14.
+Seuls 15 % des enseignants sont qualifiés, de sorte que si l’on ne parvient pas à
+améliorer considérablement ce pourcentage, la qualité de l’enseignement demeurera
+faible 15. On estime que 40 % des écoles ne disposent pas d’eau potable et que 60 %
+n’ont pas d’installations sanitaires suffisantes 16.
+9.
+Les défis multidimensionnels qui menacent les enfants haïtiens augmentent les
+risques d’abus, de violence, d’exploitation et de traite d’enfants. Selon une enquête
+de 2012, 30 000 enfants vivent dans plus de 722 centres de soins résidentiels 17. Des
+__________________
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+4
+
+Enquête sur la mortalité, la morbidité et l’utilisation des services (EMMUS IV), 2005-2006.
+Données administratives pour la vaccination de routine, Ministère de la santé et de la population
+(MSPP).
+Bulletin épidémiologique, Programme national de lutte contre les IST/VIH/sida, MSPP, 20092010.
+Données d’interface sur le suivi, l’évaluation et la surveillance, 2010.
+Toutes les estimations sur la salubrité proviennent du rapport commun OMS UNICEF de 2012 .
+Résultats préliminaires du Recensement scolaire de 2011, Ministère de l’éducation et de la
+formation professionnelle (MENFP), 2012.
+L’éducation pour tous dans les Caraïbes, Gouvernement d’Haïti, 2000.
+Stratégie nationale d’action de l’éducation nationale afin d’assurer l’éducation pour tous,
+MENFP, avril 2007.
+MENFP, 2003.
+Annuaire des centres de soins résidentiels, IBSR, 2012. L’enregistrement de tous les enfants
+vivant dans les centres de soins résidentiels est en cours.
+
+rapports de 2011 indiquent que de 173 000 à 225 000 enfants travaillent comme
+domestiques 18; et que 3 380 enfants et jeunes (11 % sont des filles) vivent dans les
+rues de Port-au-Prince, soit une augmentation de 50 % par rapport à 2006) 19.
+10. De par sa situation géographique, la République d’Haïti est très exposée à de
+multiples dangers : séismes, ouragans, inondations et sécheresses. Cette
+vulnérabilité est amplifiée par la topographie de ce pays, son hydrographie et par sa
+dégradation environnementale, due en particulier à la déforestation. L’absence de
+normes régissant le bâtiment et une mauvaise réglementation de la construction
+augmentent les risques qu’il y ait des victimes humaines mais aussi des pertes
+économiques en cas de séisme, comme on l’a constaté de façon si tragique lors du
+tremblement de terre de 2010. En effet, la crise qui s’est produite a prouvé combien
+il était urgent de renforcer les mécanismes de gestion des risques de catastrophes
+aux niveaux national et local.
+11. Le séisme, d’une magnitude de 7,3 sur l’échelle de Richter, qui a frappé Po rtau-Prince et ses environs, a tué plus de 220 000 personnes, en a blessé 300 000, et il
+en a forcé plus de 1,3 million à se réfugier dans des camps 20. Un tiers des
+fonctionnaires du pays ont péri; 87 % des bâtiments ministériels sont tombés en
+ruines; et 4 000 écoles ainsi que 50 installations sanitaires ont été endommagées ou
+détruites. Les évaluations ont permis d’évaluer les dégâts et les pertes à 7,8
+milliards de dollars des États-Unis et les coûts de reconstruction à 11,5 milliards de
+dollars (soit 120 % du PIB d’Haïti) 21. Ce séisme a probablement tué plus d’enfants
+de moins de 5 ans que ceux qui meurent en moyenne chaque année, et il a augmenté
+la prévalence de handicaps imputables aux blessures et aux amputations. Une
+épidémie de choléra a aussi frappé Haïti en 2010, touchant plus durement les zones
+rurales, où les services de soins de santé de base, de distribution d’eau et
+d’assainissement font défaut. En avril 2012, 536 666 personnes ont été infectées,
+dont 69 034 enfants de moins de 5 ans, et 7 111 sont décédées (dont 550 enfants de
+moins de 5 ans) 22.
+12. Le Plan national stratégique pour le développement d’Haïti fournit un aperçu à
+long terme pour la reconstruction et le développement de ce pays. Il repose sur
+quatre piliers : territorial, économique, social, et institutionnel. Cependant, sa mise
+en œuvre est difficile en raison du contexte politique fragile d’Haïti.
+
+Principaux résultats obtenus et enseignements tirés
+de la coopération antérieure, 2009-2012
+Principaux résultats obtenus
+13. La prolongation d’un an du programme de pays a facilité un passage en
+douceur entre une action humanitaire et un programme de transition visant à
+__________________
+18
+19
+20
+21
+22
+
+Trafficking in Persons Report. US Department of State. 2011.
+AMI, Rapport sur les enfants des rues à Port-au-Prince, 2011.
+Séisme d’Haïti, Rapport sur les besoins après la catastrophe (PDNA), 2010.
+Séisme d’Haïti, Rapport sur les besoins après la catastrophe, 2010.
+Rapport journalier de situation, Ministère de la santé publique et de la population (MSPP), avril
+2012.
+
+5
+
+résoudre certains des problèmes structurels persistants qui entravent le respect des
+droits de l’enfant.
+14. De concert avec les partenaires des zones touchées par le séisme 23, 1 940 000
+enfants ont été vaccinés; 12 000 femmes enceintes ont pu accoucher dans des
+conditions adéquates en bénéficiant de médicaments essentiels, de trousses
+d’accouchement et d’équipements obstétricaux. La vaccination de routine DTC3
+(contre la diphtérie, le tétanos et le choléra) a été élargie, passant de 68 % en 2009 à
+82 % en 2011, notamment grâce au mot d’ordre « Atteindre tous les districts », qui a
+ciblé 36 communes à faible taux de vaccination 24.
+15. L’UNICEF a favorisé la mise au point et la diffusion (y compris la formation
+voulue) de protocoles nationaux de gestion de la malnutrition aiguë ainsi que de
+l’alimentation du nourrisson et du jeune enfant. Un demi-million d’enfants ont été
+examinés; de plus, 15 300, qui étaient gravement amaigris, ont été traités dans 290
+cliniques externes et dans 24 services hospitaliers de stabilisation. Le taux de
+rétablissement des malades a été de 76 % et leur mortalité inférieure à 2 %.
+L’UNICEF a aussi aidé à la création de 177 coins conviviaux pour bébés (sur 198)
+et créé 40 clubs de mères, ce qui a permis à 460 000 associations mère-enfant de
+profiter de conseils en nutrition. En 2011, 88 % des enfants de 6 à 59 mois ont reçu
+une dose de vitamine A, un supplément d’iode et des comprimés de déparasitage,
+tandis que 22 % des femmes en âge de procréer ont pris du fer et de l’acide folique.
+16. Le soutien apporté par l’UNICEF à la politique de développement du pays a
+aussi beaucoup aidé ce dernier à formuler et appliquer une nouvelle politique
+nationale de nutrition. Après le tremblement de terre, le soutien du programme a
+contribué à réduire considérablement l’hypotrophie nutritionnelle chez l’enfant, qui
+a diminué de 29,7 % en 2006 à 23,4 % en 2012.
+17. L’UNICEF a fourni de l’eau potable à 680 000 personnes et prêté des services
+d’assainissement à 800 000 autres qui vivaient dans des camps en 2010 25. Ainsi,
+l’on a pu progressivement déplacer les prestations de services des camps vers les
+lieux de retour pour en faire bénéficier 130 000 habitants de bidonvilles urbains
+marginalisés. Les partenariats stratégiques avec le Gouvernement haïtien et les
+autres intéressés du secteur ont accru l’intérêt pour le traitement de l’eau distribuée
+à domicile, le lavage des mains et l’approche communautaire de salubrité totale.
+Grâce à l’expansion de l’initiative WASH (sur la propreté de l’eau, l’assainissement
+et l’hygiène), l’on est parvenu à sensibiliser 350 000 enfants dans 198 écoles à la
+nécessité d’améliorer leurs précautions d’hygiène. De plus, 100 000 d’entre eux ont
+eu accès à de l’eau et à des installations d’hygiène ou sanitaires. Et l’on a tiré profit
+de ces résultats prometteurs pour créer, dans la même foulée, une Alliance nationale
+en faveur de l’initiative WASH sur la salubrité dans les écoles.
+18. L’UNICEF a aussi soutenu la riposte contre les épidémies de choléra. À la fin
+de 2011, plus de 11 000 cas présumé de choléra et 187 000 cas de diarrhée (affectant
+__________________
+23
+
+24
+25
+
+6
+
+La plupart des chiffres sur les résultats de l’appui de l’UNICEF à l’assistance humanitaire
+proviennent des divers rapports produits par l’UNICEF Haïti : Children of Haiti: Milestones and
+Looking Forward at Six Months (2010); Children of Haiti: One Year After - The Long Road from
+Relief to Recovery (2010); et Children of Haiti Two Years After: What is Changing, Who is
+Making the Change (2011).
+Données de l’administration pour la vaccination de routine, Ministère de la santé publique et de
+la population.
+Rapports de l’UNICEF sur Haïti et rapports sectoriels WASH, 2010.
+
+notamment 81 000 enfants de moins de 5 ans) avaient été traités 26. Seize centres de
+traitement du choléra, 149 unités de traitement et 1 270 points communautaires de
+réhydratation orale ont été maintenus dans quatre départements 27. L’on a distribué
+des produits chlorés à plus de 2,2 millions de personnes dans des localités, à
+1,5 million d’élèves, à 30 000 enfants dans les centres de soins résidentiels, ainsi
+qu’à 120 000 enfants participants installés dans 520 espaces amis des enfants.
+Environ 1 300 formateurs ont été formé sur le recours à l’hygiène pour prévenir le
+choléra, lesquels ont, à leur tour, encadré plus de 5 500 agents mobilisateurs.
+19. Afin d’assurer la poursuite des cours après le séisme, l’UNICEF a distribué
+plus de 1 600 tentes dans 225 écoles pour créer des lieux temporaires
+d’apprentissage, et des fournitures scolaires pour 325 000 enfants. De 2010 à 2012,
+l’on a construit des salles de classes antisismiques dans 193 de ces écoles. Plus de
+720 000 élèves et 15 000 enseignants ont bénéficié de matériel d’apprentissage et
+d’enseignement, tandis que 12 000 enseignants et membres du personnel
+d’éducation, dont 500 enseignants du niveau préscolaire, ont reçu une formation sur
+le programme adapté 28. La moitié de ces enseignants ont aussi été formés dans le
+domaine des soins psychosociaux. Ces efforts ont permis à 82 % des enfants âgés de
+6 à 11 ans, vivant dans des camps, de fréquenter l’école depuis novembre 2011 29.
+20. Grâce à une campagne de haut niveau, l’accès universel à l’éducation et
+l’abolition des frais de scolarité ont été inclus parmi les plus hautes priorités de
+l’ordre du jour du Gouvernement. En 2011, le Gouvernement a lancé une initiative
+pour scolariser 1,6 million d’enfants d’ici à 2016. Le premier recensement scolaire
+depuis une décennie a eu lieu. Il a établi une base de référence pour le système
+informatique de gestion de l’éducation. L’on a instauré la microplanification 30, la
+collecte et le traitement de données dans les départements du Nord et du Sud. En ce
+qui a trait au développement du jeune enfant, l’on a débattu de la stratégie
+d’éducation parentale avec les ministères pertinents et les groupes intéressés de la
+société civile.
+21. L’UNICEF a créé 520 espaces amis des enfants, qui ont permis à plus de
+120 000 enfants d’accéder à des activités récréatives structurées. Le renforcement
+des capacités de l’Institut du bien-être social et de recherche (IBESR) a permis de
+déterminer qu’il y a 722 centres de soins résidentiels dans le pays. Jusqu’ici l’on a
+pu évaluer 372 d’entre eux, dont 67 ont été accrédités 31 et 7 fermés car l’on a trouvé
+des preuves d’abus. L’UNICEF a aussi appuyé l’initiative de l’IBESR consistant à
+enregistrer les enfants afin d’améliorer la gestion de base des cas, et de promouvoir
+la réunification familiale quand elle était possible. En outre, l’on a identifié et
+enregistré 16 000 enfants privés de soins parentaux, et l’on a pu rendre 2 711 d’entre
+eux à leur famille 32. L’on a amélioré les capacités de la brigade policière de
+__________________
+26
+27
+28
+
+29
+30
+31
+32
+
+Rapports de suivi de l’UNICEF, 2011.
+Rapport intérimaire adressé au MSPP pour la Banque interaméricaine de développement,
+UNICEF Haïti, 2011.
+L’on a mis au point un programme pour éviter aux enfants de redoubler une année à cause des
+fermetures temporaires des écoles imputables au séisme. L’on a aussi introduit les soins
+psychosociaux dans ce programme.
+Données fournies par la matrice des déplacements de l’OIM, de novembre à avril 2012.
+La microplanification a trait à la planification décentralisée de l’éducation afin d’appliquer les
+politiques nationales au niveau local en tenant compte des besoins locaux spécifiques.
+Annuaire des centres de soins résidentiels, IBESR, 2012.
+Base de données de l’IBESR sur les enfants séparés de leur famille.
+
+7
+
+protection des enfants, ce qui a permis de renforcer la prévention de la traite des
+enfants. L’on a examiné le cas de 18 000 enfants et enquêté sur 500 cas présumés de
+traite 33.
+22. Le cadre juridique du pays a été renforcé. Haïti a ratifié les instruments de
+droits de l’homme suivants : la Convention relative aux droits des personnes
+handicapées; la Convention interaméricaine pour l’élimination de toutes les formes
+de discrimination à l’égard des personnes handicapées, la Convention sur la
+protection des enfants et la coopération en matière d’adoption internationale, ainsi
+que le Protocole visant à prévenir, réprimer et punir la tra ite des personnes. Par
+ailleurs, une loi sur l’intégration des personnes handicapées a été adoptée en 2010.
+Enfin, la législation sur l’adoption et sur la traite internationales est en cours de
+révision, ce qui ouvre la porte à une plus grande mobilisation en faveur d’une
+législation nationale renforcée qui réponde aux normes internationales.
+23. Une politique nationale sur la jeunesse a été adoptée et un conseil national de
+la jeunesse créé, ce qui facilite la participation des jeunes aux processus de prise de
+décisions. En partenariat avec le Mouvement mondial en faveur des enfants, 250
+enfants et jeunes ont participé à des consultations qui ont abouti au premier rapport
+sur le suivi des politiques, lequel reflète leurs perspectives.
+24. Une analyse du budget de l’État a permis d’approfondir ce que l’on savait sur
+les dépenses publiques consacrées aux enfants. En 2011, l’UNICEF a aidé des hauts
+fonctionnaires des départements du Nord et du Sud à élaborer des plans d’action
+destinés à renforcer les capacités des parties prenantes pour qu’ils puissent être
+tenus responsables en matière de droits des enfants et des titulaires de droits afin
+d’exprimer clairement leurs revendications. L’UNICEF a aidé l’Institut de la
+statistique à mettre à jour l’échantillon principal p our que ce dernier puisse servir de
+base pour les enquêtes en cours et à venir.
+25. L’UNICEF a coordonné l’activité de plus de 400 acteurs humanitaires
+mobilisant des ressources et gérant de l’information dans les domaines de l’eau, de
+l’éducation, de la nutrition et de la protection de l’enfance. En 2011, les groupes et
+sous-groupes thématiques pertinents ont contribué à la planification d’urgence
+nationale, aux innovations sectorielles; à l’élaboration des politiques; à l’élaboration
+de normes et au développement des capacités des autorités nationales et des
+organisations de la société civile afin de faciliter la sortie progressive de la situation
+d’urgence.
+26. L’UNICEF a travaillé avec quatre ONG pour renforcer les capacités du
+Gouvernement en matière préparation et d’intervention en cas d’urgence. Son travail
+a consisté à faire des évaluations rapides, à prendre des mesures de réduction des
+risques, et à disposer d’avance des fournitures de secours pour les besoins de
+100 000 bénéficiaires au maximum, soit 33 % de la population ciblée dans le plan
+d’urgence d’Haïti. Ce mécanisme d’intervention rapide a permis d’intervenir vite et
+efficacement lors de l’ouragan (2011), en aidant à répondre aux besoins immédiats
+des 400 familles touchées.
+
+__________________
+33
+
+8
+
+Statistiques mensuelles, Brigade de la police des mineurs, 2012.
+
+Enseignements tirés
+27. L’étroite collaboration avec des partenaires du département du Nord -Ouest a
+débouché sur un modèle positif pour adopter une approche dite
+d’« accompagnement ». Ce modèle a permis de prouver que l’on peut renforcer les
+capacités nationales en matière de préparation et d’intervention en cas d’urgence au
+niveau infranational, en travaillant par le biais des systèmes nationaux. Ces
+partenariats se sont concentrés sur le renforcement des ressources humaines, la
+polarisation des connaissances techniques sur le traitement du choléra, la
+planification des interventions d’urgence, la disposition d’avance des fournitures de
+secours et le transfert de fonds aux zones ciblées. Les autorités locales ont accru les
+installations de traitement du choléra et en ont maîtrisé efficacement une épidémie
+majeure obtenant un taux de mortalité nettement plus faible que les moyennes
+nationale et départementales antérieures. En mettant en place des mécanismes
+appropriés, elles ont coordonné les initiatives des acteurs internationaux et mobilisé
+leurs ressources tout en évitant les mécanismes parallèles d’intervention.
+28. Tout en mettant l’accent sur le renforcement des capacités institutionnelles, le
+contexte actuel de grave dénuement exige que l’on réponde aux besoins urgents des
+enfants et des femmes grâce à des partenariats. L’expérience a prouvé que la
+participation de la collectivité jouait un rôle essentiel pour l’expansion du
+programme et l’augmentation des services dans les zones mal desservies.
+L’UNICEF doit se concentrer davantage sur la mobilisation de ses réseaux
+communautaires d’acteurs nationaux pour contribuer à la planification et à la
+conception de programmes dans les zones difficiles à atteindre.
+29. L’examen indépendant de la réponse opérationnelle de l’UNICEF au séisme a
+joué un rôle essentiel pour élaborer des stratégies de programmes, des partenariats et
+des structures de gestion 34. Les leçons tirées de cet examen ont contribué à
+renforcer le leadership et la coordination du groupe thématique, ainsi que le
+développement des capacités nationales. L’examen a aussi pris acte de la logique
+consistant à relier la violence sexiste et la protection de l’enfant étant donné les
+Principaux engagements révisés de l’UNICEF pour les enfants dans l’action
+humanitaire, mais il a aussi noté que la violence sexiste devrait également être
+intégrée dans d’autres travaux sectoriels de l’UNICEF. Le nouveau programme de
+pays tient compte de cette recommandation.
+30. L’UNICEF doit s’assurer que l’engagement du Gouvernement est sincère pour
+que les programmes stratégiques avancent; il doit aussi former des partenariats avec
+des parties prenantes privées afin d’obtenir des résultats. En effet, le non -respect par
+le Gouvernement de son engagement à verser un supplément de salaire aux
+enseignants privés d’une école appuyée par l’UNICEF a laissé des centaines
+d’enfants dans une situation où ils risquaient de ne plus avoir accès à l’école,
+compromettant ainsi le dialogue positif public-privé que l’UNICEF avait favorisé
+entre les intéressés. L’UNICEF continuera à renforcer le rôle régulateur du
+Gouvernement en matière de prestations de services sociaux, tout en facilitant le
+dialogue entre les fournisseurs de services publics et non publics.
+__________________
+34
+
+L’examen a aussi contribué à l’élaboration en 2011 de la Procédure globale d’activation
+d’urgence de l’UNICEF et des Procédures simplifiées d’exploitation normalisées pour les
+urgences de niveau 3.
+
+9
+
+Programme de pays pour 2013-2016
+Tableau budgétaire récapitulatif
+(En milliers de dollars des États-Unis)
+Élément du programme
+
+Ressources ordinaires Autres ressources
+
+Total
+
+Survie et développement de l’enfant
+
+4 899
+
+27 280
+
+32 179
+
+Environnement d’apprentissage et de protection
+
+3 290
+
+17 360
+
+20 650
+
+Partenariats pour les droits des enfants
+
+2 093
+
+3 100
+
+5 193
+
+Dépenses intersectorielles
+
+1 814
+
+14 260
+
+16 074
+
+12 096
+
+62 000
+
+74 096
+
+Total
+
+Préparatifs
+31. Les préparatifs découlent des conclusions et des recommandations de l’examen
+à mi-parcours; du moment stratégique de réflexion de 2010; de l’examen
+indépendant de l’intervention de l’UNICEF après le séisme; et d’autres évaluations
+des leçons tirées de l’expérience passée. Ils tiennent aussi compte des processus de
+planification pour la prolongation d’un an du programme de pays adopté et du Cadre
+stratégique intégré des Nations Unies pour 2013-2016 (la stratégie commune de la
+Mission des Nations Unies pour la stabilisation en Haïti et de l’équipe de pays des
+Nations Unies destinée à soutenir les efforts de reconstructio n du Gouvernement
+après le séisme). Ces préparatifs incluent aussi le résultat de consultations de jeunes,
+ainsi que des recommandations formulées lors d’autres consultations avec des
+représentants de ministères clefs, de la société civile, de donateurs cl efs et
+d’institutions des Nations Unies.
+
+Éléments du programme, résultats et stratégies
+32. L’objectif d’ensemble est de contribuer à la construction de la nation en aidant
+le Gouvernement haïtien à respecter ses engagements découlant de la Convention
+relative aux droits de l’enfant en plaçant les droits des garçons et des filles haïtiens
+au centre des décisions à prendre en matière de budgétisation sociale, de
+planification et d’application du programme. En effet, ce faisant l’on créera une
+société où l’on veillera à prendre en compte les intérêts des enfants, en particulier
+des plus pauvres et des plus exclus, où l’on créera un environnement familial et
+communautaire sûr où ils puissent survivre, s’épanouir et tirer parti de toutes leurs
+possibilités. La gestion des connaissances sera une stratégie multisectorielle qui
+servira à prendre des décisions éclairées et à formuler des politiques fondées sur la
+connaissance des faits. Elle contribuera aussi à faire progresser l’égalité des sexes.
+
+Éléments du programme
+33. Survie et développement de l’enfant. Cet élément contribuera, d’ici à 2016, à
+réduire la mortalité et de la morbidité des enfants grâce aux résultats suivants :
+
+10
+
+a)
+Les filles, les garçons et les femmes bénéficieront d’un ensemble
+essentiel très efficace de nourritures préventives et curatives au niveau de la
+collectivité et dans des établissements de soins de santé;
+b)
+Les filles, les garçons, les adolescents et les femmes, surtout les plus
+vulnérables, auront également accès à des services intégrés de santé de qualité;
+c)
+Les enfants, les femmes les plus défavorisés et leur famille des zones
+rurales et urbaines pauvres auront obtenu un accès durable à de l’eau potable, à des
+installations sanitaires de base et à un enseignement en matière d’h ygiène.
+34. Pour parvenir à ces résultats, l’UNICEF préconisera une augmentation des
+allocations budgétaires versées à des secteurs pertinents ainsi qu’une autre réforme
+sectorielle. Elle favorisera l’élaboration de politiques et de stratégies sociales
+améliorées comme la budgétisation des coûts marginaux face aux goulets
+d’étranglement. Elle améliorera aussi les capacités institutionnelles à planifier,
+gérer, faire des suivis et décentraliser des services, en recourant à des approches et
+des techniques appropriées. Au niveau des collectivités, l’UNICEF soutiendra des
+réseaux locaux, des organisations de la société civile et des groupes de soutien afin
+de promouvoir la participation des parents à la stimulation des jeunes enfants ainsi
+que l’adoption d’usages essentiels pour réduire la mortalité des mères et des
+nourrissons au moyen d’une approche fondée sur l’égalité des sexes. L’UNICEF
+soutiendra le renforcement de la surveillance et les systèmes informatiques, en
+veillant à ce que les résultats des programmes pilotes qui contribuent à réduire les
+disparités puissent bénéficier d’un coup de pouce pour se développer. Dans l’esprit
+des principaux engagements pour les enfants dans l’action humanitaire, cet élément
+favorisera la préparation et l’intervention, et il promouvra des mesures
+communautaires destinées à réduire les risques de catastrophe avec la participation
+des intéressés.
+35. Parmi les stratégies pour y parvenir, citons le programme élargi de
+vaccination, la prise en charge intégrée des maladies de l’enfant, qui inclut une
+attention particulière aux maladies diarrhéiques, les infections respiratoires aiguës et
+les autres principales causes de décès des enfants en Haïti, les soins néonatals et
+obstétriques, et la prévention, le traitement et les soins du VIH/s ida. Le travail de
+lutte contre le sida se fait en collaboration avec le Plan d’urgence du Président des
+États-Unis pour la lutte contre le sida. Environ 280 000 enfants de moins de 1 an
+seront ciblés avec leur mère, surtout dans les districts (communes) l es plus
+vulnérables et les moins bien desservis. L’UNICEF appuiera l’allaitement maternel
+essentiel et les pratiques complémentaires d’alimentation, les apports en
+micronutriments (vitamine A, zinc, fer et iode), ainsi que le déparasitage et des soins
+de qualité pour les enfants qui souffrent de malnutrition aiguë, en mettant l’accent
+sur les zones rurales où les taux de malnutrition chronique et aiguë sont élevés.
+36. La réforme du secteur de la salubrité de l’eau, de l’assainissement et de
+l’hygiène sera une occasion pour influer sur les fournisseurs de services
+décentralisés et pour augmenter les interventions à fort impact, comme le traitement
+de l’eau domestique et l’entreposage sûr. L’Alliance pour la salubrité des écoles
+entreprendra une action à l’échelle du pays pour que toutes les écoles se conforment
+aux normes minimales relatives à l’eau, à l’assainissement et à l’hygiène.
+L’UNICEF tirera parti des vastes réseaux de partenaires installés dans les
+communautés pour améliorer la gestion des investissements dans le domaine de la
+
+11
+
+salubrité, avec une participation active des femmes, et elle haussera les
+comportements d’ensemble de la collectivité en matière de santé et d’hygiène.
+37. Environnement d’apprentissage et de protection. Cet élément contribuera à
+renforcer les cadres juridique et normatif qui ont une incidence sur le
+développement et l’autonomisation des enfants. Il y parviendra en permettant
+d’obtenir les résultats suivants d’ici à 2016 :
+a)
+Les filles et les garçons, y compris les adolescents, seront protégés contre
+la violence sexiste et d’autres formes de violence, d’abus et d’exploitation à
+l’échelle tant nationale que locale, conformément aux normes relatives aux droits de
+l’homme, compte tenu aussi de la prise de conscience accrue de l’incidence de la
+violence sur les enfants;
+b)
+Les filles et les garçons, de leur naissance jusqu’à l’âge de 14 ans, dans
+les trois quintiles les plus pauvres, bénéficieront de politiques en matière
+d’instruction qui leur garantiront un accès équitable à une éducatio n de base de
+qualité et à des possibilités de développement dès leur petite enfance.
+38. Cet élément comportera une mobilisation pour la ratification d’instruments
+internationaux qui promeuvent la protection de l’enfant, l’harmonisation de la
+législation nationale avec les instruments internationaux sur les droits humains qui
+ont trait en particulier : aux châtiments corporels, à la violence sexiste (y compris la
+violence et les abus sexuels); le travail des enfants à des fins de services
+domestiques et d'autres formes d'exploitation; et à la traite des enfants et à leur
+adoption. Cet élément permettra aussi de renforcer la capacité de l’État à éliminer
+les obstacles à l’enregistrement des naissances et s’occupera de leur sous enregistrement. En outre, il appuiera les institutions gouvernementales aux niveaux
+national et infranational pour : a) mettre en œuvre, suivre et faire appliquer les
+normes de protection de l’enfance par des entités publiques et non publiques;
+b) améliorer la coordination intersectorielle pour lutter contre la violence sexiste et
+d’autres formes de violence en élaborant des protocoles et de mécanismes
+d’orientation; et c) améliorer la disponibilité de services et de programmes amis des
+enfants afin de prévenir et d’atténuer les risques en renforçant les capacités des
+fournisseurs de services de protection de l’enfant.
+39. Cet élément visera, de plus, à promouvoir l’accès à l’éducation de base et à
+l’éveil du jeune enfant, en favorisant l’instauration : a) d’une réglementation sur des
+prestations de services éducatifs et de protection des enfants libres de toute violence
+sexiste ou de toute autre forme; et b) de normes minimales et de codes de conduite.
+Il renforcera les capacités institutionnelles aux niveaux national et infranational
+pour mettre en œuvre et faire appliquer des normes de prestation de services pour
+les enfants; pour suivre l'accès et la qualité de l'éducation; et pour assurer une
+coordination au moyen de mécanismes intersectoriels.
+40. Conformément aux Principaux engagements pour les enfants, cet élément sera
+favorable à ce que l’on accélère la prise de mesures destinées à réduire les risques
+de catastrophe dans les communautés, les écoles et les autres institutions qui offrent
+des services aux enfants. Et il améliorera la préparation et l’intervention en cas
+d’urgence 35 . Il aidera aussi les institutions gouvernementales à : a) accroître l’accès
+__________________
+35
+
+12
+
+Conformément à la recommandation issue de l’examen indépendant de l’intervention de
+l’UNICEF lors du séisme de janvier 2010 en Haïti.
+
+à des occasions d’apprentissage précoce, de qualité, axées sur la collectivité et la
+famille; b) élaborer des cadres politiques pour réglementer le système éducatif,
+supprimer les frais de scolarité, définir des normes de qualité pour les fournisseurs
+de services publics ou non publics; c) engager des partenaires pour participer à la
+réforme de tout le secteur; et d) accroître l’accès à une éducation de qualité amie des
+enfants et à des interventions adaptées à leur âge dans des écoles sûres et saines,
+avec la participation des élèves et des parents.
+41. Partenariats pour les droits de l’enfant. Cet élément contribuera au résultat
+ci-après : d’ici à 2016, des politiques, une législation et une budgétisation fondées
+sur la connaissance des faits seront mises en œuvre; en outre des mesures seront
+prises pour réduire le dénuement des enfants et les disparités entre eux.
+42. Grâce à cet élément on donnera la priorité aux droits des enfants et des
+femmes et on les intégrera dans la planification, la conception et la promotion
+fondées sur la connaissance des faits et la mise en œuvre des politiques, des plans,
+des programmes, de la législation et de la réalisatio n des dépenses. Cela comprendra
+la concrétisation progressive de la protection sociale pour tous, en consacrant une
+attention particulière aux enfants handicapés et en adoptant une démarche soucieuse
+des sexospécificités dans les initiatives prises tant en cas d’urgence qu’à long terme.
+L’on travaillera aussi en veillant à ce que l’administration dans certains
+départements soit à même de concevoir et d’appliquer des politiques permettant de
+fournir des services sociaux de base en mettant l’accent sur les co mmunautés les
+plus défavorisées afin de faciliter leur relèvement après des catastrophes et d’autres
+crises humanitaires.
+43. En poursuivant cet objectif, l’UNICEF travaillera aux niveaux national et
+infranational en : a) fournissant des données de grande qualité ventilées selon les
+sexes et des renseignements sur la situation des filles, des garçons et des femmes de
+même que sur les lois et les politiques qui les concernent; b) donnant des avis sur les
+plans de développement sectoriels et sur les allocations b udgétaires destinées aux
+enfants; et c) promouvant les bonnes pratiques et les normes internationales en
+matière d’élaboration et d’application de politiques. L’on renforcera les systèmes de
+collecte des données dans les départements du Nord et du Sud. L’o n déploiera des
+efforts pour augmenter les connaissances des intéressés en matière de statistiques et
+pour inciter ces derniers à se servir d’Haïti Info, notamment pour se préparer et
+intervenir en cas d’urgence.
+44. Cet élément a pour objet d’autonomiser les filles, les garçons et les femmes et
+de les pousser à revendiquer leurs droits et à dialoguer avec les fournisseurs de
+services, les décideurs et les législateurs. Conçu pour la réduction des risques, il
+promouvra les interventions destinées à la protectio n sociale dans les zones les plus
+vulnérables aux catastrophes naturelles. Ce sera peut-être une façon de franchir la
+première étape d’un système intégré de protection des enfants qui soit sensible à
+leur cause. L’UNICEF fournira un soutien technique au Go uvernement haïtien pour
+préparer le rapport destiné au Comité sur les droits de l’enfant et pour appliquer ses
+recommandations.
+45. L’UNICEF travaillera au niveau national à renforcer la législation, les
+politiques et les systèmes et, au niveau des institutions, elle œuvrera pour instaurer
+des normes et améliorer la réglementation et la gestion nécessaire aux prestations de
+services sociaux. Pour améliorer la convergence du programme, elle œuvrera dans
+les départements du Nord et du Sud afin de renforcer l’admi nistration locale et la
+
+13
+
+capacité de la collectivité de faire respecter les droits des enfants. Elle s’efforcera
+d’assurer un accès aux services de base en travaillant dans les zones les plus
+défavorisées.
+46. Le programme promouvra une approche fondée sur les droits des enfants et
+des adolescents, y compris ceux des handicapés et une autre fondée sur l’équité, en
+suivant les stratégies suivantes :
+a)
+Mobilisation des ressources pour l’élaboration de politiques qui
+reconnaissent les droits des enfants et s’occupent des disparités. Cela comprendra:
+une mobilisation pour obtenir un budget de l’État accru pour les enfants;
+l’élaboration de politiques et de cadres qui définissent les normes de qualité et
+réglementent les prestations de services; la convocation de partenaires et le soutien
+aux processus de réformes à l’échelle du secteur; le renforcement des cadres
+juridiques et normatifs; la planification fondée sur la connaissance des faits et le
+suivi de l’application des politiques et des programmes avec des parte naires de
+l’administration, y compris pour les programmes de protection sociale. La
+mobilisation signifiera aussi la nécessité de canaliser les demandes des
+communautés vers les décideurs et les législateurs;
+b)
+Le développement des capacités des partenaires nationaux et de la
+société civile. Cela comprendra le renforcement des systèmes institutionnels et des
+capacités locales pour améliorer la planification, la gestion, l’application et le suivi
+aux niveaux national et des collectivités; et l’élaboration de documents d’orientation
+sectorielle et de protocoles, y compris ceux pour les urgences. Cela supposera aussi
+le renforcement des mécanismes et systèmes de supervision pour les prestations des
+services sociaux; l’accroissement des capacités techniques en recourant à des
+professionnels de la formation et aux fournisseurs de services; l’amélioration de la
+collecte des données, ainsi que de l’analyse et de la diffusion de données ventilées
+(notamment grâce à des indicateurs de sexe); enfin, il faudra accroît re la culture en
+matière de statistique pour faciliter la prise de décisions éclairées;
+c)
+Les partenariats pour les prestations de services axées sur l’équité. Cela
+comprendra l’augmentation proportionnelle d’interventions à impact élevé et à base
+communautaire destinées à réduire les disparités dans l’accès à des interventions de
+qualité, adaptées aux enfants et appropriées à leur âge, y compris dans les cas
+d’urgence;
+d)
+La communication pour le développement. Il faudra notamment renforcer
+et maintenir un comportement positif et un changement social en intégrant aux
+éléments la communication pour le développement. Ce sera une stratégie clef qui
+permettra de franchir les obstacles sociaux, économiques et culturels qui s’opposent
+à l’équité, tout en stimulant la demande et l’utilisation des services par les enfants,
+les jeunes, les femmes et les familles;
+e)
+La réduction des risques de catastrophes. Cela consistera notamment à
+renforcer les capacités nationales et locales pour se préparer à intervenir à t emps
+dans les situations d’urgence. Il s’agira, en effet, d’atténuer l’impact des
+catastrophes en augmentant la résilience des familles, notamment dans les zones les
+plus vulnérables
+47. La réduction des dépenses intersectorielles. Cet élément portera sur les
+salaires et les coûts que l’on ne peut attribuer à des programmes individuels.
+
+14
+
+Rapports avec les priorités nationales et le PNUAD
+48. Le programme de pays est harmonisé avec celui d’autres institutions des
+Nations Unies dans le cadre stratégique intégré de 2013 à 2016, lequel est aligné sur
+les priorités nationales et les piliers énoncés dans le Plan stratégique national de
+développement et le Plan d’action pour le relèvement et le développement d’Haïti. Il
+reflète aussi les plans sectoriels pertinents qui ont trait à la salubrité de l’eau, à
+l’hygiène, à l’éducation et à la santé.
+
+Rapports avec des priorités internationales
+49. Le programme de pays découle de la Convention relative aux droits de
+l’enfant, de la Convention sur l’élimination de toutes les formes de discrimination à
+l’égard des femmes, de la Convention relative aux droits des personnes handicapées,
+des Principaux engagements pour les enfants dans l’action humanitaire, de l’Étude
+du Secrétaire général des Nations Unies sur la violence à l’en contre des enfants; des
+objectifs de la session extraordinaire de l’Assemblée générale consacrée au
+VIH/sida; et de l’Éducation pour tous. Les objectifs et approches stratégiques du
+Programme concordent avec la Déclaration du Millénaire, les objectifs du
+Millénaire pour le développement et les principes de la Déclaration de Paris sur
+l’efficacité de l’aide au développement. Les résultats de l’élément du programme
+correspondent aux cinq domaines d’intervention du Plan stratégique à moyen terme
+de l’UNICEF.
+
+Principaux partenariats
+50. Les principaux partenaires du programme de pays seront les ministères de
+tutelle chargés de la planification, des finances et des secteurs sociaux, ainsi que
+d’autres institutions étatiques concernées, notamment la police natio nale. Le
+programme fera également la promotion des partenariats auprès de localités situées
+dans les zones éloignées ainsi qu’auprès de la société civile, des organisations
+locales et religieuses, du secteur privé et des médias. Il continuera à œuvrer en
+étroite collaboration avec les institutions spécialisées, des fonds et des programmes
+de l’ONU, ainsi qu’avec la Mission des Nations Unies pour la stabilisation en Haïti,
+conformément à sa stratégie de retrait. Le programme de pays poursuivra son solide
+partenariat avec des partenaires de développement bilatéraux et multilatéraux, dont
+la Banque mondiale et la Banque interaméricaine de développement. Tirant parti de
+leur expérience, les acteurs de la coopération Sud -Sud se révéleront utiles pour
+nouer des partenariats avec des organismes gouvernementaux ou non
+gouvernementaux de la région, y compris avec des centres d’excellence, afin de
+partager avec autrui les enseignements qu’ils auront tiré et les bonnes pratiques
+qu’ils auront apprises.
+
+Suivi, évaluation et gestion du programme
+51. L’enquête démographique et sanitaire de 2012 fournira les éléments de base
+pour assurer le suivi des résultats et des progrès du programme. L’on évaluera les
+résultats obtenus grâce aux examens à mi-parcours et annuels sur la mise en œuvre
+
+15
+
+de ce programme. Un suivi sur le terrain se fera régulièrement qui comprendra aussi
+des consultations périodiques avec des partenaires à tous les niveaux. Un plan
+quadriennal intégré de suivi et d’évaluation, assorti de plans annuels harmoni sés
+avec le cadre stratégique intégré, déterminera les mécanismes de suivi et
+d’évaluation, ainsi que les principales études, enquêtes, évaluations et recherches.
+Des examens et des évaluations spécifiques au programme seront effectués au
+besoin, de concert avec des partenaires. Afin d’assurer le suivi et la communication
+efficaces de résultats appuyés par l’UNICEF, le système de suivi du rendement sera
+renforcé, tant pour la préparation et l’intervention en cas d’urgence que pour la
+programmation régulière. Dans le cadre du plan de gestion du programme, les
+efforts déployés en cas d’urgence seront soutenus pour faciliter l’évaluation des
+risques et le suivi des interventions effectuées pour réduire les risques de
+catastrophe.
+
+16
+
+

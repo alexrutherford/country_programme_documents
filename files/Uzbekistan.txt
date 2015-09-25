@@ -1,0 +1,904 @@
+E/ICEF/2015/P/L.20
+
+United Nations
+
+Economic and Social Council
+
+Distr.: Limited
+10 August 2015
+Original: English/French/Spanish
+For decision
+
+United Nations Children’s Fund
+Executive Board
+Second regular session 2015
+8-10 September 2015
+Item 4 (a) of the provisional agenda*
+
+Country programme document**
+Uzbekistan
+Summary
+The country programme document (CPD) for Uzbekistan is presented to the
+Executive Board for discussion and approval at the present session, on a no-objection
+basis. The CPD includes a proposed aggregate indicative budget of $19,295,000 from
+regular resources, subject to the availability of funds, and $13,500,000 in other
+resources, subject to the availability of specific-purpose contributions, for the period
+2016 to 2020.
+In accordance with Executive Board decision 2014/1, the present document
+reflects comments made by Executive Board members on the draft CPD that was
+shared 12 weeks before the second regular session of 2015.
+
+* E/ICEF/2015/12.
+
+E/ICEF/2015/P/L.20
+
+Programme rationale
+1. Uzbekistan, with a child population of over 10 million, became a lower-middle-income
+country in 2010. Notwithstanding a reported decrease in national income poverty rates from
+26.1 per cent in 2004 to 15 per cent in 2012, disparities remain high, particularly in rural
+areas and in Karakalpakstan, Kashkadarya and Surkhandarya regions, while social assistance
+provided to children and their families has been steadily decreasing in recent years.1
+2. The United Nations Inter-agency Child Mortality Report2 estimates under-five
+mortality at 43 per 1,000 live births, and infant mortality at 37, while the State Committee on
+Statistics (SCS) reports rates of 13.4 and 9.8, respectively. Infant mortality rates are higher
+in rural areas and among children from the poorest quintile, with the most prominent
+disparities found between regions.3 The United Nations Maternal Mortality Estimation Interagency Group reported a maternal mortality ratio of 36 per 100,000 live births, while official
+sources reported an MMR of 20.
+3. According to 2013 official data, child mortality has decreased. Nonetheless, neonatal
+mortality remains unchanged, with the leading causes including birth-related complications
+and neonatal infections. There is a high coverage of antenatal care and skilled attendants at
+birth in the country. However, a determinant analysis, carried out according to the Monitoring
+Results for Equity System (MoRES) methodology, indicated that high maternal and neonatal
+mortalities are related to supply-side bottlenecks in the quality of healthcare services. The
+Committee on the Rights of the Child stated in its 2013 concluding observations that the
+quality of maternal, perinatal and early neonatal care in Uzbekistan is inadequate. 4
+4. UNICEF global malnutrition estimates for 2008-2013 show that 20 per cent of children
+in the country are stunted and 4 per cent are underweight. A survey5 found that 34 per cent
+women of reproductive age have anaemia. Data (2012) from the National Institute of
+Endocrinology show 32.5 per cent prevalence of iodine deficiency among the population,
+including children. According to a Knowledge, Attitude and Practice (KAP) survey contained
+in a 2011 Hygiene and Epidemiological Study on helminthiasis, less than 24 per cent of
+school-age children wash hands at critical times during the day, which is a key factor
+explaining helminthic infections affecting over 46 per cent of schoolchildren.
+5. Poor childcare practices at home also constitute critical demand-side barriers to child
+survival and well-being, especially for children living in rural areas, where more traditional
+beliefs and less information prevail. A recent survey in two regions found that only 31 per
+cent of caregivers are able to recognize danger signs for child health, 35 per cent have their
+children’s hands washed after going to the toilet, and 39 per cent of children are exclusively
+breastfed.6
+
+1
+
+Cabinet of Ministers Decree # 350 appears to further reduce the scope/size of the social allowances, Dec
+2012; UNICEF Uzbekistan, Social Assistance for Low Income Families in Uzbekistan, Jan 2013.
+2
+United Nations Inter-agency Group for Child Mortality Estimation, Level and Trends in Child Mortality,
+2013.
+3
+Uzbekistan/UNICEF , Multiple Indicator Cluster Survey, 2006.
+4
+United Nations, concluding observations on the combined 3 rd & 4th periodic reports of Uzbekistan
+(CRC/C/UZB/CO 3-4), 2013.
+5
+Global Alliance for Improved Nutrition, Report to Assess Results of National Flour Fortification
+Programme: Large Country-Lot Quality Assurance Survey Report, 2013.
+6
+KAP baseline assessment in 2 pilot region (Karakalpakstan, Namangan) on key childcare and development
+practices (UNICEF and Ministry of Health, 2013).
+
+2/16
+
+E/ICEF/2015/P/L.20
+
+6. By 2010, women made up 38 per cent of persons registered with HIV, confirming a
+rising trend: by 2013, almost half of all new registered cases were among women and
+children, with vertical transmission of HIV now accounting for 3.4 per cent of all new cases. 7
+7. According to administrative data, 77 per cent of children aged 2-7 do not attend
+preschool. Household surveys found that children from the richest quintile and urban areas
+have much more opportunities for school readiness. 8 The enrolment gap between regions is
+as high as 47 percentage points. 9 The key bottleneck here is the limited capacity of the
+preschool system to reach all children with adequate quality services. Adverse social norms,
+household behaviours and beliefs contribute to low demand and enrolment in preschool.
+8. National statistics show a 99 per cent gross enrolment ratio in basic education (grades
+1 to 9) with no significant gender 10 difference. The quality of education is not always
+adequate, though: only 63.4 per cent 11 of children meet the national minimum learning
+achievement standard in basic education, with fluctuating regional gaps. Key bottlenecks are
+related to the uneven performance of the education system across regions: administrative data
+show that the lowest percentage of adequately qualified teachers is found in rural areas, which
+is reflected in poor learning achievements. In addition, children contracting water-borne
+diseases due to inadequate hygiene behaviours and lack of hygiene facilities in schools may
+drop out temporarily, while limited involvement of communities in the education process at
+household and community level is another barrier to education opportunities for children.
+9. Children with disabilities (CWD) are either enrolled in special institutions or are homeschooled. Data from the Ministry of Health show that there were 81,120 children under age
+16 registered with disabilities in 2012 - slightly more boys (54 per cent) than girls,12 out of
+whom 20,447 live in residential institutions, which represent about half of the total number
+of children in institutions.13 A significant bottleneck is the continued use in the country of a
+medical model that views disabilities as problems of individuals, rather than as a social model
+which focuses on creating an enabling and inclusive environment. 14 Due to this, CWD and
+their families are often stigmatized and hidden away from the public.
+10. According to official data,15 there are about 24,672 children in residential institutions,
+62 per cent of them boys. A 2014 study on children in institutions 16 showed that only 14 per
+cent were orphans, while more than half were placed in residential care due to socioeconomic difficulties faced by their families. The bottlenecks contributing to
+institutionalization are mainly related to a lack of a comprehensive combination of services
+that meets the needs of vulnerable children and families. The study also showed gender
+inequalities, including domestic violence, as driving factors.
+
+7
+
+Government of Uzbekistan, National Report on Progress toward implementation of the declaration on
+HIV/AIDS, 2014.
+8
+Uzbekistan/UNICEF, MICS, 2006.
+9
+Ministry of Public Education, 2013-2014 Main indicators, 2014.
+10
+Government of Uzbekistan, Education Sector Plan 2013, citing MoPE.
+11
+Ibid.
+12
+UNICEF regional office, Uzbekistan: Country Profile, 2013.
+13
+Ibid.
+14
+Ibid.
+15
+State Committee on Statistics (SCS) data, TransMonEE 2014 (number does not to include 6,505 children
+temporarily placed in sanatorium-type boarding schools in 2013 according to the Ministry of Public
+Education).
+16
+UNICEF-commissioned study covering Baby and Children Homes: Andijan, Fergana and Samarkand
+regions, 2014.
+
+3/16
+
+E/ICEF/2015/P/L.20
+
+11. Between 2006 and 2013 the recorded number of crimes committed by children aged
+13-17 fell slightly, from 2,853 to 2,655 annually (93 per cent committed by boys). The key
+bottlenecks to overcome regarding justice for children, in order to effectively protect the
+rights of child victims and witnesses of crime in justice processes, include the need to enact
+new legislation, to have greater specialization of professionals, and to adapt court procedures.
+12. The 2014 Country Programme Evaluation (CPE) found that the previous programme
+had successfully established an effective high-level dialogue on key child rights issues, such
+as, for example, child labour. This strategy, together with the attention given to the country’s
+application to the Global Partnership for Education, resulted in progress made towards the
+elimination of forced child labour in cotton production: the 2013 official International Labour
+Organization assessment found no evidence of children under 14 harvesting cotton and, in
+2014, no evidence of massive mobilization of children under 18.
+13. The CPE also showed that technical assistance and evidence-based policy dialogue
+during the previous programme of cooperation had led to the formulation of the 2011-2015
+Multi-year Immunization Plan, which contributed to increased financial sustainability, with
+the result that routine vaccines are now procured with Government funds. In addition, the last
+programme largely contributed to the design and adoption of the first Education Sector Plan
+2013-2017. Evidence-based policy dialogue led to the Government’s decision to prioritize
+Early Childhood Education (ECE) and allocate $500 million for the implementation of the
+2015-2020 State Programme on ECE Development, and also resulted in the decision to freeze
+preschool parental fees, thus reducing access barriers for children living in poverty.
+14. The CPE, however, highlighted that the previous programme’s capacity-building
+strategies had largely focused on training of service providers and upgrading professional
+curricula and protocols, but neglected to simultaneously address systemic bottlenecks
+concerning monitoring and quality assurance systems, evidence-based decision-making and
+budgeting. The CPE recommended that the new country programme expand its capacity
+development efforts by gradually shifting away from training and by integrating policy
+dialogue and modelling of new managerial approaches, so that relevant social sectors would
+be better equipped to facilitate a holistic, effective and sustainable system change.
+15. Finally, it was found that the work that the previous programme initiated in
+Communication for Development (C4D), aimed at promoting positive behaviours and social
+norms in family and community settings, had yielded limited results. The new programme
+will therefore focus on the improvement of existing systems and on enhancing outreach
+capabilities in an emerging middle-income context, so as to systematically and effectively
+promote behavioural change among caregivers and other immediate duty-bearers. This
+strategy will contribute to reducing barriers to the equitable realization of child rights in
+family and community settings in a more sustainable and efficient manner.
+
+Programme priorities and partnerships
+16. The overall aim of the country programme is to accelerate progress towards the
+realization of the rights of all children. Special attention will be paid to closing equity gaps
+by zeroing in specifically on tackling the structural determinants of deprivations faced by
+children living in rural areas within disadvantaged regions, and by focusing on CWD,
+children in institutions, as well as children and adolescents living with HIV and AIDS.
+17. The country programme is aligned with key national policies and strategies, and will
+support the Government and civil society organizations (CSOs) in the implementation of the
+
+4/16
+
+E/ICEF/2015/P/L.20
+
+concluding observations of the Committees on the Rights of the Child and the Elimination of
+Discrimination against Women. UNICEF will specifically focus on strengthening national
+capacities for reporting to the Committee on the Rights of the Child and will provide technical
+assistance to key actors in charge of the oversight of national and subnational plans for the
+implementation of the concluding observations, and of the follow up to the Sustainable
+Development Goals related to children. UNICEF will also support the Government’s efforts
+to ratify the Convention on the Rights of Persons with Disabilities.
+18. The programme of cooperation seeks to achieve results for children at different stages
+of the life cycle, and will focus on selected outcomes of UNICEF’s Strategic Plan 2014-2017
+related to health, education and child protection, while mainstreaming cross-cutting
+components such as child rights monitoring and data for children and social inclusion, as well
+as promoting equity in budgeting and in resource allocation.
+19. The programme was developed in conjunction with the 2016-2020 United Nations
+Development Assistance Framework (UNDAF), and contributes directly to the achievement
+of seven out of eight UNDAF outcomes, across four thematic areas: inclusive governance
+and rule of law; improving livelihoods; social inclusion; sustainable use of natural resources
+and preparedness for natural disasters.
+Child health and well-being
+20. Uzbekistan has taken measures to improve the health and well-being of women and
+children. Over the last decade, several reforms have been implemented to increase the
+efficiency and effectiveness of the health system, and reduce maternal and child mortality.
+Despite these efforts and the good coverage of maternal and child healthcare services, these
+have not yet resulted in a more equitable access or improved health status for the most
+vulnerable. A 2013 health facility survey confirmed the poor quality of the majority of
+maternity centres which do not meet required standards. Key bottlenecks in the quality of
+health system still need to be addressed, as do barriers related to inadequate childcare
+practices.
+21. The most critical bottlenecks are the remaining gaps in the normative framework, the
+low performance of health professionals in applying minimum service standards, and the
+weak monitoring and quality assurance systems. In addition, poor coordination between
+national and subnational levels, inappropriate budgeting and weak capacities of managers at
+subnational levels to assess and analyse barriers to equitable and quality service delivery, all
+create gaps between policy formulation and implementation.
+22. The main barriers related to childcare practices are the prevalence of adverse social
+norms and traditional beliefs, as well as the low capacity of the health system to provide
+appropriate services, including counselling/consultation services to parents. Despite the
+progress in prevention of mother-to-child transmission of HIV, preventive and support
+services throughout the lifecycle remain weak.
+23. This programme component will strengthen the decentralized health system, and
+enhance the capacity of district-level managers to identify bottlenecks, develop, implement
+and monitor local plans that can address equity gaps and improve the quality of services in
+two most deprived regions. Local improvement plans will address equity gaps and quality
+related to maternal and child health, nutrition, HIV and AIDS and water, sanitation and
+hygien. UNICEF will support modelling to demonstrate how the health system can
+meaningfully evolve to reduce equity gaps in access and significantly improve quality of
+healthcare. International knowledge-sharing, policy advice and technical assistance will
+
+5/16
+
+E/ICEF/2015/P/L.20
+
+enable the revision of normative and regulatory frameworks, as well as the costing and
+budgeting of key maternal and child health interventions.
+24. In order to address demand-side barriers related to caregivers’ inadequate childcare and
+development practices, this component will focus on strengthening the home visiting system
+by developing new policies with requisite budgets, as well as by enhancing capacity of
+patronage nurses. UNICEF will provide policy advice and technical assistance for modelling
+home visiting plans, in two of the most deprived regions, which will include critical areas for
+home visiting interventions, such as exclusive breastfeeding, infant and young child feeding,
+knowledge of dangers signs for pregnancy and child health, early childhood stimulation and
+hygiene promotion. This will also support cross-sectoral commitments to address child
+violence and neglect. The model will be evaluated, costed and then used for scaling up and
+leveraging resources. In support of these efforts, C4D strategies will address care practices
+for the most vulnerable children.
+25. This component will strengthen the existing health monitoring system, including
+developing real-time monitoring to generate evidence for policy development and health
+management and coordination. It will also work towards expanding the operating space to
+address adolescents’ issues through policy dialogue and C4D interventions, and support to
+children/adolescents living with HIV and AIDS.
+26. These interventions are linked to the national priorities for the development of new
+frameworks for quality, efficient and inclusive health care, as well as to the health care quality
+assessment system. UNICEF will work closely with the Ministry of Health, Ministry of
+Finance, their district departments and Khokimiyats, national and international academic and
+research institutions, as well as relevant United Nations agencies.
+Quality learning for all
+27. Uzbekistan has made efforts to progressively realize the right to education for all,
+including with the adoption of the Education Sector Plan (ESP). The comparatively high
+public investment in the sector shows commitment to education. Children enjoy full access
+to education as a result of supportive legislation and a well-established network of schools.
+However, quality education for all remains a challenge.
+28. The key determinants keeping the quality of education lower than expected in a middleincome country like Uzbekistan are a fact-based teacher-centred curriculum, the limited
+system of teacher development, the inadequate school management with a weak capacity to
+generate reliable educational evidence, and sporadic community and student participation in
+the education process.
+29. It is also important to note that awareness of emergency preparedness and response is
+limited in the country. There is limited school-based emergency planning and many students
+and teachers are not aware of how to properly respond or mitigate risks. Most schools have
+been found to have major non-structural safety shortcomings, increasing vulnerabilities of
+children and staff.
+30. The most critical bottlenecks for ECE are fragmented and incoherent policies and the
+rigidity of the education system, which inhibits the establishment of flexible and affordable
+quality alternative early education arrangements. Almost all existing programmes are too
+costly and not accessible to disadvantaged children. There is also limited understanding of
+the importance of pre-school education in the family and the community.
+
+6/16
+
+E/ICEF/2015/P/L.20
+
+31. The previous country programme focused on improving quality of preschool and school
+education, by introducing an alternative and affordable ECE programme with a curriculum
+based on contextualized Early Learning and Development Standards. In addition, the teacher
+training system was strengthened to include the additional workforce requirements, while
+child-friendly schools parameters were introduced as a basis for quality education. In-service
+and pre-service training systems were strengthened to promote child-centred teaching.
+32. This programme component will continue to address important bottlenecks and barriers
+to equitable quality education, and to improve access for vulnerable children to affordable
+preschool education. In ECE, UNICEF will support the Government to develop three lowcost alternative programmes and evaluate these models to develop appropriate policies for
+early learning and school readiness. This will strengthen the synergies between policies,
+effective management and cooperation on one hand, and the expansion of services on the
+other, with the aim of reaching the most vulnerable and excluded children. In order to address
+socio-cultural barriers to quality pre-primary and primary school education, UNICEF will
+support a comprehensive study of social norms and cultural beliefs and help to develop
+effective communication strategies to increase the demand for education services.
+33. This component will also assist the Government in its efforts to reform the education
+curriculum, and develop more professional competency-based learning/teaching for teachers
+and school managers. UNICEF will support strengthening the existing education monitoring
+system and its ability to measure whether system-level interventions do result in equitable
+learning outcomes for vulnerable children. A capacity-gap analysis will be conducted and an
+appropriate strategy mix designed to improve teacher recruitment, development and
+retention.
+34. This programme component will also raise awareness and improve emergency planning
+and response practices in schools and communities. UNICEF will support the Ministry of
+Public Education to develop communication programmes to improve hygiene behaviour in
+schools. This will result in better health for children, help reduce absenteeism, increase
+learning outcomes, improve communities’ health and empower children, especially those
+living in remote rural areas, to become agents of change.
+35. This component is closely linked to key national priorities aimed at developing new
+frameworks for quality education and building a national assessment system of quality of
+education in accordance with international standards, as well as at promoting greater access
+to ECE. UNICEF will continue to support the Child-Friendly Schools principles, focusing on
+learning achievement, and will promote the use of Out-of-School Children Initiative
+methodologies to generate disaggregated data on children dropping out, children not
+attending preschool education and CWD.
+Child protection
+36. Important efforts have been made in building evidence on the placement of children in
+institutions and to comply with international standards for Justice for Children. Significant
+results were achieved in establishing a gate-keeping mechanism to address children’s rights
+to protection. However, the child protection system still lacks a coherent national strategy
+that clearly identifies accountability structures and functions of Government agencies,
+establishes legislation, standards, statutory guidance and protocols, and stipulates procedures
+for service delivery through well-structured inter-agency and inter-ministerial linkages.
+Diversion mechanisms and alternatives to deprivation of liberty also need further
+development and implementation.
+
+7/16
+
+E/ICEF/2015/P/L.20
+
+37. The main supply-side bottlenecks that hinder a functional child protection system is the
+fragmentation of the protection mandate among different line Ministries and the weak intersectorial coordination, and the lack of a well-coordinated and well-resourced child protection
+system involving various actors. Another bottleneck is the limited data availability on child
+protection-related issues. There is inadequate public data on abuse, violence and neglect, and
+no systematic means of identifying and supporting children at risk, or children who suffered
+such violations. Investigations and proxy data have indicated that violence against children
+is significant, but is underreported. Demand-side barriers to preventing the violation of these
+rights, and which need be addressed as a matter of priority, include community awareness on
+domestic violence and acceptance of corporal punishment.
+38. A recent study17 shows that, although some safeguards do exist, the main bottlenecks
+to promoting the participation, protection and reintegration of child victims and witnesses of
+crime are the lack of legislative framework and services. In addition, the absence of
+specialized professionals, including specialized judges to consider cases with involvement of
+children in all court proceedings, represent another set of bottlenecks.
+39. This component will continue to provide high-level technical assistance to the
+Government, with a focus on policy development, system reform, and knowledge
+management at national level, and on monitoring childcare and protection gate-keeping
+systems at the subnational levels. UNICEF will make available the best technical expertise
+and practices to improve the legislative and normative frameworks for children in contact
+with the law, as well as to increase the capacity of the judiciary to apply child-friendly court
+procedures. In order to achieve a more functional child protection system, UNICEF will also
+provide technical assistance to strengthen the collection and analysis of child protection data
+that can help to develop and improve the legal, policy and regulatory frameworks.
+40. As a lesson learned from the previous country programme, this component will foster
+a long-term and sustainable vision for a functioning child protection system, by linking it to
+the broader social welfare and social protection systems, with an emphasis on developing a
+de-institutionalization strategy and preventing institutional placement. This component will
+also build inter-sectoral linkages with health and education to strengthen the capacity to
+identify cases of violence, neglect and abuse and address harmful practices and social norms.
+41. Given that the majority of children in institutions are CWD, a situation analysis will be
+conducted as a foundation for country-level advocacy and inclusive programming. The
+analysis will be conducted from a multi-sectoral perspective to establish a baseline and is
+expected to result in increased knowledge and awareness about the situation and rights of
+CWD.
+42. Being strongly rooted on evidence and firmly based on thorough analysis, this
+component will also encompass efforts to strengthening the child rights monitoring system,
+which will be applied as crosscutting strategy, and work synergistically with the other
+programme components.
+Cross-sectoral
+43. In order to achieve programme results, key programme strategies will include
+communication for social change to address social norms and socio-cultural practices and
+beliefs that are harmful to children, and represent the main structural barriers to the realization
+
+17
+
+Government of Uzbekistan/UNICEF, Analysis of compliance of national legislation with international standards related to Justice for Children, 2015.
+
+8/16
+
+E/ICEF/2015/P/L.20
+
+of child rights. In addition, data collection and analysis for child rights monitoring will be
+strengthened to support cross-sectoral linkages, so that decision-making on children is
+increasingly based on data which are timely, reliable and sufficiently disaggregated and thus
+enable the identification of the most vulnerable children, and can form the basis for policy
+dialogue for child rights and equity among policymakers, and with children themselves.
+Finally, innovative solutions to overcome bottlenecks and barriers will be modelled to scale
+up improved services after proper evaluation. This will be accompanied by technical
+assistance and capacity development for an equitable and sustainable delivery of these
+services.
+Summary budget table
+(In thousands of United States dollars)
+Programme component
+
+Regular
+resources
+
+Other
+resources
+
+Total
+
+Child health and well-being
+
+6 000
+
+4 500
+
+10 500
+
+Quality learning for all
+
+6 000
+
+5 000
+
+11 000
+
+Child protection
+
+4 525
+
+1 500
+
+6 025
+
+Cross-sectoral
+
+2 770
+
+2 500
+
+5 270
+
+19 295
+
+13 500
+
+32 795
+
+Total
+
+Programme and risk management
+44. This CPD outlines UNICEF contribution to results for children in Uzbekistan. It serves
+as the primary unit of accountability to the Executive Board. Accountabilities of managers at
+the country, regional and headquarters levels with respect to this country programme are
+prescribed in the organization’s programme and operations policies and procedures and the
+internal controls framework.
+45. Cross-sectoral linkages will be enhanced by mobilizing top-notch technical expertise in
+communication for social change, evidence generation and knowledge management, and
+emergency preparedness and response, in support to all relevant results across programme
+components. Intersectoral working groups will be established to ensure linkages across the
+three main stages of the life cycle, and to tackle cross-cutting issues such as disabilities,
+deinstitutionalization and HIV and AIDS. The country programme will evolve towards
+greater engagement on evidence-based dialogue and resource-leveraging, which are core
+roles in middle-income countries.
+46. The limited availability of evidence may negatively influence decision-making and
+hinder proper measurement of results. The ongoing dialogue with line Ministries and the SCS
+will build on the significant progress made in 2014 that led to Uzbekistan re-joining the
+Transformative Monitoring for Enhanced Equity (TransMonEE) database after seven years,
+and will strive for further improving the access and quality of evidence and knowledge on
+the situation of child rights.
+47. The 2014 CPE found that the scope for dialogue and action between the parties of the
+country programme of cooperation varies across child rights and priority areas. In view of
+
+9/16
+
+E/ICEF/2015/P/L.20
+
+the gains still to be made in the programme operating space, some priority results will require
+a longer time to be achieved, and therefore specific milestones will be monitored throughout
+the programme cycle to ensure that there is sustained progress towards programme goals. To
+this end, the country programme will make strategic investments in key knowledge areas,
+especially through child rights monitoring.
+
+Monitoring and evaluation
+48. A critical bottleneck to the equitable realization of children’s rights relates to the
+features of national monitoring systems and accountability mechanisms. Though a long-term
+goal, the country programme will increasingly focus on enhancing managerial and quality
+assurance functions to facilitate quality improvement of social services and systematic focus
+on the most vulnerable. Data collection systems will be strengthened to foster the production
+of indicators and related data that are aligned with international standards, and where the
+quality of the information is enhanced, including with greater disaggregation and analysis.
+49. National monitoring and evaluation systems will be strengthened through sectoral and
+inter-sectoral approaches. Partnership with United Nations agencies will be critical. The
+programme will be implemented in coordination with UNDAF results groups, thus ensuring
+coherence across United Nations agencies, in line with a flexible and context-specific
+application of the Delivering as One Standard Operating Procedures.
+50. Through the use of a rolling Situation Analysis, the country programme will regularly
+track the situation of children and women and, based on the MoRES methodology, it will
+also track changes in the bottlenecks and barriers determining inequalities and measure
+progress against their elimination.
+51. Each of the three outcomes will be evaluated once during the programme cycle, while
+annual and thematic reviews will be informed by periodic assessments. Selected impact
+evaluations will inform policy decisions for scaling up models that meet international
+standards and best practices that promote the best interests of children.
+
+10/16
+
+E/ICEF/2015/P/L.20
+
+Annex
+Results and resources framework
+Uzbekistan-UNICEF country programme of cooperation, 2016-2020
+Convention on the Rights of the Child articles: 5,6,7,12,18,19,20,23,24,26,28,29,32,33,36,37,39
+National Priorities:
+ Sustainable Development Goals:1,2,3,4,5,6,10,11,13,16,17
+ 2014-2016 Universal Periodic Review National Action Plan (NAP)
+ 2013-2017 Education Sector Plan
+ 2015-2020 State Programme on preschool development
+ 2014-2018 State Programme on further strengthening reproductive health of population, maternal, children and adolescent healthcare
+ 2013-2017 Strategic Programme on combating HIV and AIDS
+ 2015-2018 NAP on prevention and treatment of helminthiasis among children
+ Committing to Child Survival: A Promise Renewed; Scaling Up Nutrition;Global Partnership for Education
+UNDAF outcomes involving UNICEF:
+Outcome 1: By 2020, equitable and sustainable economic growth through productive employment, improvement of environment for business, entrepreneurship
+and innovations expanded for all
+- Status of development and approval/endorsement of national Sustainable Development Goals and system of monitoring
+Outcome 2: By 2020, vulnerable groups benefit from an inclusive, financially sustainable and efficient social protection system
+- Public spending on social allowances as % of gross domestic product
+- Share of social benefits in the structure of disposable income of families that receive social benefits
+- Share of female-headed vulnerable households covered by social protection schemes
+Outcome 3: By 2020, children and women in need of protection are covered with comprehensive support in line with human rights standards
+- Number of children in residential care
+- Availability of functional child protection gatekeeping system
+- Availability of normative framework to provide comprehensive care and support to women and children at risk of potential domestic/gender-based violence
+Outcome 4: By 2020, all people benefit from quality, equitable and accessible health services throughout their life course
+
+E/ICEF/2015/P/L.20
+
+- Percentage of health facilities (maternities, children hospitals and PHC facilities) in targeted regions applying World Health Organization (WHO)/UNICEF
+newborn and child survival standards1/protocols
+- Coverage by measles vaccine for children under 24 months
+Outcome 5: Continuous quality education as well as lifelong learning for all improved by 2020
+- Preschool gross enrolment ratio (2-7 years old)
+- Compliance of monitoring and evaluation system of the quality of Early Childhood Education and Care with “State Requirements for Preschool Education”
+- Proportion of students (grades 5 and 9) whose learning outcomes comply with the requirements of State Educational Standards
+Outcome 6: By 2020, rural population benefits from sustainable management of natural resources and resilience to disasters and climate change
+- 7% of rural communities in disaster-prone areas able to apply proactive disaster risk reduction activities (including through modern ICT) according to Hyogo
+and Post- Hyogo Framework for Action
+Outcome 7: By 2020, the quality of public administration is improved for equitable access to quality public services
+- Extent to which public institutions provide, use and assess quality data for evidence-based policy-making
+- Extent to which data is accessible, including through open Government/open data national mechanism, and used by media and civil society organizations
+(CSOs) for public oversight
+Outcome 8: Legal and judicial reforms further ensure strong protection of rights, freedoms and legitimate interests of citizens
+- Percentage of criminal and civil court cases involving children in which courts apply child-sensitive procedures in line with adopted standards (in priority
+geographical areas)
+Related UNICEF Strategic Plan outcomes: 1,2,3,4,5,6,7
+
+1
+
+WHO/UNICEF standards: Effective perinatal care; Essential newborn care; Managing newborn problems; Newborn resuscitation; Home visits for the newborn child; Integrated Management of
+Childhood Illness; Hospital care for children; Expanded Programme on Immunization; Infant and young child feeding; Vitamin A supplementation for infants and children 6-59 months; Prevention of
+mother-to-child transmission antiretroviral therapy for HIV infection in infants and children; Adolescent HIV counselling and care
+
+12/16
+
+E/ICEF/2015/P/L.20
+
+UNICEF
+outcomes
+
+Key progress indicators, baselines and targets Means of
+verification
+
+Indicative country
+programme (CP) outputs
+
+Major partners,
+partnership
+frameworks
+
+Indicative resources
+by CP outcome (in
+thousands of United
+States dollars)
+RR
+OR
+Total
+Health Facility 1.By 2020, health managers
+Ministry of Health, 6 000 4 500 10 500
+By 2020
+Proportion of mother and child health care
+mothers and
+facilities correctly applying newborn and child Survey
+have increased capacity to
+Ministry of
+children,
+survival standards
+implement evidence-based and Finance and their
+especially the Baseline: by 2015
+equity-focused district health regional
+(By regions and tracers3)
+most
+system strengthening plans,
+departments, sister
+vulnerable,2
+Target: TBD
+including
+in
+emergencies
+UN agencies,GIZ
+have access to
+quality
+Proportion of children aged 2-59 months
+healthcare
+receiving medical care by General Practioner
+2. By 2020, national authorities
+KAP survey on have increased capacity to
+services
+doctors according to approved
+household
+(individual and protocols/standards
+formulate evidence-based
+Baseline: by 2015
+behaviours
+population
+regulatory framework and
+(By regions and tracers)
+based),
+budgets for key maternal,
+Target: TBD
+including in
+newborn, child and adolescent
+emergencies
+Proportion of children aged 0-59 months with
+health packages of
+symptoms of pneumonia taken to appropriate
+health provider services4
+interventions
+Baseline: by 2016
+(By regions)
+3.By 2020, health providers
+Target: TBD
+and communities have
+increased capacity to provide
+Proportion of mothers/caregivers in target
+counselling and support to
+(models) regions who practice recommended
+caregivers and children from
+key behaviours:
+pregnancy to adolescence
+UNGASS
+a. Exclusive breastfeeding (under 6 months)
+(United
+
+2
+
+Vulnerable children are children living in the most deprived rural areas of disadvantaged regions of Karakalpakstan, Kashkadarya and Surkhandarya, CWD, children in institutions, and
+children/adolescents living with HIV and AIDS.
+3
+Tracers are dimensions of care with the most critical bottlenecks, i.e., normal delivery, case management and sick newborn care, management of pneumonia in hospital
+4
+WHO international standards for appropriate health provider service.
+
+13/16
+
+E/ICEF/2015/P/L.20
+
+Nations
+Timely initiation of complementary feeding General
+Assembly
+(6-12 months)
+Special Session
+c. Knowledge on danger signs for children (0-59 on HIV/AIDS)
+report
+months)
+Baseline for a/b/c: by 2016
+(By regions)
+Target for a/b/c: TBD
+b.
+
+Mother to child HIV transmission rate
+Baseline: 3.4%
+Target: under 2%
+By 2020, girls Preschool gross enrolment ratio (GER) (2-7
+and boys
+years old)
+Baseline: 23.3% (regional gap: 47pp.)
+benefit
+equitably from Target: 45%5 (maximum regional gap: 27pp.)
+improved
+preschool
+Proportion of school children (grades 5 and 9)
+education and whose learning outcomes comply with the
+enhanced
+requirements of State Educational Standards
+quality of basic Baseline: 63.4% (regional gap: TBD6pp; gender
+gap: TBD pp)
+education
+Target: 70% (regional gap: TBD/2; gender gap:
+including in
+TBD)
+emergencies
+
+Ministry of
+Public
+Education
+(MoPE)
+Statistical
+Yearbook
+
+1.By 2018, MoPE has revised
+Early Childhood Education
+policy frameworks for
+improved access to equitable
+quality preschool services
+2.By 2019, MoPE has
+increased capacity to deliver
+and measure learning in line
+with a competency-based
+curriculum
+
+MoPE, MoH,
+MinFin and
+Emergency
+Situations, State
+Committee on
+Statistics (SCS),
+Regional
+authorities, local
+education group
+
+6 000
+
+5 000 11 000
+
+3.By 2020, local education
+authorities and communities
+are equipped with tools and
+skills to encourage demand for
+quality basic education and
+preschool services
+
+5
+6
+
+Currently GER disaggregated by gender is not available for preschool education in the country. UNICEF will work with the Government to ensure availability of data by the end of the CP.
+UNICEF is working with the Government to ensure reliable data on regional and gender gaps are available by end-2015.
+
+14/16
+
+E/ICEF/2015/P/L.20
+
+4.By 2020, line Ministries7 are
+equipped with tools and skills
+to promote safe behaviour
+practices among children and
+communities before and during
+emergencies
+By 2020, the
+most
+vulnerable girls
+and boys,
+increasingly
+access
+prevention and
+response
+services to
+address
+violence,
+neglect and
+abuse
+
+SCS official
+data
+
+1.By 2020, Government has
+increased capacity to apply
+systematic approach in
+addressing child protection
+issues in line with international
+Assessment of good practices
+Percentage of civil and criminal court cases
+involving children in which courts apply child- judicial
+sensitive procedures in line with international practices
+2.By 2020, justice
+standards9 (in priority areas)
+professionals have increased
+Baseline: by 2015
+capacity to manage cases
+(By civil and criminal proceedings)
+involving children in contact
+Target: TBD
+with the law according to
+international standards.
+Number of girls and boys admitted into
+residential institutions8 (annually)
+Baseline: By 2015
+Target: TBD
+
+3.By 2020, education and
+health front line workers have
+increased capacity to identify
+
+4 525
+MoPE, MoH,
+Ministries of
+Labour/Social
+Protection, Justice,
+and Interior,
+Prosecutor
+General’s Office,
+Supreme Court,
+Commission on
+Minors, nongovernmental
+organizations, ,
+subnational
+authorities,
+academia
+
+1 500
+
+6 025
+
+7
+
+MoPE, MoH, MoES
+Residential institutions: Baby homes are residential care institutions under the MoH for under 3 orphans and children left without parental care and children with challenges in psycho-physical
+development. Mekhribolik homes are residential care institutions under the MoPE for 3-16 orphans and children without parental care. Children’s towns are residential care institutions under the MoPE
+for 0-16 children left without parental care.
+9
+List of standards to be considered: specially trained judges; access to/presence of defence lawyer at all stages; independent legal representative/lawyer appointed for a child in a case of conflict of
+interest between child and parent/caregiver; timely completion of children’s cases; in-camera court proceedings; conducive environment ensuring child/juvenile participation/expression of his/her views;
+use of language appropriate to child’s age/level of understanding; prevention of child victim from having contact with perpetrator when giving testimony in court.
+8
+
+15/16
+
+E/ICEF/2015/P/L.20
+
+children at most risk to suffer
+from violence and abuse and
+apply referral protocols
+4.By 2020, authorities at all
+levels and CSOs have
+increased capacity to
+effectively contribute to child
+rights monitoring and reporting
+Cross-sectoral
+
+Effective development, planning, coordination,
+communication, delivery and monitoring of
+country programmes results.
+
+Periodic
+reviews and
+evaluations of
+programme
+components
+
+Tools, guidance and resources
+are available to the country
+programme for effective
+communication on child rights
+issues with all stakeholders
+
+2 770
+
+2 500
+
+5 270
+
+Strategies to address crosscutting issues related to child
+rights implemented.
+Guidance, tools and resources
+to effectively design and
+manage programmes are
+available to UNICEF and
+partners
+Total resources
+
+19 295 13 500 32 795
+
+________
+
+16/16
+
+

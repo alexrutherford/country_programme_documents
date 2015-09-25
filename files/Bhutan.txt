@@ -1,0 +1,875 @@
+Bhutan
+Common country programme document
+2014-2018
+
+The draft common country programme document for Bhutan
+(DP/FPA/OPS-ICEF/DCCP/2013/BTN/1 and Add.3), was presented
+to the Executive Board for discussion and comments at its 2013
+annual session (18-21 June 2013).
+The document was subsequently revised, and this final
+version, which includes the UNICEF results and resources
+framework, was approved at the 2013 second regular session of the
+Executive Board on 6 September 2013.
+
+Contents
+Page
+I.
+
+Introduction ..................................................................................................................... 3
+
+II.
+
+Situation analysis ............................................................................................................. 3
+
+III.
+
+Past cooperation and lessons learned ................................................................................ 7
+
+IV.
+
+Proposed programme........................................................................................................ 8
+
+V.
+
+Programme management, monitoring and evaluation ...................................................... 13
+
+Annex
+I.
+
+2
+
+UNICEF results and resources framework for Bhutan, 2014-2018 ................................... 16
+
+I. Introduction
+1.
+UNDP, UNFPA and UNICEF have developed a draft common country
+programme document for 2014-2018, building on the One United Nations
+Programme (hereinafter referred to as the One Programme), which encompasses
+the United Nations Development Assistance Framework (UNDAF) and the
+UNDAF Action Plan. The draft common country programme document reflects
+the strategic priorities and key results of the One Programme, with
+complementary, organization-specific results and resources frameworks. It seeks
+to promote United Nations coherence and enhance joint programming to support
+national development objectives.
+2.
+In 2008, Bhutan adopted the ‘delivering as one’ approach. That approach
+seeks to increase the effectiveness and impact of the United Nations by
+increasing the coherence of programmes and reducing the transaction costs for
+implementing partners. The draft common country programme for Bhutan
+follows this approach to: (a) highlight cross-cutting issues; (b) strengthen
+synergies; (c) reinforce complementarities; and (d) remove duplication, in order
+to enhance efficiency and effectiveness in achieving focused results. The draft
+programme also reduces the review burden for the Government and enables
+participating organizations to harmonize their efforts and articulate areas of
+cooperation.
+
+II. Situation analysis
+3.
+Bhutan is a small, landlocked country in the eastern Himalayas, bordered
+to the south, east and west by India and to the north by China. It is one of the
+youngest democracies in the world, with a population of just over 720,000.1 The
+concept of ‘gross national happiness’ in Bhutan promotes a balanced approach
+to development that encompasses good governance, environmental
+conservation, cultural preservation and community vitality, in addition to
+traditional socioeconomic indicators. Building on United Nations General
+Assembly resolution 65/309 on happiness, Bhutan has contributed to the global
+dialogue on holistic and sustainable development, including the United Nations
+post-2015 development agenda.
+4.
+The economy of Bhutan, with a real gross domestic product growth rate of
+8.51 per cent (down from 11.68 per cent in 2010)2 has experienced robust
+growth. The development of the country is largely dependent on the
+sustainability of its natural resources, with hydropower, tourism and agriculture
+serving as the main sources of revenue. The Eleventh Five-Year Plan, 2014__________________
+1
+2
+
+The National Statistics Bureau indicates a total population of 720,679 (2012).
+National Statistics Bureau, 2012.
+
+3
+
+2018, reflects the importance of these issues, focusing on self-reliance and
+inclusive, ‘green’ socioeconomic development.
+5.
+With a per capita income of $2,070 in 2011, Bhutan ranks in the lower
+middle-income bracket of the World Bank classification of national economies.
+However, Bhutan remains on the list of least developed countries. In its 2009
+review, the United Nations Committee for Development Policy rated the
+economic vulnerability of Bhutan at 52.9 per cent, based on factors such as
+exposure to natural shocks and disasters and to structural constraints inherent in
+the country. The economic vulnerability index places Bhutan in the mid-range
+of least developed countries, suggesting a high degree of vulnerability.3
+6.
+Pockets of poverty exist. The poverty rate is 12 per cent nationwide and
+16.6 per cent in rural areas. Approximately 98 per cent of the poor participate in
+a subsistence economy that is dominated by rain-fed agriculture, the raising of
+livestock, and forestry. In many rural communities, residents live close to the
+poverty line and are vulnerable to environmental shocks, including natural
+disasters.
+7.
+The increased frequency of natural disasters and the country’s
+vulnerability to climate change add urgency to efforts to address the threat of
+natural hazards. This trend is likely to place pressure on socioeconomic assets,
+particularly in rural areas.
+8.
+The production of hydropower is capital intensive. Its low labour
+requirements and job profiles are ill-suited to the skills of the local labour
+market and have hampered the creation of local jobs. While overall
+unemployment is low at 2.1 per cent,4 youth unemployment is significantly
+higher (7.3 per cent). Underemployment is a major development challenge. The
+underemployed as a percentage of the total working population increased from
+5.5 per cent in 2006 to 14.6 per cent in 2012. While the gender gap in
+unemployment has narrowed in recent years, jobs held by women tend to have
+less favourable conditions than those held by men.
+9.
+The 2007 Gini index for Bhutan, at 0.38, was among the highest in South
+Asia, with consumption of the richest quintile four times that of the poorest 20
+per cent of the population. One of the foremost challenges is to reduce
+disparities between rural and urban areas and among regions, districts and
+blocks (geographical administrative units consisting of groups of villages), in
+order to achieve the Millennium Development Goals. Based on the
+__________________
+3
+4
+
+4
+
+Bhutan Round Table Meeting Background Paper, 2011.
+National Labour Force Survey, 2012.
+
+multidimensional poverty indicator analysis, rural areas are poorer than urban
+areas, and the Eastern region is poorer than the Western and Central regions.
+10. The Government has identified urbanization as an important emerging
+challenge, since more than 31 per cent of the total population lives in urban
+areas. By 2020, this percentage is expected to increase to between 50 and 73 per
+cent. The rapid rate of urbanization is expected to lead to: (a) worsening
+congestion; (b) stress on sanitation and waste-management services;
+(c) environmental degradation; (d) urban poverty; (e) unemployment; and
+(f) underemployment.
+11. Bhutan has improved social outcomes, especially in health and education,
+with children and women as the main beneficiaries. It has achieved a number of
+Millennium Development Goal targets, including those related to underweight
+children and the ratio of girls to boys in basic education. However, Bhutan still
+lags behind other countries in South Asia on some indicators, such as the
+Millennium Development Goal targets for reducing the under-five mortality rate
+by two thirds and reducing the maternal mortality ratio to below 140 maternal
+deaths per 100,000 live births by 2015.
+12. Chronic malnutrition exists among young mothers and among children
+under five. An estimated one third of children under the age of five suffer from
+some form of stunting. Addressing these challenges will require a
+comprehensive approach focusing on issues related to: (a) a healthy
+environment; (b) safe water and sanitation; (c) proper childcare; (d) exclusive
+breastfeeding; (e) education; and (f) the health of mothers.
+13. Although past initiatives have improved the quality of education in
+Bhutan, additional investments are required to further improve its quality and to
+ensure equitable access to education for all children, especially rural and out-ofschool children.
+14. The low contraceptive prevalence rate (48 per cent) has increased the
+population’s vulnerability to reproductive health problems. The prevalence rate
+of sexually transmitted infections is high and is increasing. Although overall
+HIV prevalence is low, it is high among females. More than 50 per cent of those
+infected with HIV are economically productive. Given the high adolescent
+fertility rate (59 births per 1,000 women aged 15-19), there is a need to focus
+attention on adolescent sexual and reproductive health, including issues related
+to behaviour, safety, social relationships, self-esteem, education and skills
+development.
+15. Rapid changes in society have increased the vulnerability of some
+population groups and increased the need for more formal systems of support.
+5
+
+Vulnerable groups are defined as: (a) youth; (b) vulnerable children; (c) single
+parents; (d) victims of gender-based violence; (e) differently abled people; and
+(f) senior citizens. The Eleventh Plan recognizes the importance of addressing
+the needs of these groups. The national youth policy, 2011, and the national plan
+of action on child protection, 2012, outline the holistic approaches required in
+these areas.
+16. Nearly one in four ever-married women aged 15-49 reported experiencing
+some form of domestic violence involving their husbands. Many of these
+women are from poor households and have no formal education. At the same
+time, 68 per cent of women reported having an ‘accepting’ attitude towards
+domestic violence. Parliament enacted a domestic violence prevention bill in
+March 2013.
+17. Women and girls lag behind in: (a) participation in politics and in the
+labour force; (b) literacy rates; and (c) participation in tertiary education. In
+2012, the literacy rate was 65 per cent for males and 38.7 per cent for females.
+Even among youth, male literacy is higher (87 per cent) than female literacy (80
+per cent).
+18. Since the transition to a parliamentary democracy in 2008, the
+Government has sought to strengthen democratic governance. However, there is
+a need to promote the active participation of the population in governance, with
+a focus on youth. Access to justice may be denied when those requiring
+assistance do not have the capacity to demand it. This can result from: (a) low
+awareness of available legal services; (b) limited physical access; and (c)
+insufficient legal and paralegal services.
+19. Since 2008, Bhutan has made progress in decentralization. Nevertheless,
+the limited capacity of local governments has impeded effective service delivery
+as well as efforts to increase resilience to natural hazards and economic shocks.
+Capacity constraints affect planning, budgeting, public-finance management and
+procurement. Such constraints also affect the mainstreaming of cross-cutting
+issues such as gender equality, climate change and disaster management.
+20. Non-governmental entities play an important role in expanding democracy
+and in delivering services. Since 2010, the number of civil society organizations
+that are formally registered in the country has increased from a few to 26. There
+is a need to increase the capacity of civil society organizations and other nongovernmental entities, including academia, the private sector, learning
+institutions and farmers’ associations, to support democracy and the delivery of
+services. There is also a need to engage the media as a development-change
+agent.
+
+6
+
+III. Past cooperation and lessons learned
+21. To provide a common operational framework, the first common country
+programme action plan, 2008-2013, focused on: (a) generating income and
+employment in targeted poor areas; (b) increasing access to and utilization of
+high-quality health services; (c) increasing access to high-quality education for
+all, while ensuring gender equality; (d) strengthening institutions and people’s
+participation; and (e) strengthening the national capacity for environmental
+sustainability and disaster-risk reduction, while mainstreaming gender concerns.
+Technical support provided to different national entities resulted in increased
+awareness of gender-responsive governance and better coordination of resourcemobilization efforts and assistance in response to the earthquakes of 2009 and
+2011.
+22. The UNDAF midterm review noted that through the ‘delivering as one’
+approach, United Nations interventions had become more relevant, more
+responsive to local needs and more sustainable, with greater transparency and
+accountability. An evaluation of the gender outcome highlighted the need to
+focus on gender mainstreaming and to institutionalize gender-responsive
+budgeting. The proposed programme therefore raises gender equality to the
+outcome level, while mainstreaming the economic empowerment and political
+participation of women. An evaluation of the environmental outcome underlined
+the potential to strengthen linkages between environmental management and
+poverty alleviation, which has been reflected in the proposed outcome on
+sustainable development.
+23. An evaluation of capacity development indicated that there were
+opportunities to mainstream capacity development in all programmes, using a
+structured approach that focuses on individual, organizational and institutional
+levels. An evaluation of the poverty outcome stressed the need for job creation
+for youth. The proposed sustainable development outcome therefore includes
+expanded income-generation opportunities for youth. The focus on
+strengthening local financial management reflected in outcome four is based on
+the recommendations of an evaluation of decentralization efforts.
+24. Joint monitoring efforts helped national and United Nations partners
+assess needs and target activities more holistically. Midyear and year-end
+progress reviews by the theme groups, under their respective UNDAF outcomes,
+led to adjustments in the programme. Annual workplans, agreed by government
+counterparts and United Nations counterparts in each theme group, fostered
+coherence and alignment with national priorities. The workplans also
+streamlined planning and budgeting procedures. While the midterm review
+clearly highlighted the benefits of ‘delivering as one’, it also found that:
+(a) some programme activities were fragmented; (b) synergies were not always
+7
+
+optimized; and (c) additional joint field monitoring efforts would have been
+beneficial.
+
+IV. Proposed programme
+25. The goal of the draft common country programme is to support Bhutan in
+achieving the national key result areas under the Eleventh Plan. Working in
+collaboration with development partners, the three organizations will support:
+(a) upstream policy advice; (b) capacity strengthening at individual,
+organizational and institutional levels; and (c) the promotion of service demand
+and utilization within civil society and the private sector.
+26. The draft programme will also: (a) promote a sustainable, ‘green’
+economy while addressing poverty in rural and urban areas, and will advance
+adaptation to climate change and increased resilience to disasters; (b) provide
+more equitable access to high-quality basic services and social protection; (c)
+protect and promote the rights of women and children; and (d) consolidate
+participatory democratic governance.
+27. The programme will use analyses of population dynamics to guide
+increased investments in gender equality, youth development, reproductive
+health, the prevention of HIV/AIDS, and maternal and child health. These
+investments will seek to improve the quality of life of the population, promote
+sustainable development and reduce poverty. The programme will also support a
+multisectoral approach to increasing the access of young people to youthfriendly services and life skills-based education.
+28. The draft common country programme will focus on those areas in which
+the three organizations have comparative advantages. These areas are reflected
+in the output-level results under each of the four outcomes, which were selected
+from the new One Programme. In areas where there is convergence, synergy and
+complementarity among the three organizations, such as disaster-risk reduction,
+gender equality and the empowerment of women, youth, and vulnerable people,
+the programme will jointly achieve results.
+29. The draft common country programme will also support follow-up by the
+Government to universal periodic reviews, international conventions and other
+instruments that the Government has ratified. These include: (a) the Convention
+on the Elimination of all Forms of Discrimination against Women; (b) the
+Convention on the Rights of the Child and its two optional protocols;
+(c) the Programme of Action of the International Conference on Population and
+Development; (d) the Istanbul Programme of Action for the Least Developed
+Countries for the Decade 2011-2020; (e) the United Nations Conference on
+Sustainable Development (Rio+20); and (f) the Hyogo Framework for Action.
+
+8
+
+30. The draft programme will draw upon the global and regional knowledge
+networks of partner organizations to share best practices and foster South-South
+cooperation. It will take advantage of opportunities to improve public-private
+partnerships, and will advocate with policymakers to improve inclusiveness in
+policy processes so that the voices of the most vulnerable are heard.
+Outcome one - sustainable development: By 2018, sustainable and
+‘green’ economic growth that is equitable, inclusive, resilient to climate
+change and natural disasters, and promotes poverty reduction and
+employment opportunities, particularly for vulnerable groups, is
+enhanced.
+31. Sustainable and ‘green’ economic growth. In order to promote
+sustainability, inclusive growth and poverty reduction, the draft common
+country programme will support policies, capacity-building and innovative
+actions with regard to natural-resource management, climate-change adaptation
+and mitigation, and access to renewable energy. The draft programme will seek
+to strengthen linkages between environmental management and income
+generation. In order to promote ‘green’ businesses and income-generating
+opportunities, in particular for vulnerable people, including youth and women,
+the programme will support efforts to link the demand for and supply of labour,
+in partnership with the Government, civil society and the private sector.
+32. To reduce geographical disparities, the draft programme will provide
+targeted rural communities with access to the knowledge and skills that will
+enable them to develop business plans, and will provide cooperatives and
+farmers’ groups with access to microcredit and market opportunities. Building
+on the recommendations of a 2012 diagnostic trade integration study, the draft
+programme will strengthen the institutional capacity to develop value chains to
+promote Bhutanese products, diversified trade and inclusive growth.
+33. Disaster-risk reduction. The Government approved a disaster-management
+bill in February 2013. The draft common country programme will seek to
+strengthen national and local institutions as well as strengthen their coordination
+capacity. Reducing urban risks will be a priority of the programme. This will
+include issues such as mandatory building codes, by-laws for safe building
+construction, and risk-sensitive land-use plans. Recognizing the likelihood of
+increased frequency in hydro-meteorological hazards due to climate change, the
+draft common country programme also emphasizes improving preparedness and
+adaptation practices, including strengthening early-warning systems and
+response mechanisms.
+Outcome two - essential social services: By 2018, there is increased and
+equitable access to, utilization of and quality of inclusive, essential social
+9
+
+services for all, with a focus on sustaining the Millennium Development
+Goals and addressing emerging challenges.
+34. Education. Technical and financial assistance to pilot and expand
+innovative approaches will help to strengthen the enabling environment and
+improve the quality of service delivery. The draft common country programme
+will focus on the national education policy, in particular with regard to:
+(a) quality and equity in education; (b) early childhood care and development;
+and (c) special-needs education and non-formal education.
+35. The draft common country programme will strengthen systems and
+services to deliver high-quality education, focusing on evidence-based decisionmaking, including the education management information system. This will
+facilitate efforts to track and monitor all children in the educational system. The
+draft programme will incorporate data into the management information system
+on general school education, early childhood care and development, specialneeds education and non-formal education.
+36. The draft programme will enhance the capacity of education partners at
+two levels. At the organizational level, support will improve the capacity to
+determine and assess learning outcomes at different levels of school education
+and contextualize education within the framework of child-friendly schools and
+life-skills education, including sexuality education and ‘educating for gross
+national happiness’. At the individual level, the draft common country
+programme will enhance the capacity of district education officers, principals
+and teachers.
+37. Youth-friendly services. Cognizant of the needs of youth in Bhutan, the
+three organizations will contribute to improved access to and utilization of
+youth-friendly services, with a focus on reaching the most vulnerable youth,
+thereby contributing to the implementation of the national youth policy and
+action plan.
+38. Health, nutrition and water and sanitation. The Eleventh Plan highlights
+the need to strengthen health systems and promote efficiency in financing and
+delivering health services. To this end, the draft common country programme
+will strengthen the technical and analytical capacity of relevant government
+institutions in order to continue the provision of free basic health services and to
+adapt the health system to the ongoing demographic and epidemiological
+transition. The draft common country programme will also explore opportunities
+to foster convergence, synergy and complementarity among the approaches and
+interventions of the three organizations.
+
+10
+
+39. The draft common country programme will strengthen the capacity of
+non-governmental organizations and government institutions at national, district
+and block levels in order to reduce under-five and maternal mortality, and
+prevent HIV and malnutrition. The draft programme will foster convergence and
+synergy to reduce teenage pregnancy and substance abuse among youth and
+adolescents. The programme will include interventions in gender equality to
+improve the capacity of health facilities and non-governmental organizations to
+provide services to victims and survivors of gender-based violence. The
+programme will also support the provision of safe water and sanitation facilities
+in schools and monastic institutions, including nunneries, while strengthening
+the capacity to utilize, maintain and sustain these services.
+40. The draft common country programme will strengthen the institutional
+capacity to identify and increase understanding of prevailing social norms,
+knowledge and practices that hinder the demand for maternal and child health
+services and optimal family practices.
+41. Communication for development. The draft common country programme
+will strengthen the capacity of implementing partners, including the media, to
+develop and implement strategies, with a focus on increasing the utilization of
+high-quality social services, including institutional deliveries, postnatal care and
+optimal health services. Interventions will focus on understanding and
+addressing the role of social norms and cultural practices. These interventions,
+including innovative communication approaches and campaigns that build
+knowledge and increase skills, will seek to promote behavioural change among
+individuals that are most at risk, as well as among the general public.
+Outcome three - gender equality and child protection: By 2018,
+communities and institutions are strengthened at all levels to achieve
+enhanced gender equality and the empowerment and protection of women
+and children.
+42. All organizations will support interventions to repeal or amend the
+discriminatory provisions of existing laws. The organizations will also advocate
+the formulation of new legislation and policies and the monitoring and
+implementation of existing legislation and policies, to promote gender equality,
+women’s empowerment and the protection of children.
+43. Under the leadership of the National Commission for Women and
+Children, the draft common country programme will promote gender
+responsiveness in line ministries. The programme will achieve this by providing
+technical support in gender mainstreaming, through targeted actions, and
+through advocacy outreach efforts for civil society and the private sector. The
+programme will also support the establishment of information management and
+
+11
+
+monitoring and evaluation systems in the Commission to facilitate the
+formulation of evidence-based laws, policies and programmes that are relevant
+to the advancement of women and their participation in development. The
+United Nations will also assist the Government in implementing, and ensuring
+compliance with, the Convention on the Elimination of All Forms of
+Discrimination against Women, the Beijing Platform for Action and other
+gender-related conventions and treaties.
+44. United Nations organizations will work together to address gender-based
+violence, focusing on increasing access to and the quality of services, including
+protection, legal aid, and reintegration services. The organizations will also help
+to strengthen coordination among government and non-governmental service
+providers. To address the social norms, attitudes and practices that fuel genderbased violence, the draft programme will support interventions that engage men
+and boys as ‘champions’ in eliminating such violence. The programme will also
+provide technical support to non-governmental organizations, law enforcement
+agencies and the health system to develop a comprehensive referral system.
+45. To strengthen the protection of children from violence, abuse, exploitation
+and neglect, the United Nations will demonstrate the cumulative impact of an
+operational child-protection system at the district level. The programme will
+provide concentrated support to at least four pilot districts, to enable all elements
+of the system to operate synergistically. Interventions will include:
+(a) prevention, early intervention and protective responses; (b) efforts to
+strengthen supply and demand dimensions; and (c) efforts to ensure the genderresponsive service coverage of vulnerable children.
+Outcome four - democratic governance and participation: By 2018,
+governance institutions and communities exercise the principles of democratic
+governance at national and local levels, with a focus on inclusiveness,
+transparency, accountability and evidence-based decision-making.
+46. The draft common country programme will strengthen the management
+and use of statistics to promote effective and gender-responsive management of
+public finances. To ensure gender equality at national and local levels, the draft
+programme will introduce gender-responsive budgeting principles, which will
+be a development priority. The programme will enhance the efficiency and
+effectiveness of local governments in meeting the needs of local populations by
+introducing performance-based budgeting. It will also provide technical support
+to enhance the capacity of government agencies to carry out the timely
+monitoring of development programmes and projects, using the government
+planning and monitoring system.
+
+12
+
+47. The United Nations will seek to improve the availability of data and the
+use of statistics for evidence-based planning and decision-making at national
+and subnational levels. The draft common country programme will support the
+population and housing census, 2015, and the Bhutan multiple indicator survey,
+2017. The programme will continue to support the institutionalization of
+BhutanInfo (part of the DevInfo database system) and strengthen database
+systems at the lowest levels of Government to collect, analyse and increase the
+access of block-level planners to sex-disaggregated statistics. It will also
+strengthen the national capacity to institutionalize training on population
+research methods and policy analysis.
+48. Participation, the media and access to justice. To further expand the
+democratic culture, the draft programme will promote the informed and
+inclusive participation of civil society in policy discussions by developing the
+capacity of Bhutanese ‘think tanks’, academia and the media. The United
+Nations will support the gender-responsive and equitable participation of
+women and youth in decision-making processes at national and local levels. The
+programme will invest in youth-led groups to strengthen horizontal networks
+and connections among youth. Such efforts will promote peer-based solidarity,
+including among marginalized youths, and more inclusive public debates.
+49. The draft programme will also strengthen vertical linkages to ensure that
+youth have their voices heard by decision makers in order to influence political
+leadership, policies and programmes. In addition, the programme will support
+voter and civic education in urban and rural areas, in partnership with the
+Election Commission of Bhutan. To promote access to justice, in particular
+among vulnerable people, the programme will support public outreach efforts
+and informal justice mechanisms.
+50. Local governance. Building on past progammes, the draft common
+country programme will provide technical support to ensure the implementation
+of the 2012 local government rules and regulations to improve coordination
+between central government agencies and local governments. The draft
+programme will also enhance the capacity of local governments, particularly in
+the areas of planning, budgeting, public-finance management and procurement,
+to support rights-based development planning and implementation. At the same
+time, the draft programme will provide support to empower communities and
+increase their resilience to external shocks and natural hazards.
+
+V. Programme management, monitoring and evaluation
+51. The One Programme mainstreams the human rights-based approach by
+organizing the support of the United Nations in three main categories:
+13
+
+(a) facilitating policy development to create an enabling environment for the
+progressive fulfilment of human rights; (b) strengthening systems and services
+to make them more responsive, particularly to the needs of the most vulnerable,
+with a focus on developing the capacity of duty-bearers; and (c) promoting
+behavioural change, the demand for and utilization of services, and the
+empowerment of rights-holders at individual and community levels. The
+programme will employ this framework, applied throughout all four outcomes,
+to monitor programme implementation, remove bottlenecks and barriers, and
+achieve planned results.
+52. The three organizations are committed to monitoring the progress of the
+draft common country programme as part of their commitment to development
+effectiveness and accountability under the ‘delivering as one’ initiative. The
+programme will build on existing national statistical and monitoring systems.
+The One Programme monitoring and evaluation plan provides an overview of
+indicators to track progress against the planned development results by the
+Government, the United Nations and other contributing development partners.
+The United Nations will also support efforts to strengthen national evaluation
+capacity.
+53. The Government and the United Nations will implement the draft common
+country programme within the management and accountability structure of the
+One Programme. The results and resources frameworks of the three
+organizations are integral parts of the One Programme, to be signed by the
+United Nations and the Government.
+54. The Government, other national partners and United Nations partner
+organizations will plan, implement and periodically review annual workplans
+through joint theme groups that focus on the four outcomes. A joint
+Government-United Nations country programme board, co-chaired by the
+Secretary of the Gross National Happiness Commission and the United Nations
+Resident Coordinator, will monitor the results of the annual workplans. Board
+members will include senior officials of key national implementing partners and
+United Nations country team members. Partner organizations will also
+participate.
+55. The draft common country programme will apply the harmonized cashtransfer principles for the transfer of resources, leading to a simplification of
+procedures among the three organizations, as well as the World Food
+Programme. The programme will be executed nationally through four possible
+management arrangements: (a) direct cash transfer; (b) direct payment;
+(c) reimbursement; and (d) management by organizations, to be identified
+jointly. An assessment of the implementing partners, carried out jointly by the
+
+14
+
+Royal Audit Authority, the three organizations, and the World Food
+Programme, will determine the choice of the management arrangements.
+56. The United Nations, in conjunction with the Government, will
+commission a detailed evaluation in the penultimate year of the One Programme
+cycle. In order to maximize synergies between poverty reduction and
+environmental sustainability, the United Nations and the Government will also
+conduct a midterm review of outcome one. The evaluation of the programme
+will assess: (a) the relevance of each One Programme outcome; (b) the
+effectiveness and efficiency of the programme in achieving results; and (c) the
+sustainability of the results and their contribution to the goals of the Eleventh
+Plan.
+
+15
+
+16
+
+Annex
+UNICEF results and resources framework for Bhutan, 2014-2018
+Programme approaches and strategies across three outcomes:
+UNICEF directly supports outcomes 2, 3 and 4 of the four outcomes drawn from the One Programme, as detailed in the common nar rative
+of the present document. Particular attention is paid to convergence, synergy and complementarity among the approaches and activities of
+UNICEF, UNDP and UNFPA, especially relating to common indicators. The main programme approaches and strategies are the follo wing:
+1. Take a ‘Three dimensions’ approach for sector programmes: (a) policy: enabling environment; (b) systems: equitable and quality
+services; and (c) demand promotion and increased utilization of social services, including addressing social norms.
+2. Utilize communication for social and behavioural change.
+3. Promote capacity development both for service uptake and evidence -building.
+4. Undertake policy advocacy on priority issues, including child rights and child protection.
+5. Promote children and youth as agents of change to eliminate gender-based violence, including through capacity-building; develop a
+diversified partnership framework; and pilot models of child protection systems.
+6. Collaborate with the Gross National Happiness Commission on results -based planning and management for strengthening local
+government capacity.
+National priorities: Poverty reduced and MDG-Plus achieved; food security and sustainability; the needs of vulnerable groups addressed;
+integrated water utilization and management.
+Related agency focus areas: Young child survival and development; basic education and gender equality; HIV/AIDS; policy advocacy and
+partnerships for children’s rights.
+I. Outcome Two
+Indicators:
+1. Adjusted basic net enrolment rate (F/M). Baseline: 95%; Target: 100%.
+2. Adult (15+ years) literacy rate (F/M). Baseline: 59%; Target: 80%.
+3. Completion rate (secondary). Baseline: (M) 84% (F) 85%; Target: 100%.
+4. Under-5 mortality rate (disaggregated by sex, rural, urban). Baseline: National Health Survey, 2012 (to be set); Target: 40 per 1,000
+live births.
+5. Percentage of children under 5 stunted. Baseline: 33.5% (Bhutan Multiple Indicator Survey, BMIS); Target: below 30%.
+
+6. Institutional delivery rate. Baseline: 63% (Annual Health Bulletin); Target: 80%.
+7. Proportion of population (15-24 years) with comprehensive knowledge on HIV/AIDS. Baseline: 21%; Target: 60%.
+8. Assessment of inequities in access to services and health outcomes. Baseline: Assessment in 2013; Target: Follow-up assessment in
+2018.
+9. Adolescent fertility rate. Baseline: 59/1,000 (BMIS); Target: 50/1,000.
+Outputs, indicators
+Output 2.1: Strengthened systems capacity for improved Education Management
+Information System (EMIS) for evidence-based decision-making
+Indicators
+1. Evaluation/impact studies conducted on priority issues in education, including
+assessment of learning outcomes for primary education. Baseline: N/A; Target: 5.
+2. EMIS upgraded and fully institutionalized. Baseline: EMIS Version 2 available;
+Target: EMIS version 3 operational.
+Output 2.3: Stakeholders effectively plan, coordinate, implement and monitor
+quality and inclusive education services
+Indicators
+1. Number of colleges offering Gross National Happiness (GNH) instruction and Life
+Skills Education (LSE), and the number of teachers trained
+Baseline: GNH 0, LSE 1; Target: GNH 5, LSE 2. Baseline: 1,200 teachers trained;
+Target: all teachers and Resource Centre coordinators.
+2. Number of teachers trained in multi-grade teaching.
+Baseline: 476 (pre-service), 141 (in-service); Target: 900 (pre-service), 319
+(in-service).
+3. Number of Early Childhood Care and Development (ECCD) centres meeting
+minimum standards.
+Baseline: 78; Target: 300.
+4. Number of schools providing a special education programme. Baseline: 8;
+Target: 22.
+
+Partners and partnership
+frameworks
+Ministries of Education;
+Health, Home and Cultural
+Affairs; Labour and Human
+Resources; Royal Education
+Council; Dratshang; Royal
+University of Bhutan; district
+administrations; Bhutan
+Narcotic Control Agency;
+Royal Bhutan Police; Drug
+Regulatory Authority;
+non-governmental
+organizations (NGOs);
+youth-led groups; and media
+
+Resources
+Regular resources:
+$2,995,000;
+Other resources:
+$14,105,000
+
+17
+
+18
+
+5. Number of non-formal-education learners completing functional English literacy;
+including in (number of) monastic institutions.
+Baseline: 0; Target: 30,000 learners. Target: 50 monastic institutions.
+Output 2.4: Health facilities strengthened to provide quality maternal and child
+health care (newborn health and nutrition included) and sexual and reproductive
+health
+Indicators
+1. Number of health facilities with basic or comprehensive emergency obstetric and
+neonatal care services (with UNFPA). Baseline: 7; Target: 15.
+2. Number of hospitals and Basic Health Units (BHU) implementing Integrated
+Management of Newborn and Childhood Illnesses (IMNCI), growth monitoring, and
+early stimulation programmes.
+Baseline for IMNCI and growth monitoring: 174 BHUs and 27 hospitals; Target: 184
+BHUs and 30 hospitals. Baseline for ECCD: 0; Target: 30 hospitals and 100 BHUs.
+3. Percentage of HIV-positive pregnant mothers receiving antiretroviral therapy.
+Baseline: N/A; Target: 80%.
+4. Percentage of health facilities with vaccines, cold chain equipment and
+immunization supplies available. Baseline: 100%; Target: 100%.
+Output 2.5: Education systems have improved disaster preparedness and response
+plans
+Indicators
+1. Percentage of schools
+Baseline: N/A; Target: 40%.
+
+with
+
+emergency
+
+preparedness
+
+plans
+
+developed.
+
+2. Percentage of schools with focal points trained in emergency preparednes s.
+Baseline: N/A;
+Target: 50%.
+
+Output 2.6: Water, sanitation and hygiene in schools and monastic institutions
+effectively implemented.
+Indicators
+1. Percentage of schools and monastic institutions with sanitation facilities
+Baseline: schools 60%; monastic institutions/nunneries: N/A; Target: 85%.
+2. Percentage of schools and monastic institutions with a functional water supply
+Baseline: schools 70%; monastic institutions/nunneries: N/A; Target: 85%.
+3. Percentage of schools promoting key health and hygiene behaviours
+Baseline: schools 50%; monastic institutions/nunneries: N/A; Target: 90%.
+Output 2.7: Youths (in-school and out-of-school) have increased access to youthfriendly services.
+Indicator
+1. Number of districts with the capacity to deliver youth-friendly services (with
+UNFPA).
+Baseline: 0; Target: 6.
+Output 2.8: At-risk populations have enhanced knowledge and skills for improved
+health, nutrition and well-being.
+Indicators
+1. Percentage of women attending first and third postnatal care visits (with UNFPA).
+Baseline for first visit 70%; Target: 80%. Baseline for third visit: N/A; Target: 40%.
+2. Percentage of rural households reached by public health messages/programmes.
+Baseline: 0%; Target: 20%.
+National priorities: The needs of vulnerable groups addressed; gender-friendly environment established for women’s participation; Safe society.
+Related agency focus area(s): Basic education gender equality; child protection; policy advocacy and partnerships for children’s rights.
+
+19
+
+20
+
+II. Outcome Three
+Indicators
+1. Percentage of women who report acceptance of domestic violence. Baseline: 68%; Target: 55%.
+2. Percentage of concluding observations of the Committee on the Elimination of Discrimination against Women and the Committee on the
+Rights of the Child incorporated into policies and programmes. Baseline: number of observations in 2012; Target: compliance increased
+by 30%.
+3. Percentage of boys, girls (aged 13-17) who report experiencing violence. Baseline: (to be confirmed in 2013); Target: (to be set in
+2013).
+4. Percentage of boys, girls (aged 13-18) who possess the life skills to be protected from and report all forms of abuses.
+Baseline: (to be confirmed in 2013); Target: 20%.
+Outputs, indicators
+
+Partners and partnership
+frameworks
+
+Output 3.1: Policy environment for advancement of rights and protection of women and Ministries of Education;
+Health; Home and Cultural
+children strengthened.
+Affairs; and Labour and
+Indicators
+Human Resources; National
+1. Percentage of activities in the National Plan of Action for Child Protection implemented. Commission for Women and
+Children; National Statistics
+Baseline: 0%; Target: 40%.
+Bureau; Royal Bhutan Police;
+Royal Court of Justice; Office
+2. Number of assessments conducted on priority child protection issues. Baseline: 0;
+of the Attorney General;
+Target: 4.
+Dratshang; district
+3. Timely quality reporting submitted by the Government to the Committee on the Rights administrations;
+Parliamentarians; youth-led
+of the Child and the Committee on the Elimination of Discrimination against Women.
+groups; media; and NGOs
+Baseline: 3rd periodic report and initial report (on the Optional Protocols) submitted to the
+Committee on the Rights of the Child; Target: 4th periodic report submitted (with UNDP).
+Output 3.3: Boys, men, girls and women have increased awareness and display positive
+attitudes on the prevention and elimination of gender-based violence.
+Indicators
+1. Number of networking groups on gender-based violence with trained counsellors in place
+(with UNDP).
+Baseline: 0; Target: 5.
+
+Resources
+Regular resources:
+$1,020,000
+Other resources:
+$4,510,000
+
+2. Percentage of men and boys engaged as champions to eliminate gender-based violence.
+Baseline: 3%; Target: 15%.
+3. Number of media reports/programmes on gender-based violence. Baseline: 0; Target:
+30.
+4. Number of institutions involved in case reporting on gender-based violence. Baseline: 0;
+Target: 4.
+Output 3.4. Institutions, communities, families and children in a minimum of four
+districts have the knowledge, skills, resources, mechanisms to prevent, respond to
+violence against children.
+Indicators
+1. Number of agencies, including child welfare committees/districts, guided by child
+protection standard operating procedures and guidelines. Baseline: 0; Target: 5.
+2. Percentage of children, families and communities reached by Communication for
+Development strategies to adopt protective practices. Baseline: 0; Target: 20%.
+National priorities: Poverty reduced and MDG-Plus achieved; needs of vulnerable groups addressed; gender-friendly environment created for
+women’s participation.
+Related agency focus area(s): basic education and gender equality; child protection from violence, exploitation and abuse; policy advocacy and
+partnership for children’s rights.
+III. Outcome Four
+Indicator
+1. Percentage of youths/women who report having opportunities to participate in local/national decision -making.
+Baseline (youth): N/A; Target (youth): 20%.
+
+21
+
+22
+
+Outputs, indicators
+
+Partners and partnership
+frameworks
+
+Resources
+
+Output 4.1: Key institutions strengthen systems for effective public finance
+management and integrated monitoring of plans and programmes.
+
+Ministries of Education and
+Health; GNH Commission;
+National Statistics Bureau;
+district administrations;
+National Commission for
+Women and Children; NGOs;
+Youth-led groups;
+Parliamentarians; and media
+
+Regular resources:
+$555,000;
+
+Indicators
+1. Number of government institutions that incorporate gender-responsive planning and
+budgeting.
+Baseline: 0; Target: 70%.
+2. Number of national institutes capable of delivering quality policy research/training.
+Baseline: 0; Target: 1.
+3. Number of offices at the subnational level with personnel trained in BhutanInfo data
+management and use (with UNDP and UNFPA). Baseline: N/A; Target: 205.
+4. Results of the Census 2015 and Bhutan Multiple Indicator Survey 2017 analysed and
+disseminated to policymakers and planners (with UNFPA).
+Baseline: Population and Housing Census of Bhutan 2005; Bhutan Multiple Indicator
+Survey 2010; Target: Results of the Census 2015 and Bhutan Multiple Indicator Survey
+2017 disseminated.
+5. Number of NGOs with the capacity for child-sensitive and equitable programming in
+social protection. Baseline: 0; Target: 3.
+Output 4.3: Women and youth have increased opportunities to participate in political
+leadership at national and local levels.
+Indicators
+1. Number of districts with a minimum of one operational youth-led group.
+Baseline: 10; Target: 18.
+2. Number of recommendations made through youth forums to influence national and
+local development plans (with UNDP).
+Baseline: 2; Target: 5.
+
+Other resources:
+$2,385,000
+
+UNICEF indicative resources for 2014-2018
+Regular resources
+
+Other resources
+
+Total
+
+Outcome 2
+
+2 995 000
+
+14 105 000
+
+17 100 000
+
+Outcome 3
+
+1 020 000
+
+4 510 000
+
+5 530 000
+
+Outcome 4
+
+555 000
+
+2 385 000
+
+2 940 000
+
+4 570 000
+
+21 000 000
+
+25 570 000
+
+Total
+
+23
+
+
